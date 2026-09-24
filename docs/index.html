@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ذكاء إعلانات Meta | تسجيل الدخول</title>
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body class="auth-page">
+  <main class="auth-shell">
+    <section class="auth-visual" aria-label="Meta Ads Intelligence">
+      <div class="brand-mark">MA</div>
+      <p class="eyebrow">WEEKLY INTELLIGENCE</p>
+      <h1>اقرأ حركة السوق قبل أن تتسارع.</h1>
+      <p class="auth-intro">لوحة هادئة لمتابعة إعلانات المنافسين، ومقارنة ما ظهر هذا الأسبوع بما سبقه.</p>
+      <div class="signal-line"><span></span><span></span><span></span><span></span><span></span></div>
+    </section>
+    <section class="auth-panel">
+      <div class="auth-panel-inner">
+        <p class="eyebrow">مساحة الفريق</p>
+        <h2>مرحبًا بعودتك</h2>
+        <p class="muted">سجّل الدخول بحساب Google المسموح له بالوصول إلى اللوحة.</p>
+        <div id="google-button" class="google-button-wrap"></div>
+        <button id="demo-login" class="demo-button" type="button" hidden>الدخول التجريبي المحلي</button>
+        <p id="auth-status" class="status-message" role="status"></p>
+        <p class="auth-note">الوصول هنا مخصص للفريق. لا يتم استخدام Client Secret داخل المتصفح.</p>
+      </div>
+    </section>
+  </main>
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+  <script src="js/auth.js"></script>
+</body>
+</html>

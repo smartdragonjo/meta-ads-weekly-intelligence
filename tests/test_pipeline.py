@@ -32,6 +32,12 @@ class PipelineTest(unittest.TestCase):
             self.assertEqual(sheet["C2"].data_type, "s")
             self.assertEqual(sheet["N2"].value, "جديد في سجلنا")
             self.assertTrue(sheet["K2"].hyperlink)
+            latest = json.loads((root / "docs" / "data" / "latest.json").read_text(encoding="utf-8"))
+            self.assertEqual(latest["scan_date"], "2026-09-24")
+            self.assertEqual(latest["total_ads"], 3)
+            self.assertEqual(latest["total_new_ads"], 3)
+            self.assertEqual({"ad_id", "page_id", "page_name", "comparison_result"} - set(latest["ads"][0]), set())
+            self.assertEqual(latest["competitors"][0]["total_ads"], 3)
 
             second_input = root / "imports" / "2026-10-01"
             second_input.mkdir(parents=True)
@@ -43,6 +49,9 @@ class PipelineTest(unittest.TestCase):
             history = json.loads((root / "archive" / "history.json").read_text(encoding="utf-8"))
             self.assertEqual(set(history), {"100", "200", "300"})
             self.assertNotIn("stopped", history["200"])
+            latest_after_second_scan = json.loads((root / "docs" / "data" / "latest.json").read_text(encoding="utf-8"))
+            self.assertEqual(latest_after_second_scan["total_ads"], 1)
+            self.assertEqual(latest_after_second_scan["total_new_ads"], 0)
 
 
 if __name__ == "__main__":
