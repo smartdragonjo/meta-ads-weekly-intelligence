@@ -36,7 +36,7 @@ python run.py --input imports/2026-09-24 --competitor "اسم المنافس" --
 
 قبل الاستخدام، أضف Google Client ID في `docs/js/auth.js` داخل `GOOGLE_CLIENT_ID`. يمكن تعديل قائمة البريد المسموح مستقبلًا في `ALLOWED_EMAILS` بالملف نفسه. هذا تسجيل دخول كحاجز تجربة استخدام لموقع Static، وليس نظام حماية للبيانات الحساسة، ولا يستخدم Google Client Secret في الواجهة.
 
-للاختبار المحلي فقط، يظهر زر `الدخول التجريبي المحلي` تلقائيًا عند تشغيل الموقع على `localhost` أو `127.0.0.1`. لا يعمل هذا الوضع على GitHub Pages أو أي نطاق آخر، ولا يجب اعتباره حماية أمنية.
+تستخدم الواجهة Firebase Authentication مع Google Sign-In. يجب إضافة نطاق GitHub Pages والنطاق المحلي إلى Authorized domains في Firebase Authentication. قائمة البريد المسموح موجودة في `docs/js/firebase-config.js` ويمكن توسيعها بسهولة.
 
 ## قواعد البيانات والخصوصية
 

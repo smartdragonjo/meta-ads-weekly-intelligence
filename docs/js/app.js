@@ -74,4 +74,4 @@ async function init() {
   document.getElementById("ad-dialog").addEventListener("click", (event) => { if (event.target === event.currentTarget) event.currentTarget.close(); });
 }
 
-document.addEventListener("DOMContentLoaded", init);
+window.addEventListener("firebase-auth-ready", init, { once: true });

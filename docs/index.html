@@ -20,14 +20,12 @@
         <p class="eyebrow">مساحة الفريق</p>
         <h2>مرحبًا بعودتك</h2>
         <p class="muted">سجّل الدخول بحساب Google المسموح له بالوصول إلى اللوحة.</p>
-        <div id="google-button" class="google-button-wrap"></div>
-        <button id="demo-login" class="demo-button" type="button" hidden>الدخول التجريبي المحلي</button>
+        <button id="google-sign-in" class="google-sign-in" type="button">تسجيل الدخول بواسطة Google</button>
         <p id="auth-status" class="status-message" role="status"></p>
         <p class="auth-note">الوصول هنا مخصص للفريق. لا يتم استخدام Client Secret داخل المتصفح.</p>
       </div>
     </section>
   </main>
-  <script src="https://accounts.google.com/gsi/client" async defer></script>
-  <script src="js/auth.js"></script>
+  <script type="module" src="js/auth.js"></script>
 </body>
 </html>
