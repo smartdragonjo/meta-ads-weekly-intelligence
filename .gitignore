@@ -5,10 +5,6 @@ venv/
 .env
 .env.*
 
-imports/*
-!imports/.gitkeep
-!imports/current/
-!imports/current/*.csv
 reports/*
 !reports/.gitkeep
 archive/*
@@ -17,7 +13,9 @@ archive/*
 data/video-analysis-cache.json
 
 *.csv
-!imports/current/*.csv
+!imports/*.csv
+!imports/**/*.csv
+
 *.xlsx
 *.xls
 *.db
