@@ -1,48 +1,49 @@
-# Meta Ads Weekly Intelligence V1
+# Meta Ads Weekly Intelligence
 
-أداة Python بسيطة لقراءة ملفات CSV المصدرة يدويًا من إضافة FB Ad Library Insights، دمجها، إزالة التكرار حسب `ad_id`، مقارنة كل فحص بالسجل التاريخي، وإنشاء تقرير Excel عربي.
+هذا المشروع يقرأ ملفات CSV الأسبوعية من `imports/current/`، يدمجها في تقرير أسبوعي فوري، ويُحدث `docs/data/latest.json` بدون أي تراكم تاريخي. التقرير الحالي يمثل الحالة الكاملة لهذا الأسبوع فقط.
 
-## التثبيت
+## مكان رفع CSV
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
+ضع ملفات CSV الجديدة داخل:
 
-## التشغيل
+`imports/current/`
 
-ضع كل ملفات CSV الخاصة بالفحص داخل مجلد واحد، مثل `imports/2026-09-24`، ثم شغّل:
+كل أسبوع يتم حذف CSV السابق في GitHub ثم رفع CSV الحالي ضمن نفس المجلد. لا يعتمد المشروع على عدد ثابت من الملفات.
+
+## التشغيل الأسبوعي
 
 ```powershell
-python run.py --input imports/2026-09-24
+python -m meta_ads_intelligence.weekly_pipeline --input-dir imports/current --latest-json docs/data/latest.json
 ```
 
-يمكن تمرير بيانات اختيارية للتقرير:
+إذا لم يجد أي CSV في `imports/current/`, يوقف التشغيل دون مسح `latest.json` الحالي.
 
-```powershell
-python run.py --input imports/2026-09-24 --competitor "اسم المنافس" --page-id "123456789"
-```
+## Dashboard Read-only
 
-ينتج التقرير في `reports/إعلانات_المنافسين_YYYY-MM-DD.xlsx`، ويُحفظ السجل في `archive/history.json`.
+الواجهة الحالية داخل `docs/` تبقى للقراءة فقط. لا توجد Upload أو File input أو أي إدخال مستخدم لتعديل البيانات. كل رفع CSV يتم من GitHub فقط، والتشغيل الخارجي لـ Cloud Run من GitHub Actions فقط.
 
-ينتج كل تشغيل ناجح أيضًا بيانات اللوحة في `docs/data/latest.json`. واجهة GitHub Pages تقرأ هذا الملف فقط؛ لا يتم نشر ملفات CSV أو Excel.
+## تحليل الفيديو
 
-## GitHub Pages
+إذا كانت إعلانات الفيديو الجديدة غير موجودة في `data/video-analysis-cache.json`, يمكن إرسال دفعة واحدة إلى Cloud Run Job `competitors-report` عبر GitHub Actions. لا يتم إنشاء Job جديد، ولا يتم استخدام أي AI API جديد داخل هذا المستودع.
 
-لتفعيل الواجهة من GitHub:
+## متغيرات GitHub / Google Cloud
 
-`Settings → Pages → Deploy from a branch → main → /docs`
+إعدادات Google Cloud التي يمكن تكوينها عبر Repository Variables / Secrets:
 
-قبل الاستخدام، أضف Google Client ID في `docs/js/auth.js` داخل `GOOGLE_CLIENT_ID`. يمكن تعديل قائمة البريد المسموح مستقبلًا في `ALLOWED_EMAILS` بالملف نفسه. هذا تسجيل دخول كحاجز تجربة استخدام لموقع Static، وليس نظام حماية للبيانات الحساسة، ولا يستخدم Google Client Secret في الواجهة.
+- `CLOUD_RUN_PROCESSING_ENABLED`
+- `GCP_PROJECT_ID`
+- `GCP_REGION`
+- `CLOUD_RUN_JOB_NAME` (افتراضي `competitors-report`)
+- `FIRESTORE_PROJECT_ID`
+- `META_ADS_RESULT_COLLECTION` (افتراضي `meta_ads_processing_results`)
+- `GCP_WORKLOAD_IDENTITY_PROVIDER`
+- `GCP_SERVICE_ACCOUNT`
 
-تستخدم الواجهة Firebase Authentication مع Google Sign-In. يجب إضافة نطاق GitHub Pages والنطاق المحلي إلى Authorized domains في Firebase Authentication. قائمة البريد المسموح موجودة في `docs/js/firebase-config.js` ويمكن توسيعها بسهولة.
+لا يتم تخزين أي Secret داخل `docs/` أو `latest.json`.
 
-## قواعد البيانات والخصوصية
+## Firebase Authentication
 
-المجلدات `imports/` و`reports/` و`archive/` مستثناة من Git. كما يتم تجاهل ملفات CSV وExcel وقواعد البيانات وملفات `.env`. لا تضع بيانات حساسة في المستودع.
-
-السجل يتتبع `first_seen` و`last_seen` و`times_seen` لكل إعلان. غياب إعلان من عينة لاحقة لا يغيّر السجل ولا يُصنّف الإعلان على أنه متوقف؛ البيانات عينة وليست دليلًا على التوقف.
+واجهة GitHub Pages لا تتغير في منطق Firebase Authentication. قائمة المستخدمين المسموحين تبقى داخل `docs/js/firebase-config.js` ضمن `ALLOWED_EMAILS`, وتُدار كما كان سابقًا.
 
 ## الاختبارات
 

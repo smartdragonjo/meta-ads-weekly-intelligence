@@ -7,12 +7,17 @@ venv/
 
 imports/*
 !imports/.gitkeep
+!imports/current/
+!imports/current/*.csv
 reports/*
 !reports/.gitkeep
 archive/*
 !archive/.gitkeep
 
+data/video-analysis-cache.json
+
 *.csv
+!imports/current/*.csv
 *.xlsx
 *.xls
 *.db

@@ -13,22 +13,29 @@
       <div class="topbar-actions"><span id="user-email" class="user-email"></span><button id="sign-out" class="text-button" type="button">تسجيل الخروج</button></div>
     </header>
     <main class="dashboard-main">
-      <section class="dashboard-heading"><div><p class="eyebrow">WEEKLY INTELLIGENCE / META ADS</p><h1>نبض المنافسة</h1><p class="muted">صورة مركزة لآخر فحص متاح، دون افتراضات عن الإعلانات الغائبة.</p></div><div class="scan-badge"><span class="live-dot"></span><span>آخر فحص</span><strong id="scan-date">—</strong></div></section>
+      <section class="dashboard-heading">
+        <div>
+          <p class="eyebrow">WEEKLY INTELLIGENCE / META ADS</p>
+          <h1>نبض المنافسة</h1>
+          <p class="muted">ملف أسبوعي فوري من إعلانات المنافسين، دون تراكم أو مقارنة تاريخية.</p>
+        </div>
+        <div class="scan-badge"><span class="live-dot"></span><span>آخر فحص</span><strong id="scan-date">—</strong></div>
+      </section>
       <section class="metrics-grid" aria-label="مؤشرات الفحص">
-        <article class="metric-card accent"><span>إجمالي الإعلانات</span><strong id="total-ads">—</strong><small>في آخر عينة</small></article>
-        <article class="metric-card"><span>الإعلانات الجديدة</span><strong id="new-ads">—</strong><small>جديد في سجلنا</small></article>
+        <article class="metric-card accent"><span>إجمالي الإعلانات</span><strong id="total-ads">—</strong><small>في هذا الأسبوع</small></article>
+        <article class="metric-card"><span>إعلانات الفيديو</span><strong id="video-ads">—</strong><small>مع روابط فيديو</small></article>
+        <article class="metric-card"><span>فيديوهات محللة</span><strong id="analyzed-video">—</strong><small>تحليل Cloud Run</small></article>
         <article class="metric-card"><span>عدد المنافسين</span><strong id="competitor-count">—</strong><small>صفحات في الفحص</small></article>
-        <article class="metric-card"><span>تاريخ آخر فحص</span><strong id="last-scan">—</strong><small>مصدر البيانات الحالي</small></article>
       </section>
       <section class="toolbar-section">
         <div class="section-heading"><div><p class="eyebrow">EXPLORE</p><h2>الإعلانات</h2></div><span id="results-count" class="results-count"></span></div>
         <div class="filters" role="group" aria-label="فلاتر الإعلانات">
           <label>المنافس<select id="competitor-filter"><option value="">كل المنافسين</option></select></label>
-          <label>الحالة<select id="status-filter"><option value="">الكل</option><option value="new">جديد</option><option value="existing">موجود سابقًا</option></select></label>
           <label>النوع<select id="type-filter"><option value="">كل الأنواع</option><option value="video">Video</option><option value="image">Image</option><option value="carousel">Carousel</option></select></label>
           <label>المنصة<select id="platform-filter"><option value="">كل المنصات</option></select></label>
+          <label class="mobile-hidden"> </label>
         </div>
-        <div class="table-wrap"><table><thead><tr><th>المنافس</th><th>Ad ID</th><th>بداية الإعلان</th><th>الحالة</th><th>النوع</th><th>المنصات</th><th>CTA</th><th>المقارنة</th><th>روابط</th></tr></thead><tbody id="ads-table-body"></tbody></table><div id="empty-state" class="empty-state" hidden>لا توجد إعلانات تطابق الفلاتر الحالية.</div></div>
+        <div class="table-wrap"><table class="desktop-table"><thead><tr><th>المنافس</th><th>Ad ID</th><th>تاريخ الإعلان</th><th>النوع</th><th>المنصات</th><th>CTA</th><th>Caption</th><th>روابط</th></tr></thead><tbody id="ads-table-body"></tbody></table><div id="mobile-ads" class="mobile-ads"></div><div id="empty-state" class="empty-state" hidden>لا توجد إعلانات تطابق الفلاتر الحالية.</div></div>
       </section>
       <section class="competitors-section"><div class="section-heading"><div><p class="eyebrow">BY COMPETITOR</p><h2>ملخص المنافسين</h2></div></div><div id="competitors-grid" class="competitors-grid"></div></section>
     </main>
