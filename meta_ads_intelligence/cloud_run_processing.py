@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import json
-import os
 import subprocess
 from pathlib import Path
 from typing import Any
@@ -33,13 +32,13 @@ def save_video_analysis_cache(cache: dict[str, dict[str, Any]], path: str | Path
 
 
 def _clean_text(value: Any) -> str:
-    text = "" if value is None or pd.isna(value) else str(value)
     if isinstance(value, list):
-        text = "\n".join(_clean_text(item) for item in value if _clean_text(item))
+        return "\n".join(_clean_text(item) for item in value if _clean_text(item))
     elif isinstance(value, dict):
-        text = "\n".join(
+        return "\n".join(
             _clean_text(item) for item in value.values() if isinstance(item, (str, int, float, bool, list, dict))
         )
+    text = "" if value is None or pd.isna(value) else str(value)
     return text.strip()
 
 
@@ -74,8 +73,8 @@ def _extract_ad_body(value: Any) -> str:
 def build_processing_batch(ads: pd.DataFrame, cache: dict[str, dict[str, Any]]) -> dict[str, Any]:
     items: list[dict[str, str]] = []
     for _, row in ads.iterrows():
-        ad_id = str(row.get("ad_id", "") or "").strip()
-        video_url = str(row.get("video_url") or row.get("video_link") or "").strip()
+        ad_id = _clean_text(row.get("ad_id"))
+        video_url = _clean_text(row.get("video_url")) or _clean_text(row.get("video_link"))
         if not ad_id or not video_url:
             continue
         cached = cache.get(ad_id)
@@ -92,6 +91,18 @@ def build_processing_batch(ads: pd.DataFrame, cache: dict[str, dict[str, Any]]) 
     return {"source": "meta_ads", "items": items}
 
 
+def apply_cached_analyses(ads: pd.DataFrame, cache: dict[str, dict[str, Any]]) -> pd.DataFrame:
+    result = ads.copy()
+    result["analysis_status"] = ""
+    result["video_analysis"] = pd.Series([None] * len(result), index=result.index, dtype="object")
+    for index, row in result.iterrows():
+        cached = cache.get(_clean_text(row.get("ad_id")))
+        if isinstance(cached, dict) and cached.get("status") == "success":
+            result.at[index, "analysis_status"] = "success"
+            result.at[index, "video_analysis"] = cached.get("analysis", cached.get("video_analysis"))
+    return result
+
+
 def execute_cloud_run_job(
     *,
     job_name: str,
@@ -104,14 +115,17 @@ def execute_cloud_run_job(
 ) -> Any:
     if not enabled:
         return None
+    if job_name != "competitors-report":
+        raise ValueError("Only competitors-report is supported")
+    if not project_id or not region:
+        raise ValueError("Cloud Run project and region are required")
 
     env_vars = [
         "PROCESSING_SOURCE=meta_ads",
         f"META_ADS_INPUT_URL={processing_url}",
         f"META_ADS_RUN_ID={run_id}",
     ]
-    if result_collection:
-        env_vars.append(f"META_ADS_RESULT_COLLECTION={result_collection}")
+    env_vars.append(f"META_ADS_RESULT_COLLECTION={result_collection or DEFAULT_RESULT_COLLECTION}")
 
     command = [
         "gcloud",
@@ -129,7 +143,7 @@ def execute_cloud_run_job(
     ]
     result = subprocess.run(command, capture_output=True, text=True, check=False)
     if result.returncode != 0:
-        raise RuntimeError(f"Cloud Run execution failed: {result.stderr.strip() or result.stdout.strip() or 'unknown error'}")
+        raise RuntimeError("Cloud Run execution failed")
     return result
 
 
@@ -143,10 +157,14 @@ def fetch_firestore_result(*, project_id: str, run_id: str, result_collection: s
     document = client.collection(result_collection).document(run_id).get()
     if not document.exists:
         return None
-    return document.to_dict() or {}
+    return parse_firestore_payload(document.to_dict() or {}, run_id)
 
 
-def merge_firestore_results(ads: pd.DataFrame, payload: dict[str, Any], run_id: str) -> pd.DataFrame:
+def parse_firestore_payload(payload: dict[str, Any], run_id: str) -> dict[str, Any]:
+    if isinstance(payload, dict) and "payload_json" in payload:
+        payload = payload["payload_json"]
+        if isinstance(payload, str):
+            payload = json.loads(payload)
     if not isinstance(payload, dict):
         raise ValueError("Firestore payload must be a dictionary")
     if payload.get("source") != "meta_ads":
@@ -155,24 +173,38 @@ def merge_firestore_results(ads: pd.DataFrame, payload: dict[str, Any], run_id: 
         raise ValueError("Firestore payload run_id does not match the current execution")
     if payload.get("status") != "completed":
         raise ValueError("Firestore payload status is not completed")
+    if not isinstance(payload.get("items"), list):
+        raise ValueError("Firestore payload items must be a list")
+    return payload
+
+
+def merge_firestore_results(ads: pd.DataFrame, payload: dict[str, Any], run_id: str) -> pd.DataFrame:
+    payload = parse_firestore_payload(payload, run_id)
 
     merged = ads.copy()
-    merged["analysis_status"] = ""
-    merged["video_analysis"] = pd.Series([None] * len(merged), index=merged.index, dtype="object")
+    if "analysis_status" not in merged:
+        merged["analysis_status"] = ""
+    if "video_analysis" not in merged:
+        merged["video_analysis"] = pd.Series([None] * len(merged), index=merged.index, dtype="object")
 
     for item in payload.get("items") or []:
+        if not isinstance(item, dict):
+            continue
         ad_id = str(item.get("ad_id") or "").strip()
         if not ad_id:
             continue
-        mask = merged["ad_id"].astype(str).str.strip() == ad_id
+        mask = (merged["ad_id"].astype(str).str.strip() == ad_id) & merged["analysis_status"].ne("success")
         if not mask.any():
             continue
         analysis_status = str(item.get("analysis_status") or "")
-        merged.loc[mask, "analysis_status"] = analysis_status
-        if "video_analysis" in item and isinstance(item.get("video_analysis"), dict):
-            merged.loc[mask, "video_analysis"] = [item.get("video_analysis")] * int(mask.sum())
-        elif analysis_status:
-            merged.loc[mask, "video_analysis"] = [None] * int(mask.sum())
+        if analysis_status not in {"success", "failed"}:
+            continue
+        analysis = item.get("video_analysis")
+        if analysis_status == "success" and not isinstance(analysis, dict):
+            analysis_status = "failed"
+        for index in merged.index[mask]:
+            merged.at[index, "analysis_status"] = analysis_status
+            merged.at[index, "video_analysis"] = analysis if analysis_status == "success" else None
 
     return merged
 

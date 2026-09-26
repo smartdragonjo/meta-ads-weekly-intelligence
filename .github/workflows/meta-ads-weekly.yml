@@ -1,0 +1,96 @@
+name: Meta Ads weekly intelligence
+
+on:
+  push:
+    branches: [main]
+    paths: ['imports/current/**/*.csv']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: meta-ads-weekly
+  cancel-in-progress: false
+
+jobs:
+  weekly:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    env:
+      CLOUD_RUN_PROCESSING_ENABLED: ${{ vars.CLOUD_RUN_PROCESSING_ENABLED || secrets.CLOUD_RUN_PROCESSING_ENABLED || 'false' }}
+      GCP_PROJECT_ID: ${{ vars.GCP_PROJECT_ID || secrets.GCP_PROJECT_ID }}
+      GCP_REGION: ${{ vars.GCP_REGION || secrets.GCP_REGION }}
+      CLOUD_RUN_JOB_NAME: ${{ vars.CLOUD_RUN_JOB_NAME || secrets.CLOUD_RUN_JOB_NAME || 'competitors-report' }}
+      FIRESTORE_PROJECT_ID: ${{ vars.FIRESTORE_PROJECT_ID || secrets.FIRESTORE_PROJECT_ID }}
+      META_ADS_RESULT_COLLECTION: ${{ vars.META_ADS_RESULT_COLLECTION || secrets.META_ADS_RESULT_COLLECTION || 'meta_ads_processing_results' }}
+      GCP_WORKLOAD_IDENTITY_PROVIDER: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER || secrets.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+      GCP_SERVICE_ACCOUNT: ${{ vars.GCP_SERVICE_ACCOUNT || secrets.GCP_SERVICE_ACCOUNT }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Prepare current weekly batch
+        id: prepare
+        run: python -m meta_ads_intelligence.weekly_pipeline --prepare-only
+
+      - name: Publish batch and pin input URL to commit
+        id: publish
+        if: steps.prepare.outputs.has_batch == 'true'
+        continue-on-error: true
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- docs/data/processing_input.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Meta Ads processing input'
+          fi
+          git push origin HEAD:main
+          sha=$(git rev-parse HEAD)
+          echo "input_url=https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${sha}/docs/data/processing_input.json" >> "$GITHUB_OUTPUT"
+
+      - name: Authenticate Google Cloud
+        id: auth
+        if: >-
+          steps.prepare.outputs.has_batch == 'true' &&
+          steps.publish.outcome == 'success' &&
+          env.CLOUD_RUN_PROCESSING_ENABLED == 'true' &&
+          env.GCP_PROJECT_ID != '' && env.GCP_REGION != '' &&
+          env.GCP_WORKLOAD_IDENTITY_PROVIDER != '' && env.GCP_SERVICE_ACCOUNT != ''
+        continue-on-error: true
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: ${{ env.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ env.GCP_SERVICE_ACCOUNT }}
+      - name: Set up gcloud
+        id: gcloud
+        if: steps.auth.outcome == 'success'
+        continue-on-error: true
+        uses: google-github-actions/setup-gcloud@v3
+
+      - name: Process once and build current weekly report
+        env:
+          CLOUD_RUN_PROCESSING_ENABLED: ${{ steps.gcloud.outcome == 'success' && steps.publish.outcome == 'success' && 'true' || 'false' }}
+          META_ADS_INPUT_URL: ${{ steps.publish.outputs.input_url }}
+          META_ADS_RUN_ID: meta-ads-${{ github.run_id }}-${{ github.run_attempt }}
+        run: python -m meta_ads_intelligence.weekly_pipeline
+
+      - name: Commit weekly report and cache if changed
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- docs/data/latest.json data/video-analysis-cache.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update Meta Ads weekly intelligence'
+            git push origin HEAD:main
+          fi

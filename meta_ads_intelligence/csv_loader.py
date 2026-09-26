@@ -147,16 +147,11 @@ def _canonicalize_columns(frame: pd.DataFrame) -> pd.DataFrame:
     if "image_link" not in frame.columns:
         frame["image_link"] = ""
 
-    has_explicit_media_type = bool(media_type.astype(str).str.strip().ne("").any())
-    if not has_explicit_media_type:
-        frame["video_link"] = media_urls
-        frame["image_link"] = ""
-    else:
-        frame.loc[media_type.str.contains("video", na=False), "video_link"] = media_urls
-        frame.loc[media_type.str.contains("image|photo", na=False), "image_link"] = media_urls
-
-    if "video_link" in frame and "media_urls" in frame.columns and frame["video_link"].astype(str).eq("").all():
-        frame["video_link"] = media_urls
+    # Fill missing links per row; never overwrite explicit video/image URLs.
+    video_rows = media_type.str.contains("video", na=False) | media_type.str.strip().eq("")
+    image_rows = media_type.str.contains("image|photo", na=False)
+    frame.loc[video_rows & frame["video_link"].eq(""), "video_link"] = media_urls
+    frame.loc[image_rows & frame["image_link"].eq(""), "image_link"] = media_urls
 
     if "ad_body" in frame and "ad_text" not in frame:
         frame["ad_text"] = frame["ad_body"]
@@ -192,4 +187,7 @@ def load_ads(input_dir: Path) -> pd.DataFrame:
     ads = ads[ads["ad_id"] != ""].copy()
     if ads.empty:
         raise ValueError("CSV files do not contain any non-empty ad_id values")
-    return ads.drop_duplicates(subset=["ad_id"], keep="last").reset_index(drop=True)
+    ads = ads.drop_duplicates(subset=["ad_id"], keep="last").reset_index(drop=True)
+    # The legacy Excel/history pipeline still consumes ad_text.
+    ads["ad_text"] = ads["ad_body"]
+    return ads

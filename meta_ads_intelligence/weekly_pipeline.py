@@ -1,14 +1,18 @@
 from __future__ import annotations
 
 import json
+import logging
+import os
 from datetime import date
 from pathlib import Path
 from typing import Any
+from uuid import uuid4
 
 import pandas as pd
 
 from .cloud_run_processing import (
     DEFAULT_CACHE_PATH,
+    apply_cached_analyses,
     build_processing_batch,
     execute_cloud_run_job,
     fetch_firestore_result,
@@ -64,8 +68,8 @@ def load_weekly_ads(input_dir: str | Path) -> pd.DataFrame:
 
 
 def build_weekly_latest_json(
-    input_dir: str | Path,
-    output_path: str | Path,
+    input_dir: str | Path = "imports/current",
+    output_path: str | Path = "docs/data/latest.json",
     scan_date: str | None = None,
     ads: pd.DataFrame | None = None,
 ) -> dict[str, Any]:
@@ -106,7 +110,7 @@ def build_weekly_latest_json(
                 row.get("analysis_status", "")
             )
 
-        if row.get("video_analysis") is not None:
+        if isinstance(row.get("video_analysis"), dict):
             record["video_analysis"] = row.get("video_analysis")
 
         records.append(record)
@@ -170,6 +174,7 @@ def build_weekly_latest_json(
         json.dumps(
             payload,
             ensure_ascii=False,
+            allow_nan=False,
             indent=2,
         ),
         encoding="utf-8",
@@ -199,7 +204,7 @@ def write_processing_input(
 
 def run_weekly_pipeline(
     *,
-    input_dir: str | Path,
+    input_dir: str | Path = "imports/current",
     latest_json_path: str | Path = "docs/data/latest.json",
     processing_input_path: str | Path = DEFAULT_PROCESSING_INPUT_PATH,
     cache_path: str | Path = DEFAULT_CACHE_PATH,
@@ -211,6 +216,8 @@ def run_weekly_pipeline(
     result_collection: str | None = None,
     cloud_run_enabled: bool = False,
     processing_url: str | None = None,
+    run_id: str | None = None,
+    prepare_only: bool = False,
 ) -> dict[str, Any]:
     ads = load_weekly_ads(input_dir)
 
@@ -218,55 +225,47 @@ def run_weekly_pipeline(
         raise ValueError("No weekly CSV data was found")
 
     cache = load_video_analysis_cache(cache_path)
+    ads = apply_cached_analyses(ads, cache)
     batch = build_processing_batch(ads, cache)
+    if batch["items"]:
+        write_processing_input(batch, processing_input_path)
+    if prepare_only:
+        return batch
 
     if batch["items"] and cloud_run_enabled and processing_url:
-        write_processing_input(
-            batch,
-            processing_input_path,
-        )
-
-        run_id = (
-            f"meta-ads-"
-            f"{scan_date or date.today().isoformat()}-"
-            f"{abs(hash(processing_url))}"
-        )
-
-        execute_cloud_run_job(
-            job_name=cloud_run_job_name or "competitors-report",
-            region=gcp_region or "",
-            project_id=gcp_project_id or "",
-            run_id=run_id,
-            processing_url=processing_url,
-            enabled=True,
-            result_collection=result_collection,
-        )
-
-        payload = fetch_firestore_result(
-            project_id=firestore_project_id or gcp_project_id or "",
-            run_id=run_id,
-            result_collection=(
-                result_collection
-                or "meta_ads_processing_results"
-            ),
-        )
-
-        if payload:
-            ads = merge_firestore_results(
-                ads,
-                payload,
-                run_id,
+        run_id = run_id or f"meta-ads-{uuid4().hex}"
+        try:
+            execute_cloud_run_job(
+                job_name=cloud_run_job_name or "competitors-report",
+                region=gcp_region or "",
+                project_id=gcp_project_id or "",
+                run_id=run_id,
+                processing_url=processing_url,
+                enabled=True,
+                result_collection=result_collection,
             )
-
-            cache = update_video_analysis_cache(
-                cache,
-                ads,
+            payload = fetch_firestore_result(
+                project_id=firestore_project_id or gcp_project_id or "",
+                run_id=run_id,
+                result_collection=result_collection or "meta_ads_processing_results",
             )
+            if payload is None:
+                raise ValueError("Firestore result is missing")
+            ads = merge_firestore_results(ads, payload, run_id)
+            # Missing/invalid individual results must not erase successful ones.
+            pending_ids = {item["ad_id"] for item in batch["items"]}
+            missing = ads["ad_id"].isin(pending_ids) & ads["analysis_status"].eq("")
+            ads.loc[missing, "analysis_status"] = "failed"
+        except Exception as exc:
+            # Video analysis is optional. Never copy SDK errors/credentials into JSON.
+            logging.warning("Video analysis unavailable (%s); building current CSV report", type(exc).__name__)
+            pending_ids = {item["ad_id"] for item in batch["items"]}
+            ads.loc[ads["ad_id"].isin(pending_ids), "analysis_status"] = "failed"
+    elif batch["items"]:
+        logging.warning("Video analysis disabled or input URL unavailable; building current CSV report")
 
-            save_video_analysis_cache(
-                cache,
-                cache_path,
-            )
+    cache = update_video_analysis_cache(cache, ads)
+    save_video_analysis_cache(cache, cache_path)
 
     latest = build_weekly_latest_json(
         input_dir,
@@ -287,7 +286,7 @@ def main() -> None:
 
     parser.add_argument(
         "--input-dir",
-        default="imports",
+        default="imports/current",
         type=Path,
     )
 
@@ -308,14 +307,36 @@ def main() -> None:
         type=Path,
     )
 
+    parser.add_argument("--processing-input", type=Path, default=DEFAULT_PROCESSING_INPUT_PATH)
+    parser.add_argument("--prepare-only", action="store_true", help="Prepare the batch without executing Cloud Run or replacing latest.json")
+    parser.add_argument("--processing-url", default=os.getenv("META_ADS_INPUT_URL"))
+    parser.add_argument("--run-id", default=os.getenv("META_ADS_RUN_ID"))
     args = parser.parse_args()
 
     try:
-        build_weekly_latest_json(
-            args.input_dir,
-            args.latest_json,
+        result = run_weekly_pipeline(
+            input_dir=args.input_dir,
+            latest_json_path=args.latest_json,
             scan_date=args.scan_date,
+            cache_path=args.cache_path,
+            processing_input_path=args.processing_input,
+            prepare_only=args.prepare_only,
+            processing_url=args.processing_url,
+            run_id=args.run_id,
+            cloud_run_enabled=os.getenv("CLOUD_RUN_PROCESSING_ENABLED", "false").lower() == "true",
+            gcp_project_id=os.getenv("GCP_PROJECT_ID"),
+            gcp_region=os.getenv("GCP_REGION"),
+            cloud_run_job_name=os.getenv("CLOUD_RUN_JOB_NAME"),
+            firestore_project_id=os.getenv("FIRESTORE_PROJECT_ID"),
+            result_collection=os.getenv("META_ADS_RESULT_COLLECTION"),
         )
+        if args.prepare_only:
+            has_batch = str(bool(result["items"])).lower()
+            if os.getenv("GITHUB_OUTPUT"):
+                with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+                    output.write(f"has_batch={has_batch}\n")
+            print(f"Prepared weekly batch: {len(result['items'])} videos")
+            return
 
         print(
             f"Created weekly report for "
@@ -327,9 +348,11 @@ def main() -> None:
             f"No CSV files were found in {args.input_dir}. "
             f"Weekly processing stopped without changing latest.json."
         )
+        raise SystemExit(1)
 
     except ValueError as exc:
         print(str(exc))
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

@@ -10,11 +10,13 @@ reports/*
 archive/*
 !archive/.gitkeep
 
-data/video-analysis-cache.json
+gha-creds-*.json
+*service-account*.json
+credentials.json
 
 *.csv
-!imports/*.csv
-!imports/**/*.csv
+!imports/current/
+!imports/current/*.csv
 
 *.xlsx
 *.xls
