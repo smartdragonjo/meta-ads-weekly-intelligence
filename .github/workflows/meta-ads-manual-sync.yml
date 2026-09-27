@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  INPUT_DIR: imports
+  INPUT_DIR: imports/current
   LATEST_JSON: docs/data/latest.json
   PROCESSING_INPUT: docs/data/processing_input.json
   CACHE_PATH: data/video-analysis-cache.json
