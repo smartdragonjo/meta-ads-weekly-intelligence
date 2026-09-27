@@ -56,7 +56,7 @@ jobs:
 
       - name: Setup gcloud
         uses: google-github-actions/setup-gcloud@v3
-        with:
+        with:git 
           project_id: ${{ env.GCP_PROJECT_ID }}
 
       # ------------------------------------------------------------
