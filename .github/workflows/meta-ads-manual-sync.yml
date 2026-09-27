@@ -1,0 +1,257 @@
+name: Meta Ads Manual Sync
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: meta-ads-manual-sync
+  cancel-in-progress: false
+
+env:
+  INPUT_DIR: imports
+  LATEST_JSON: docs/data/latest.json
+  PROCESSING_INPUT: docs/data/processing_input.json
+  CACHE_PATH: data/video-analysis-cache.json
+
+  GCP_PROJECT_ID: ${{ vars.GCP_PROJECT_ID }}
+  GCP_REGION: ${{ vars.GCP_REGION }}
+
+  CLOUD_RUN_JOB_NAME: ${{ vars.CLOUD_RUN_JOB_NAME || 'competitors-report' }}
+
+  FIRESTORE_PROJECT_ID: ${{ vars.FIRESTORE_PROJECT_ID || vars.GCP_PROJECT_ID }}
+
+  META_ADS_RESULT_COLLECTION: ${{ vars.META_ADS_RESULT_COLLECTION || 'meta_ads_processing_results' }}
+
+jobs:
+  sync:
+    name: Sync Meta Ads
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install google-cloud-firestore
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WORKLOAD_IDENTITY_PROVIDER || vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ secrets.GCP_SERVICE_ACCOUNT || vars.GCP_SERVICE_ACCOUNT }}
+
+      - name: Setup gcloud
+        uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ env.GCP_PROJECT_ID }}
+
+      # ------------------------------------------------------------
+      # 1. اقرأ CSV الحالية وابنِ processing_input.json
+      #    بدون تشغيل Cloud Run حتى يتم رفع JSON إلى GitHub أولاً.
+      # ------------------------------------------------------------
+      - name: Build Meta Ads processing batch
+        id: prepare
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+
+          from meta_ads_intelligence.weekly_pipeline import load_weekly_ads
+          from meta_ads_intelligence.cloud_run_processing import (
+              DEFAULT_CACHE_PATH,
+              build_processing_batch,
+              load_video_analysis_cache,
+          )
+
+          input_dir = Path(os.environ["INPUT_DIR"])
+          output_path = Path(os.environ["PROCESSING_INPUT"])
+          cache_path = Path(os.environ["CACHE_PATH"])
+
+          ads = load_weekly_ads(input_dir)
+
+          if cache_path.exists():
+              cache = load_video_analysis_cache(cache_path)
+          else:
+              cache = {}
+
+          batch = build_processing_batch(ads, cache)
+
+          output_path.parent.mkdir(parents=True, exist_ok=True)
+
+          output_path.write_text(
+              json.dumps(
+                  batch,
+                  ensure_ascii=False,
+                  indent=2,
+              ),
+              encoding="utf-8",
+          )
+
+          items = batch.get("items") or []
+          batch_count = len(items)
+
+          print(f"Meta Ads videos requiring processing: {batch_count}")
+          print(f"Processing input written to: {output_path}")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+              fh.write(f"batch_count={batch_count}\n")
+          PY
+
+      # ------------------------------------------------------------
+      # 2. Cloud Run يحتاج رابطًا عامًا للـ JSON.
+      #    لذلك نرفع processing_input.json أولاً.
+      # ------------------------------------------------------------
+      - name: Publish processing input
+        id: commit_input
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "${PROCESSING_INPUT}"
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Meta Ads processing input"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          else
+            echo "processing_input.json unchanged"
+          fi
+
+          CURRENT_SHA="$(git rev-parse HEAD)"
+          echo "sha=${CURRENT_SHA}" >> "$GITHUB_OUTPUT"
+
+          echo "Processing input commit: ${CURRENT_SHA}"
+
+      # ------------------------------------------------------------
+      # 3. شغّل الـWeekly Pipeline الحقيقي.
+      #
+      #    مهم:
+      #    نستدعي run_weekly_pipeline() مباشرة لأن هذا هو المسار
+      #    المسؤول عن Cloud Run + Firestore + Cache.
+      # ------------------------------------------------------------
+      - name: Run Meta Ads weekly pipeline
+        shell: bash
+        env:
+          BATCH_COUNT: ${{ steps.prepare.outputs.batch_count }}
+
+          PROCESSING_URL: >-
+            https://raw.githubusercontent.com/${{ github.repository }}/${{ steps.commit_input.outputs.sha }}/docs/data/processing_input.json
+
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import date
+          from pathlib import Path
+
+          from meta_ads_intelligence.weekly_pipeline import run_weekly_pipeline
+
+          batch_count = int(os.environ.get("BATCH_COUNT", "0") or "0")
+
+          cloud_run_enabled = batch_count > 0
+
+          processing_url = (
+              os.environ.get("PROCESSING_URL")
+              if cloud_run_enabled
+              else None
+          )
+
+          print(f"Batch count: {batch_count}")
+          print(f"Cloud Run enabled: {cloud_run_enabled}")
+
+          if processing_url:
+              print(f"Processing URL: {processing_url}")
+          else:
+              print("No new video processing required.")
+
+          result = run_weekly_pipeline(
+              input_dir=Path(os.environ["INPUT_DIR"]),
+              latest_json_path=Path(os.environ["LATEST_JSON"]),
+              processing_input_path=Path(os.environ["PROCESSING_INPUT"]),
+              cache_path=Path(os.environ["CACHE_PATH"]),
+              scan_date=date.today().isoformat(),
+
+              gcp_project_id=os.environ.get("GCP_PROJECT_ID") or None,
+              gcp_region=os.environ.get("GCP_REGION") or None,
+
+              cloud_run_job_name=(
+                  os.environ.get("CLOUD_RUN_JOB_NAME")
+                  or "competitors-report"
+              ),
+
+              firestore_project_id=(
+                  os.environ.get("FIRESTORE_PROJECT_ID")
+                  or os.environ.get("GCP_PROJECT_ID")
+              ),
+
+              result_collection=(
+                  os.environ.get("META_ADS_RESULT_COLLECTION")
+                  or "meta_ads_processing_results"
+              ),
+
+              cloud_run_enabled=cloud_run_enabled,
+              processing_url=processing_url,
+          )
+
+          print()
+          print("Weekly pipeline completed.")
+          print(
+              json.dumps(
+                  result,
+                  ensure_ascii=False,
+                  indent=2,
+                  default=str,
+              )
+          )
+          PY
+
+      # ------------------------------------------------------------
+      # 4. احفظ latest.json والـCache الناتج عن التحليل.
+      # ------------------------------------------------------------
+      - name: Publish weekly intelligence
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "${LATEST_JSON}"
+          git add "${PROCESSING_INPUT}"
+
+          if [ -f "${CACHE_PATH}" ]; then
+            git add "${CACHE_PATH}"
+          fi
+
+          if git diff --cached --quiet; then
+            echo "No weekly intelligence changes to publish."
+            exit 0
+          fi
+
+          git commit -m "Update Meta Ads weekly intelligence"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Sync summary
+        shell: bash
+        run: |
+          echo "========================================"
+          echo "Meta Ads manual sync completed"
+          echo "========================================"
+          echo "Videos sent for processing: ${{ steps.prepare.outputs.batch_count }}"
+          echo "Cloud Run Job: ${CLOUD_RUN_JOB_NAME}"
+          echo "Latest JSON: ${LATEST_JSON}"
+          echo "========================================"
