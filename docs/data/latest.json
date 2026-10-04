@@ -2,7 +2,7 @@
   "scan_date": "2026-10-04",
   "total_ads": 44,
   "total_video_ads": 41,
-  "analyzed_video_ads": 30,
+  "analyzed_video_ads": 31,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -594,11 +594,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى الترويجي، إليك تحليل الفيديو وفق الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"تب علي.. تب على إيش؟ على الشغل المنيح، طبعاً هي للـ\"كامري\" هذيك. معلم قرب شوف، القماش الأصلية. عامل عليها عرض سعر لمدة 3 أيام، لحالك، اعمل خصم لحالك 30%. إيش ما تكون نوع سيارتك، كبيرة صغيرة، فاتحة مش فاتحة، إيش ما بدك، عامل خصم 30%، ضلك ترقبني بكل جديد. أهلاً وسهلاً فيكم لـ \"تترلا لي زينا\" لصور السيارات، شارع الجامعة. سلام.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **الرسالة الجوهرية:** يقدم الفيديو عرضاً ترويجياً مباشراً وقوياً بخصم 30% على خدمات تنجيد (أو إصلاح) سقف السيارات، مع التأكيد على جودة الخامات المستخدمة.\n*   **عامل الجذب (Call to Action):** التركيز على عنصر \"الندرة\" و\"الاستعجال\" من خلال تحديد فترة زمنية قصيرة للعرض (3 أيام فقط).\n*   **الاستهداف:** استهداف واسع لمالكي جميع أنواع السيارات (كبيرة، صغيرة، بفتحة سقف أو بدونها)، مما يوسع قاعدة العملاء المحتملين.\n*   **الأسلوب التسويقي:**\n    *   **المصداقية:** عرض \"القماش الأصلي\" بشكل مرئي لتعزيز الثقة.\n    *   **الودية:** استخدام لهجة عامية واثقة وخفيفة الظل تجعل المحتوى يبدو طبيعياً وأقل رسمية (مما يزيد التفاعل).\n    *   **تحديد الهوية:** تثبيت الموقع الجغرافي (شارع الجامعة) في نهاية الفيديو لضمان سهولة الوصول للعملاء.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الرسالة الجوهرية:** يقدم الفيديو عرضاً ترويجياً مباشراً وقوياً بخصم 30% على خدمات تنجيد (أو إصلاح) سقف السيارات، مع التأكيد على جودة الخامات المستخدمة.\n*   **عامل الجذب (Call to Action):** التركيز على عنصر \"الندرة\" و\"الاستعجال\" من خلال تحديد فترة زمنية قصيرة للعرض (3 أيام فقط).\n*   **الاستهداف:** استهداف واسع لمالكي جميع أنواع السيارات (كبيرة، صغيرة، بفتحة سقف أو بدونها)، مما يوسع قاعدة العملاء المحتملين.\n*   **الأسلوب التسويقي:**\n    *   **المصداقية:** عرض \"القماش الأصلي\" بشكل مرئي لتعزيز الثقة.\n    *   **الودية:** استخدام لهجة عامية واثقة وخفيفة الظل تجعل المحتوى يبدو طبيعياً وأقل رسمية (مما يزيد التفاعل).\n    *   **تحديد الهوية:** تثبيت الموقع الجغرافي (شارع الجامعة) في نهاية الفيديو لضمان سهولة الوصول للعملاء.",
+        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى الترويجي، إليك تحليل الفيديو وفق الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"تب علي.. تب على إيش؟ على الشغل المنيح، طبعاً هي للـ\"كامري\" هذيك. معلم قرب شوف، القماش الأصلية. عامل عليها عرض سعر لمدة 3 أيام، لحالك، اعمل خصم لحالك 30%. إيش ما تكون نوع سيارتك، كبيرة صغيرة، فاتحة مش فاتحة، إيش ما بدك، عامل خصم 30%، ضلك ترقبني بكل جديد. أهلاً وسهلاً فيكم لـ \"تترلا لي زينا\" لصور السيارات، شارع الجامعة. سلام.\"\n\n---"
       }
     },
     {
@@ -615,7 +615,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4440888142891910",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNNO2czHamcrmGJfr0LwAh2d98l8Zxeo5jvHoxTPn5E3fiGkFyBoPCcqsNxCC_f6Six0zLV-GXuGwRNBoSFzndsJhxvuvEv_aZOn-ALYLw1TA.mp4?_nc_cat=103&_nc_oc=AdrfpQX37MWTI9bvgo4k7I___cSa-XPv3n6whTWPYv0Nf-U4pIQpiSQGVyER1Njh96s&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=WFQLcf6Z8gcQ7kNvwG_uDjA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1Mzc3MzMzNTA4NTcxMzg0LCJhc3NldF9hZ2VfZGF5cyI6MzA5LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a27490505c0b5d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRCOTIyMDUxNEM2Qjc3Mzg1RENCMzgxRkMwMjk4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FENEUzQTdGNzE2NkNBQUE3QjZCRjQzNTJCMTBENzkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwg4DSnKOUWhUCKAJDMywXQDjMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OQiSslEWzG613M67N_88iw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHGMSkDvNbdj2sP3LXSF05svu0VD-nzAp2-7RUP6fMCnX85WHDodWj1X_vzJ3QRRfdzYDsUM9Vr8OzaZtIKQoDw&oh=00_AQP4OjmtKUbB2jO5jKc9pcX3Nmanhkt2WcdSM3QTb3ZZUg&oe=6AC692C5",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً للمحتوى التسويقي، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"يا معلم، أحلى سعر فيك يا مملكة كمان، قرب علي. إذا بتلاقي سعر فيك يا مملكة أقل من هذا السعر، وبهذه الجودة، أهم شيء قرب علي، أمامي خلفي نفس الشكل، ماشي؟ تعال ارجعني، معلم عامل عليه عرض سعر، انزلي على التعليقات، وشوف أحلى سعر راح أعطيك إياه، سلام.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **خلق حالة من \"التحدي السعري\":** اعتمد الفيديو على إثارة الفضول من خلال تحدي المشاهد لإيجاد سعر أرخص، مما يعزز ثقة العميل بأن العرض هو الأفضل في السوق المحلي.\n*   **التركيز على القيمة مقابل السعر:** لم يكتفِ صانع المحتوى بذكر السعر، بل ركز على \"الجودة\" وتطابق التصميم (أمامي وخلفي) لإقناع المشاهد بجدوى الشراء.\n*   **استراتيجية \"الدعوة للعمل\" (Call to Action):** توجيه الجمهور بذكاء نحو التعليقات يخلق تفاعلاً مباشراً (Engagement) يرفع من رصيد الفيديو في خوارزميات المنصة، ويحول المشاهد من متفرج إلى عميل محتمل يبحث عن تفاصيل السعر.\n*   **العلامة التجارية والموقع:** إظهار اسم المحل (Al Dallal) وواجهته في نهاية الفيديو يربط العرض الترويجي بهوية تجارية واضحة، مما يسهل على العميل تحديد وجهته.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "3177250795800125",
