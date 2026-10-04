@@ -1,8 +1,8 @@
 {
-  "scan_date": "2026-10-03",
+  "scan_date": "2026-10-04",
   "total_ads": 44,
   "total_video_ads": 41,
-  "analyzed_video_ads": 9,
+  "analyzed_video_ads": 10,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -63,7 +63,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2227956411319444",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQO1rkW1oS76YIFOP21suLSz_5NTdLw4utkhYCrCKrgHjejNm_-2o1VDKUYklbr6ZPJh3em0-NiM4gKL9mxqo_ubYSDeI18U_AOnXD-0Xw.mp4?_nc_cat=105&_nc_oc=AdosjJDJE9qpY_XWSp6H7NfUt9VoPMKQIU3Gbru3KgBegmEsjeaePccZfXVqkcuHBCc&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=2JKSSXiDv4MQ7kNvwHiTPYb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNjUwNzQxNjc5ODk3NTYxLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=6_6xRJj6RqHAvOSle6Doqg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEyYBdWtPzcG_znt14Yx6e7neQ9pgFDlL2d5D2mAUOUvZtmzGafbljhMmulQjSrOMax95vAG2S6nxeLu3Z2t4tT&oh=00_AQPWyX-F34j1iSRt9KyqyfYUNQy30RV7RPgzPujr1XkCxg&oe=6AC689CD",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"خلاص ما تحتار، مساطر ضوئية، اليوم رح يكون عليها سعر يعجبك جداً، لأن هدول 18 قطعة اللي بيجي 5 كتوتات، بيجي رنينج تقدر تتحكم فيها زي ما بدك وتطعجها زي ما بدك، بس بـ 15 دينار في معارض الدبل إم ولفترة محدودة، شغل سيارتك وخلص، احنا هيك خلصنا الحوار، وما في أقل من هيك في الأردن، ومنستناكم بالفرعين.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية \"إنهاء النقاش\":** استخدم صانع المحتوى جملة افتتاحية قوية توحي بحسم التردد لدى المشتري (حل مشكلة البحث عن السعر الأقل).\n* **إبراز القيمة مقابل السعر:** التركيز على المواصفات التقنية (18 قطعة، 5 كتوتات، خاصية الرنينج، المرونة) مقابل سعر منافس جداً (15 دينار) لتعزيز الإحساس بـ \"الصفقة الرابحة\".\n* **خلق عنصر الندرة:** تفعيل عامل \"لفترة محدودة\" لدفع المشاهد لاتخاذ قرار الشراء الفوري وتجنب المماطلة.\n* **التوجيه المباشر:** دعوة واضحة لاتخاذ إجراء (شغل سيارتك وتوجه للفرعين) لتقليل الفجوة بين المشاهدة والزيارة الفعلية.\n* **تعزيز الموثوقية:** استخدام اسم المتجر (معارض دبل إم) بشكل متكرر لترسيخ العلامة التجارية في ذهن العميل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1113086604538161",
