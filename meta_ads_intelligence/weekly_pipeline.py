@@ -41,13 +41,10 @@ def _ad_type_from_row(row: pd.Series) -> str:
 
     if "carousel" in combined:
         return "carousel"
-
     if "video" in combined:
         return "video"
-
     if "image" in combined or "photo" in combined:
         return "image"
-
     return format_value or media_value or "other"
 
 
@@ -67,6 +64,24 @@ def load_weekly_ads(input_dir: str | Path) -> pd.DataFrame:
     return ads.reset_index(drop=True)
 
 
+def _apply_cached_failed_statuses(
+    ads: pd.DataFrame,
+    cache: dict[str, dict[str, Any]],
+) -> pd.DataFrame:
+    result = ads.copy()
+    for index, row in result.iterrows():
+        ad_id = str(row.get("ad_id") or "").strip()
+        cached = cache.get(ad_id)
+        if (
+            isinstance(cached, dict)
+            and cached.get("status") == "failed"
+            and str(result.at[index, "analysis_status"] or "") != "success"
+        ):
+            result.at[index, "analysis_status"] = "failed"
+            result.at[index, "video_analysis"] = None
+    return result
+
+
 def build_weekly_latest_json(
     input_dir: str | Path = "imports/current",
     output_path: str | Path = "docs/data/latest.json",
@@ -80,7 +95,6 @@ def build_weekly_latest_json(
         raise ValueError("No ads available for the current weekly report")
 
     scan_date = scan_date or date.today().isoformat()
-
     records: list[dict[str, Any]] = []
 
     for _, row in ads.iterrows():
@@ -88,15 +102,11 @@ def build_weekly_latest_json(
             "ad_id": _normalize_scalar(row.get("ad_id", "")),
             "page_id": _normalize_scalar(row.get("page_id", "")),
             "page_name": _normalize_scalar(row.get("competitor_name", "")),
-            "ad_body": _normalize_scalar(
-                row.get("ad_body", row.get("ad_text", ""))
-            ),
+            "ad_body": _normalize_scalar(row.get("ad_body", row.get("ad_text", ""))),
             "ad_title": _normalize_scalar(row.get("ad_title", "")),
             "start_date": _normalize_scalar(row.get("start_date", "")),
             "is_active": _normalize_scalar(row.get("is_active", "")),
-            "format": _normalize_scalar(
-                row.get("format", "") or row.get("ad_type", "")
-            ),
+            "format": _normalize_scalar(row.get("format", "") or row.get("ad_type", "")),
             "media_type": _normalize_scalar(row.get("media_type", "")),
             "platforms": _normalize_scalar(row.get("platforms", "")),
             "cta": _normalize_scalar(row.get("cta", "")),
@@ -106,9 +116,7 @@ def build_weekly_latest_json(
         }
 
         if row.get("analysis_status") not in (None, ""):
-            record["analysis_status"] = _normalize_scalar(
-                row.get("analysis_status", "")
-            )
+            record["analysis_status"] = _normalize_scalar(row.get("analysis_status", ""))
 
         if isinstance(row.get("video_analysis"), dict):
             record["video_analysis"] = row.get("video_analysis")
@@ -116,32 +124,18 @@ def build_weekly_latest_json(
         records.append(record)
 
     grouped = ads.copy()
-    grouped["competitor_name"] = grouped["competitor_name"].replace(
-        "",
-        "غير محدد",
-    )
-
+    grouped["competitor_name"] = grouped["competitor_name"].replace("", "غير محدد")
     competitor_rows: list[dict[str, Any]] = []
 
-    for competitor, group in grouped.groupby(
-        "competitor_name",
-        sort=True,
-    ):
+    for competitor, group in grouped.groupby("competitor_name", sort=True):
         ad_type_values = group.apply(_ad_type_from_row, axis=1)
-
         competitor_rows.append(
             {
                 "name": str(competitor),
                 "total_ads": int(len(group)),
-                "video_count": int(
-                    ad_type_values.str.contains("video").sum()
-                ),
-                "image_count": int(
-                    ad_type_values.str.contains("image|photo").sum()
-                ),
-                "carousel_count": int(
-                    ad_type_values.str.contains("carousel").sum()
-                ),
+                "video_count": int(ad_type_values.str.contains("video").sum()),
+                "image_count": int(ad_type_values.str.contains("image|photo").sum()),
+                "carousel_count": int(ad_type_values.str.contains("carousel").sum()),
             }
         )
 
@@ -149,9 +143,7 @@ def build_weekly_latest_json(
         "scan_date": scan_date,
         "total_ads": len(records),
         "total_video_ads": sum(
-            1
-            for row in records
-            if str(row.get("video_url") or "").strip()
+            1 for row in records if str(row.get("video_url") or "").strip()
         ),
         "analyzed_video_ads": sum(
             1
@@ -169,17 +161,10 @@ def build_weekly_latest_json(
 
     output = Path(output_path)
     output.parent.mkdir(parents=True, exist_ok=True)
-
     output.write_text(
-        json.dumps(
-            payload,
-            ensure_ascii=False,
-            allow_nan=False,
-            indent=2,
-        ),
+        json.dumps(payload, ensure_ascii=False, allow_nan=False, indent=2),
         encoding="utf-8",
     )
-
     return payload
 
 
@@ -189,16 +174,10 @@ def write_processing_input(
 ) -> Path:
     path = Path(output_path)
     path.parent.mkdir(parents=True, exist_ok=True)
-
     path.write_text(
-        json.dumps(
-            batch,
-            ensure_ascii=False,
-            indent=2,
-        ),
+        json.dumps(batch, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-
     return path
 
 
@@ -218,6 +197,7 @@ def run_weekly_pipeline(
     processing_url: str | None = None,
     run_id: str | None = None,
     prepare_only: bool = False,
+    process_ad_id: str | None = None,
 ) -> dict[str, Any]:
     ads = load_weekly_ads(input_dir)
 
@@ -226,9 +206,24 @@ def run_weekly_pipeline(
 
     cache = load_video_analysis_cache(cache_path)
     ads = apply_cached_analyses(ads, cache)
+    ads = _apply_cached_failed_statuses(ads, cache)
+
     batch = build_processing_batch(ads, cache)
+
+    if process_ad_id:
+        process_ad_id = str(process_ad_id).strip()
+        batch = {
+            "source": "meta_ads",
+            "items": [
+                item
+                for item in batch.get("items", [])
+                if str(item.get("ad_id") or "").strip() == process_ad_id
+            ],
+        }
+
     if batch["items"]:
         write_processing_input(batch, processing_input_path)
+
     if prepare_only:
         return batch
 
@@ -251,18 +246,25 @@ def run_weekly_pipeline(
             )
             if payload is None:
                 raise ValueError("Firestore result is missing")
+
             ads = merge_firestore_results(ads, payload, run_id)
-            # Missing/invalid individual results must not erase successful ones.
+
             pending_ids = {item["ad_id"] for item in batch["items"]}
             missing = ads["ad_id"].isin(pending_ids) & ads["analysis_status"].eq("")
             ads.loc[missing, "analysis_status"] = "failed"
+
         except Exception as exc:
-            # Video analysis is optional. Never copy SDK errors/credentials into JSON.
-            logging.warning("Video analysis unavailable (%s); building current CSV report", type(exc).__name__)
+            logging.warning(
+                "Video analysis unavailable (%s); saving failed status for this item",
+                type(exc).__name__,
+            )
             pending_ids = {item["ad_id"] for item in batch["items"]}
             ads.loc[ads["ad_id"].isin(pending_ids), "analysis_status"] = "failed"
+
     elif batch["items"]:
-        logging.warning("Video analysis disabled or input URL unavailable; building current CSV report")
+        logging.warning(
+            "Video analysis disabled or input URL unavailable; saving current report"
+        )
 
     cache = update_video_analysis_cache(cache, ads)
     save_video_analysis_cache(cache, cache_path)
@@ -273,7 +275,6 @@ def run_weekly_pipeline(
         scan_date=scan_date,
         ads=ads,
     )
-
     return latest
 
 
@@ -284,33 +285,28 @@ def main() -> None:
         description="Weekly Meta Ads intelligence pipeline"
     )
 
+    parser.add_argument("--input-dir", default="imports/current", type=Path)
+    parser.add_argument("--latest-json", default="docs/data/latest.json", type=Path)
+    parser.add_argument("--scan-date", default=date.today().isoformat())
+    parser.add_argument("--cache-path", default=DEFAULT_CACHE_PATH, type=Path)
     parser.add_argument(
-        "--input-dir",
-        default="imports/current",
+        "--processing-input",
         type=Path,
+        default=DEFAULT_PROCESSING_INPUT_PATH,
     )
-
     parser.add_argument(
-        "--latest-json",
-        default="docs/data/latest.json",
-        type=Path,
+        "--prepare-only",
+        action="store_true",
+        help="Prepare the batch without executing Cloud Run or replacing latest.json",
     )
-
-    parser.add_argument(
-        "--scan-date",
-        default=date.today().isoformat(),
-    )
-
-    parser.add_argument(
-        "--cache-path",
-        default=DEFAULT_CACHE_PATH,
-        type=Path,
-    )
-
-    parser.add_argument("--processing-input", type=Path, default=DEFAULT_PROCESSING_INPUT_PATH)
-    parser.add_argument("--prepare-only", action="store_true", help="Prepare the batch without executing Cloud Run or replacing latest.json")
     parser.add_argument("--processing-url", default=os.getenv("META_ADS_INPUT_URL"))
     parser.add_argument("--run-id", default=os.getenv("META_ADS_RUN_ID"))
+    parser.add_argument(
+        "--process-ad",
+        dest="process_ad_id",
+        default=None,
+        help="Process exactly one ad_id from the current batch",
+    )
     args = parser.parse_args()
 
     try:
@@ -323,17 +319,26 @@ def main() -> None:
             prepare_only=args.prepare_only,
             processing_url=args.processing_url,
             run_id=args.run_id,
-            cloud_run_enabled=os.getenv("CLOUD_RUN_PROCESSING_ENABLED", "false").lower() == "true",
+            process_ad_id=args.process_ad_id,
+            cloud_run_enabled=os.getenv(
+                "CLOUD_RUN_PROCESSING_ENABLED",
+                "false",
+            ).lower() == "true",
             gcp_project_id=os.getenv("GCP_PROJECT_ID"),
             gcp_region=os.getenv("GCP_REGION"),
             cloud_run_job_name=os.getenv("CLOUD_RUN_JOB_NAME"),
             firestore_project_id=os.getenv("FIRESTORE_PROJECT_ID"),
             result_collection=os.getenv("META_ADS_RESULT_COLLECTION"),
         )
+
         if args.prepare_only:
             has_batch = str(bool(result["items"])).lower()
             if os.getenv("GITHUB_OUTPUT"):
-                with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+                with open(
+                    os.environ["GITHUB_OUTPUT"],
+                    "a",
+                    encoding="utf-8",
+                ) as output:
                     output.write(f"has_batch={has_batch}\n")
             print(f"Prepared weekly batch: {len(result['items'])} videos")
             return
