@@ -20,10 +20,6 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      # Video analysis is part of the normal workflow.
-      # If a batch exists, the workflow must either analyze it or fail loudly.
-      CLOUD_RUN_PROCESSING_ENABLED: 'true'
-
       GCP_PROJECT_ID: ${{ vars.GCP_PROJECT_ID || secrets.GCP_PROJECT_ID }}
       GCP_REGION: ${{ vars.GCP_REGION || secrets.GCP_REGION }}
       CLOUD_RUN_JOB_NAME: ${{ vars.CLOUD_RUN_JOB_NAME || secrets.CLOUD_RUN_JOB_NAME || 'competitors-report' }}
@@ -60,50 +56,18 @@ jobs:
         shell: bash
         run: |
           missing=0
-
-          for name in \
-            GCP_PROJECT_ID \
-            GCP_REGION \
-            GCP_WORKLOAD_IDENTITY_PROVIDER \
-            GCP_SERVICE_ACCOUNT
+          for name in GCP_PROJECT_ID GCP_REGION GCP_WORKLOAD_IDENTITY_PROVIDER GCP_SERVICE_ACCOUNT
           do
             if [ -z "${!name}" ]; then
               echo "::error::Required configuration is missing: ${name}"
               missing=1
             fi
           done
-
-          if [ "${CLOUD_RUN_PROCESSING_ENABLED}" != "true" ]; then
-            echo "::error::CLOUD_RUN_PROCESSING_ENABLED must be true when videos require processing."
-            missing=1
-          fi
-
           if [ "$missing" -ne 0 ]; then
-            echo "::error::Video analysis cannot start. Refusing to publish an incomplete report."
             exit 1
           fi
 
-      - name: Publish batch and pin input URL to commit
-        id: publish
-        if: steps.prepare.outputs.has_batch == 'true'
-        shell: bash
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-
-          git add -- docs/data/processing_input.json
-
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update Meta Ads processing input'
-          fi
-
-          git push origin HEAD:main
-
-          sha=$(git rev-parse HEAD)
-          echo "input_url=https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${sha}/docs/data/processing_input.json" >> "$GITHUB_OUTPUT"
-
       - name: Authenticate Google Cloud
-        id: auth
         if: steps.prepare.outputs.has_batch == 'true'
         uses: google-github-actions/auth@v3
         with:
@@ -111,78 +75,100 @@ jobs:
           service_account: ${{ env.GCP_SERVICE_ACCOUNT }}
 
       - name: Set up gcloud
-        id: gcloud
         if: steps.prepare.outputs.has_batch == 'true'
         uses: google-github-actions/setup-gcloud@v3
         with:
           project_id: ${{ env.GCP_PROJECT_ID }}
 
-      - name: Process once and build current weekly report
-        env:
-          CLOUD_RUN_PROCESSING_ENABLED: ${{ steps.prepare.outputs.has_batch == 'true' && 'true' || 'false' }}
-          META_ADS_INPUT_URL: ${{ steps.publish.outputs.input_url }}
-          META_ADS_RUN_ID: meta-ads-${{ github.run_id }}-${{ github.run_attempt }}
-        run: python -m meta_ads_intelligence.weekly_pipeline
-
-      - name: Verify all requested videos were processed
+      - name: Process videos one by one with 5-minute gap
         if: steps.prepare.outputs.has_batch == 'true'
         shell: bash
+        env:
+          CLOUD_RUN_PROCESSING_ENABLED: 'true'
         run: |
-          python - <<'PY'
+          cp docs/data/processing_input.json /tmp/meta-ads-full-batch.json
+
+          mapfile -t AD_IDS < <(
+            python - <<'PY'
           import json
           from pathlib import Path
 
-          processing = json.loads(Path("docs/data/processing_input.json").read_text(encoding="utf-8"))
-          latest = json.loads(Path("docs/data/latest.json").read_text(encoding="utf-8"))
+          data = json.loads(Path("/tmp/meta-ads-full-batch.json").read_text(encoding="utf-8"))
+          for item in data.get("items") or []:
+              ad_id = str(item.get("ad_id") or "").strip()
+              if ad_id:
+                  print(ad_id)
+          PY
+          )
 
-          requested = {
-              str(item.get("ad_id") or "").strip()
-              for item in (processing.get("items") or [])
-              if str(item.get("ad_id") or "").strip()
-          }
+          total="${#AD_IDS[@]}"
+          echo "Videos to process: ${total}"
 
-          by_id = {
-              str(item.get("ad_id") or "").strip(): item
-              for item in (latest.get("ads") or [])
-          }
+          for index in "${!AD_IDS[@]}"; do
+            ad_id="${AD_IDS[$index]}"
+            number=$((index + 1))
 
-          unresolved = []
-          failed = []
+            echo "========================================"
+            echo "Processing video ${number}/${total}: ${ad_id}"
+            echo "========================================"
 
-          for ad_id in requested:
-              status = str((by_id.get(ad_id) or {}).get("analysis_status") or "").strip().lower()
-              if status == "failed":
-                  failed.append(ad_id)
-              elif status != "success":
-                  unresolved.append(ad_id)
+            python - "$ad_id" <<'PY'
+          import json
+          import sys
+          from pathlib import Path
 
-          print(f"Requested videos: {len(requested)}")
-          print(f"Successful: {len(requested) - len(failed) - len(unresolved)}")
-          print(f"Failed: {len(failed)}")
-          print(f"Unresolved: {len(unresolved)}")
+          ad_id = sys.argv[1]
+          full = json.loads(Path("/tmp/meta-ads-full-batch.json").read_text(encoding="utf-8"))
+          selected = [
+              item
+              for item in (full.get("items") or [])
+              if str(item.get("ad_id") or "").strip() == ad_id
+          ]
 
-          if failed or unresolved:
-              if failed:
-                  print("Failed IDs:", ", ".join(sorted(failed)))
-              if unresolved:
-                  print("Unresolved IDs:", ", ".join(sorted(unresolved)))
-              raise SystemExit(
-                  "Video analysis did not complete for the full requested batch. "
-                  "Refusing to publish an incomplete report."
-              )
+          Path("docs/data/processing_input.json").write_text(
+              json.dumps(
+                  {"source": "meta_ads", "items": selected},
+                  ensure_ascii=False,
+                  indent=2,
+              ),
+              encoding="utf-8",
+          )
           PY
 
-      - name: Commit weekly report and cache if changed
-        shell: bash
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-          git add -- docs/data/latest.json data/video-analysis-cache.json
+            git add -- docs/data/processing_input.json
 
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update Meta Ads weekly intelligence'
-            git push origin HEAD:main
-          else
-            echo "No weekly intelligence changes to publish."
-          fi
+            if ! git diff --cached --quiet; then
+              git commit -m "Prepare Meta Ads video ${ad_id}"
+              git push origin HEAD:main
+            fi
+
+            input_sha="$(git rev-parse HEAD)"
+            processing_url="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${input_sha}/docs/data/processing_input.json"
+            run_id="meta-ads-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}-${number}"
+
+            META_ADS_INPUT_URL="${processing_url}" \
+            META_ADS_RUN_ID="${run_id}" \
+            python -m meta_ads_intelligence.weekly_pipeline \
+              --process-ad "${ad_id}" \
+              --processing-url "${processing_url}" \
+              --run-id "${run_id}"
+
+            git add -- docs/data/latest.json data/video-analysis-cache.json
+
+            if ! git diff --cached --quiet; then
+              git commit -m "Save Meta Ads analysis ${ad_id}"
+              git push origin HEAD:main
+            else
+              echo "No analysis changes to save for ${ad_id}"
+            fi
+
+            echo "Saved result for ${ad_id} to main."
+
+            if [ "${number}" -lt "${total}" ]; then
+              echo "Waiting 5 minutes before the next video..."
+              sleep 300
+            fi
+          done
