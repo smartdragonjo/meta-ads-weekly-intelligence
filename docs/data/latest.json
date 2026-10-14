@@ -2,7 +2,7 @@
   "scan_date": "2026-10-14",
   "total_ads": 28,
   "total_video_ads": 28,
-  "analyzed_video_ads": 21,
+  "analyzed_video_ads": 22,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -186,11 +186,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"عندك الجراءة تمزع كرسي مرسيدس زي هيك؟ بتوقع اللون الجديد تبع هاي السيارة المرسيدس واربح معانا هدية مرتبة.\nفي حالة الفرش تشققات، متمزع، الفرش ناشف. إحنا ما بنعيب الجلد الألماني، لكن ركبنا له جلد ألماني بلون مميز ومناسب ولائق على مرسيدس، لون خرافي وشغل مرتب. أربعة بطاين، وبإذن الله الكرسي الأمامي والخلفي، أهلاً وسهلاً بالجميع وشغلنا... سلام.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي\n*   **عنصر الجذب (Hook):** بدأ الفيديو بتحدٍ مثير للفضول (\"عندك الجراءة تمزع كرسي مرسيدس\") لضمان جذب انتباه المشاهد فوراً.\n*   **طرح المشكلة والحل:** استعرض الفيديو نقاط الألم (تشققات الجلد، جفافه، وتلفه) وقدم الحل المهني المتمثل في تجديد الفرش بجلد ألماني فاخر.\n*   **تعزيز الثقة (Credibility):** استخدم المتحدث لغة مطمئنة للجمهور (\"إحنا ما بنعيب الجلد الألماني\")، مما يظهر احترافية العلامة التجارية ويمنع أي سوء فهم لدى العملاء.\n*   **استراتيجية التسويق:** تضمن الفيديو تحفيزاً مباشراً للمشاهدين من خلال وعد بـ \"هدية مرتبة\" مقابل التفاعل، وهو أسلوب فعال لزيادة التفاعل (Engagement).\n*   **الخاتمة:** اختتم الفيديو بالدعوة لاتخاذ إجراء (Call to Action) من خلال الترحيب بالجميع ودعوتهم لزيارة المحل.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n*   **عنصر الجذب (Hook):** بدأ الفيديو بتحدٍ مثير للفضول (\"عندك الجراءة تمزع كرسي مرسيدس\") لضمان جذب انتباه المشاهد فوراً.\n*   **طرح المشكلة والحل:** استعرض الفيديو نقاط الألم (تشققات الجلد، جفافه، وتلفه) وقدم الحل المهني المتمثل في تجديد الفرش بجلد ألماني فاخر.\n*   **تعزيز الثقة (Credibility):** استخدم المتحدث لغة مطمئنة للجمهور (\"إحنا ما بنعيب الجلد الألماني\")، مما يظهر احترافية العلامة التجارية ويمنع أي سوء فهم لدى العملاء.\n*   **استراتيجية التسويق:** تضمن الفيديو تحفيزاً مباشراً للمشاهدين من خلال وعد بـ \"هدية مرتبة\" مقابل التفاعل، وهو أسلوب فعال لزيادة التفاعل (Engagement).\n*   **الخاتمة:** اختتم الفيديو بالدعوة لاتخاذ إجراء (Call to Action) من خلال الترحيب بالجميع ودعوتهم لزيارة المحل.",
+        "transcript": "التفريغ النصي\n\"عندك الجراءة تمزع كرسي مرسيدس زي هيك؟ بتوقع اللون الجديد تبع هاي السيارة المرسيدس واربح معانا هدية مرتبة.\nفي حالة الفرش تشققات، متمزع، الفرش ناشف. إحنا ما بنعيب الجلد الألماني، لكن ركبنا له جلد ألماني بلون مميز ومناسب ولائق على مرسيدس، لون خرافي وشغل مرتب. أربعة بطاين، وبإذن الله الكرسي الأمامي والخلفي، أهلاً وسهلاً بالجميع وشغلنا... سلام.\"\n\n---"
       }
     },
     {
@@ -207,7 +207,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1075603655341077",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMvCqlowPOlJMPB29fGzzrYTlWB-PmVhuai_-pbNTWfcVD_w_xIaVFji4TnW0KMVQL5bwkzN1u71D1rUk-8spNxCu9xPEW34qXp0AE9k89aCQ.mp4?_nc_cat=111&_nc_oc=AdqoUn-KQZ-dvlOm7ZKJJvqRAhvsj7FfT5Zy2MWEU16VCS-xsPPA5FI4b6gQmu6GGDQ&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=5sjdyHTMDDoQ7kNvwESk8Gm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI1NjIyMDM3OTcyMDYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ae55a72eab319e6f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTI1OTVGRjA5OEI0M0RCQUI3QTgxMTk3ODg0REQ4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNjAwMUE3Q0M5QTQwRjdBNkI0ODFDMTk3RDI1RDBGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasm4HdnuSKBhUCKAJDMywXQD6iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=6dKXjs8Y0A-fh9B8f5TxsA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHDo6eGsTWMW-byEBkDxy2G6i1-5P92ndrqLX7k_3ad2l9Lggeyk5lkO-UIm3ZTvEn7iMrBC3XGYbiNedQqklAy&oh=00_AQP5fdop9Nl8x6jYTHUYAXu_XB4MrrtGxbvk75StChdHXg&oe=6AD528C9",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محلل محتوى منافس، قمت بتحليل الفيديو الخاص بـ \"SR\" وإليك النتائج:\n\n التفريغ النصي للفيديو:\n\n\"وهيك الزلمة اشترى وراحت باله.. وتعال أنت يا مشاهد شوف شو راحت باله! حمى سيارته بالكامل بمنتجات SR العالمية. بنبلش معكم فرش تنجيد، أرضيات TPE طبقتين، وأكيد ضباب Ultra Shade المختص بعلامة SR العالمية، وأرضية الصندوق، وغلاف SR، وأكيد الدلايات، وما ننسى الهوايات المطرية. تعال استغل بأفضل سعر على مستوى المملكة، وتعال علي بستناك، موقعنا بعد دوار المشاغل، 500 متر على إيدك اليمين، مملكة الإكسسوارات، متوفر بجميع فروعنا، سلام.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **القيمة المقترحة:** ركز الفيديو على مفهوم \"راحة البال\" من خلال حزمة حماية وتجهيز متكاملة للسيارة، مما يحول عملية الشراء من \"مستهلكات\" إلى \"حل جذري لمشاكل السيارة\".\n*   **بناء الثقة (المرجعية):** استخدام اسم \"SR\" كعلامة تجارية عالمية (مختصة) يرفع من قيمة المنتج في نظر العميل ويزيد من مصداقيته مقارنة بالمنتجات مجهولة المصدر.\n*   **استراتيجية البيع (Up-selling):** عرض مجموعة متنوعة من المنتجات (فرش، أرضيات، تظليل، دلايات، هوايات) في عرض واحد يخلق رغبة لدى المشاهد في الحصول على الحزمة الكاملة بدلاً من قطعة واحدة.\n*   **وضوح \"دعوة لاتخاذ إجراء\" (CTA):** قدم صانع المحتوى موقعاً جغرافياً دقيقاً ومميزاً (\"بعد دوار المشاغل، 500 متر\")، مما يسهل على العميل الوصول الفعلي للمتجر.\n*   **نبرة التواصل:** استخدم أسلوباً ودوداً، حماسياً، وعفوياً (لغة الشارع) لجذب الجمهور المستهدف وتكسير الحاجز بين البائع والمشتري.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1091812240430241",
