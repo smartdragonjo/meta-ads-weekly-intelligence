@@ -2,7 +2,7 @@
   "scan_date": "2026-10-14",
   "total_ads": 28,
   "total_video_ads": 28,
-  "analyzed_video_ads": 20,
+  "analyzed_video_ads": 21,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -138,11 +138,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\"هوب صلوا على النبي.. لما أجيبلك يا معلم اليوم الـ DB الـ 150 والـ 300 RMS، والـ 150 RMS، والـ 300 RMS، وأفاتار ودي بي ومشيت وانبل.. اليوم الرزق الجديد وصل، وفرجيّهم الكميات يا معلم.. كله عليه خصم 30%.. ركز معي، يعني عندك الأفايتار ببلش عندك بس من 24 دينار.. وعندك كله عليه خصومات، وأهلاً وسهلاً بالجميع وتشرفونا.\"",
-        "summary": "### 2. ملخص استراتيجي:\n*   **استراتيجية التسعير الجذابة:** ركز المنافس على كسر الأسعار من خلال الإعلان عن \"خصم 30%\" على كافة المنتجات، مع تحديد \"سعر دخول\" مغرٍ يبدأ من 24 ديناراً لجذب الزبائن (Price Anchoring).\n*   **خلق الإلحاح (Urgency):** اعتمد المتحدث على أسلوب \"وصول البضاعة الجديدة\" ليشعر الزبون أن الفرصة متاحة الآن وعليه الإسراع قبل نفاد الكمية.\n*   **بناء المصداقية عبر العرض البصري:** تعمّد المتحدث استعراض \"الكميات\" المكدسة في المحل ليؤكد للزبون تنوع الخيارات وتوفر المخزون، مما يعزز الثقة في المكان كوجهة رئيسية لملحقات السيارات.\n*   **نبرة التواصل:** استخدام لغة عامية قريبة من فئة الشباب ومحبي تعديل السيارات، مع استخدام نبرة حماسية سريعة لزيادة التفاعل العاطفي.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي:\n*   **استراتيجية التسعير الجذابة:** ركز المنافس على كسر الأسعار من خلال الإعلان عن \"خصم 30%\" على كافة المنتجات، مع تحديد \"سعر دخول\" مغرٍ يبدأ من 24 ديناراً لجذب الزبائن (Price Anchoring).\n*   **خلق الإلحاح (Urgency):** اعتمد المتحدث على أسلوب \"وصول البضاعة الجديدة\" ليشعر الزبون أن الفرصة متاحة الآن وعليه الإسراع قبل نفاد الكمية.\n*   **بناء المصداقية عبر العرض البصري:** تعمّد المتحدث استعراض \"الكميات\" المكدسة في المحل ليؤكد للزبون تنوع الخيارات وتوفر المخزون، مما يعزز الثقة في المكان كوجهة رئيسية لملحقات السيارات.\n*   **نبرة التواصل:** استخدام لغة عامية قريبة من فئة الشباب ومحبي تعديل السيارات، مع استخدام نبرة حماسية سريعة لزيادة التفاعل العاطفي.",
+        "transcript": "إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\"هوب صلوا على النبي.. لما أجيبلك يا معلم اليوم الـ DB الـ 150 والـ 300 RMS، والـ 150 RMS، والـ 300 RMS، وأفاتار ودي بي ومشيت وانبل.. اليوم الرزق الجديد وصل، وفرجيّهم الكميات يا معلم.. كله عليه خصم 30%.. ركز معي، يعني عندك الأفايتار ببلش عندك بس من 24 دينار.. وعندك كله عليه خصومات، وأهلاً وسهلاً بالجميع وتشرفونا.\""
       }
     },
     {
@@ -183,7 +183,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1373116424620790",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMbYJb1RVsHWM9TqJZVYbQXY37kMhN4szM_Cc7Tuvchnrd2fTWvDzkofq-4cde-YR8jTQ0aevVqjhOwvG76NTOFVqkhZg5_nDywjQPqdZEtbg.mp4?_nc_cat=102&_nc_oc=Adq5suWopnWSIXJGpqxKnOV28Mdugw8h7TWVltJaflkRbLUZhZ77D_8me7XrCMWFv5w&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=Z_SbqTermuUQ7kNvwGM-0_I&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTQwODIxNjMyMzk0OTIsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8fd0c94fdcd56f13&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNzQzNDcxMTA4OTQ0QUQ2QjhCMzRFOEFCMTlBOTEyRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJBRkFBQUY3OTRFOTQyOENBQ0JEODdGQTBDNUFGMTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIqYOt3J6VBRUCKAJDMywXQDrMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=6dKXjs8Y0A-fh9B8f5TxsA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHLfZ_1j0Ycv4vMTrpHIxT_EIURQG5uKMQQhRFAbm4oxChYmCHLYxLSsJN3y3OGPBeu5cwSOi2kyCT0w1ORR8mW&oh=00_AQOLZHV1MFhTRoR8J2dyJHyG6NVCQN6Ixy6Ju7YHzxyiTA&oe=6AD5474E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي\n\"عندك الجراءة تمزع كرسي مرسيدس زي هيك؟ بتوقع اللون الجديد تبع هاي السيارة المرسيدس واربح معانا هدية مرتبة.\nفي حالة الفرش تشققات، متمزع، الفرش ناشف. إحنا ما بنعيب الجلد الألماني، لكن ركبنا له جلد ألماني بلون مميز ومناسب ولائق على مرسيدس، لون خرافي وشغل مرتب. أربعة بطاين، وبإذن الله الكرسي الأمامي والخلفي، أهلاً وسهلاً بالجميع وشغلنا... سلام.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي\n*   **عنصر الجذب (Hook):** بدأ الفيديو بتحدٍ مثير للفضول (\"عندك الجراءة تمزع كرسي مرسيدس\") لضمان جذب انتباه المشاهد فوراً.\n*   **طرح المشكلة والحل:** استعرض الفيديو نقاط الألم (تشققات الجلد، جفافه، وتلفه) وقدم الحل المهني المتمثل في تجديد الفرش بجلد ألماني فاخر.\n*   **تعزيز الثقة (Credibility):** استخدم المتحدث لغة مطمئنة للجمهور (\"إحنا ما بنعيب الجلد الألماني\")، مما يظهر احترافية العلامة التجارية ويمنع أي سوء فهم لدى العملاء.\n*   **استراتيجية التسويق:** تضمن الفيديو تحفيزاً مباشراً للمشاهدين من خلال وعد بـ \"هدية مرتبة\" مقابل التفاعل، وهو أسلوب فعال لزيادة التفاعل (Engagement).\n*   **الخاتمة:** اختتم الفيديو بالدعوة لاتخاذ إجراء (Call to Action) من خلال الترحيب بالجميع ودعوتهم لزيارة المحل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1075603655341077",
