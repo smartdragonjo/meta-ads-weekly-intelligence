@@ -1,8 +1,8 @@
 {
-  "scan_date": "2026-10-14",
-  "total_ads": 28,
-  "total_video_ads": 28,
-  "analyzed_video_ads": 28,
+  "scan_date": "2026-10-15",
+  "total_ads": 26,
+  "total_video_ads": 24,
+  "analyzed_video_ads": 24,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -35,20 +35,51 @@
     },
     {
       "name": "الربيع لكهرباء وزينة السيارات",
-      "total_ads": 9,
-      "video_count": 9,
+      "total_ads": 8,
+      "video_count": 8,
+      "image_count": 0,
+      "carousel_count": 0
+    },
+    {
+      "name": "المهندس حسام لزينة السيارات اربد  Hj royal ",
+      "total_ads": 1,
+      "video_count": 1,
       "image_count": 0,
       "carousel_count": 0
     },
     {
       "name": "غازي الزعبي لزينة و كهرباء السيارات",
-      "total_ads": 4,
-      "video_count": 4,
-      "image_count": 0,
-      "carousel_count": 0
+      "total_ads": 2,
+      "video_count": 0,
+      "image_count": 1,
+      "carousel_count": 1
     }
   ],
   "ads": [
+    {
+      "ad_id": "4695123250719744",
+      "page_id": "1303754966153148",
+      "page_name": "المهندس حسام لزينة السيارات اربد  Hj royal ",
+      "ad_body": "⁨ حرق اسعار وعروض نارر استغل جميع العروض 🔥👌🏻⁩",
+      "ad_title": "",
+      "start_date": "2026-10-14",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "INSTAGRAM",
+      "cta": "Send WhatsApp message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=4695123250719744",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQMbyPl-jaQ3VhKRK16ieEYNoCPkYB87tDdVkhfu2G75xoTgBGEAPvuSaGMuruZ6jarlKGzK40aFxFXTGMdJ-GTIFPoVD1l2AUuchcDsZA.mp4?_nc_cat=104&_nc_oc=AdqvNNCg7USOs5pwJq8-mgZkhqUE2r2-kFMn0ASZKWcSn2evvbkv5ddI74yRGy41sMQ&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=ym7lpxQb3LYQ7kNvwG4Y0l0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDA3NzE5NzQ1NjcwMDczLCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=x5ow5UTLhrc8fX-1JTttrw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFMu4J_onlej4k34_zNVARcha0Z_0FvwiyFrRn_QW_CLKOpdsAfYWzNtCYsVgP89GCUfdEqoX8Q68ox8GU8g-X7&oh=00_AQMaZEZ0m1rNGEudA-nlClHG5n2No1bb6fsUX2tUX3S6rA&oe=6AD6835E",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية \"التكثيف التسويقي\":** استخدام التكرار في الأيام (خميس، جمعة، سبت) لخلق شعور بالاستعجال (FOMO) لدى العميل.\n* **الأسلوب الحواري:** الاعتماد على أسلوب \"الحوار بين شخصين\" يضفي حيوية على الفيديو ويجعل الإعلان يبدو كأنه محادثة طبيعية بدلاً من خطاب تسويقي مباشر.\n* **التركيز على القيمة:** استخدام مصطلحات قوية مثل \"حرق أسعار\" و\"غير\" لتعزيز قيمة العرض وتنبيه الجمهور لعدم ضياع الفرصة.\n* **شمولية التغطية:** الإشارة إلى وجود الفروع في مدن متعددة (إربد وعمان) لضمان اتساع القاعدة الجماهيرية المستهدفة.\n* **الدعوة لاتخاذ إجراء (Call to Action):** التركيز على متابعة \"الصفحة\" كمصدر أساسي للتحديثات، مما يزيد من معدل التفاعل والمتابعة المستمرة للحساب.",
+        "transcript": "أهلاً بك. بصفتي محلل محتوى منافس، قمت بتحليل هذا المقطع التسويقي، وإليك النتائج وفقاً للهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n- **المصور:** \"شو عامل هسا؟ إنت شو بتصور بالمستودع؟\"\n- **المتحدث:** \"يعني.. لسا بتستنى 7-8-9-10 عروض؟ لحد هسا؟\"\n- **المصور:** \"لحد هسا! إنت بعدك بتفكر شو بدك تعمل؟\"\n- **المتحدث:** \"خميس، جمعة، سبت شو؟ عروض حرق! حرق يا سيدي!\"\n- **المصور:** \"غير أسعار وحرق يا أبو حسام، مش بس بفرع إربد وبفرع عمان كمان.\"\n- **المتحدث:** \"وتابع عالصفحة، خميس، جمعة، سبت، وحياتك غير! ابتداءً من اليوم ليوم السبت عروض.\"\n\n---"
+      }
+    },
     {
       "ad_id": "1556016892377591",
       "page_id": "100773029292617",
@@ -62,7 +93,7 @@
       "platforms": "INSTAGRAM",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1556016892377591",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOVIxSO7yt65RSHrv_BUTATfauRn-h_Xkz0IRdnk6lvoOf5LBxtP13QdEcBc8hka5_-KlTLb1GdI_5NuiSvyj5ItIaG1H1AOURS32xpKA.mp4?_nc_cat=110&_nc_oc=AdqlTRKbGdboKfgtb410V1PoHJQMS3J5HIvzMuAvp2RM-PayNTHGcbNkg4PmZmXDizE&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=e-nRtsOMi5IQ7kNvwFDPLoG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA3ODkxNDg3NzgzNzE1MCwiYXNzZXRfYWdlX2RheXMiOjI5LCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=tqQVDR35Oxd_gqe5W9GEOQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHB4XS4fgsKd25xF5bp1u1ENZWaFUoTtS41lZoVShO1LsZTi7Tch6OeEc4OpV44miyNmsfdB0nCPQQGhT4z0EA1&oh=00_AQM9IXjv0tM7sdDOVuFFqLrqc_BsrL2GoAjOPStFDIUOhQ&oe=6AD53BE8",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQOVIxSO7yt65RSHrv_BUTATfauRn-h_Xkz0IRdnk6lvoOf5LBxtP13QdEcBc8hka5_-KlTLb1GdI_5NuiSvyj5ItIaG1H1AOURS32xpKA.mp4?_nc_cat=110&_nc_oc=Adr5w3E_X7djN4WuI9aZXW4cvQLI7Hd_tSRSsPvCBexnnC-HwRNxrGgUZyB0u0TQFDQ&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=e-nRtsOMi5IQ7kNvwH5X_zQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMzYwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTA3ODkxNDg3NzgzNzE1MCwiYXNzZXRfYWdlX2RheXMiOjMwLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=ubRWP_7pFgQEoF03Gg_C9Q&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHB4XS4fgsKd25xF5bp1u1ENZWaFUoTtS41lZoVShO1LsZTi7Tch6OeEc4OpV44miyNmsfdB0nCPQQGhT4z0EA1&oh=00_AQPjFvhURKi9YbNlgd88-k5NV0cVVVBEQ1ynL35ef_gLtQ&oe=6AD68D68",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -72,6 +103,38 @@
         "summary": "### 2. الملخص الاستراتيجي\n\n*   **القيمة التسويقية للمصداقية:** يركز صانع المحتوى على \"القياس بالأرقام\" كوسيلة وحيدة لإثبات الجودة، مما يبني ثقة فورية لدى العميل ويحرج المنافسين الذين يبيعون منتجات مضللة.\n*   **استراتيجية التباين (Contrast Strategy):** وضع \"الألترا كذب\" في مواجهة مباشرة مع \"الألترا نانو الأصلي\" باستخدام جهاز قياس تقني يسهل على المشاهد فهم الفرق الشاسع في الأداء (نسبة عزل 8.4% مقابل 96.2%).\n*   **خلق حاجة للعميل (Pain Point):** يضع صانع المحتوى معياراً جديداً للشراء (\"لا تشتري من محل لا يملك جهاز فحص\")، مما يمنحه ميزة تنافسية كمرجعية تقنية في السوق.\n*   **الأسلوب الإقناعي:** يعتمد على التفاعل المباشر والتحدي (التصوير في بيئة العمل، فحص القطع أمام الكاميرا، استخدام لغة حازمة) لتعزيز صورة \"الخبير الأمين\".",
         "transcript": "إليك التحليل المطلوب للفيديو:\n\n التفريغ النصي للفيديو\n\n\"طبعاً بالنسبة للألترا كذب اسمه، اللي بيسميه ألترا كذب، اللي عزله هيو، تعالى شوف، تعالى طبق معي ع الجهاز، عزله 8.4، اللي هو نسبته تقريباً 100، بس قديش عزله معطيك؟ 8.4 أو 7، يعني بدنا نحكي 10، بدنا ندلعه ونحكيله 10. هذا الألترا كذب اللي بيحكولك عنه بعض الناس تمام؟ \n\nهذا الألترا نانو الأصلي، هذا شو نسبته؟ شفاف، طلع علي، شفاف نهائياً شفاف، يعني ما عليه أي نسبة، شوف نسبة عزله، طلع 96.2، ونسبة عزل الأشعة فوق البنفسجية 99.7، والنسبة ايش؟ شفافة، وهذا الألترا كذب اللي بيحكوا عنه، وهذا الألترا نانو الأصلي. لما بدك تروح عند محل، أي محل في كل المملكة، ما يكون عنده جهاز زي هاد، ويفحصلك إياه، ويفرجيك إياه، قديش نسبة العزل، لا تشتري.\"\n\n***"
       }
+    },
+    {
+      "ad_id": "1573369160732750",
+      "page_id": "1067526050103605",
+      "page_name": "غازي الزعبي لزينة و كهرباء السيارات",
+      "ad_body": "🔥 بكج على قدّ حاجتك وبسعر بيفرّحك!\n\nجهّز سيارتك، واختار البكج اللي بناسبك 🚗👌\nاسحب وشوف البكجات، واحكيلنا أي واحد عجبك!\n\n📍 معرض رقم 1: شارع الحرية – بالقرب من دوار الحويان\n📍 معرض رقم 2: شارع الجامعة الأردنية – بعد جريدة الدستور\n📞 064206337 | 0782011180\n\n#عروض #سيارات #توفير #منتجات #اكسبلور",
+      "ad_title": "",
+      "start_date": "2026-10-14",
+      "is_active": "TRUE",
+      "format": "MULTI_IMAGES",
+      "media_type": "image",
+      "platforms": "FACEBOOK | INSTAGRAM | AUDIENCE_NETWORK",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1573369160732750",
+      "video_url": "",
+      "image_url": "https://scontent.famm3-1.fna.fbcdn.net/v/t39.35426-6/851041837_1591159952758030_6177898656592916800_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeEEkr_Eph9RcseJuJLTw3xP0DZ9uz88Y4XQNn27PzxjhYndwOKwgEB6cnJbD6v9c83nV-bcHGm6NvikUw4TQG6F&_nc_ohc=jMm-kUmnquIQ7kNvwHrr2nV&_nc_oc=Adpl6dl6QWnPNm_p7JyOGHcUP4hlI5OkqeBXntiOFWPhnKEofDYhpU3PF_uj0PFGJmo&_nc_zt=14&_nc_ht=scontent.famm3-1.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQPmTXr_ZJvcn5P6oZfrfv1WOscrnw7m7XxJnyrqaAa_FA&oe=6AD69DFA | https://scontent.famm3-2.fna.fbcdn.net/v/t39.35426-6/848072749_1074689675562276_798595481185886254_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeGthO0tvQ2eifN3jkfEoz8B1pSa2IwVM0LWlJrYjBUzQsmBXViximTpyjcvHfzQp1Exp5zAlVPXKjgToz0tb5JN&_nc_ohc=p6upQ0H8nFQQ7kNvwHrM4cw&_nc_oc=AdqvKQXCRBq1aWMMfH8TgH0J_iBSnanjPitV3QmqdzBgg6pwl-Tn9KOPFJ9fOzSJfDE&_nc_zt=14&_nc_ht=scontent.famm3-2.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQM743Rd0p-sNxGKI008wvmIB9MdOOse0S9A842XgT3XkA&oe=6AD68431 | https://scontent.famm3-2.fna.fbcdn.net/v/t39.35426-6/849663716_1124465736887981_7266105650259335954_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeE7BAnprZhpBBguder8Vs2qUADG94sXRA9QAMb3ixdED43GBSBhiIdGt22wjW-Gmj4MRS173-aUwYoSiUiJOTKU&_nc_ohc=c4FM4aHGLXQQ7kNvwEb_5Pb&_nc_oc=AdoN5xz6AJYmMdx3mdufvKkRbMSdIuoh91Xy72EgpL69eYPjtY03oTmZeGT1vm7v__M&_nc_zt=14&_nc_ht=scontent.famm3-2.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQNQe0swEQ8qicJgalO-sK7sz6tFV2A_quugx4qas31T5w&oe=6AD68F00 | https://scontent.famm3-3.fna.fbcdn.net/v/t39.35426-6/850790315_1103048315917065_7048844893021334378_n.jpg?_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeGFDHCWmLUhA3_pJUp7CIIKK5YFrtKFmZUrlgWu0oWZlXy15foyEKB6Em_H2bJ3JRqpASQpawlyEnGU9sscNhVE&_nc_ohc=Cdq0Ph6E7lUQ7kNvwEyoTHa&_nc_oc=Ado3sYuiwJHsMidXdHHtNJe1A6lwYHPMyFv-dxAvNIWCGAGLIv4Pxb6ASoFBDxHlvMg&_nc_zt=14&_nc_ht=scontent.famm3-3.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQNitb-nLa4udhSqDeyf-cBf9v2idFHcka2dyPOHSWn7Tg&oe=6AD683C6"
+    },
+    {
+      "ad_id": "1827097971658412",
+      "page_id": "1067526050103605",
+      "page_name": "غازي الزعبي لزينة و كهرباء السيارات",
+      "ad_body": "🔥 بكج على قدّ حاجتك وبسعر بيفرّحك!\n\nجهّز سيارتك، واختار البكج اللي بناسبك 🚗👌\nاسحب وشوف البكجات، واحكيلنا أي واحد عجبك!\n\n📍 معرض رقم 1: شارع الحرية – بالقرب من دوار الحويان\n📍 معرض رقم 2: شارع الجامعة الأردنية – بعد جريدة الدستور\n📞 064206337 | 0782011180\n\n#عروض #سيارات #توفير #منتجات #اكسبلور",
+      "ad_title": "‎غازي الزعبي لزينة و اكسسوارات السيارات‎ (@ghazialzoubi.jo) • Instagram photos and videos",
+      "start_date": "2026-10-14",
+      "is_active": "TRUE",
+      "format": "CAROUSEL",
+      "media_type": "image",
+      "platforms": "INSTAGRAM",
+      "cta": "Visit Instagram profile",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1827097971658412",
+      "video_url": "",
+      "image_url": "https://scontent.famm3-1.fna.fbcdn.net/v/t39.35426-6/850352034_2330375651054650_2199219366894070526_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeFpt3X71Gw_gmF-vQgGVReSUhtLxenYR11SG0vF6dhHXRgdK73XtPNwiO5Be4F0TFOK13jMmmfaHLDPhU-M8oDZ&_nc_ohc=d3zyZDRa1LIQ7kNvwFcdDlI&_nc_oc=AdpVlTVEYcy8VXBHXx7JFuITjeedNC_ouBf7VTZamDPTHlPbGWNvu-m9_gyPs722yes&_nc_zt=14&_nc_ht=scontent.famm3-1.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQNlS4PC4GtJWVTbIXU2ArFQPAnDbhRSu_LPpyQrwuQoHQ&oe=6AD68627 | https://scontent.famm3-3.fna.fbcdn.net/v/t39.35426-6/850252755_2525993127908498_2333579638141698659_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeENdFm04SRZtws8u_j5K0u1pwXltv64dFmnBeW2_rh0WRN7EPoEvQEQcaaqP3QJyawMlkx8Y-mQNoXwq7rNlcoy&_nc_ohc=zAGPh9uFRxYQ7kNvwEwtSM5&_nc_oc=Adqv1PFYIA3GHf6n8gATI_hf35HJzXUvinRVMxLvEZejblL3bt9lquJp-g3jHXhuEek&_nc_zt=14&_nc_ht=scontent.famm3-3.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQMU2EZXLAsAk-X2E6s5iAK19mKzU4ATgVEWpthuE6auMQ&oe=6AD69211 | https://scontent.famm3-2.fna.fbcdn.net/v/t39.35426-6/850081338_1578883110655867_2550128174350507676_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeGLWD-i8ch-QxaQ7Wo3CfkjZLh6ukgZy5FkuHq6SBnLkYPczrOjIq_pvUAfhUDRXGffmSoFA2dFmBZzMFF8b24a&_nc_ohc=e53hd7tGYgIQ7kNvwHQnciY&_nc_oc=AdqbIJeyNBgOH5zA3-r6S0HRwc3CGaA3TOy1Mnji3bzTYZ1gg87nf76gfS3vCYyd4Ak&_nc_zt=14&_nc_ht=scontent.famm3-2.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQMW7GSOTVVz66WrLXrmy7Fi2flKVEce8Xy-CFu-tsht_g&oe=6AD692DA | https://scontent.famm3-2.fna.fbcdn.net/v/t39.35426-6/849075590_1666470668368634_650393995072333439_n.jpg?_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=c53f8f&_nc_eui2=AeG15y-552t7GSYNZzEEPd2BM5TuOKWfofczlO44pZ-h9_KNbKwkB7ICA5XWaHm-Y4sZRT0mHyJFOLjlB8ssGo5L&_nc_ohc=N-zGsc-dIBcQ7kNvwFPakdJ&_nc_oc=AdoqGiI5fwJSl-ygXN1Jjnb9ksuZdkNBr11cJsTJRcv4Ows-bzQuFHDZ4iYotmP5oFE&_nc_zt=14&_nc_ht=scontent.famm3-2.fna&_nc_gid=lG4Flg4m5ktoBpxSXTWNrA&_nc_ss=7b2a8&oh=00_AQPqZ3SkwG2ExH15j2dv9pJALUHZ0nn7a5PIsWH5vl0anA&oe=6AD69549"
     },
     {
       "ad_id": "1721255145646951",
@@ -86,7 +149,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1721255145646951",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOOeM6SsM_WB7Abe30-gmU4LIN4NfhsM_ZsLaluVRmvhNVnlKSy7uuI8tNpwSYshV649I6n0jzEZdWiPi1CJ-ACosqdxIkJIfTECZVRyBbK-g.mp4?_nc_cat=105&_nc_oc=AdoobUC584JuaZS-WTMvP7hZwaUVtyHzFrEmriSC8Ap1dvH9pniD-1TsTrFko3dIkrc&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=w22iSXvuE1UQ7kNvwHhhJXQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTU5MzU2MTk1OTA1NDcsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=25f3d1e8654d6ce5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NEJCMTVDRDk5QTU0QTI5ODBGMjQ0MkYxOUQ4QjZERV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDRTZBRDFCREJDQjQ4MjZBRkU0NzdENkU4NzQxMzQxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACampoPmkYTxBRUCKAJDMywXQEzRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=UKEmP9vez1Q1FIGkEdY9Jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGG4dhdP3RTf-6-vQ1dE838qHY5rlPz0XKodjmuU_PRcn-OftT0ypF0pnPoYoE9P9AkCGaPpnWE1NjvF0T12wW6&oh=00_AQPb1lm9oYG0_5196tQC3l_QJgz7lJV0AcNt7jI5grKenw&oe=6AD5483F",
+      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOOeM6SsM_WB7Abe30-gmU4LIN4NfhsM_ZsLaluVRmvhNVnlKSy7uuI8tNpwSYshV649I6n0jzEZdWiPi1CJ-ACosqdxIkJIfTECZVRyBbK-g.mp4?_nc_cat=105&_nc_oc=AdpKHI6-M9TkxBNe_xoYs080Tw2FFz8ai1SglWrw4foyZFGnYluDuq-xYcBBad0O58I&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=w22iSXvuE1UQ7kNvwGRD4fK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTU5MzU2MTk1OTA1NDcsImFzc2V0X2FnZV9kYXlzIjoxMywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjU3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=25f3d1e8654d6ce5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NEJCMTVDRDk5QTU0QTI5ODBGMjQ0MkYxOUQ4QjZERV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZDRTZBRDFCREJDQjQ4MjZBRkU0NzdENkU4NzQxMzQxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACampoPmkYTxBRUCKAJDMywXQEzRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=BR-LqshXPV5Gm1CX_ayw-w&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGG4dhdP3RTf-6-vQ1dE838qHY5rlPz0XKodjmuU_PRcn-OftT0ypF0pnPoYoE9P9AkCGaPpnWE1NjvF0T12wW6&oh=00_AQOFh41Je-m6z_Q-490lqRzbXneR3uj3a8Z7CMi9CgqG4Q&oe=6AD699BF",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -110,7 +173,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1788330145701500",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQPGb4SQmzsvoMHyEqpLE5kP7BnafNfpz64ij6zqEfIVqOvs7XlcLd43gIlqFapU1WQef4kK0VIxWT-BGmhIUr9V0Fp5-IVUGi4uxFVXQQ.mp4?_nc_cat=111&_nc_oc=Adq8FUJY4kuUqzRE9BwPYGPJ7vAiE_PWkNcZM8Dl8Jz-7Do2MKrj-Fe1Y25JzYiDyLk&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=pCfz714aWrcQ7kNvwGgDtdo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0MDE2NjI0NDE1MzAwMTI2LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=UKEmP9vez1Q1FIGkEdY9Jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHOnC2WZCc3cDQx3sfNJYm3J-P7eD-6_Sgn4_t4P7r9KL35bbJ63I-NI7XvXpXEz7A26E5q2KOEsgfCYaO3HWIh&oh=00_AQOj8fVAWXzICWoVwf27y4g71W2caDJvJDSOWNLQEqt9-g&oe=6AD51F77",
+      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQPGb4SQmzsvoMHyEqpLE5kP7BnafNfpz64ij6zqEfIVqOvs7XlcLd43gIlqFapU1WQef4kK0VIxWT-BGmhIUr9V0Fp5-IVUGi4uxFVXQQ.mp4?_nc_cat=111&_nc_oc=Adp1SB_pqzUfAPrTp6qs5VvQUt2H3OfF8U3ZY_s1UZszTt9iTtWabQLemEam8jdcRdo&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=d-5_19XGwqQQ7kNvwHSR_qW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0MDE2NjI0NDE1MzAwMTI2LCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=BR-LqshXPV5Gm1CX_ayw-w&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHOnC2WZCc3cDQx3sfNJYm3J-P7eD-6_Sgn4_t4P7r9KL35bbJ63I-NI7XvXpXEz7A26E5q2KOEsgfCYaO3HWIh&oh=00_AQMJmZb6TR-_ciq1erkKxPamj8BdkXG1G523l9jI_uOgGQ&oe=6AD6A937",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -134,7 +197,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2953630681657677",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMGuGCuomNsr0KCoyiDgxP0RApX5FBpSuS6jnJ8M7bAMAvRWYjnP7ClHWUa5RobN_dg0Xe182-RZUpPeTr6hgljGK4_XllhrRmcM9I1tP8waA.mp4?_nc_cat=102&_nc_oc=Adq9ecJW4Co7tIdPrAnWZ6zCG0JJbYVN5yhEY5M_iVBELjofIofrMpMbGrdUDcuWYhI&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=SNfEMS0FC90Q7kNvwEqQmih&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDc3OTA5NjAyMDMyMjEsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e9ee35917e5d7d17&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRTY1QzU2NzA5NzU0QTlEQjI2RjdEQkU2REZFRjVFNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAxQUNERTIyOTAwRDQ3QUNCQURFQTE3MDJDRkQ1QTc5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq16Kew7CSBRUCKAJDMywXQDsqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=UKEmP9vez1Q1FIGkEdY9Jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFnOIAI-GweREzAR--Bkd5IBMDpEvXWHPUEwOkS9dYc9b-JJ0TW4GHp83GHbFmYh3CuhuTi4egjrOS8z8HvZZg8&oh=00_AQPIXsDLowyWTvTVeyeBVmvHUsulWyJf-6ZSpW3xnVmZ_A&oe=6AD5276A",
+      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMGuGCuomNsr0KCoyiDgxP0RApX5FBpSuS6jnJ8M7bAMAvRWYjnP7ClHWUa5RobN_dg0Xe182-RZUpPeTr6hgljGK4_XllhrRmcM9I1tP8waA.mp4?_nc_cat=102&_nc_oc=AdquaJDtzATyBX4kOcLPyEkYh_6skxK5JwvXxdFtXLdNZElQ6xpgvbN-kNJjVk2UVm8&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=GoFtRYsVjewQ7kNvwE-0fXD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDc3OTA5NjAyMDMyMjEsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e9ee35917e5d7d17&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRTY1QzU2NzA5NzU0QTlEQjI2RjdEQkU2REZFRjVFNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAxQUNERTIyOTAwRDQ3QUNCQURFQTE3MDJDRkQ1QTc5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq16Kew7CSBRUCKAJDMywXQDsqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=BR-LqshXPV5Gm1CX_ayw-w&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFnOIAI-GweREzAR--Bkd5IBMDpEvXWHPUEwOkS9dYc9b-JJ0TW4GHp83GHbFmYh3CuhuTi4egjrOS8z8HvZZg8&oh=00_AQPw_omFVTpNkJsRV6KoZEUT917cnwzAng7-O638ivnnOQ&oe=6AD678EA",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -158,7 +221,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Visit profile",
       "ad_url": "https://www.facebook.com/ads/library/?id=1845352343488031",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMiX6Wc8TCmjSJ3RlyYHDEGr7CpnZHuLzjQDxyufFkRCGif3vHE5DbfF25IaMCXLNcYeMIIx1-ueMNpVVi4vuNYPfPH8pAyb3ETK-W5amZrgg.mp4?_nc_cat=101&_nc_oc=Adr_X5dxsBTlgq85l_1KjjeimgcAryD5gXI3sZKBB9EDKy_iH1a77dTJXu-uQAr3CGg&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=ofSMka2LVmgQ7kNvwEh3Fb4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzUwNDk4NjcwNzc5MTYsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ee441505a18b3519&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTk5MzE2ODFCQTI0MEM2QTVCMDQ1MUMxMDY1REEwNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzQTM1MDVCRjc3NjQyOTg4Q0Y1M0JEMjIxMzFENzM2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4pI-Wg7H4BxUCKAJDMywXQEvZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=6dKXjs8Y0A-fh9B8f5TxsA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEco0XFtjY4mp_i332bOrfIjxgjsro7z8ePGCOyujvPx3g_Nm6OHlF-mB4ZwXA3bx53rbOSUmNeLgyExFTxFljE&oh=00_AQMWojw5s4I6VTDdXTq9t0hwZCEm1k5khOgAQn0UsOv1Gg&oe=6AD54773",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMiX6Wc8TCmjSJ3RlyYHDEGr7CpnZHuLzjQDxyufFkRCGif3vHE5DbfF25IaMCXLNcYeMIIx1-ueMNpVVi4vuNYPfPH8pAyb3ETK-W5amZrgg.mp4?_nc_cat=101&_nc_oc=AdoolHnaQ25xtkt83-hsH4-GzG5xLY4PfClrCvVgu2eMdkyEnNhmqnBk8wG7w8GnO4U&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=cOYZ15BSHykQ7kNvwGAAhdV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMzUwNDk4NjcwNzc5MTYsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ee441505a18b3519&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTk5MzE2ODFCQTI0MEM2QTVCMDQ1MUMxMDY1REEwNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzgzQTM1MDVCRjc3NjQyOTg4Q0Y1M0JEMjIxMzFENzM2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa4pI-Wg7H4BxUCKAJDMywXQEvZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ElNfhC7QbvC_783jW_lnBw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEco0XFtjY4mp_i332bOrfIjxgjsro7z8ePGCOyujvPx3g_Nm6OHlF-mB4ZwXA3bx53rbOSUmNeLgyExFTxFljE&oh=00_AQP1IjmOF_95galFETg8ruVPGOCMn36xIJxk0TxO3-yVOA&oe=6AD698F3",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -182,7 +245,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | AUDIENCE_NETWORK",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1373116424620790",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMbYJb1RVsHWM9TqJZVYbQXY37kMhN4szM_Cc7Tuvchnrd2fTWvDzkofq-4cde-YR8jTQ0aevVqjhOwvG76NTOFVqkhZg5_nDywjQPqdZEtbg.mp4?_nc_cat=102&_nc_oc=Adq5suWopnWSIXJGpqxKnOV28Mdugw8h7TWVltJaflkRbLUZhZ77D_8me7XrCMWFv5w&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=Z_SbqTermuUQ7kNvwGM-0_I&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTQwODIxNjMyMzk0OTIsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8fd0c94fdcd56f13&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNzQzNDcxMTA4OTQ0QUQ2QjhCMzRFOEFCMTlBOTEyRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJBRkFBQUY3OTRFOTQyOENBQ0JEODdGQTBDNUFGMTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIqYOt3J6VBRUCKAJDMywXQDrMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=6dKXjs8Y0A-fh9B8f5TxsA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHLfZ_1j0Ycv4vMTrpHIxT_EIURQG5uKMQQhRFAbm4oxChYmCHLYxLSsJN3y3OGPBeu5cwSOi2kyCT0w1ORR8mW&oh=00_AQOLZHV1MFhTRoR8J2dyJHyG6NVCQN6Ixy6Ju7YHzxyiTA&oe=6AD5474E",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMbYJb1RVsHWM9TqJZVYbQXY37kMhN4szM_Cc7Tuvchnrd2fTWvDzkofq-4cde-YR8jTQ0aevVqjhOwvG76NTOFVqkhZg5_nDywjQPqdZEtbg.mp4?_nc_cat=102&_nc_oc=AdpaGzq1X29NTXy-0ySkQpO0xwp-KOo13eTbib6ALXvWyQlYZ4S14QFFCfgWDHslskw&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=Z_SbqTermuUQ7kNvwGYPM9X&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTQwODIxNjMyMzk0OTIsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8fd0c94fdcd56f13&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xNzQzNDcxMTA4OTQ0QUQ2QjhCMzRFOEFCMTlBOTEyRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJBRkFBQUY3OTRFOTQyOENBQ0JEODdGQTBDNUFGMTkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIqYOt3J6VBRUCKAJDMywXQDrMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ElNfhC7QbvC_783jW_lnBw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHLfZ_1j0Ycv4vMTrpHIxT_EIURQG5uKMQQhRFAbm4oxChYmCHLYxLSsJN3y3OGPBeu5cwSOi2kyCT0w1ORR8mW&oh=00_AQOLrADofao_L5saEOi20VdzNDeinswM3yJ80qEV48wOBQ&oe=6AD698CE",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -206,7 +269,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | AUDIENCE_NETWORK",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1075603655341077",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMvCqlowPOlJMPB29fGzzrYTlWB-PmVhuai_-pbNTWfcVD_w_xIaVFji4TnW0KMVQL5bwkzN1u71D1rUk-8spNxCu9xPEW34qXp0AE9k89aCQ.mp4?_nc_cat=111&_nc_oc=AdqoUn-KQZ-dvlOm7ZKJJvqRAhvsj7FfT5Zy2MWEU16VCS-xsPPA5FI4b6gQmu6GGDQ&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=5sjdyHTMDDoQ7kNvwESk8Gm&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI1NjIyMDM3OTcyMDYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ae55a72eab319e6f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTI1OTVGRjA5OEI0M0RCQUI3QTgxMTk3ODg0REQ4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNjAwMUE3Q0M5QTQwRjdBNkI0ODFDMTk3RDI1RDBGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasm4HdnuSKBhUCKAJDMywXQD6iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=6dKXjs8Y0A-fh9B8f5TxsA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHDo6eGsTWMW-byEBkDxy2G6i1-5P92ndrqLX7k_3ad2l9Lggeyk5lkO-UIm3ZTvEn7iMrBC3XGYbiNedQqklAy&oh=00_AQP5fdop9Nl8x6jYTHUYAXu_XB4MrrtGxbvk75StChdHXg&oe=6AD528C9",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMvCqlowPOlJMPB29fGzzrYTlWB-PmVhuai_-pbNTWfcVD_w_xIaVFji4TnW0KMVQL5bwkzN1u71D1rUk-8spNxCu9xPEW34qXp0AE9k89aCQ.mp4?_nc_cat=111&_nc_oc=AdpeuueclY4xUCvltI4i5GYzicq8Rv1u3EPBDMEGhWS7SFqEgyA46ilAAGz_C-l7NIg&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=5sjdyHTMDDoQ7kNvwGnteJk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MTI1NjIyMDM3OTcyMDYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ae55a72eab319e6f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EMTI1OTVGRjA5OEI0M0RCQUI3QTgxMTk3ODg0REQ4MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZDNjAwMUE3Q0M5QTQwRjdBNkI0ODFDMTk3RDI1RDBGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasm4HdnuSKBhUCKAJDMywXQD6iDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=ElNfhC7QbvC_783jW_lnBw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHDo6eGsTWMW-byEBkDxy2G6i1-5P92ndrqLX7k_3ad2l9Lggeyk5lkO-UIm3ZTvEn7iMrBC3XGYbiNedQqklAy&oh=00_AQN5BeZzbkFrWXpMH6B6GtrADbiD42sQSA2egoCy7b3WXw&oe=6AD67A49",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -215,102 +278,6 @@
         "result_type": "video_understanding",
         "summary": "### 2. الملخص الاستراتيجي:\n\n*   **القيمة المقترحة:** ركز الفيديو على مفهوم \"راحة البال\" من خلال حزمة حماية وتجهيز متكاملة للسيارة، مما يحول عملية الشراء من \"مستهلكات\" إلى \"حل جذري لمشاكل السيارة\".\n*   **بناء الثقة (المرجعية):** استخدام اسم \"SR\" كعلامة تجارية عالمية (مختصة) يرفع من قيمة المنتج في نظر العميل ويزيد من مصداقيته مقارنة بالمنتجات مجهولة المصدر.\n*   **استراتيجية البيع (Up-selling):** عرض مجموعة متنوعة من المنتجات (فرش، أرضيات، تظليل، دلايات، هوايات) في عرض واحد يخلق رغبة لدى المشاهد في الحصول على الحزمة الكاملة بدلاً من قطعة واحدة.\n*   **وضوح \"دعوة لاتخاذ إجراء\" (CTA):** قدم صانع المحتوى موقعاً جغرافياً دقيقاً ومميزاً (\"بعد دوار المشاغل، 500 متر\")، مما يسهل على العميل الوصول الفعلي للمتجر.\n*   **نبرة التواصل:** استخدم أسلوباً ودوداً، حماسياً، وعفوياً (لغة الشارع) لجذب الجمهور المستهدف وتكسير الحاجز بين البائع والمشتري.",
         "transcript": "بصفتي محلل محتوى منافس، قمت بتحليل الفيديو الخاص بـ \"SR\" وإليك النتائج:\n\n التفريغ النصي للفيديو:\n\n\"وهيك الزلمة اشترى وراحت باله.. وتعال أنت يا مشاهد شوف شو راحت باله! حمى سيارته بالكامل بمنتجات SR العالمية. بنبلش معكم فرش تنجيد، أرضيات TPE طبقتين، وأكيد ضباب Ultra Shade المختص بعلامة SR العالمية، وأرضية الصندوق، وغلاف SR، وأكيد الدلايات، وما ننسى الهوايات المطرية. تعال استغل بأفضل سعر على مستوى المملكة، وتعال علي بستناك، موقعنا بعد دوار المشاغل، 500 متر على إيدك اليمين، مملكة الإكسسوارات، متوفر بجميع فروعنا، سلام.\"\n\n---"
-      }
-    },
-    {
-      "ad_id": "1091812240430241",
-      "page_id": "1067526050103605",
-      "page_name": "غازي الزعبي لزينة و كهرباء السيارات",
-      "ad_body": "🌧️ شتوية وبدك تحمي سيارتك؟ 🚗\n\nشادر السيارة بحميها من المطر والغبرة، وخليها جاهزة لكل طلعة! 🔥\n\n📍 شارع الحرية – بالقرب من دوار الحويان\n📍 شارع الجامعة الأردنية – بعد جريدة الدستور\n📞 0782011180 | 064206337\n\n#شادر_سيارة #عروض_سيارات #اكسسوارات_سيارات",
-      "ad_title": "",
-      "start_date": "2026-10-13",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "INSTAGRAM",
-      "cta": "Visit Instagram profile",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1091812240430241",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQPH_TQUmLG22kq-0c2LFlk-5joEFjydQTDRdSX9fi1uE4Gs-FecdXya99XfB2mvd_rvJ7S8DbWw7zRmpVagGWF691wy5YHm5IgjCpxEEjJskQ.mp4?_nc_cat=103&_nc_oc=AdrpdNpXmzibKIGXejIHFpkSjs3Z8_9SSfOah6KRRH9QcR2ZaJMULMs2OIszTiWvpOA&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=xw2BTqMLP4sQ7kNvwEpEfEC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1MTIxOTI2NjU5MzI2MjYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=599e4059ab04e53d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RDREMjlCRDU0OTk0OEY4QTk5RDYwNzQ0OUMwRDYwQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyOTFBREVBNUMwMjQ0RkM5RUYwQ0Y0Mzk2N0MxNEM5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakza737bT2CBUCKAJDMywXQEPqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Rs1TFofmsW8izlLLE605wA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFyBr_jRu9BIi7SLTTi9LzLzZaLBdZBejXNlosF1kF6NeGiUT7iGqGXrFiVF5GORokwvR94JINYTc21qk_F03e7&oh=00_AQOV1TLvteaahq13ttTuqaici92g2Zmk4rixCc1P_uIXcg&oe=6AD544B5",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. الملخص الاستراتيجي\n\n*   **عرض القيمة (Value Proposition):** ركز الفيديو على \"حماية شاملة لجميع أنواع السيارات\" من العوامل الجوية (شمس، مطر، خدوش) بسعر منافس جداً (15 دينار).\n*   **بناء الثقة:** تم التركيز على الجودة عبر ذكر ميزات تقنية مثل \"ووتر بروف\" والخامة الداخلية الناعمة للحماية من الخدوش، مما يبرر القيمة مقابل السعر.\n*   **سهولة الوصول للعملاء:** تم تعزيز مصداقية المحل من خلال ذكر فرعين بوضوح، مع تقديم علامات مميزة للمواقع الجغرافية (دوار الحويان، جريدة الدستور).\n*   **أسلوب الترويج:** استخدام نمط \"العرض السريع\" والتركيز على السعر كعامل جذب أساسي، مع تكرار السعر عدة مرات لترسيخه في ذهن المشاهد.\n*   **ملاحظة للمنافسين:** الفيديو قصير، مباشر، ويخاطب شريحة واسعة من أصحاب السيارات بأسلوب عملي، وهو نموذج فعال للتسويق الميداني الذي يجمع بين التوعية بالمنتج والبيع المباشر.",
-        "transcript": "التفريغ النصي للفيديو\n\n- **00:00 - 00:02:** (صوت موسيقى تصويرية مع حركة سريعة للكاميرا)\n- **00:02 - 00:04:** بس بـ 15 دينار.\n- **00:04 - 00:06:** بس بـ 15 دينار راح تحمي سيارتك.\n- **00:06 - 00:08:** صيف، شتاء، برد، في أي حالة جوية راح تحميها.\n- **00:08 - 00:10:** لأنه هذا الشادر راح يغطي لك السيارة بالكامل.\n- **00:10 - 00:13:** وشو ما كان حجم سيارتك، سواء كان صغيرة، سيدان، جولف، كروس أوفر، SUV..\n- **00:13 - 00:16:** وتوفر جميع الأحجام.\n- **00:16 - 00:19:** والأحلى من هيك تحمي لك سيارتك من أشعة الشمس، من المطر، لأنها ووتر بروف (Waterproof).\n- **00:19 - 00:22:** ومن الداخل بتيجي بخامة ناعمة جداً على بودي السيارة عشان ما تتخدش بالمطر.\n- **00:22 - 00:24:** كل هذا وأكثر عاملين لك عليه عرض جداً قوي.\n- **00:24 - 00:27:** فقط بـ 15 دينار عند محلات غازي الزعبي لزينة واكسسوارات السيارات.\n- **00:27 - 00:29:** بالفرعين، اللي مقابلين مقابل دوار الحويان، والفرع الثاني شارع الجامعة بعد جريدة الدستور.\n\n---"
-      }
-    },
-    {
-      "ad_id": "1100151532632948",
-      "page_id": "1067526050103605",
-      "page_name": "غازي الزعبي لزينة و كهرباء السيارات",
-      "ad_body": "عرض على الصبهوفر 🤯🔥",
-      "ad_title": "",
-      "start_date": "2026-10-13",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "INSTAGRAM",
-      "cta": "Visit Instagram profile",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1100151532632948",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOZQo2AlQRGCAa1mdeJmoa_JOskzgDUwNGguoyizrI_jOnQBhmfUw4ND8lNFiXnygS9KgeWWdpmd5WSW5Ynird40pCs10x2N8SXh6HtJ-xyXQ.mp4?_nc_cat=102&_nc_oc=Ado3BRT0lOYC0yAU-bOUj8vlg7hKJKA-H1fGtl7IWLw2WpXuaDfHapberY18hAgk0fU&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=uU8STFq6knoQ7kNvwHY6Qr9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MzU3MzIwNDQ1Njg3NzUsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e852914fb34453e0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yRERCNkFENUY0OUM0MDMxQUQ1NjAyMzRBNUJDNjU0QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FCMjI0NTg0OEQ2RjQ4RDk5MTg3NkQxNkMyNDFBMzI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO47a3keznBRUCKAJDMywXQDUAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=Rs1TFofmsW8izlLLE605wA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGoi6rMjUt92g7grILf2LH-YEvKE5QvjthgS8oTlC-O2KuIsmvHiwsXRFFCa_siFVheVDdkMRs9LIl8izYq389A&oh=00_AQMNT8tknfTR2OsU3ioLFmeqb8WU8tPpnUaGQqCOxuasIw&oe=6AD533C2",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **العرض القوي:** يتمحور الفيديو حول عرض ترويجي (قيمة مقابل سعر) يتمثل في بيع وتركيب \"صب ووفر\" للسيارات بسعر منافس جداً (35 دينار شامل التركيب).\n*   **تحديد الجمهور المستهدف:** الشباب من مالكي السيارات الراغبين في تحديث النظام الصوتي لمركباتهم، مع التركيز على \"الأداء العالي\" (1500 واط).\n*   **استراتيجية الإقناع:** استخدام أسلوب المبالغة الإيجابية (بيهز الأرض والعمارة) لخلق رغبة شرائية، مع إبراز \"شمولية العرض\" (منتج + أمبليفاير + أسلاك + تركيب) لرفع القيمة المتصورة.\n*   **عامل الثقة:** الإشارة إلى اسم المتجر (غازي الزعبي) وتوفر فرعين يعزز من مصداقية العلامة التجارية ويسهل وصول العملاء.\n*   **الدعوة لاتخاذ إجراء (CTA):** تكرار السعر والمزايا في ختام الفيديو لترسيخ الفكرة وتوجيه المشاهد للزيارة.",
-        "transcript": "بناءً على طلبك، إليك تحليل محتوى الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"يا عم جيبلك عرض على الصب ووفر الأندر سيت الـ 1500 واط، بيركب معك تحت المقاعد وموجود منه فيه أمبليفاير زائد أسلاك وجدلاته بالكامل، عليه عرض سعر بس 35 دينار شامل التركيب، إذا بدك مسجل بيهز الأرض والعمارة ما إلك إلا غازي الزعبي لزينة واكسسوارات السيارات بالفرعين ولا تنسى، 35 دينار شامل التركيب.\"\n\n---"
-      }
-    },
-    {
-      "ad_id": "1961664334509939",
-      "page_id": "1067526050103605",
-      "page_name": "غازي الزعبي لزينة و كهرباء السيارات",
-      "ad_body": "عرض على الصبهوفر 🤯🔥",
-      "ad_title": "",
-      "start_date": "2026-10-13",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | AUDIENCE_NETWORK",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1961664334509939",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQM4EU5VDkK_LQjdPSf62_oQGqjVbPBy16qy1kU86rV6d2t1L1NkrkiO49sK1LHfWcXi7m3TN6rcuV57VvETXQuRzjaqPfNAqvkCcuEJoA.mp4?_nc_cat=107&_nc_oc=AdoE0ql6OAsj-s0uJPHRi6hX_1AJ6oKdFWvQ4OozUrST6jD8dcW8P9VMBr5pWRcB9LE&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=X8k7p4uxDHEQ7kNvwHl4_Nq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzQ3NTQ5NjY2MzU1NTU0LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Rs1TFofmsW8izlLLE605wA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeF1NK6nsZ35rkcHBJwsx9BCiuFWL6hR152K4VYvqFHXnVkWhNkS9zlPyhUh1vtzlttg1CjhftLjQyYCChdvwt3j&oh=00_AQNGpfUJcsdp_tCnMhQHrqsG-bglbQpTE7d3saUCcSr3nA&oe=6AD53F97",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. ملخص استراتيجي:\n*   **القيمة المقترحة:** تقديم عرض متكامل (منتج + ملحقات + خدمة تركيب) بسعر تنافسي ومحدد (35 دينار).\n*   **استهداف الجمهور:** التركيز على فئة الشباب المهتمين بتطوير أنظمة الصوت في سياراتهم (تحسين الأداء/الباس).\n*   **عنصر الجذب:** استخدام لغة حماسية ومباشرة (\"بيهز الأرض والعمارة\") لتعزيز الشعور بقوة المنتج.\n*   **الاستدامة والانتشار:** الإشارة إلى وجود فرعين للمحل لزيادة الموثوقية وتسهيل الوصول للجمهور.\n*   **استراتيجية الإقناع:** تكرار عرض السعر (35 دينار شامل التركيب) مرتين لترسيخ السعر في ذهن المشاهد كأفضل خيار متاح.",
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"اليوم جايبلك عرض على الصبوفر الأندرسيت الـ 1500 واط، بيركب معك تحت المقاعد، وموجود منه فيه أمبليفاير زائد أسلاك وجدلاته بالكامل، عليه عرض سعر بس 35 دينار شامل التركيب. إذا بدك مسجل بيهز الأرض والعمارة ما إلك إلا غازي الزعبي لزينة واكسسوارات السيارات بالفرعين، ولا تنسى 35 دينار شامل التركيب.\"\n\n---"
-      }
-    },
-    {
-      "ad_id": "1861985928117030",
-      "page_id": "1067526050103605",
-      "page_name": "غازي الزعبي لزينة و كهرباء السيارات",
-      "ad_body": "🌧️ شتوية وبدك تحمي سيارتك؟ 🚗\n\nشادر السيارة بحميها من المطر والغبرة، وخليها جاهزة لكل طلعة! 🔥\n\n📍 شارع الحرية – بالقرب من دوار الحويان\n📍 شارع الجامعة الأردنية – بعد جريدة الدستور\n📞 0782011180 | 064206337\n\n#شادر_سيارة #عروض_سيارات #اكسسوارات_سيارات",
-      "ad_title": "",
-      "start_date": "2026-10-13",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | AUDIENCE_NETWORK",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1861985928117030",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQN6uJOSQkTUgGahdXv8iTTcd76hMQlIphyhvyP9odmlCRDbcRK-Te-Ajhh8R0xKX-h-e_dQ6pa8zyCDa93wpAScAU3TVXkWesmOHzEaiw.mp4?_nc_cat=109&_nc_oc=AdplQkqOgRONqwC15AlOsPZ66OmOGgQd7nLffxKkcWi_ycNfJzIfm271QZgCC1mBf1I&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=AD0RlLPMgkAQ7kNvwEhNcEr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODgwNTgwMDgyOTI4NTQxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Rs1TFofmsW8izlLLE605wA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFYrD6IiLMqe64NBxGfUDfcHQdfevVbQiAdB1969VtCIHAi5TtAi9g2tEnEqC-905mOlPrrFWt4AL8F96hY9TjI&oh=00_AQPgXJD0rDw-5zwnx-cOMexlVDVe6vpwoAYYuvSVMtsOZA&oe=6AD535E9",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. ملخص استراتيجي:\n\n*   **العرض الترويجي:** التركيز على \"عامل السعر\" كحافز أساسي للشراء، حيث تم ربط قيمة المنتج (15 دينار) بالفائدة الكبيرة التي يقدمها (حماية كاملة للسيارة).\n*   **خطة الانتشار:** استهداف شامل لمختلف فئات السيارات (سيدان، SUV، إلخ) لزيادة قاعدة الجمهور المستهدف.\n*   **إبراز القيمة المضافة (USP):** التركيز على جودة المنتج التقنية:\n    *   مقاوم لجميع الظروف الجوية.\n    *   مقاوم للماء (Waterproof).\n    *   بطانة ناعمة لحماية طلاء السيارة من الخدوش.\n*   **التصميم الدعائي:** الاعتماد على \"التصوير الشخصي\" (Personal Branding) من داخل المحل لإعطاء مصداقية أكبر، مع تقديم \"دعوة لاتخاذ إجراء\" (CTA) واضحة ومحددة تتضمن المواقع الجغرافية للفرعين.",
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"بس بـ 15 دينار. بس الـ 15 دينار رح تحمي سيارتك؛ صيف، شتاء، برد، في أي حالة جوية رح تحميها، لأن هذا الشادر رح يغطي لك السيارة بالكامل، وشو ما كان حجم سيارتك سواء كان صغيرة، سيدان، جولف، كروس أوفر، SUV؛ متوفر بكافة الأحجام. والأحلى من هيك بتحمي لك سيارتك من أشعة الشمس، من المطر لأنها (Waterproof)، ومن الداخل بتيجي بخامة ناعمة جداً على بودي السيارة عشان ما تتخدش بالمرة. كل هذا وأكثر عاملين لك عليه عرض جداً قوي، فقط بـ 15 دينار عند محلات غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين؛ اللي مقابلين مقابل دوار الحويان، والفرع الثاني شارع الجامعة بعد جريدة الدستور.\"\n\n---"
       }
     },
     {
@@ -326,7 +293,7 @@
       "platforms": "FACEBOOK",
       "cta": "Visit profile",
       "ad_url": "https://www.facebook.com/ads/library/?id=3177250795800125",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPb0tE8SkIq6YmZbp8GwW10H94oxeHXHKrRNhZ7Kfn_zU5Gb-0jwkupMGCxibXdxQRYKrrB-2uaZjXrH1aYlB5nC3_F_41CAN3tip_24L1J_g.mp4?_nc_cat=111&_nc_oc=Adosn5GD77U8LtaYInl-fR7zQfMwXtf6q0RVUI5AFfCn57Iw-RzHKjKj8XAM6DpDWLc&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=YAZSenOuSgcQ7kNvwH8gT7R&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjgxNzM4OTYyNDgwMTgsImFzc2V0X2FnZV9kYXlzIjoxMTIsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=73e0fcf701926d03&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQTQ2N0JGQ0Q4RUU0OTNDQUJERjQxNzhFRTVCOThCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I0NDAwOEZEQTlGNzlDQTZCNEJENEZGQ0Q2MTRFMEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakq9O9zMfTAxUCKAJDMywXQEKu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=N3B0EmK9WOMsgWbi6vHbsQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEMd-Jv3rHi_Y7skjTboq2fg1Pv50JXP26DU-_nQlc_bit51XLaNlcV8dLWbig0Nw5UGzviEMaTYEiwL9SXvp_M&oh=00_AQMG93ZgF7jug55lm05Q7U4lZLC5f1H2WThDWj30Umu95Q&oe=6AD51679",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPb0tE8SkIq6YmZbp8GwW10H94oxeHXHKrRNhZ7Kfn_zU5Gb-0jwkupMGCxibXdxQRYKrrB-2uaZjXrH1aYlB5nC3_F_41CAN3tip_24L1J_g.mp4?_nc_cat=111&_nc_oc=Adp7DDsLZuLqrJtvjoTrukiJmFjWU7G_JPeOEkUo0U-jVfmM_U3JnTXQJsbcTfSE2RY&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=YAZSenOuSgcQ7kNvwHu860N&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMjgxNzM4OTYyNDgwMTgsImFzc2V0X2FnZV9kYXlzIjoxMTMsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjozNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=73e0fcf701926d03&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQTQ2N0JGQ0Q4RUU0OTNDQUJERjQxNzhFRTVCOThCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I0NDAwOEZEQTlGNzlDQTZCNEJENEZGQ0Q2MTRFMEIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakq9O9zMfTAxUCKAJDMywXQEKu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Oqr0CylHr4E0J_O20vTJBg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEMd-Jv3rHi_Y7skjTboq2fg1Pv50JXP26DU-_nQlc_bit51XLaNlcV8dLWbig0Nw5UGzviEMaTYEiwL9SXvp_M&oh=00_AQNdRylY6P02j5eJA0UnVe2OZpjBYZ420N8wfExcBbVLkg&oe=6AD6A039",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -350,7 +317,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=3853980161423017",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNDFwAAUpUIHWaQoac1echMD2dmT8ZBHzJbSA4f8OBJXtpFRpA1eG2t0sALbDEXpEBwIHW6HBZf0e5e6zVcdztHWbBbiATZMiDfJsLUW_Fs5A.mp4?_nc_cat=106&_nc_oc=AdpODOQJuVt4aNoSCdItiW6OIVI8XKpGU2XXSIskJ6nWTHcUrpmfhHBOvjkTRMBlgb8&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=nGSEa6lu_JoQ7kNvwEZ83NU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDE4OTM5Mzc2ODIwOTYsImFzc2V0X2FnZV9kYXlzIjo4NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=172a4e8b47b79720&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQ3RUUyQzNERkI1NDcwMkI4NDVCNkZENDQzQzZCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NDZDQjFCMUVENEQyQkFERkZGMDI1QTk5MUJFRkJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbg2s75ofeFBhUCKAJDMywXQD1mZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=N3B0EmK9WOMsgWbi6vHbsQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFPz8R6csxlotar-ofdRbF3vPLBcVjE4Jy88sFxWMTgnC7zGeYAF3OSEh0TfcvQ0PG64IiGZdga5AQyPJ3yEow6&oh=00_AQMSMaXtJgbx_8bDS_Wg5CMS62unCNZNBSoGW5YaAj-8iQ&oe=6AD53316",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNDFwAAUpUIHWaQoac1echMD2dmT8ZBHzJbSA4f8OBJXtpFRpA1eG2t0sALbDEXpEBwIHW6HBZf0e5e6zVcdztHWbBbiATZMiDfJsLUW_Fs5A.mp4?_nc_cat=106&_nc_oc=Adph154blz0dgcbwI6BgRXzptVQyahHBZboox3Aq1xhMLZtb80Ql39XOPvLqmI7ztNQ&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=nGSEa6lu_JoQ7kNvwFp81ci&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3MDE4OTM5Mzc2ODIwOTYsImFzc2V0X2FnZV9kYXlzIjo4NywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjI5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=172a4e8b47b79720&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DMzQ3RUUyQzNERkI1NDcwMkI4NDVCNkZENDQzQzZCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ0NDZDQjFCMUVENEQyQkFERkZGMDI1QTk5MUJFRkJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbg2s75ofeFBhUCKAJDMywXQD1mZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Oqr0CylHr4E0J_O20vTJBg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFPz8R6csxlotar-ofdRbF3vPLBcVjE4Jy88sFxWMTgnC7zGeYAF3OSEh0TfcvQ0PG64IiGZdga5AQyPJ3yEow6&oh=00_AQN7i_RvBR_fOUzJaTL77ZEycLrslal_1VdCedmKBDDltQ&oe=6AD68496",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -374,7 +341,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4440888142891910",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNNO2czHamcrmGJfr0LwAh2d98l8Zxeo5jvHoxTPn5E3fiGkFyBoPCcqsNxCC_f6Six0zLV-GXuGwRNBoSFzndsJhxvuvEv_aZOn-ALYLw1TA.mp4?_nc_cat=103&_nc_oc=AdrmOK60K3iQaZXpCaPC3jso1EbnuuR04vOFhJqjKHT1CTieLAnjTpGhKjbRFGAfliM&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=xqnD8UDhlQkQ7kNvwEOrAOR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1Mzc3MzMzNTA4NTcxMzg0LCJhc3NldF9hZ2VfZGF5cyI6MzIwLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a27490505c0b5d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRCOTIyMDUxNEM2Qjc3Mzg1RENCMzgxRkMwMjk4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FENEUzQTdGNzE2NkNBQUE3QjZCRjQzNTJCMTBENzkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwg4DSnKOUWhUCKAJDMywXQDjMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=N3B0EmK9WOMsgWbi6vHbsQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHGMSkDvNbdj2sP3LXSF05svu0VD-nzAp2-7RUP6fMCnX85WHDodWj1X_vzJ3QRRfdzYDsUM9Vr8OzaZtIKQoDw&oh=00_AQPh0q2xrPQBl6Ez0JrUK_tEjan9Addf3Xh6dlQfUBh3uQ&oe=6AD54B85",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNNO2czHamcrmGJfr0LwAh2d98l8Zxeo5jvHoxTPn5E3fiGkFyBoPCcqsNxCC_f6Six0zLV-GXuGwRNBoSFzndsJhxvuvEv_aZOn-ALYLw1TA.mp4?_nc_cat=103&_nc_oc=AdoSWjFckXL7sqs-kqrF4RyTmG0HrcxonoG7bjDkRvIkjaMVLha-m51m_7rLe2lOJtc&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=NToJG3ZB35cQ7kNvwFmFXZF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1Mzc3MzMzNTA4NTcxMzg0LCJhc3NldF9hZ2VfZGF5cyI6MzIyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a27490505c0b5d1&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNDRCOTIyMDUxNEM2Qjc3Mzg1RENCMzgxRkMwMjk4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FENEUzQTdGNzE2NkNBQUE3QjZCRjQzNTJCMTBENzkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbwg4DSnKOUWhUCKAJDMywXQDjMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Oqr0CylHr4E0J_O20vTJBg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHGMSkDvNbdj2sP3LXSF05svu0VD-nzAp2-7RUP6fMCnX85WHDodWj1X_vzJ3QRRfdzYDsUM9Vr8OzaZtIKQoDw&oh=00_AQNjGLYAO5giyCRcQX1F2y9thMZZS6EWQG8_IfpAR3vIAw&oe=6AD69D05",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -398,7 +365,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2192993558321105",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQN2RyMbLqW15powltzWd7N7g3PbZvhOdm5l2Cl8j5NSb3z-5KvdsV99iXqor53gF0CYnWnpmZ6Kq7rseVAYTxqNpTKRR4ng5KuqHT7IUK_t3A.mp4?_nc_cat=102&_nc_oc=AdrCSoe5w66HA-_AIZCxhWpeGmCiiPqg9dGnxSWgm5dS2W6mEhRP1fHrcajxMFtz5AA&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=GKWyffswcKYQ7kNvwFSsLvH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MTIwOTQ5ODYzMDIwNDcsImFzc2V0X2FnZV9kYXlzIjo0MjksInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=322a9047d1edc2f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRGRkExMDZGRTk0NzdDNTcxRjI2QTYzOUU1RjJBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U5NEVFQkJDNUFFRUFDRUYxMzZEOThEQzNFRThFODhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-yfvmycLlBhUCKAJDMywXQFaAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=N3B0EmK9WOMsgWbi6vHbsQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFDiZqIuD02eQBVoq-QkhEj0Cbymde7XoPQJvKZ17teg0ivyRqtap_dfddCSdvAZCjGJ-JYRFaaKuExWly7xf-A&oh=00_AQM2uD1CMT3rjCmMaQwWq6yz9BjFzgpLSlUhrdXPktMFiA&oe=6AD54DB2",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQN2RyMbLqW15powltzWd7N7g3PbZvhOdm5l2Cl8j5NSb3z-5KvdsV99iXqor53gF0CYnWnpmZ6Kq7rseVAYTxqNpTKRR4ng5KuqHT7IUK_t3A.mp4?_nc_cat=102&_nc_oc=AdpnH1I3REmdkJuhflSxiCKnhvcc4KOSOWVI_sLCz4UvzZIO-zRCI10awZLfpbBYUA4&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=p21UEN65iXgQ7kNvwGY6Wjq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MTIwOTQ5ODYzMDIwNDcsImFzc2V0X2FnZV9kYXlzIjo0MzAsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=322a9047d1edc2f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRGRkExMDZGRTk0NzdDNTcxRjI2QTYzOUU1RjJBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U5NEVFQkJDNUFFRUFDRUYxMzZEOThEQzNFRThFODhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-yfvmycLlBhUCKAJDMywXQFaAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Oqr0CylHr4E0J_O20vTJBg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFDiZqIuD02eQBVoq-QkhEj0Cbymde7XoPQJvKZ17teg0ivyRqtap_dfddCSdvAZCjGJ-JYRFaaKuExWly7xf-A&oh=00_AQN1mgh3kJscjIw3wVGjVM-GfrI1f3XeTU4RqHs5AyzRYw&oe=6AD69F32",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -422,7 +389,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2640553993043692",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMilEnthqIyodZ0FHxj4MdV56Syw5A7ID6r-4ZLOMQZ2LceJvxjZJXlxJB_N8NaYBfuCHOvSQMmwR5n-mqkSmACRBpLPa_6QFGl-cfqVv9DcA.mp4?_nc_cat=104&_nc_oc=Adq6hIlCnH9-PRo88QHxAQxwFqJgbVBlBkBzhF_3KGO73txjclpZ_1b_nAknwZM22Ds&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=MyqsBaQ8YLwQ7kNvwFjGReg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTAwODE4NjcyMDYxNzAsImFzc2V0X2FnZV9kYXlzIjoxNjcsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3f19183f6d3f0e75&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTRDNEU1OEI5NjZCRTE3NTdEOUU4RDE5OUFDODBBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDQzNDk1RUE2RkY5RDUxOUIzMDZDQjE1RDM2MEJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0uJTaq7y4BBUCKAJDMywXQFaIgxJul40YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=N3B0EmK9WOMsgWbi6vHbsQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeENx9trbKtt4m1r7d75GTXxjYF6fo_i4wuNgXp-j-LjC4BGLum-dhqyWN97r7Q6vzFJEUVB2BJ0-95QYJoKPpud&oh=00_AQNdg1_7PY0JIhLgLocrjnpTvWH8mKbmFMcm5DSTn5Iqvg&oe=6AD51EA4",
+      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMilEnthqIyodZ0FHxj4MdV56Syw5A7ID6r-4ZLOMQZ2LceJvxjZJXlxJB_N8NaYBfuCHOvSQMmwR5n-mqkSmACRBpLPa_6QFGl-cfqVv9DcA.mp4?_nc_cat=104&_nc_oc=AdpwLW00N_kcpE5kkk-0BbDJxyGkUO-tb9wZl-xcblhBEhvhdhQ08MgNi83QxWXKjGs&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=FWvrlGaEY3EQ7kNvwGbEqPy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTAwODE4NjcyMDYxNzAsImFzc2V0X2FnZV9kYXlzIjoxNjgsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3f19183f6d3f0e75&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTRDNEU1OEI5NjZCRTE3NTdEOUU4RDE5OUFDODBBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDQzNDk1RUE2RkY5RDUxOUIzMDZDQjE1RDM2MEJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0uJTaq7y4BBUCKAJDMywXQFaIgxJul40YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Oqr0CylHr4E0J_O20vTJBg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeENx9trbKtt4m1r7d75GTXxjYF6fo_i4wuNgXp-j-LjC4BGLum-dhqyWN97r7Q6vzFJEUVB2BJ0-95QYJoKPpud&oh=00_AQNluoKxkc7MHBJmIMcuF6gKdPEUy6R4rVT8g23B4Utqvg&oe=6AD6A864",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -431,150 +398,6 @@
         "result_type": "video_understanding",
         "summary": "### 2. ملخص استراتيجي ذكي ومكثف:\n\n*   **استراتيجية \"الدليل الاجتماعي\" (Social Proof):** الاعتماد على عميل \"راضي ومؤثر\" (الرويزق) في قطاع السيارات لتقديم شهادة حية ومباشرة تعزز الثقة لدى العملاء المحتملين.\n*   **التركيز على القيمة التنافسية:** الانتقال من الحديث عن \"تغيير الموديل\" إلى \"تقديم خدمة مخصصة (ذوق شخصي)\"، مع تأكيد صريح على ميزة \"أقل سعر في المملكة\"، مما يضرب وترين حساسين لدى العميل: التميز والسعر التنافسي.\n*   **استخدام لغة \"الضمان\":** تكرار كلمة \"مكفول 100%\" و\"شغل ألماني\" يقلل من مخاوف العميل بشأن جودة الخدمة، وهو أمر حيوي في قطاع التنجيد وتعديل السيارات.\n*   **خطة ولاء العملاء:** تقديم \"سعر خاص\" لأصدقاء ومعارف العميل الحالي، مما يحول قاعدة العملاء إلى أداة تسويقية (Word of Mouth) تزيد من وتيرة الاستحواذ على عملاء جدد بتكلفة أقل.\n*   **طبيعة المحتوى:** المحتوى عفوي وغير متكلف، يركز على إظهار التفاصيل الفنية (الدرزات، جودة الخامات)، مما يرفع من المصداقية ويجذب المهتمين بقطاع الـ (Car Detailing).",
         "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"معلم، اللي بيسأل إيش صار بالشاص بتاع الرويزق؟ يا معلم هيني خلصنا إياه على خير وسلام، واللي بيفهم يحكي واللي ما بيفهم يصُف على جنب، عشان أنا راح أخلي الفرشة تحكي، وصاحب الشاص الرويزق يحكي عربية.\n- والله الشكر لله، والله من قلبي كل الشكر، أنت حبيبي، وهذا المنجد أنا حبيب قلبي، حبيبي والله وشكراً إلك ما قصرت.\n- وبدي أشكره على ملاحظة هو، كنت مصور، لأن إيدي الحاضنة تحت الهاند بريك سوداء، فقلت له سوي لي إياها، فهو سواها على ذوقه زي ما بدي أنا، أو مش زي ما كانت أول، شوفها بالله، كل الشكر والله ما قصرت.\n- وفوتوا شوفوا الدرزات تاعت الشاص كامل يا معلم، كل الشكر والله يا دلال ما قصرت.\n- ابعد هيك شوف، طبعاً غيرنا له الموديل الكامل، شوف موديل البقلاوة، شوف وتبّع عليه.\n- لا أنت ما غيرت موديل، أنت سويت ذوقك، سويت شوفك.\n- أنت حبيبي يا رويزق. وهي أنا المرسيدس بدي أجيبها.\n- ابشر، المعلم، أقل سعر فيك يا مملكة، لكل بني آدم، أه والله، أقل سعر أه والله، أنا بشهد معك.\n- اللي بيجيني من طرف رويزق، أو بغض النظر، هذول زبائن المحل طبعاً، له سعر خاص مني، ماشي، وشغل ألماني مكفول 100% الله يرضى عليك يا رويزق.\n- حبيبي.\n- ماشي، تابعوني بكل جديد، أهلاً وسهلاً فيكم، سلام.\"\n\n---"
-      }
-    },
-    {
-      "ad_id": "1749849262757093",
-      "page_id": "231001330092549",
-      "page_name": "الدلال",
-      "ad_body": "#الدلال",
-      "ad_title": "",
-      "start_date": "2026-09-19",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1749849262757093",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOv4juYT5jmIKANI88YknrCmaTFumP8Z1YXgVpw1m2djljZmkPv0Vcdv9Ypj4BESxXYf11T5cVW17Jk53Iw8KPH1NX5StzvhuNbYhlfdncvbg.mp4?_nc_cat=108&_nc_oc=AdocaY-jcvnDejDulVCnYO-pcIfDfZV2epX29Yjxn16F4-zXOG2Gv-rjY80sYfxGmlc&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=tUUH3XZr00IQ7kNvwFJMfTf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5Nzg4NjY2NDk0NTIwODUsImFzc2V0X2FnZV9kYXlzIjo1MSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjg1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1e1bc88d6c59953c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODQxQUQwQzBBODNGMDYzQ0QxQzE3MTIwQzkzM0VCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFGNDlDODVDMzlEMzFEQ0QyNkYzOTMxN0ZGMzBFRjlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbquJa7mfGDBxUCKAJDMywXQFVKn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0rCLnPulsBuyHykooCisCg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE2OniD7IFVuPxkPrd9dqCRa_1Z-3KNsdpr_Vn7co2x2sacp-jHN85NqebWEib6NJtQMY_DfoSEcPAit6rfGvb9&oh=00_AQNpvEbPiy4DwqCXEHZcyU-UHUB5yOAWT7fwHjf4mp33bw&oe=6AD54668",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. الملخص الاستراتيجي\n*   **القيمة المقترحة (USP):** يروج الفيديو لمنتج \"الكريتيف\" (ستائر حماية مرنة) كبديل عملي للتظليل التقليدي، مع التركيز على ميزة المرونة (فك وتركيب سهل دون إتلاف زجاج السيارة).\n*   **معالجة نقاط الألم:** يخاطب الفيديو مخاوف السائقين من المخالفات المرورية الناتجة عن التظليل الدائم، ويقدم \"الكريتيف\" كحل قانوني وعملي.\n*   **استراتيجية الإثبات:** يعتمد الفيديو على العرض المباشر (Demonstration) لسهولة الاستخدام، ويوضح جودة الرؤية من الداخل إلى الخارج، مما يعزز الثقة في جودة المنتج.\n*   **أسلوب التسويق:** استخدام أسلوب \"البيع المباشر\" (Hard Sell) الحماسي مع توجيه دعوة لاتخاذ إجراء (CTA) من خلال دعوة الجمهور للسؤال عن السعر ومتابعة الحساب للمزيد من العروض.\n*   **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن حلول حماية من الشمس والخصوصية دون التعرض للمساءلة القانونية أو الالتزام بالتظليل الدائم.",
-        "transcript": "التفريغ النصي\n\"جيب.. جيب.. جيب.. جيب.. جيب.. طبعاً هذا الكريتيف.. طبعاً هذا الكريتيف ما إله أي بديل، لا تقولي برداي ولا تقولي أي إشي. طبعاً بديل التظليل، التظليل الناس ما بتحب إيش؟ التظليل، ما بدها تتخالف. هذا فليكسيبل يا معلم، مرن، إمتى ما بدك ماشي، بتحط الكريتيف.. إمتى ما بدك بتحط الكريتيف وبتقيمه. أما تقولي عاد المؤاخذة إله بديل إله أي إشي؟ ولا إله أي بديل، اطلع على السيارة كيف، كلها عملناها الكريتيف، طبعاً تقدر تنزله، وتطلعوا.. ولا بيخرب، معك دبل فيس، بكفيك لسنة، ولما بدك دبل فيس بتجينا، اطلع كيف الشبابيك، تعالوا نفرجيكم، عملنا هاي اللاند كروزر الأربعة والخلفي والدبة.. عملناها كاملة، بسم الله ما شاء الله، طبعاً الوضوح تاعه من جوا.. اطلعوا.. بسم الله ما شاء الله، الوضوح تاعه بيجنن كثير، طبعاً اسألوني عن السعر تاعه راح أردلكم، لا تدلل لزينو وزينة السيارات، تابعوني بكل جديد مع الكريتيف، أهلا وسهلا.\""
-      }
-    },
-    {
-      "ad_id": "1118705624073067",
-      "page_id": "231001330092549",
-      "page_name": "الدلال",
-      "ad_body": "#الدلال",
-      "ad_title": "",
-      "start_date": "2026-09-19",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1118705624073067",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOEZuz3_vvgB2dyz3oX6Ff6ThUFLLfN_RrdJmp1G2wLAN5bAZM9d55d6jSocu2k4C8b4YJVWxO0FzIRDSB_vw5rgv5wJscneRrzDr_zihQvfg.mp4?_nc_cat=102&_nc_oc=AdouTsheQgqQvqM2qq4603UzaHAQM87XGTINWEIWIIul3Ks4grLhtnA51IWpH9KqrJM&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=wzWrNVAaJwEQ7kNvwFD0YIu&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDYyNjc2ODc3Mzk3MzEsImFzc2V0X2FnZV9kYXlzIjo1NywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjY5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a99af8b6094a51e6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQTQ1MUFBOTlFMzgyQjEwMkNCNzRFMzM4REVFNTE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNDQ5RDQ0OUQyOUE0QkNBNDYwRjAyMTNDM0Y4RUFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamhYnvirnaBRUCKAJDMywXQFFXbItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0rCLnPulsBuyHykooCisCg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGNYNotHuhwP5rRz5pwi1Jbd28k6vAn1qp3byTq8CfWqkR2LZ1J_S5jaQxZY2VEDDQ_3p96lss5dfJ9pmH3X1kD&oh=00_AQNoypb4l74P2bwgaDzmOz1uqcN1C7YaVxhUEp0eR1uIXw&oe=6AD53ADE",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. الملخص الاستراتيجي\n\n*   **استهداف الجمهور:** التركيز على أصحاب السيارات الذين يبحثون عن تطوير أنظمة الصوت (Audio Systems) بأسعار تنافسية وخيارات متنوعة.\n*   **القيمة المقترحة:** التنوع الكبير في المنتجات (أكثر من 60 نوعاً)، السعر المناسب (ابتداءً من 15 ديناراً)، والجودة في التركيب (فك وتركيب احترافي دون أضرار).\n*   **التسويق بالمصداقية:** التأكيد على احترافية العمل (\"فك على الأصول\"، \"تركيب براغي على الأصول\") لتبديد مخاوف أصحاب السيارات على مركباتهم.\n*   **استراتيجية التفاعل:** دفع العميل لاتخاذ إجراء (Call to Action) من خلال طلب تفاصيل نوع السيارة والميزانية في التعليقات، مما يعزز من خوارزميات الانتشار ويخلق علاقة مباشرة مع العميل.\n*   **هوية المكان:** التعريف بـ \"مجمع الدلال\" كوجهة شاملة للزينة واكسسوارات السيارات، واستخدام أسلوب العرض \"الواقعي\" أمام المتجر لتعزيز الثقة.",
-        "transcript": "التفريغ النصي للفيديو\n\n\"أهلاً، أهلاً، سماعة محترمة جداً جداً جداً، وبتحمي Amplifier إذا أنت بدك، وإذا ما بدك، سيارتك Standard زي هيك، تجيني يا معلم، أقل سعر في المملكة.\nأركبلك جوز سماعات،\n[موسيقى خلفية]\nأفهم علي، ركز منيح، سيارتك خايف عليها، سيارتك بدك System إلها، تجيني معلم، أحلى فك، وأحلى تركيب، وأحلى سماعات.\nمعاك أسعار السماعات من 15 دينار، واطلع.\nوهون عندي بدل السماعة، ونوع السماعة عندي 60 نوع سماعة، فتجيني بأقل سعر في المملكة، ماشي؟ بتاخذ سماعاتك ركب جاهز. كباش بتنفك على الأصول، بتتركب براغي على الأصول، كل شيء 100%، وبأقل سعر في المملكة.\nوضلك تابعني بكل جديد، وأهلاً وسهلاً فيكم في \"مجمع الدلال لزينة واكسسوارات السيارات\"، ولا تنسى تحكيلي نوع سيارتك، وقديش بيكلف سماعاتين أو أربعة، ضلك تابعني بكل جديد، سلام.\"\n\n---"
-      }
-    },
-    {
-      "ad_id": "1608903330972918",
-      "page_id": "231001330092549",
-      "page_name": "الدلال",
-      "ad_body": "#الدلال #الدلال_لزينه_واكسسوارات_السيارات",
-      "ad_title": "",
-      "start_date": "2026-09-19",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1608903330972918",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQM201fIH41eNxFgADxTomifrWtXv4E9FtpJnOAZNFjMgsaz-HxXxLrXAY0IHsfUuDKNWVF3NSuK5GBVqJcM2QIlJhhml_Sv2Vv7JckNDyCkMQ.mp4?_nc_cat=106&_nc_oc=AdosR74hqTdDXnsne0H9Kn1B0f5WFGmGtlz4mHx_hNi00VrQnMOps5-Uv1G6n8uPnpQ&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=0zqAAklkP0UQ7kNvwHGNKus&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2MzM0MDk1OTA5NTg2ODEyLCJhc3NldF9hZ2VfZGF5cyI6MTg1LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=75be498aa3e2c46a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzRCOTRGQTE1N0ZDM0EzOUU0QTdERkIxMEMyNzhBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc3NDY2RDM4NDZFNUVDN0ZBMkVFNzc1OUJBRTQ2QzhBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4neCCkK7HXRUCKAJDMywXQFLxBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0rCLnPulsBuyHykooCisCg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFd51BrcbQTf8ZR-rf5mcaNZcfSciLHuBNlx9JyIse4E56I9ybZvQil_HHyCzzx_3mdgKlNwTkmeAn63nk9z0Dt&oh=00_AQOSvTz_nrFVMj5RqNTnd3CwX30QrsM_mKgO35GfNFSRFg&oe=6AD5316E",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **استراتيجية المنتج:** يعتمد صانع المحتوى على مبدأ \"العرض الشامل\"، حيث يروج لمجموعة واسعة من كماليات السيارات (مثلثات، شفة/تعديلات أمامية، سبويلر، تظليل) لتغطية احتياجات مختلف موديلات السيارات.\n*   **بناء الثقة (البرهان الاجتماعي):** يستخدم \"المرجعية الفنية\" (إشارة إلى لاصق 3M الأصلي) وضمان الجودة (مكفول 100%) لتعزيز مصداقية المتجر أمام العميل.\n*   **التفاعل المباشر (Call to Action):** يوظف التفاعل في التعليقات كأداة تسويقية، حيث يطلب من الجمهور ذكر \"نوع السيارة وموديلها\" لتقديم عرض سعر مخصص، مما يرفع من \"معدل التفاعل\" (Engagement Rate) ويحفز الخوارزميات.\n*   **أسلوب التقديم:** يعتمد على \"التسويق الديناميكي\" عبر التصوير الميداني (داخل الورشة) واستعراض التركيب الفعلي، مما يعطي العميل تصوراً ملموساً للخدمة قبل شرائها.\n*   **نقاط القوة التنافسية:** التركيز على \"أحسن سعر في المملكة\" كرسالة بيعية رئيسية (Value Proposition) مع التنويه بمهارة الحرفيين لرفع قيمة الخدمة المقدمة.",
-        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى التنافسي، إليك التحليل المطلوب للفيديو:\n\n التفريغ النصي للفيديو:\n\n\"هذول المثلثات اللي بيركبوا ايش؟ لجميع أنواع السيارات موجود، اسألني ايش ما كان نوع سيارتك، قرب علي.. عن المثلثات، عن الشفة، عن.. طبعاً اسمع عشان يكون الكلام على بينة، الدبل فيس تبعي الـ 3M، قرب علي، هسا بدي أقيمهم بس أنا أفرجيك كل شيء أصلي 100%، حتى الكرت تبع الفتح.. ماشي موجود إلها. وقرب علي يا معلم، هاي الشفة المخصص.. التلات قطع، المخصص، قرب علي.. يلا تعال يا سند، أمسك معي، طلع علي، هاي الدستروير الأصلية إلها، طبعاً عامل عليها عرض سعر، طبعاً ولا ننسى موضوع التظليل، قرب علي، طبعاً التظليل عنا بأيادي ما شاء الله شباب محترمين إيديهم بتلف بحرير، تظليل 100% يا معلم، وأهم إشي العزل 100% ومكفول 100%، ضلك تابعني بكل جديد، أهلاً وسهلاً فيكم واسألني على ايش ما بدك، السبويلر الخلفي، كاسحة، ايش ما بدك، نوع سيارتك حابب تنزل على التعليقات، حطلي نوع السيارة وموديلها رح أجاوبك على المسج، ماشي؟ أحسن سعر في المملكة، ضلك تابعني بكل جديد.. سلام\".\n\n---"
-      }
-    },
-    {
-      "ad_id": "1007339845653431",
-      "page_id": "231001330092549",
-      "page_name": "الدلال",
-      "ad_body": "#الدلال",
-      "ad_title": "",
-      "start_date": "2026-09-17",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1007339845653431",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNA_lOrBIwZEkybh8_Q_ETtBYhpIoajBjznF5lJsnNBWX4Os-PVLcTQXbb8Fyxof5zsTJmZXv1oAEyvNjMsHUATnlkg5H6usZX2Iapd8W8xcg.mp4?_nc_cat=102&_nc_oc=AdoiDHD-NxHoG7U7nilxfYP2Pp8oTtDHyASs7ndV3NCQbLWgfKf1LqCpjF3MrPfIQg4&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=a9b5MhW_nqwQ7kNvwFfuClN&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDk3OTEzMDc4NzgwMzgsImFzc2V0X2FnZV9kYXlzIjo4MCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjYzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=93d01159a4cc7c92&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTQzM0MyODNDMDI5Q0RFMDY5QkYxOTIwQzg1OUU5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QzNDZENzIyNUU0MjRDM0I0MEFDQTRCMjNEOEM2NkIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasuujh04yBBRUCKAJDMywXQE-VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0rCLnPulsBuyHykooCisCg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE8giSCh9Wf9ZiaLxiHCKnPP3jl_qP-S_Q_eOX-o_5L9AFfd_e6HpXv91286-kEKa2d5ZfHP-yFCDTgClLBiTte&oh=00_AQOaxDlDSrgUHBj9UuXj4msGJue_5W7g6juo_mTAnbVtow&oe=6AD54B8A",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. ملخص استراتيجي:\n\n*   **نوع المحتوى:** فيديو تسويقي لخدمات تعديل وتنجيد السيارات (محتوى ترويجي محلي).\n*   **القيمة المقترحة:** التركيز على جودة العمل اليدوي (\"خيطناله إياهم تخيط، مش سوبر جلو\") مقابل السعر التنافسي، مع إبراز الاهتمام بالتفاصيل الفنية (تنجيد كامل، طارة، ركايات).\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) واضحة ومباشرة للمشاهدين (\"انزل اكتب كومنت، عجبك الشغل ولا لأ؟\") لزيادة التفاعل مع المنشور.\n*   **أسلوب العرض:** أسلوب \"استعراض الثقة\"، حيث يعتمد مقدم الفيديو على الحديث المباشر وبثقة عالية لجذب الزبائن، مع ربط اسم المحل بنشاطات أخرى (المطابخ) لتوسيع النطاق التجاري.\n*   **الجمهور المستهدف:** مالكي السيارات الذين يبحثون عن تعديلات جمالية ومريحة لسياراتهم بأسعار معقولة.",
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"وي، خلصنا البيكانتو، بأمانة الله إنك تحكي بإيش؟ بضميرك، كيف الشغل؟ طبعاً تحولت كامل وركبنا له هون إيش؟ ركايات الريكارو، وأعطيناه الطارة الأحمر، خلينا بالإيش؟ بالإشي المهم. الإشي المهم، شوف الفرش، طبعاً هذول إيش؟ تنجيد كامل، طبعاً حتى الأحزمة خيطناله إياهم تخيط، مش سوبر جلو، صحتك أول إشي.. جرب علي، شوف الخلفي. معلم، إذا ما بدك تشتري بس انزل اكتب كومنت، عجبك الشغل ولا لأ؟ [يقوم باستعراض السيارة مجدداً] معلم، إيش ما تكون لون ونوع سيارتك، جيب لي إياها بأقل سعر في المملكة، رح أعمل لك إياها، ولا تنسوا معلم حكينا لكم على إيش؟ على المطابخ هاي، طبعاً إشي على الأول، سلام.\"\n\n---"
-      }
-    },
-    {
-      "ad_id": "1049731864724295",
-      "page_id": "231001330092549",
-      "page_name": "الدلال",
-      "ad_body": "#الدلال",
-      "ad_title": "",
-      "start_date": "2026-09-19",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1049731864724295",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPQz15u9g7x1FAI7_jjvn9iMrrfCaNS1bkJ4B2aeQWfb2YjDeWKGWZf3XQIyIEtwRL5NDTU7cYHjk0f6JGqLaFtk4ggO-pTVVZOCVFJ_5poAA.mp4?_nc_cat=107&_nc_oc=Adrt6RDq2JdZ35ti_WCmO7Mf3tW7C-7o8jOo2CyXUA_wW9erd_u0BO0-vYuafufewwE&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=5f5t6dze5ZwQ7kNvwFkc24O&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMzcwODAyMTAxNjM2NzEsImFzc2V0X2FnZV9kYXlzIjozOSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=622ea8cea2e57016&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTRCMzhBMzJGQTgwNzI0REVDRDU3QzY3NkVBMEE4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ3NEIwNjQ5Q0UxMUU1ODEyNDYxMEFGRjM5QkFFMTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaun-i7_OOmCBUCKAJDMywXQE2zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0rCLnPulsBuyHykooCisCg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGH4PZpsmQ3sLlzf8xOV2LlXGbHYZWMPqNcZsdhlYw-owd8yH4A8WwidR9lhcGa-0qLLNI5BsnShiQiQs66YKc_&oh=00_AQNsAsqfB8jvXFXQa9irnPC-GWF5zwMZNVYYK3t_J8a-ZQ&oe=6AD544B1",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **بناء الثقة (الهدف الأساسي):** يعتمد المتحدث على التحدي المباشر للعميل (\"طلع لي غلطة\") لإثبات جودة العمل ودقته، مما يزيل حاجز التردد لدى الزبون المحتمل.\n*   **إبراز القيمة مقابل التكلفة:** يركز المتحدث على تقديم \"أقل سعر في المملكة\" مع التأكيد على جودة العمل التي تصل إلى مستوى \"الدهان الأصلي\"، مما يجعل الخدمة تبدو استثماراً ذكياً.\n*   **الشفافية والمسؤولية:** أسلوب \"استرجاع الكلام والشغل\" في حال وجود أي عيب (تنفيخة) يعزز من مصداقية المحل ويضمن راحة بال العميل.\n*   **التسويق بالتجربة البصرية:** تصوير عملية إزالة الغطاء البلاستيكي عن سطح البانوراما اللامع يُعد \"دليلاً حسياً\" قوياً على إتقان العمل وتطابق النتيجة مع وعود مقدم الخدمة.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة المتابع المستمرة لمتابعة \"كل جديد\" تساهم في بناء قاعدة جماهيرية وفية للعلامة التجارية.",
-        "transcript": "بصفتي محللاً لمحتوى الفيديو، إليك التحليل المطلوب:\n\n التفريغ النصي للفيديو:\n\"وهي ايش؟ تركيب البانوراما يا معلم، افهم علي. طلع لي غلطة عليها! وشرطك، انعملت يعني بوقت قياسي جداً جداً جداً سريع. طلع علي، طلع لي غلط غلط غلط. طلع كيف هيك يا سند؟ مشي الكاميرا على ايش؟ على الهيد لاين. معلم، أقل سعر فيك يا مملكة، لدى دلال للزينة واكسسوارات السيارات. معلم، المهم مش نعمل احنا بانوراما، المهم تطلع البانوراما زي، اكنها دهان. هيك الفكرة، كلنا بنعمل بانورامات، أما تطلع مكسرة، مطعجة، نفخة، مش عارف شو. هيو معلم، اعطيني، اعطيني.. إذا فيها تنفيخة وحدة، الكلام يرجع، والشغل يرجع. طلع بسم الله ما شاء الله، عامل عرض سعر عليها لدى دلال للزينة واكسسوارات السيارات، ضلك تابعني بكل جديد وأهلاً وسهلاً فيكم، وتطلع ايش، الجمال.. سلام\"."
-      }
-    },
-    {
-      "ad_id": "1349702830516258",
-      "page_id": "231001330092549",
-      "page_name": "الدلال",
-      "ad_body": "#الدلال",
-      "ad_title": "",
-      "start_date": "2026-09-17",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
-      "cta": "Send message",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1349702830516258",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQP4SMTV4VC3Wa12OMNE4DbvNauqmjv-bdulbzuyX1g2jqUP-q0dsioRjA2MmEqwq-iYQLncclcWblsj3Ev8bZABrc2bo2JrdN3vFszt28IX2g.mp4?_nc_cat=100&_nc_oc=AdoNDp0iqZWPg5pbL99rdpCJe2a6XsDxdb2KcSyLAme-wkU_xWyDye9lEPZRfIjt4ZY&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=_jCtzNRzAeAQ7kNvwF_tzQa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTIyNjgwMzQ2Mjk5NzQsImFzc2V0X2FnZV9kYXlzIjoxMDMsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=76728059898ce73e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCNDA1Mzg2MkUzMkI1RDBDQjJDOTQyRUU5MzI4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNDhDRThFMTQ0NzI4MEExN0FFQ0Y0MEE1OUJEOUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACashfnJ4KnMAxUCKAJDMywXQEc7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0rCLnPulsBuyHykooCisCg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHZza-NE6v1Skk1c4OK7ML_xICF9De03u3EgIX0N7Te7cNBryuh0o54o5BvHECnlnxCXv2l47J7DVlaXJCkTqTl&oh=00_AQMr-tn69TC4xWeYmdsIzuSUM2XkrqutiGv80rbt0jPObg&oe=6AD520C0",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. ملخص استراتيجي:\n\n*   **الجمهور المستهدف:** مالكو السيارات الحديثة (خاصة ذات التصميمات الداخلية الملونة المعرضة للاتساخ) الذين يهتمون بحماية قيمة سيارتهم ومظهرها.\n*   **القيمة المقترحة (USP):** حماية احترافية (PPF) للأجزاء الداخلية الحساسة، مدعومة بكفالة حقيقية لمدة سنتين، مع الترويج لسعر تنافسي.\n*   **الأسلوب التسويقي:** \n    *   **إثبات الأداء:** استخدام التجربة الحية داخل الفيديو لإظهار سهولة التركيب والإزالة دون ترك أثر.\n    *   **بناء الثقة:** استخدام \"ضمان السنتين\" و\"أقل سعر في المملكة\" كعوامل جذب قوية.\n    *   **دعوة لاتخاذ إجراء (CTA):** توجيه المشاهد للتعليقات لطلب الاستفسار، مما يعزز التفاعل ويحسّن من أداء خوارزميات المنصة.\n*   **نقاط القوة:** الفيديو قصير، مباشر، ويخاطب مشكلة فعلية (اتساخ البطاين) ويقدم حلاً عملياً وملموساً، مع وجود \"شخصية\" واضحة للمتحدث تضفي طابعاً ودياً.",
-        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"هلا يا علي، هي الـ PPF في البطاين، طبعاً يا معلم هسا السيارات الصيني وأغلب السيارات صارت تجي ألوان. معلم هذا اللون إذا توسخ مصيبة، ماشي؟ رح نغلفلك ياه من هون بالـ PPF طبعاً يا معلم كفالة لمدة سنتين حقيقية، صار شي بيبيضاني. لما نكبعه.. قرب علي.. مش عاجبك المنظر؟ بدك تكبعه؟ أمور طيبة 100% ونرجع نلزقلك ياه ماشي وتأخذ عليه كفالة لمدة سنتين وأقل سعر في المملكة. قرب علي يا معلم. هسا الموضوع مش بس هون، شايف هاد كلياته؟ بنغلفلك ياه. طبعاً Safety لسيارتك حصري بشارع الجامعة وشارع المدينة وأقل سعر في المملكة، انزل لي على التعليقات اسألني رح اجاوبك بأحلى سعر، سلام.\"\n\n---"
       }
     },
     {
@@ -590,7 +413,7 @@
       "platforms": "FACEBOOK | INSTAGRAM | AUDIENCE_NETWORK | WHATSAPP",
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4040791302894151",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPM6untEPYIdzMjewug-AW29thBjZcDjbm7FOKmRaFq3j0fmDniXEdQ111MaiGIRPuP-c4Y5dTAjVpZkdKyFG6K1gFLCyMw8WOv0wfV4UG_OQ.mp4?_nc_cat=108&_nc_oc=AdqFpEzkiqG_jx9d8sGEjrOHWpZfOML7pjkAAVrUXCavSNU6pd2ywnF0-lEFw-aG3V0&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=L278RsUsKRAQ7kNvwF-wsV8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwOTYwNTg3Njk4MzQ0MTcsImFzc2V0X2FnZV9kYXlzIjoxMSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f8ae4550a796cd9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTEyREQ4NzdBRkI0MDkwOUVEMUUzRkZGQ0MzM0FDMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkyREY1QkIwRjc4RjRERkU5MDlGRTVBN0JCRjRBQjdEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbihoiagrfyAxUCKAJDMywXQFBkOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mthfc7-v7UWclDghVWssMw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFfxOsQkNhOM2Gao55GlMyAVdHR22C0uW5V0dHbYLS5bmkU8xX9vQghpHtUe8x_MpqputMVlxjasgTaP-zVKaZb&oh=00_AQPAIXN9DIs-aPGHxpFipfMJnO4x3kvQi-NpBxLoPuepbA&oe=6AD53C30",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPM6untEPYIdzMjewug-AW29thBjZcDjbm7FOKmRaFq3j0fmDniXEdQ111MaiGIRPuP-c4Y5dTAjVpZkdKyFG6K1gFLCyMw8WOv0wfV4UG_OQ.mp4?_nc_cat=108&_nc_oc=AdpZwrjTRhG3Q5uHw8fod-j_Tc6Re01U81-w0qHwFdju4orgFdCbIHYYl8ZhVDjxfJ4&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=L278RsUsKRAQ7kNvwEkyGZW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwOTYwNTg3Njk4MzQ0MTcsImFzc2V0X2FnZV9kYXlzIjoxMiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjY1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=f8ae4550a796cd9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82OTEyREQ4NzdBRkI0MDkwOUVEMUUzRkZGQ0MzM0FDMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzkyREY1QkIwRjc4RjRERkU5MDlGRTVBN0JCRjRBQjdEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbihoiagrfyAxUCKAJDMywXQFBkOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=tAEMxqcLNk4xNtc8qbt0pw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFfxOsQkNhOM2Gao55GlMyAVdHR22C0uW5V0dHbYLS5bmkU8xX9vQghpHtUe8x_MpqputMVlxjasgTaP-zVKaZb&oh=00_AQNzDNgyV4iuWhRvnIIXn24S7bzh3nF4WRRnF8DT-kGiww&oe=6AD68DB0",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -614,7 +437,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Call now",
       "ad_url": "https://www.facebook.com/ads/library/?id=2233435350888737",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOgeSW54ni6T1tzpO1JrGSV7PxfqfXYPuh6xDUGUPAy6mb9-KMOO8MeJjOs8uZuotpLsu2OPw7_NRigAXFos6ZQ7wT14JXa3fcOg0wt3JouLA.mp4?_nc_cat=100&_nc_oc=AdoIocliuDCfV1j9TC3e-yS9_4mLd3J84hB9sEB-mX0sSfcKWMjo-lBxH26SRsAZMiI&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=Iv96yD4Is2MQ7kNvwHUQG6y&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTcyMDk0NDY1OTE4ODEsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9f3efafe142e90d9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83M0FDNUY3QkZFQkQ0MEQyOEE0RkM4NkQ3NTgwOTUwM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0RjEyQjQzMkE4OTQ0MUVBRkQ3NTFGM0VEMjQ2QUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaStuu24NSWBRUCKAJDMywXQErRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mthfc7-v7UWclDghVWssMw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHyei766dxjN677_oWnK4Ai7cZ7HPX-Y5Ptxnsc9f5jk0-qslI4hwH2HwBkc3mzraQmYLFkPqPlTHAavg50hBAg&oh=00_AQP5tRbMbomWXfyMnu9iRi_j7yRfjJwu12dl790SabZpMg&oe=6AD54AE8",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOgeSW54ni6T1tzpO1JrGSV7PxfqfXYPuh6xDUGUPAy6mb9-KMOO8MeJjOs8uZuotpLsu2OPw7_NRigAXFos6ZQ7wT14JXa3fcOg0wt3JouLA.mp4?_nc_cat=100&_nc_oc=AdpthinCO8hHm_0Yo1_m7lkpZM6Rk3vc8gPrlwR4DcSdnQVRli9rjWB7VCBByjyKPxM&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=Iv96yD4Is2MQ7kNvwGqRHRs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTcyMDk0NDY1OTE4ODEsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9f3efafe142e90d9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83M0FDNUY3QkZFQkQ0MEQyOEE0RkM4NkQ3NTgwOTUwM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y0RjEyQjQzMkE4OTQ0MUVBRkQ3NTFGM0VEMjQ2QUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaStuu24NSWBRUCKAJDMywXQErRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=tAEMxqcLNk4xNtc8qbt0pw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHyei766dxjN677_oWnK4Ai7cZ7HPX-Y5Ptxnsc9f5jk0-qslI4hwH2HwBkc3mzraQmYLFkPqPlTHAavg50hBAg&oh=00_AQNjK_a-c_QNkm0qeyk58bZTMWEeO_MoIaPzR65Lf51icg&oe=6AD69C68",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -638,7 +461,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Call now",
       "ad_url": "https://www.facebook.com/ads/library/?id=1521751213093062",
-      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQM4BefR_Dw5Q7lb6JmGCDy57pAWg7Ay600QFL9QKx6gRy3isqRQIhMzBGE7ww8ZRGlWW3B0ueWlIpFecKlUptjuCpPIBSJdLPvp9PhbZlRObw.mp4?_nc_cat=101&_nc_oc=AdrUXaHWzBVsOUO4Umtz4JqSsgpI3ZdTBDvufVdLQipzkYKtdlDfzyJDKamQQnBxHws&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=oCZCNwZ_Nh4Q7kNvwHbYQrT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1ODY1Mzc5ODE4MTU5NzIsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2fc1e5d5fdac148b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNTJGRUM1OENCMUE0MEZBQkE5OTA3NjMxNDU1NjRGRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcxOTEyQUFGNDMyNTRGQzc4QTAzQTk4RjNCQzI3RkQwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIstXZqZyYCRUCKAJDMywXQDyqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mthfc7-v7UWclDghVWssMw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeENmS-luVSCATh6DbVJCvVDzKTNKMlSMB_MpM0oyVIwH--gKGMSdSAYak5gGnri6vVLqy-SgLGGxUhdgy4XRLwz&oh=00_AQNCrHx-0jplveOi7DvYgnQADCjsao95Id6mnEPgNzHNng&oe=6AD51B7B",
+      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQM4BefR_Dw5Q7lb6JmGCDy57pAWg7Ay600QFL9QKx6gRy3isqRQIhMzBGE7ww8ZRGlWW3B0ueWlIpFecKlUptjuCpPIBSJdLPvp9PhbZlRObw.mp4?_nc_cat=101&_nc_oc=AdqHwwFQoEAMP0oLdE_yISSVq0zSyTZiXXLCiWydmpuuUoaTYvP2EuLyn__Xv2LOUzc&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=oCZCNwZ_Nh4Q7kNvwGUnAsV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI1ODY1Mzc5ODE4MTU5NzIsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2fc1e5d5fdac148b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNTJGRUM1OENCMUE0MEZBQkE5OTA3NjMxNDU1NjRGRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcxOTEyQUFGNDMyNTRGQzc4QTAzQTk4RjNCQzI3RkQwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIstXZqZyYCRUCKAJDMywXQDyqfvnbItEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=tAEMxqcLNk4xNtc8qbt0pw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeENmS-luVSCATh6DbVJCvVDzKTNKMlSMB_MpM0oyVIwH--gKGMSdSAYak5gGnri6vVLqy-SgLGGxUhdgy4XRLwz&oh=00_AQNyGH2y34OOAczI4NRCI_3sGrfImltEp8yNRflR6bMXSA&oe=6AD6A53B",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -662,7 +485,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Call now",
       "ad_url": "https://www.facebook.com/ads/library/?id=1488507176668717",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOZxnxDrUf8449Sa_dmvnqwHdf8lFNS88glNh-qK2JDR0EYuMlQL4Z8_L4fzZOjuodK-77dHXeVeqPwQU73GGAnxBnMMbP3KCyAGMJG6KkzHg.mp4?_nc_cat=105&_nc_oc=AdoxSk2pgH2770mOWVmGR8HNeTb4OMmoOb04Ba5plNFvGXDtUGyKYobk8YLlO07PQUk&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=nZtZZdKRu7UQ7kNvwHMLVKk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjQ3NTY4OTA1MTc0NzYsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1f985471b3243574&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTkzRUJCQUE3NzE0ODZCOTg2ODkyNzNGOEY4NUUyM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VBMENFRjZCQjFDMDRDNDNBQjFGOTA1RTQ5NjA1NEUxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI_9fuu73_AxUCKAJDMywXQERMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mthfc7-v7UWclDghVWssMw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHSqtnhcgcoqFxI3NNtOSn5qbXQlWiL-DyptdCVaIv4PO1e0Bfwn1-awYRBuV5w4oWHIqheEWAKCsbWoiaYkrSb&oh=00_AQNaO7JDa9oJnrCQVw6vKP15KeItGfbu6lND98SPdiWjHA&oe=6AD52BEF",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOZxnxDrUf8449Sa_dmvnqwHdf8lFNS88glNh-qK2JDR0EYuMlQL4Z8_L4fzZOjuodK-77dHXeVeqPwQU73GGAnxBnMMbP3KCyAGMJG6KkzHg.mp4?_nc_cat=105&_nc_oc=AdqtZ-o0GcNn0nVjyDccia_gm-c96LJrcCa3iFXpxdsQFjH2x0FxgHORSwfJYLD3hfs&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=nZtZZdKRu7UQ7kNvwFEjG9h&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMjQ3NTY4OTA1MTc0NzYsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1f985471b3243574&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9COTkzRUJCQUE3NzE0ODZCOTg2ODkyNzNGOEY4NUUyM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VBMENFRjZCQjFDMDRDNDNBQjFGOTA1RTQ5NjA1NEUxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI_9fuu73_AxUCKAJDMywXQERMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=tAEMxqcLNk4xNtc8qbt0pw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHSqtnhcgcoqFxI3NNtOSn5qbXQlWiL-DyptdCVaIv4PO1e0Bfwn1-awYRBuV5w4oWHIqheEWAKCsbWoiaYkrSb&oh=00_AQOl2HYqKMIBOzFB29rROH28Fja7U5Wm0r5EKGgYkJ2nQg&oe=6AD67D6F",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -671,30 +494,6 @@
         "result_type": "video_understanding",
         "summary": "### 2. ملخص استراتيجي:\n* **العرض الترويجي:** إطلاق حملة خصومات ضخمة بنسبة 50% على جميع أنواع إضاءة السيارات التابعة للعلامة التجارية \"SR\".\n* **القيمة المضافة:** ضمان الجودة من خلال توفير كفالات لمدة سنة كاملة على المنتجات.\n* **استهداف العملاء:** التأكيد على شمولية العرض لمختلف موديلات وقياسات السيارات، مما يجعله عرضاً موجهاً لشريحة واسعة من أصحاب المركبات.\n* **الاستراتيجية البيعية:** استخدام \"الندرة\" و\"الاستعجال\" (FOMO) من خلال جملة \"يا إما بتلحق يا إما بروح عليك\" لتحفيز العملاء على اتخاذ قرار الشراء الفوري.\n* **تحديد الانتشار الجغرافي:** الإعلان عن توفر العرض في جميع فروع الشركة (عمان وإربد) لتعزيز الحضور الميداني والوصول للعملاء.",
         "transcript": "إليك التحليل المطلوب للفيديو:\n\n التفريغ النصي:\n\"هذا الخصم الـ 50% اللي كل الناس بتستناه.. خصم 50% يا معلم على جميع أنواع إنارة الـ SR العالمية؛ سواء الرومو بلس، أو الـ SR 50 برو، أو حتى الـ T 100 برو، الإنارة العالمية، أو الـ 70 برو، أو الـ GT.. كل ما ذكر عليه SR شركتنا يا معلم عليه خصم 50% من ناحية الإنارة، وبوعدك لكل أنواع السيارات ولكل قياسات السيارات متوفرة إن شاء الله. يعني تعالى على المحل الضوء بـ 60 دينار على سبيل المثال، خده بـ 30، الضوء بـ 100 خده بـ 50، وكذلك الأمر في أرخص وفي أغلى، وكفالات ابتداءً من سنة كاملة وبجميع فروعنا عمان وإربد، العرض متوفر، يا إما بتلحق يا إما بروح عليك، بنشوفكم على خير بفرع إربد، سلام.\""
-      }
-    },
-    {
-      "ad_id": "1551837593648514",
-      "page_id": "100179971546459",
-      "page_name": "الربيع لكهرباء وزينة السيارات",
-      "ad_body": "الي صار جنان والله‼️فرش ال10D الخامه العالميه ⚡️⚡️ وبجميع الالوان متوفره اكيد 🔥مع طاره حبك هديه وبسعر حرق 🔥 العرض متوفر اليوم بتاريخ 13/10/2026 وينتهي بنهاية يوم الأربعاء بتاريخ 14/10/2026",
-      "ad_title": "",
-      "start_date": "2026-10-14",
-      "is_active": "TRUE",
-      "format": "VIDEO",
-      "media_type": "video",
-      "platforms": "FACEBOOK | INSTAGRAM",
-      "cta": "Call now",
-      "ad_url": "https://www.facebook.com/ads/library/?id=1551837593648514",
-      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOLp6Iyr_e5J5XLkY9eXMiDzQOMe_I1yJY19fz0_pj6W-zT5njmMiuaUV2TyTdtS-I3OCkS4kdLXJpSo7g9EKxzLdT6QNWGKyOhHUnToZRJhQ.mp4?_nc_cat=110&_nc_oc=AdpLwRtO7Dw0mTQ2pBJ60StiTgM4FbE3R_OjLxwLsj1ripSxCAg8F2NRx9Khh8UuGMU&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=WoobYCI08wYQ7kNvwGhJqtA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2MTk1NTM5OTUxNjMxMDEsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=25ba291d17581fd8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FMTAxQkMxNjFFREY0QjAzQjMwNUEzRTlBQzMwODI1Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQwQUY0NEQ1RTE2NjQxMDU4QkEzMjI1RTE4NDkyN0E5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa6l9CVjp6nCRUCKAJDMywXQFEMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mthfc7-v7UWclDghVWssMw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEOc3uUniUGqsxlogGAGstjTSWqTcV1ULxNJapNxXVQvP5-mjv-B2trmxNPMOBFKo_Jfw5oJTIvbhyLkV4CbG9q&oh=00_AQPiY0fhRgSPVbWanyRzo1cgR8x615Xb_mdPp0GEjEU95A&oe=6AD525E6",
-      "image_url": "",
-      "analysis_status": "success",
-      "video_analysis": {
-        "confidence": "normal",
-        "processing_method": "gemini_video",
-        "result_type": "video_understanding",
-        "summary": "### 2. ملخص استراتيجي:\n\n*   **خلق حالة من الإلحاح (Urgency):** استخدم المعلن تقنية \"العد التنازلي\" عبر ربط العرض بمدة يومين فقط، مما يحفز العميل على اتخاذ قرار شراء فوري خوفاً من ضياع الفرصة.\n*   **هدم القيمة السعرية التنافسية:** استطاع المعلن استعراض \"قوة العرض\" من خلال البدء بسعر مرتفع (65 دينار) ثم النزول تدريجياً بالسعر أمام الكاميرا، مما يوحي للمشاهد بوجود خصم هائل ومغري جداً.\n*   **استراتيجية \"العرض المضاف\" (Bundling):** قدم قيمة إضافية (طارة \"حبيك\" هدية) مع المنتج الأساسي، وهي استراتيجية فعالة جداً لزيادة جاذبية العرض دون الحاجة لتقليل هامش الربح بشكل أكبر.\n*   **التوظيف العاطفي:** اعتمد المعلن على أسلوب \"الحماس الصوتي\" واللغة غير الرسمية (الأردنية العامية)، مما يعزز الثقة والود مع المشاهد ويجعله يشعر بأنه يحصل على صفقة \"سرية\" أو حصرية.\n*   **دعوة واضحة للعمل (CTA):** وجه المشاهد بوضوح إلى الفروع المحددة (إربد وعمان) مع التذكير المستمر بأن العرض محدود زمنياً، مما يقلل من احتمالية التردد في الشراء.",
-        "transcript": "بصفتي محلل محتوى منافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"لكل حدا كان مفكر إنه خلصنا عروض يا معلم، بحب أقولك دقت طبول الحرب، وفتحت أبواب عروض \"جهنم\" يا معلم، من داخل محلات الربيع.\nأقسم بالله العظيم، لأخلي فرش \"التندي\" بحال البلاش، والله العظيم يا تاجر ويا \"تواجر\"، إلا مقصري ينباع اليوم! \nفرش \"التندي\" السبع طبقات جلد، الأصلي، كل الأردن بتعرفه، وكل حدا ركبه من عندي بيعرف قديش سعره غالي وبيعرف قديش الفرش هذا نظيف، بجميع ألوانه إن شاء الله: اللون البيج والبني، واللون الرمادي والأسود، واللون البيج والأسود يا معلم. \nأقسم بالله العظيم بنعطيك عليه أفضل سعر على مستوى المملكة!\nالفرش لحاله يا معلم كان ينباع بـ 65 دينار، اليوم الربيع بيقولك لا بـ 60، ولا بـ 50، ولا بـ 40، ولا بـ 35، وأقولك ولا بـ 32 ولا بـ 31، أقل من 31 دينار، وراح تاخذ معاه طارة \"حبيك\" هدية!\nوجميع الألوان برضه متوفرة منها، والعرض هذا فقط لمدة يومين: اليوم وبكرة. يا بتلحق يا أما بروح عليك، العرض طلع من داخل محلات الربيع فرع إربد، وتوزع على جميع فروعنا بعمان.\nنشوفكم على خير، بأقل من 31 دينار، وأجور رمزية جداً على التركيب، مية أهلا وسهلا بالكل، وسلام.\"\n\n---"
       }
     },
     {
@@ -710,7 +509,7 @@
       "platforms": "FACEBOOK | INSTAGRAM",
       "cta": "Visit profile",
       "ad_url": "https://www.facebook.com/ads/library/?id=1421098712849238",
-      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPi31-WsAXPrrPI3_5sRvPXdiYeZk4rLdsXMAgGsrNOCDF6Z1SLNXjLqvILbe25_30tKXi6SPYAh92hCeG9db6LRzaZQ6YIWaVkfktfa9_OuQ.mp4?_nc_cat=103&_nc_oc=AdpE4GnziDfotOl6QpX_XCN_lE6gmoG6bP7dIExUeWM_LYLKF3eaigYV-dfeUXL6KvI&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=NCaKO5eMdRIQ7kNvwFnUyFL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NzA4ODI2NjQ1MzM4MSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9a36a6b64a708ae2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85OTg2QjQwRjE4NEI0QUYxQkRDRTY2MzE2MTQ2ODE1N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNCOUYxMUM2MEM0MzQxMzg5OUU2NTM4NzIxOUM2NzdCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKhrWJ-eO3AxUCKAJDMywXQEDqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=mthfc7-v7UWclDghVWssMw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGCXbxqoKuAVUjl8eiDTKfz2xy1txGjbmPbHLW3EaNuYzPjGGddR3pS-6kfuNihMmuMHoDa2W3PvBENR9sXn_gA&oh=00_AQP2VwaAVVfglyydOhOQHlhdKyPT6FomAbkVVj1claYofg&oe=6AD52A4D",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPi31-WsAXPrrPI3_5sRvPXdiYeZk4rLdsXMAgGsrNOCDF6Z1SLNXjLqvILbe25_30tKXi6SPYAh92hCeG9db6LRzaZQ6YIWaVkfktfa9_OuQ.mp4?_nc_cat=103&_nc_oc=AdrVaEj4iCdZ-cNvoIldkRKJgNamsZMEJoHuD3ibeT9nR6MTuiSzyYy0ThhpqrUMSfo&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=NCaKO5eMdRIQ7kNvwHJToHA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2NzA4ODI2NjQ1MzM4MSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjozMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=9a36a6b64a708ae2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85OTg2QjQwRjE4NEI0QUYxQkRDRTY2MzE2MTQ2ODE1N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNCOUYxMUM2MEM0MzQxMzg5OUU2NTM4NzIxOUM2NzdCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaKhrWJ-eO3AxUCKAJDMywXQEDqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=tAEMxqcLNk4xNtc8qbt0pw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGCXbxqoKuAVUjl8eiDTKfz2xy1txGjbmPbHLW3EaNuYzPjGGddR3pS-6kfuNihMmuMHoDa2W3PvBENR9sXn_gA&oh=00_AQPdINogYkCL69luwb7O9vPMJiXtfvOnhxtdCS_3OkLqmg&oe=6AD67BCD",
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
@@ -719,6 +518,150 @@
         "result_type": "video_understanding",
         "summary": "### 2. الملخص الاستراتيجي:\n*   **الجمهور المستهدف:** أصحاب المركبات الباحثين عن تطوير إضاءة سياراتهم لضمان أداء عالٍ (خاصة في ظروف القيادة الليلية).\n*   **استراتيجية جذب الانتباه (Hook):** اعتمد الفيديو على التوثيق البصري المباشر للإضاءة، مع إبراز \"قوة الإضاءة\" كدليل ملموس، مما يعزز المصداقية لدى المشاهد.\n*   **القيمة المضافة (USP):** ركزت الرسالة على ثلاثة نقاط جوهرية لاتخاذ قرار الشراء:\n    *   **السهولة:** \"تركيب فيش بفيش\" (بدون تعديلات ضارة).\n    *   **الثقة:** \"كفالة خطية لمدة سنة\".\n    *   **الأمان:** \"لا تضايق السيارات المقابلة\" (ميزة تقنية هامة).\n*   **الدعوة لاتخاذ إجراء (CTA):** تم استخدام \"اسألني عن السعر في التعليقات\" كوسيلة لزيادة التفاعل (Engagement)، وهو تكتيك ذكي لرفع خوارزميات الفيديو وزيادة الوصول.\n*   **تغطية جغرافية:** التنويه بـ \"جميع أفرعنا\" يعزز من حضور العلامة التجارية محلياً ويشعر المشاهد بسهولة الوصول للخدمة.",
         "transcript": "بصفتي محلل محتوى، إليك تحليل الفيديو وفقاً للهيكل المطلوب:\n\n التفريغ النصي:\n\"قاعد بحكي معك بخط عيار وقوة ومدح حقيقيين، بسم الله ما شاء الله، طلع لي قوة الإنارة كيف على الميتسوبيشي. ركبنا عليه الـ SR70 برو، أحدث أنواع الليزرات داخل محلات الربيع، ومع كفالة خطية لمدة سنة كاملة راح يعطيك خط عيار بيجنن ومستحيل يضايق السيارات اللي قبالك، بس بيفرد لك الأرض وبيقلب لك الليل نهار، طلع قوة الإنارة كيف بسم الله ما شاء الله، اسألني عن سعره بالتعليقات، موجود بجميع أفرعنا، وكل الأرقام منه موجودة، وبيركب عندك فيش بفيش، وعلى القاعدة الأصلية بدون قص أسلاك، والبيكا-ما طلع من فرع المحطة، وبتشرفونا بأي فرع، وسلام.\"\n\n---"
+      }
+    },
+    {
+      "ad_id": "1749849262757093",
+      "page_id": "231001330092549",
+      "page_name": "الدلال",
+      "ad_body": "#الدلال",
+      "ad_title": "",
+      "start_date": "2026-09-19",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1749849262757093",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOv4juYT5jmIKANI88YknrCmaTFumP8Z1YXgVpw1m2djljZmkPv0Vcdv9Ypj4BESxXYf11T5cVW17Jk53Iw8KPH1NX5StzvhuNbYhlfdncvbg.mp4?_nc_cat=108&_nc_oc=AdrJxqCTHNgwalb4q8940pfWiLfoQEJqWj9vI4ZvO2Q5iq4ckgKJOzXTg3WPXt0c5-o&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=SoZ91dw2O4MQ7kNvwGnbOIa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNTc2LmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5Nzg4NjY2NDk0NTIwODUsImFzc2V0X2FnZV9kYXlzIjo1MywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjg1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1e1bc88d6c59953c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BODQxQUQwQzBBODNGMDYzQ0QxQzE3MTIwQzkzM0VCM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFGNDlDODVDMzlEMzFEQ0QyNkYzOTMxN0ZGMzBFRjlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbquJa7mfGDBxUCKAJDMywXQFVKn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OwXPcb55fHRcmcup5dUwKQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE2OniD7IFVuPxkPrd9dqCRa_1Z-3KNsdpr_Vn7co2x2sacp-jHN85NqebWEib6NJtQMY_DfoSEcPAit6rfGvb9&oh=00_AQMTn8IgAPucI0dZP35kNRUNl8sg7jAtvBRyQLOs-XjNOw&oe=6AD697E8",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي\n*   **القيمة المقترحة (USP):** يروج الفيديو لمنتج \"الكريتيف\" (ستائر حماية مرنة) كبديل عملي للتظليل التقليدي، مع التركيز على ميزة المرونة (فك وتركيب سهل دون إتلاف زجاج السيارة).\n*   **معالجة نقاط الألم:** يخاطب الفيديو مخاوف السائقين من المخالفات المرورية الناتجة عن التظليل الدائم، ويقدم \"الكريتيف\" كحل قانوني وعملي.\n*   **استراتيجية الإثبات:** يعتمد الفيديو على العرض المباشر (Demonstration) لسهولة الاستخدام، ويوضح جودة الرؤية من الداخل إلى الخارج، مما يعزز الثقة في جودة المنتج.\n*   **أسلوب التسويق:** استخدام أسلوب \"البيع المباشر\" (Hard Sell) الحماسي مع توجيه دعوة لاتخاذ إجراء (CTA) من خلال دعوة الجمهور للسؤال عن السعر ومتابعة الحساب للمزيد من العروض.\n*   **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن حلول حماية من الشمس والخصوصية دون التعرض للمساءلة القانونية أو الالتزام بالتظليل الدائم.",
+        "transcript": "التفريغ النصي\n\"جيب.. جيب.. جيب.. جيب.. جيب.. طبعاً هذا الكريتيف.. طبعاً هذا الكريتيف ما إله أي بديل، لا تقولي برداي ولا تقولي أي إشي. طبعاً بديل التظليل، التظليل الناس ما بتحب إيش؟ التظليل، ما بدها تتخالف. هذا فليكسيبل يا معلم، مرن، إمتى ما بدك ماشي، بتحط الكريتيف.. إمتى ما بدك بتحط الكريتيف وبتقيمه. أما تقولي عاد المؤاخذة إله بديل إله أي إشي؟ ولا إله أي بديل، اطلع على السيارة كيف، كلها عملناها الكريتيف، طبعاً تقدر تنزله، وتطلعوا.. ولا بيخرب، معك دبل فيس، بكفيك لسنة، ولما بدك دبل فيس بتجينا، اطلع كيف الشبابيك، تعالوا نفرجيكم، عملنا هاي اللاند كروزر الأربعة والخلفي والدبة.. عملناها كاملة، بسم الله ما شاء الله، طبعاً الوضوح تاعه من جوا.. اطلعوا.. بسم الله ما شاء الله، الوضوح تاعه بيجنن كثير، طبعاً اسألوني عن السعر تاعه راح أردلكم، لا تدلل لزينو وزينة السيارات، تابعوني بكل جديد مع الكريتيف، أهلا وسهلا.\""
+      }
+    },
+    {
+      "ad_id": "1118705624073067",
+      "page_id": "231001330092549",
+      "page_name": "الدلال",
+      "ad_body": "#الدلال",
+      "ad_title": "",
+      "start_date": "2026-09-19",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1118705624073067",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOEZuz3_vvgB2dyz3oX6Ff6ThUFLLfN_RrdJmp1G2wLAN5bAZM9d55d6jSocu2k4C8b4YJVWxO0FzIRDSB_vw5rgv5wJscneRrzDr_zihQvfg.mp4?_nc_cat=102&_nc_oc=AdqBW0IiznOtiDf5jVnqU9WiCE23VG3opJXIVCNHN3wJwVpntbypZi1CwEDLMWtGQ_4&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=wzWrNVAaJwEQ7kNvwFxk1DJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDYyNjc2ODc3Mzk3MzEsImFzc2V0X2FnZV9kYXlzIjo1OCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjY5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a99af8b6094a51e6&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQTQ1MUFBOTlFMzgyQjEwMkNCNzRFMzM4REVFNTE4Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyNDQ5RDQ0OUQyOUE0QkNBNDYwRjAyMTNDM0Y4RUFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACamhYnvirnaBRUCKAJDMywXQFFXbItDlYEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OwXPcb55fHRcmcup5dUwKQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGNYNotHuhwP5rRz5pwi1Jbd28k6vAn1qp3byTq8CfWqkR2LZ1J_S5jaQxZY2VEDDQ_3p96lss5dfJ9pmH3X1kD&oh=00_AQMMHIYZisUoFhqvMwAyGNr9Oa2pVMODSoK1mF8hk14WDA&oe=6AD68C5E",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي\n\n*   **استهداف الجمهور:** التركيز على أصحاب السيارات الذين يبحثون عن تطوير أنظمة الصوت (Audio Systems) بأسعار تنافسية وخيارات متنوعة.\n*   **القيمة المقترحة:** التنوع الكبير في المنتجات (أكثر من 60 نوعاً)، السعر المناسب (ابتداءً من 15 ديناراً)، والجودة في التركيب (فك وتركيب احترافي دون أضرار).\n*   **التسويق بالمصداقية:** التأكيد على احترافية العمل (\"فك على الأصول\"، \"تركيب براغي على الأصول\") لتبديد مخاوف أصحاب السيارات على مركباتهم.\n*   **استراتيجية التفاعل:** دفع العميل لاتخاذ إجراء (Call to Action) من خلال طلب تفاصيل نوع السيارة والميزانية في التعليقات، مما يعزز من خوارزميات الانتشار ويخلق علاقة مباشرة مع العميل.\n*   **هوية المكان:** التعريف بـ \"مجمع الدلال\" كوجهة شاملة للزينة واكسسوارات السيارات، واستخدام أسلوب العرض \"الواقعي\" أمام المتجر لتعزيز الثقة.",
+        "transcript": "التفريغ النصي للفيديو\n\n\"أهلاً، أهلاً، سماعة محترمة جداً جداً جداً، وبتحمي Amplifier إذا أنت بدك، وإذا ما بدك، سيارتك Standard زي هيك، تجيني يا معلم، أقل سعر في المملكة.\nأركبلك جوز سماعات،\n[موسيقى خلفية]\nأفهم علي، ركز منيح، سيارتك خايف عليها، سيارتك بدك System إلها، تجيني معلم، أحلى فك، وأحلى تركيب، وأحلى سماعات.\nمعاك أسعار السماعات من 15 دينار، واطلع.\nوهون عندي بدل السماعة، ونوع السماعة عندي 60 نوع سماعة، فتجيني بأقل سعر في المملكة، ماشي؟ بتاخذ سماعاتك ركب جاهز. كباش بتنفك على الأصول، بتتركب براغي على الأصول، كل شيء 100%، وبأقل سعر في المملكة.\nوضلك تابعني بكل جديد، وأهلاً وسهلاً فيكم في \"مجمع الدلال لزينة واكسسوارات السيارات\"، ولا تنسى تحكيلي نوع سيارتك، وقديش بيكلف سماعاتين أو أربعة، ضلك تابعني بكل جديد، سلام.\"\n\n---"
+      }
+    },
+    {
+      "ad_id": "1608903330972918",
+      "page_id": "231001330092549",
+      "page_name": "الدلال",
+      "ad_body": "#الدلال #الدلال_لزينه_واكسسوارات_السيارات",
+      "ad_title": "",
+      "start_date": "2026-09-19",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1608903330972918",
+      "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQM201fIH41eNxFgADxTomifrWtXv4E9FtpJnOAZNFjMgsaz-HxXxLrXAY0IHsfUuDKNWVF3NSuK5GBVqJcM2QIlJhhml_Sv2Vv7JckNDyCkMQ.mp4?_nc_cat=106&_nc_oc=AdoaGx9RKLRUJWJjaqPPEyk8YzwFEvkEg-Y0T9S5S33fhmmpgN3cTDyg0a0yZvEXT2Q&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=0zqAAklkP0UQ7kNvwE9W2Eo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2MzM0MDk1OTA5NTg2ODEyLCJhc3NldF9hZ2VfZGF5cyI6MTg3LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=75be498aa3e2c46a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81MzRCOTRGQTE1N0ZDM0EzOUU0QTdERkIxMEMyNzhBQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzc3NDY2RDM4NDZFNUVDN0ZBMkVFNzc1OUJBRTQ2QzhBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4neCCkK7HXRUCKAJDMywXQFLxBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OwXPcb55fHRcmcup5dUwKQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFd51BrcbQTf8ZR-rf5mcaNZcfSciLHuBNlx9JyIse4E56I9ybZvQil_HHyCzzx_3mdgKlNwTkmeAn63nk9z0Dt&oh=00_AQM6G-U6EeYRQP8mjDphyYKyRrCfTOLwokgu5PEVmbg3IQ&oe=6AD682EE",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **استراتيجية المنتج:** يعتمد صانع المحتوى على مبدأ \"العرض الشامل\"، حيث يروج لمجموعة واسعة من كماليات السيارات (مثلثات، شفة/تعديلات أمامية، سبويلر، تظليل) لتغطية احتياجات مختلف موديلات السيارات.\n*   **بناء الثقة (البرهان الاجتماعي):** يستخدم \"المرجعية الفنية\" (إشارة إلى لاصق 3M الأصلي) وضمان الجودة (مكفول 100%) لتعزيز مصداقية المتجر أمام العميل.\n*   **التفاعل المباشر (Call to Action):** يوظف التفاعل في التعليقات كأداة تسويقية، حيث يطلب من الجمهور ذكر \"نوع السيارة وموديلها\" لتقديم عرض سعر مخصص، مما يرفع من \"معدل التفاعل\" (Engagement Rate) ويحفز الخوارزميات.\n*   **أسلوب التقديم:** يعتمد على \"التسويق الديناميكي\" عبر التصوير الميداني (داخل الورشة) واستعراض التركيب الفعلي، مما يعطي العميل تصوراً ملموساً للخدمة قبل شرائها.\n*   **نقاط القوة التنافسية:** التركيز على \"أحسن سعر في المملكة\" كرسالة بيعية رئيسية (Value Proposition) مع التنويه بمهارة الحرفيين لرفع قيمة الخدمة المقدمة.",
+        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى التنافسي، إليك التحليل المطلوب للفيديو:\n\n التفريغ النصي للفيديو:\n\n\"هذول المثلثات اللي بيركبوا ايش؟ لجميع أنواع السيارات موجود، اسألني ايش ما كان نوع سيارتك، قرب علي.. عن المثلثات، عن الشفة، عن.. طبعاً اسمع عشان يكون الكلام على بينة، الدبل فيس تبعي الـ 3M، قرب علي، هسا بدي أقيمهم بس أنا أفرجيك كل شيء أصلي 100%، حتى الكرت تبع الفتح.. ماشي موجود إلها. وقرب علي يا معلم، هاي الشفة المخصص.. التلات قطع، المخصص، قرب علي.. يلا تعال يا سند، أمسك معي، طلع علي، هاي الدستروير الأصلية إلها، طبعاً عامل عليها عرض سعر، طبعاً ولا ننسى موضوع التظليل، قرب علي، طبعاً التظليل عنا بأيادي ما شاء الله شباب محترمين إيديهم بتلف بحرير، تظليل 100% يا معلم، وأهم إشي العزل 100% ومكفول 100%، ضلك تابعني بكل جديد، أهلاً وسهلاً فيكم واسألني على ايش ما بدك، السبويلر الخلفي، كاسحة، ايش ما بدك، نوع سيارتك حابب تنزل على التعليقات، حطلي نوع السيارة وموديلها رح أجاوبك على المسج، ماشي؟ أحسن سعر في المملكة، ضلك تابعني بكل جديد.. سلام\".\n\n---"
+      }
+    },
+    {
+      "ad_id": "1007339845653431",
+      "page_id": "231001330092549",
+      "page_name": "الدلال",
+      "ad_body": "#الدلال",
+      "ad_title": "",
+      "start_date": "2026-09-17",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1007339845653431",
+      "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNA_lOrBIwZEkybh8_Q_ETtBYhpIoajBjznF5lJsnNBWX4Os-PVLcTQXbb8Fyxof5zsTJmZXv1oAEyvNjMsHUATnlkg5H6usZX2Iapd8W8xcg.mp4?_nc_cat=102&_nc_oc=Adobn62kMNJx_Mzx2xVNKXQPi0fGqjKEeSPwevpIEAA31BrU-t1ey0wuk_mU7IXZBu8&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=a9b5MhW_nqwQ7kNvwE6FGEY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0MDk3OTEzMDc4NzgwMzgsImFzc2V0X2FnZV9kYXlzIjo4MSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjYzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=93d01159a4cc7c92&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTQzM0MyODNDMDI5Q0RFMDY5QkYxOTIwQzg1OUU5Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QzNDZENzIyNUU0MjRDM0I0MEFDQTRCMjNEOEM2NkIyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACasuujh04yBBRUCKAJDMywXQE-VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OwXPcb55fHRcmcup5dUwKQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE8giSCh9Wf9ZiaLxiHCKnPP3jl_qP-S_Q_eOX-o_5L9AFfd_e6HpXv91286-kEKa2d5ZfHP-yFCDTgClLBiTte&oh=00_AQNqzaEbXJRapZGCdMDT_-Sv9SzNiX-qLZCrjqhQXm0Uxg&oe=6AD69D0A",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **نوع المحتوى:** فيديو تسويقي لخدمات تعديل وتنجيد السيارات (محتوى ترويجي محلي).\n*   **القيمة المقترحة:** التركيز على جودة العمل اليدوي (\"خيطناله إياهم تخيط، مش سوبر جلو\") مقابل السعر التنافسي، مع إبراز الاهتمام بالتفاصيل الفنية (تنجيد كامل، طارة، ركايات).\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) واضحة ومباشرة للمشاهدين (\"انزل اكتب كومنت، عجبك الشغل ولا لأ؟\") لزيادة التفاعل مع المنشور.\n*   **أسلوب العرض:** أسلوب \"استعراض الثقة\"، حيث يعتمد مقدم الفيديو على الحديث المباشر وبثقة عالية لجذب الزبائن، مع ربط اسم المحل بنشاطات أخرى (المطابخ) لتوسيع النطاق التجاري.\n*   **الجمهور المستهدف:** مالكي السيارات الذين يبحثون عن تعديلات جمالية ومريحة لسياراتهم بأسعار معقولة.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"وي، خلصنا البيكانتو، بأمانة الله إنك تحكي بإيش؟ بضميرك، كيف الشغل؟ طبعاً تحولت كامل وركبنا له هون إيش؟ ركايات الريكارو، وأعطيناه الطارة الأحمر، خلينا بالإيش؟ بالإشي المهم. الإشي المهم، شوف الفرش، طبعاً هذول إيش؟ تنجيد كامل، طبعاً حتى الأحزمة خيطناله إياهم تخيط، مش سوبر جلو، صحتك أول إشي.. جرب علي، شوف الخلفي. معلم، إذا ما بدك تشتري بس انزل اكتب كومنت، عجبك الشغل ولا لأ؟ [يقوم باستعراض السيارة مجدداً] معلم، إيش ما تكون لون ونوع سيارتك، جيب لي إياها بأقل سعر في المملكة، رح أعمل لك إياها، ولا تنسوا معلم حكينا لكم على إيش؟ على المطابخ هاي، طبعاً إشي على الأول، سلام.\"\n\n---"
+      }
+    },
+    {
+      "ad_id": "1049731864724295",
+      "page_id": "231001330092549",
+      "page_name": "الدلال",
+      "ad_body": "#الدلال",
+      "ad_title": "",
+      "start_date": "2026-09-19",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "FACEBOOK | INSTAGRAM",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1049731864724295",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPQz15u9g7x1FAI7_jjvn9iMrrfCaNS1bkJ4B2aeQWfb2YjDeWKGWZf3XQIyIEtwRL5NDTU7cYHjk0f6JGqLaFtk4ggO-pTVVZOCVFJ_5poAA.mp4?_nc_cat=107&_nc_oc=Adph7F1jsHs4wlOTHN5j6qSX8RlRdnS4R2rqrX38EKvraVAB_MZY7zvenQJ8Iquwl7A&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=5f5t6dze5ZwQ7kNvwEiDrG0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIzMzcwODAyMTAxNjM2NzEsImFzc2V0X2FnZV9kYXlzIjo0MCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjU5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=622ea8cea2e57016&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQTRCMzhBMzJGQTgwNzI0REVDRDU3QzY3NkVBMEE4Ml9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQ3NEIwNjQ5Q0UxMUU1ODEyNDYxMEFGRjM5QkFFMTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaun-i7_OOmCBUCKAJDMywXQE2zMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OwXPcb55fHRcmcup5dUwKQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGH4PZpsmQ3sLlzf8xOV2LlXGbHYZWMPqNcZsdhlYw-owd8yH4A8WwidR9lhcGa-0qLLNI5BsnShiQiQs66YKc_&oh=00_AQMY-Dm3Oh_pf8k2-8wfdFPzLW_TKSrjg9R1k54hcXIPUw&oe=6AD69631",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **بناء الثقة (الهدف الأساسي):** يعتمد المتحدث على التحدي المباشر للعميل (\"طلع لي غلطة\") لإثبات جودة العمل ودقته، مما يزيل حاجز التردد لدى الزبون المحتمل.\n*   **إبراز القيمة مقابل التكلفة:** يركز المتحدث على تقديم \"أقل سعر في المملكة\" مع التأكيد على جودة العمل التي تصل إلى مستوى \"الدهان الأصلي\"، مما يجعل الخدمة تبدو استثماراً ذكياً.\n*   **الشفافية والمسؤولية:** أسلوب \"استرجاع الكلام والشغل\" في حال وجود أي عيب (تنفيخة) يعزز من مصداقية المحل ويضمن راحة بال العميل.\n*   **التسويق بالتجربة البصرية:** تصوير عملية إزالة الغطاء البلاستيكي عن سطح البانوراما اللامع يُعد \"دليلاً حسياً\" قوياً على إتقان العمل وتطابق النتيجة مع وعود مقدم الخدمة.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة المتابع المستمرة لمتابعة \"كل جديد\" تساهم في بناء قاعدة جماهيرية وفية للعلامة التجارية.",
+        "transcript": "بصفتي محللاً لمحتوى الفيديو، إليك التحليل المطلوب:\n\n التفريغ النصي للفيديو:\n\"وهي ايش؟ تركيب البانوراما يا معلم، افهم علي. طلع لي غلطة عليها! وشرطك، انعملت يعني بوقت قياسي جداً جداً جداً سريع. طلع علي، طلع لي غلط غلط غلط. طلع كيف هيك يا سند؟ مشي الكاميرا على ايش؟ على الهيد لاين. معلم، أقل سعر فيك يا مملكة، لدى دلال للزينة واكسسوارات السيارات. معلم، المهم مش نعمل احنا بانوراما، المهم تطلع البانوراما زي، اكنها دهان. هيك الفكرة، كلنا بنعمل بانورامات، أما تطلع مكسرة، مطعجة، نفخة، مش عارف شو. هيو معلم، اعطيني، اعطيني.. إذا فيها تنفيخة وحدة، الكلام يرجع، والشغل يرجع. طلع بسم الله ما شاء الله، عامل عرض سعر عليها لدى دلال للزينة واكسسوارات السيارات، ضلك تابعني بكل جديد وأهلاً وسهلاً فيكم، وتطلع ايش، الجمال.. سلام\"."
+      }
+    },
+    {
+      "ad_id": "1349702830516258",
+      "page_id": "231001330092549",
+      "page_name": "الدلال",
+      "ad_body": "#الدلال",
+      "ad_title": "",
+      "start_date": "2026-09-17",
+      "is_active": "TRUE",
+      "format": "VIDEO",
+      "media_type": "video",
+      "platforms": "FACEBOOK | INSTAGRAM | WHATSAPP",
+      "cta": "Send message",
+      "ad_url": "https://www.facebook.com/ads/library/?id=1349702830516258",
+      "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQP4SMTV4VC3Wa12OMNE4DbvNauqmjv-bdulbzuyX1g2jqUP-q0dsioRjA2MmEqwq-iYQLncclcWblsj3Ev8bZABrc2bo2JrdN3vFszt28IX2g.mp4?_nc_cat=100&_nc_oc=Adpjamix7pg6DVmEwn_XbicUIynoCV-ohYTCbZaR9ffD3C5ZhTqhILFnVWGyNv7N7ao&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=yno1jLXKtLYQ7kNvwGy9DZg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMTIyNjgwMzQ2Mjk5NzQsImFzc2V0X2FnZV9kYXlzIjoxMDQsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo0NiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=76728059898ce73e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wODRCNDA1Mzg2MkUzMkI1RDBDQjJDOTQyRUU5MzI4RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNDhDRThFMTQ0NzI4MEExN0FFQ0Y0MEE1OUJEOUFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACashfnJ4KnMAxUCKAJDMywXQEc7peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OwXPcb55fHRcmcup5dUwKQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHZza-NE6v1Skk1c4OK7ML_xICF9De03u3EgIX0N7Te7cNBryuh0o54o5BvHECnlnxCXv2l47J7DVlaXJCkTqTl&oh=00_AQMQt_joPBaD3sm7Qf6gLkBgGC5VCtl1rcigXV-xRzFwfw&oe=6AD6AA80",
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **الجمهور المستهدف:** مالكو السيارات الحديثة (خاصة ذات التصميمات الداخلية الملونة المعرضة للاتساخ) الذين يهتمون بحماية قيمة سيارتهم ومظهرها.\n*   **القيمة المقترحة (USP):** حماية احترافية (PPF) للأجزاء الداخلية الحساسة، مدعومة بكفالة حقيقية لمدة سنتين، مع الترويج لسعر تنافسي.\n*   **الأسلوب التسويقي:** \n    *   **إثبات الأداء:** استخدام التجربة الحية داخل الفيديو لإظهار سهولة التركيب والإزالة دون ترك أثر.\n    *   **بناء الثقة:** استخدام \"ضمان السنتين\" و\"أقل سعر في المملكة\" كعوامل جذب قوية.\n    *   **دعوة لاتخاذ إجراء (CTA):** توجيه المشاهد للتعليقات لطلب الاستفسار، مما يعزز التفاعل ويحسّن من أداء خوارزميات المنصة.\n*   **نقاط القوة:** الفيديو قصير، مباشر، ويخاطب مشكلة فعلية (اتساخ البطاين) ويقدم حلاً عملياً وملموساً، مع وجود \"شخصية\" واضحة للمتحدث تضفي طابعاً ودياً.",
+        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"هلا يا علي، هي الـ PPF في البطاين، طبعاً يا معلم هسا السيارات الصيني وأغلب السيارات صارت تجي ألوان. معلم هذا اللون إذا توسخ مصيبة، ماشي؟ رح نغلفلك ياه من هون بالـ PPF طبعاً يا معلم كفالة لمدة سنتين حقيقية، صار شي بيبيضاني. لما نكبعه.. قرب علي.. مش عاجبك المنظر؟ بدك تكبعه؟ أمور طيبة 100% ونرجع نلزقلك ياه ماشي وتأخذ عليه كفالة لمدة سنتين وأقل سعر في المملكة. قرب علي يا معلم. هسا الموضوع مش بس هون، شايف هاد كلياته؟ بنغلفلك ياه. طبعاً Safety لسيارتك حصري بشارع الجامعة وشارع المدينة وأقل سعر في المملكة، انزل لي على التعليقات اسألني رح اجاوبك بأحلى سعر، سلام.\"\n\n---"
       }
     }
   ]
