@@ -2,7 +2,7 @@
   "scan_date": "2026-10-19",
   "total_ads": 40,
   "total_video_ads": 35,
-  "analyzed_video_ads": 34,
+  "analyzed_video_ads": 35,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -643,11 +643,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك التحليل الاستراتيجي التنافسي للفيديو:\n\n التفريغ النصي الكامل والدقيق\n\n- \"4 أشخاص والخامس مجاناً هو عرض قسم الرجال للحمام التركي.  \n- موقعنا في عمان شارع الجامعة الأردنية مقابل مفروشات سنترو.  \n- العرض لمدة محدودة، بانتظاركم.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي\n\n- **نوع العرض:** عرض ترويجي تجميعي (4+1 مجاناً) خاص بقسم الرجال لخدمة الحمام التركي.  \n- **الهدف التسويقي:** جذب مجموعات الأصدقاء أو العائلات لزيارة المركز خلال فترة محدودة.  \n- **معلومات الموقع:** عَمّان، شارع الجامعة الأردنية، مقابل مفروشات سنترو.  \n- **نقطة القوة في الإعلان:** إبراز أجواء ومرافق الحمام التركي بوضوح لرفع الثقة وخلق رغبة تجربة الاسترخاء.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n\n- **نوع العرض:** عرض ترويجي تجميعي (4+1 مجاناً) خاص بقسم الرجال لخدمة الحمام التركي.  \n- **الهدف التسويقي:** جذب مجموعات الأصدقاء أو العائلات لزيارة المركز خلال فترة محدودة.  \n- **معلومات الموقع:** عَمّان، شارع الجامعة الأردنية، مقابل مفروشات سنترو.  \n- **نقطة القوة في الإعلان:** إبراز أجواء ومرافق الحمام التركي بوضوح لرفع الثقة وخلق رغبة تجربة الاسترخاء.",
+        "transcript": "إليك التحليل الاستراتيجي التنافسي للفيديو:\n\n التفريغ النصي الكامل والدقيق\n\n- \"4 أشخاص والخامس مجاناً هو عرض قسم الرجال للحمام التركي.  \n- موقعنا في عمان شارع الجامعة الأردنية مقابل مفروشات سنترو.  \n- العرض لمدة محدودة، بانتظاركم.\"\n\n---"
       }
     },
     {
@@ -736,7 +736,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1482893373689002",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQO__HaYhZ359sH-BsgN8jOS8RnfXXfrydU4MWeuX7mK1wxIVv_dS77ox221xlM1rKNVDKRvE7Oxyr9iB9OVWt7Gdoxzb3TlbqXm7PMY2scxnw.mp4?_nc_cat=101&_nc_oc=Adqj_pQuIHM6O1AetXdyGjZJc9O72nYnpDdTeyDgAbndF0FzIoLznmhnf1ZiWmUd1bs&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=YrKm5ACXo0UQ7kNvwHNf5lh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI0MzU2MDY4MDY5MzU2NzAsImFzc2V0X2FnZV9kYXlzIjo5NSwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=797df6f62771ad9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQjRBNURFMUUxRTY1M0ZBOTAxNDcwRkYyQURBOEJCMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q1NEM0RDRFRDgzMUVFNTE3MTlDMDZERTEwNzVCMEEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbs4dHo_MrTCBUCKAJDMywXQCzdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=5ur8YpwZQ-BJLuUTg82o1A&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeH9rIHyoEa4zL4uFgmhCiPZCOsMQj8asScI6wxCPxqxJ-dr18xbMXa2LtZu8ekva2oHs7LPjvTPyMdeLJgxiaTV&oh=00_AQP3x4iYzkLHDCkSz17ANyPPCkN_99u97faCiDYOlUaZRA&oe=6ADBCB0F",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "لا توجد كلمات منطوقة في هذا الفيديو، لذا إليك التفريغ والصلاحيات الخاصة به:\n\n\nلا يوجد تعليق صوتي أو كلمات منطوقة في الفيديو.",
+        "summary": "### 2.\n- يركز الفيديو على استعراض أزياء نسائية تقليدية (عباية) في بيئة داخلية راقية (مقهى أو مطعم).\n- تتنقل العارضة في المكان وتبرز تفاصيل التصميم وقصات العباية.\n- الهدف تسويقي بحت للملابس النسائية الموضحة ب logo \"EVET FASHION\".",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1427465708743282",
