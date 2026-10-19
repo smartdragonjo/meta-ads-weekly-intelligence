@@ -979,6 +979,16 @@
     },
     "status": "success"
   },
+  "3222816321261940": {
+    "analysis": {
+      "confidence": "normal",
+      "processing_method": "gemini_video",
+      "result_type": "video_understanding",
+      "summary": "### 2.\n- **الهدف التسويقي:** الترويج لخط منتجات العناية بالاستحمام برائحة الرمان والراسبيري (Pomegranate & Raspberry).\n- **المنتجات المعروضة:**\n  - VAI Shower Sugar Scrub (مقشر سكر استحمام).\n  - VAI Shea Butter Soap (صابون زبدة الشيا).\n  - VAI Shower Gel (جل استحمام).\n- **الاستراتيجية البصرية:** عرض استخدام المنتجات مباشرة على البشرة لزيادة الجاذبية البصرية وإبراز قوام المنتجات وفعاليتها.",
+      "transcript": "أهلاً بك. تفضل تحليل الفيديو بالمواصفات المطلوبة:\n\n\nفيديو ترويجي لمنتجات العناية بالبشرة (مقشر، صابون، جل استحمام) من علامة VAI."
+    },
+    "status": "success"
+  },
   "3232712703784156": {
     "analysis": {
       "confidence": "normal",

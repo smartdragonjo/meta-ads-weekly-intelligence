@@ -2,7 +2,7 @@
   "scan_date": "2026-10-19",
   "total_ads": 40,
   "total_video_ads": 35,
-  "analyzed_video_ads": 32,
+  "analyzed_video_ads": 33,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -459,11 +459,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\nأنا 30 سنة...\n\n---",
-        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف:\n\n* **طبيعة المحتوى:** فيديو ترويجي لمنتج عناية بالبشرة (مرطب/مجدد).\n* **الفكرة الرئيسية:** إبراز العناية الشخصية ومواجهة علامات التقدم في السن لدى الأشخاص في الثلاثينيات.\n* **الأسلوب التسويقي:** بصري جذاب يعتمد على إظهار المنتج بوضوح وسهولة استخدامه على البشرة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف:\n\n* **طبيعة المحتوى:** فيديو ترويجي لمنتج عناية بالبشرة (مرطب/مجدد).\n* **الفكرة الرئيسية:** إبراز العناية الشخصية ومواجهة علامات التقدم في السن لدى الأشخاص في الثلاثينيات.\n* **الأسلوب التسويقي:** بصري جذاب يعتمد على إظهار المنتج بوضوح وسهولة استخدامه على البشرة.",
+        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\nأنا 30 سنة...\n\n---"
       }
     },
     {
@@ -544,7 +544,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=3222816321261940",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQPfFdLPvEC5YXpimHVNHgu5BnO8cx65EVCYqPbGSE6k-Ziin1Q6yTT3NjIJK1i-drt5Ae5VMLGRCNTVitPUUkhZAdDrhD7EKR1-8p4.mp4?_nc_cat=105&_nc_oc=AdpWA0jkR7c5mpM1txA0NivxXkGizstKZqMiYaq7WDoznQkz2YJ9JUhEDvEvsKQRSU4&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=Wh9pgqjEYj8Q7kNvwFRiXqf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY5OTY3MDU5MTEyODc2OSwiYXNzZXRfYWdlX2RheXMiOjE1MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2ae312b5a0e54af9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNzRBQzhBQzM1MzcyMTNEMzFDRTEwN0I0NjM1MEM4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RBNDJBQzY2MUQ3NTVDQTQ3MDY3REY3RjI1MDk3MEFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaCk47d7PWEBhUCKAJDMywXQDkiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBl5p0BAA&_nc_gid=5ur8YpwZQ-BJLuUTg82o1A&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFLz71Crj44o0mNTX3hY53Xw2YTluCgN3_DZhOW4KA3fz-CL7V2y0HhbGGLbtmR2gSeRAz31e3um91gLQkOY16v&oh=00_AQOWMQ1hokOlUgZm5ONqw8cYssh6rbNFDUXRIS8qjrYr7g&oe=6AD7F61E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك. تفضل تحليل الفيديو بالمواصفات المطلوبة:\n\n\nفيديو ترويجي لمنتجات العناية بالبشرة (مقشر، صابون، جل استحمام) من علامة VAI.",
+        "summary": "### 2.\n- **الهدف التسويقي:** الترويج لخط منتجات العناية بالاستحمام برائحة الرمان والراسبيري (Pomegranate & Raspberry).\n- **المنتجات المعروضة:**\n  - VAI Shower Sugar Scrub (مقشر سكر استحمام).\n  - VAI Shea Butter Soap (صابون زبدة الشيا).\n  - VAI Shower Gel (جل استحمام).\n- **الاستراتيجية البصرية:** عرض استخدام المنتجات مباشرة على البشرة لزيادة الجاذبية البصرية وإبراز قوام المنتجات وفعاليتها.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1060973003605611",
