@@ -2,7 +2,7 @@
   "scan_date": "2026-10-19",
   "total_ads": 40,
   "total_video_ads": 35,
-  "analyzed_video_ads": 28,
+  "analyzed_video_ads": 29,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -267,11 +267,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفضل استعراض تحليل المحتوى:\n\n\nPov: بتحداكي حد يفرقهم عن الدهب 🔥😍",
-        "summary": "### 2.\n- **نوع المحتوى:** فيديو ترويجي لقطع إكسسوارات نسائية (أساور).\n- **الهدف التسويقي:** إبراز جودة الإكسسوارات ومظهرها الشبيه بالذهب الحقيقي لمخاطبة الباحثين عن الأناقة بأسعار تنافسية.\n- **عناصر الجذب البصرية:** تصوير مقرب (Close-up) يركز على لمعان الأساور وتفاصيلها الفاخرة مع خلفية موسيقية رومانسية هادئة.\n- **التفاعل والجمهور المستهدف:** استهداف الفتيات والنساء المهتمات بالموضة والمجوهرات، مع استخدام صيغة التحدي في النص المكتوب لزيادة التفاعل (Engagement).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **نوع المحتوى:** فيديو ترويجي لقطع إكسسوارات نسائية (أساور).\n- **الهدف التسويقي:** إبراز جودة الإكسسوارات ومظهرها الشبيه بالذهب الحقيقي لمخاطبة الباحثين عن الأناقة بأسعار تنافسية.\n- **عناصر الجذب البصرية:** تصوير مقرب (Close-up) يركز على لمعان الأساور وتفاصيلها الفاخرة مع خلفية موسيقية رومانسية هادئة.\n- **التفاعل والجمهور المستهدف:** استهداف الفتيات والنساء المهتمات بالموضة والمجوهرات، مع استخدام صيغة التحدي في النص المكتوب لزيادة التفاعل (Engagement).",
+        "transcript": "تفضل استعراض تحليل المحتوى:\n\n\nPov: بتحداكي حد يفرقهم عن الدهب 🔥😍"
       }
     },
     {
@@ -304,7 +304,15 @@
       "cta": "Send WhatsApp message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1777755453473835",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMcYXVtvocE-WLYop3sDnUVyxAqoQzhz_XrrJ-WMA__QzuocGUlGDfA3h_O4SIoxda6AwB3qLuVNZ470RcXp46gWcwGBTXaS-VbPDA7WxAJoA.mp4?_nc_cat=106&_nc_oc=Adqtvc_46iOygmIF--AQo9M3KlVcy6XcSTXbuePSU49wv1qKiR_9zbL5t_B-sTq2eTY&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=WJxG36fwgi0Q7kNvwHkSkd1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDMzMjg3NDgxMDg4ODcsImFzc2V0X2FnZV9kYXlzIjo0NCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjE0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=c1abb838ae642b6b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CMjRFNDI5NTEyNDUyQUFBMDE2RTQ3QURCOTI5RTM4Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlFNDEyRkMxMzE4NzQwNkY0MkMxQjBGNjIxNEJDQjkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACau8emHgo7ZBRUCKAJDMywXQCxEGJN0vGoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=5ur8YpwZQ-BJLuUTg82o1A&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE35PXs86_WWmp1z6zgujUV-NzEwKM5vX343MTAozm9fZlbxhv8eXpf0_tnwpkASa6aEjM_nLuDeeglkGs3HLyb&oh=00_AQM1i19CIzGEHMW5z0NVbi3mZb14SEL0RTmvmermhOJPIg&oe=6ADBDFE6",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو.\n\n[موسيقى هادئة تتضمن أصواتاً تحفيزية]",
+        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف بأسلوب نقاط واضحة.\n\n- **الهدف التسويقي:** الترويج لنادي صحي أو منتجع يجمع بين الاسترخاء والرياضة للنساء.\n- **الجمهور المستهدف:** النساء الباحثات عن أسلوب حياة صحي، الراحة النفسية، والتوازن بين العقل والجسد.\n- **العناصر البصرية:**\n  - مشهد استرخاء في المسبح يرمز للهدوء والسلام الداخلي.\n  - لقطات تنوعت بين تمارين المقاومة، الكارديو، والتحمل بإشراف مدربات.\n  - إضاءة دافئة وأجواء مريحة تشجع على الالتزام بالروتين الصحي اليومي.\n- **الرسالة الأساسية:** مساحة هادئة لتجديد الطاقة اليومية والعناية بالصحة الجسدية والنفسية.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1517434790109534",
