@@ -2,7 +2,7 @@
   "scan_date": "2026-10-20",
   "total_ads": 32,
   "total_video_ads": 32,
-  "analyzed_video_ads": 31,
+  "analyzed_video_ads": 32,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -800,11 +800,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"اكتبي كلمة ستيكر بالتعليقات ولحق أقوى ترند على مستوى المملكة، وآخر مرة عملناها 10 دنانير وسكرنا الشوارع، فما بالك السعر راح يكون أقل من 9 دنانير، تفاجأت صح؟ وشوف لي الشغل. \nوهذا أول خير... الزلمة كان جاي يضبط ولما شاف العرض بيقول لي هي أنا أول زبون بيلحق العرض، وسعره ببلاش! انصدمت من السعر صح يا مشاهد؟ لأنك كتبت كلمة ستيكر. \nشغل سيارتك وتعال خذ لي هالمراية السوداء على سقيفة سيارتك، إذا كان في عندك عيوب هي أخفيتهم، ما عندك عيوب أخذتها المراية اللي بتجنن. \nدوار الحويان، ربيع إيدك اليمين، محطة إربد شارع المدينة، وهي أول خير زي ما حكالك أبو زيد.\"\n\n---",
-        "summary": "### 2. ملخص استراتيجي\n*   **خطاف تفاعلي (Engagement Bait):** استخدام \"دعوة لاتخاذ إجراء\" (CTA) بسيطة بكلمة مفتاحية (\"ستيكر\") لتعزيز خوارزميات الانتشار والوصول.\n*   **خلق شعور الندرة والإلحاح:** التأكيد على أن العرض \"أول خير\" ومحدود بفترة زمنية أو كمية، مما يدفع المشاهد لاتخاذ قرار سريع.\n*   **التسعير النفسي (Anchor Pricing):** البدء بسعر 10 دنانير كمرجع للمقارنة، ثم خفضه إلى أقل من 9 دنانير لإشعار العميل بالحصول على صفقة استثنائية (قيمة مدركة عالية).\n*   **تقديم دليل اجتماعي (Social Proof):** تصوير \"زبون\" حقيقي يتفاعل مع العرض ليؤكد مصداقية العرض وجاذبيته.\n*   **استهداف المشكلة والحل:** توظيف المنتج كـ \"حل\" لعيوب السيارة (تغطية العيوب)، مما يحول الخدمة من مجرد \"ديكور\" إلى \"ضرورة\".\n*   **الوضوح الجغرافي:** تحديد الموقع بدقة (علامات مرجعية) لضمان سهولة الوصول للجمهور المحلي.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي\n*   **خطاف تفاعلي (Engagement Bait):** استخدام \"دعوة لاتخاذ إجراء\" (CTA) بسيطة بكلمة مفتاحية (\"ستيكر\") لتعزيز خوارزميات الانتشار والوصول.\n*   **خلق شعور الندرة والإلحاح:** التأكيد على أن العرض \"أول خير\" ومحدود بفترة زمنية أو كمية، مما يدفع المشاهد لاتخاذ قرار سريع.\n*   **التسعير النفسي (Anchor Pricing):** البدء بسعر 10 دنانير كمرجع للمقارنة، ثم خفضه إلى أقل من 9 دنانير لإشعار العميل بالحصول على صفقة استثنائية (قيمة مدركة عالية).\n*   **تقديم دليل اجتماعي (Social Proof):** تصوير \"زبون\" حقيقي يتفاعل مع العرض ليؤكد مصداقية العرض وجاذبيته.\n*   **استهداف المشكلة والحل:** توظيف المنتج كـ \"حل\" لعيوب السيارة (تغطية العيوب)، مما يحول الخدمة من مجرد \"ديكور\" إلى \"ضرورة\".\n*   **الوضوح الجغرافي:** تحديد الموقع بدقة (علامات مرجعية) لضمان سهولة الوصول للجمهور المحلي.",
+        "transcript": "التفريغ النصي\n\"اكتبي كلمة ستيكر بالتعليقات ولحق أقوى ترند على مستوى المملكة، وآخر مرة عملناها 10 دنانير وسكرنا الشوارع، فما بالك السعر راح يكون أقل من 9 دنانير، تفاجأت صح؟ وشوف لي الشغل. \nوهذا أول خير... الزلمة كان جاي يضبط ولما شاف العرض بيقول لي هي أنا أول زبون بيلحق العرض، وسعره ببلاش! انصدمت من السعر صح يا مشاهد؟ لأنك كتبت كلمة ستيكر. \nشغل سيارتك وتعال خذ لي هالمراية السوداء على سقيفة سيارتك، إذا كان في عندك عيوب هي أخفيتهم، ما عندك عيوب أخذتها المراية اللي بتجنن. \nدوار الحويان، ربيع إيدك اليمين، محطة إربد شارع المدينة، وهي أول خير زي ما حكالك أبو زيد.\"\n\n---"
       }
     },
     {
@@ -821,7 +821,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1617042485984398",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOH_yrHg6FyxzFcg81vwEuGosXaMamfyAZkW_SSNllfrLL1AHqPEPDhXZkaYlmngyNctqahODnTv5JMP554TtnEZYGyz5jooxQpPe-Br-uhxg.mp4?_nc_cat=111&_nc_oc=AdqdYUB6XjEJF79a2O0MtmkQ7Yl9VujKhTSXaJ1PKv6A0-jGYxyTIP1q_SnWnlPQ38U&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=AZyuO_aNyNUQ7kNvwHQ0nD4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTg3NjY2MDI1MTcxMDcsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f078b0d8348b1166&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yMzNCRUZDMTcwQUY0NzhBQjBBOTIxODY5MjI5MDExRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRGMDVBMUU0NDlFNDQxMDI4QjgzRkRBNTNCMDg4NEU0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6d2h9qjyBRUCKAJDMywXQDVu2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=CKDXd1r1HamCPFdou7nUXQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE0wsSBTldfN8Rmq1VJcAsva4UcSUvkeTRrhRxJS-R5NFc1uTnW3sShDHeW6XTS0n8jbJcNgPgN96gqKwuuMjdK&oh=00_AQN21juFsD5H-cIH3C6CqNl_iOCC6GTTGWmZVB8mE2n8sg&oe=6ADD7331",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "سأقدم لك الآن التحليل المطلوب استناداً إلى هيكل العمل المحدد:\n\n التفريغ النصي للفيديو:\n«ومالنا جديد ومزكى.. وطار الخياطة اللي ثقيلة المبطنة ظلك شد فيها من هون لبكرة الصبح طلع مبطنة.. أم 10 دنانير بدينار عند محلات الربيع ونقي الألوان اللي بتجنن.. هاي عشان تحمي فيها ستيرينج الأصلي تبع سيارتك.. وما في حدا عمل طارة خياطة ثقيلة بس بدينار غير الربيع زينة السيارات تستاهلوا كل الخير ولمدة 3 أيام».\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **طبيعة المحتوى:** ترويجي ترفيهي لمنتج سيارات (غلاف طارة قيادة \"ستيرينج\").\n* **الاستراتيجية الإعلانية:** الاعتماد على لفت الانتباه من خلال التناقض السعري الجريء (\"أم 10 دنانير بدينار\").\n* **نقاط البيع الفرعية (USPs):** الجودة العالية (ثقيلة ومبطنة)، الحماية الفعالة لـ \"الستيرينج\" الأصلي، تنوع الألوان، والسعر التنافسي المذهل (دينار واحد فقط لمدة 3 أيام).\n* **الدعوة لاتخاذ إجراء (Call to Action):** توجيه العملاء بوضوح نحو \"محلات الربيع لزينة السيارات\" للاستفادة من العرض لفترة محدودة.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     }
   ]
 }
