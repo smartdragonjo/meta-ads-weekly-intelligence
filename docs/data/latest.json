@@ -2,7 +2,7 @@
   "scan_date": "2026-10-20",
   "total_ads": 32,
   "total_video_ads": 32,
-  "analyzed_video_ads": 30,
+  "analyzed_video_ads": 31,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -608,11 +608,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي:\n\"اليوم جايب لك عرض على أفضل لمبات ممكن تركبها على سيارتك، لمبات الأم باور، تعال شوف لي صلابة الماتيريال وأكيد راسيات نحاس، وبتدعم أكثر من 65 واط فعل، فيها مراوح تبريد للحرارة، وهاي اللمبات أكيد ووتر بروف يعني ضد المي، لمبات الأم باور لمبات معروفة وغنية عن التعريف، عليها عرض فقط بـ 8 دنانير لدى معارض غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية التسويق:** استخدام أسلوب \"العرض الحصري\" المحدود زمنياً ومكانياً لتحفيز عملية الشراء الفورية.\n* **التركيز على القيمة (Value Proposition):** إبراز جودة المنتج التقنية (نحاس، 65 واط، تبريد، ضد الماء) مقابل سعر تنافسي جداً.\n* **بناء الثقة (Social Proof):** التأكيد على أن العلامة التجارية (M Power) \"معروفة وغنية عن التعريف\" لتقليل التردد لدى العميل.\n* **الوضوح في \"نداء اتخاذ إجراء\" (CTA):** تحديد السعر (8 دنانير) وتحديد مكان البيع (معارض غازي الزعبي) بشكل صريح ومباشر.\n* **أسلوب العرض:** التركيز على \"التجربة البصرية\" من خلال فتح الصندوق وتفحص المنتج، مما يعزز مصداقية الإعلان لدى المشاهد.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية التسويق:** استخدام أسلوب \"العرض الحصري\" المحدود زمنياً ومكانياً لتحفيز عملية الشراء الفورية.\n* **التركيز على القيمة (Value Proposition):** إبراز جودة المنتج التقنية (نحاس، 65 واط، تبريد، ضد الماء) مقابل سعر تنافسي جداً.\n* **بناء الثقة (Social Proof):** التأكيد على أن العلامة التجارية (M Power) \"معروفة وغنية عن التعريف\" لتقليل التردد لدى العميل.\n* **الوضوح في \"نداء اتخاذ إجراء\" (CTA):** تحديد السعر (8 دنانير) وتحديد مكان البيع (معارض غازي الزعبي) بشكل صريح ومباشر.\n* **أسلوب العرض:** التركيز على \"التجربة البصرية\" من خلال فتح الصندوق وتفحص المنتج، مما يعزز مصداقية الإعلان لدى المشاهد.",
+        "transcript": "التفريغ النصي:\n\"اليوم جايب لك عرض على أفضل لمبات ممكن تركبها على سيارتك، لمبات الأم باور، تعال شوف لي صلابة الماتيريال وأكيد راسيات نحاس، وبتدعم أكثر من 65 واط فعل، فيها مراوح تبريد للحرارة، وهاي اللمبات أكيد ووتر بروف يعني ضد المي، لمبات الأم باور لمبات معروفة وغنية عن التعريف، عليها عرض فقط بـ 8 دنانير لدى معارض غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين.\"\n\n---"
       }
     },
     {
@@ -797,7 +797,15 @@
       "cta": "Call now",
       "ad_url": "https://www.facebook.com/ads/library/?id=1673406661113638",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPM1uHoSCx_EmSHHl13PQPtH5FQtfavlOgAUKEBkxGI6hdK9MRPRWJDp7T_44sBinhPUUp0wQ9Xjqm8ZE2eFP2kgu6t55LndKmfH13Q4ZHNvg.mp4?_nc_cat=109&_nc_oc=Adr15AhembEbTFGslZsnjpEWzaWaCFYTfqfPF27-uaVqLSakQZCM1TumHyzE4gJ1tCY&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=qjVJ1GeiOmIQ7kNvwFE6zCO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwMDY2MTA2ODkxMjk3MjYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=711220adbafbb87&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xQkJBODJGQ0M0NTY0QTkwODA1MkEwMUU0MTFGREUxQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0MyMDM0MjNDQkM5QTRGODFBNjNDODhFNTREODMzREY4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb88-uIuuDJAxUCKAJDMywXQElqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=CKDXd1r1HamCPFdou7nUXQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGcycgbhph-lzpeynD1Q7Jv5z-h5Rq5aMXnP6HlGrloxUQoDCleK3ERLIyKM8sm21lJALdAvQ_p3El_PecgD0dP&oh=00_AQPHOD9yuSJhgydcxEqfuYLNKAQwkm2IOu2zONxUfFW2dw&oe=6ADD5B4F",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي\n\"اكتبي كلمة ستيكر بالتعليقات ولحق أقوى ترند على مستوى المملكة، وآخر مرة عملناها 10 دنانير وسكرنا الشوارع، فما بالك السعر راح يكون أقل من 9 دنانير، تفاجأت صح؟ وشوف لي الشغل. \nوهذا أول خير... الزلمة كان جاي يضبط ولما شاف العرض بيقول لي هي أنا أول زبون بيلحق العرض، وسعره ببلاش! انصدمت من السعر صح يا مشاهد؟ لأنك كتبت كلمة ستيكر. \nشغل سيارتك وتعال خذ لي هالمراية السوداء على سقيفة سيارتك، إذا كان في عندك عيوب هي أخفيتهم، ما عندك عيوب أخذتها المراية اللي بتجنن. \nدوار الحويان، ربيع إيدك اليمين، محطة إربد شارع المدينة، وهي أول خير زي ما حكالك أبو زيد.\"\n\n---",
+        "summary": "### 2. ملخص استراتيجي\n*   **خطاف تفاعلي (Engagement Bait):** استخدام \"دعوة لاتخاذ إجراء\" (CTA) بسيطة بكلمة مفتاحية (\"ستيكر\") لتعزيز خوارزميات الانتشار والوصول.\n*   **خلق شعور الندرة والإلحاح:** التأكيد على أن العرض \"أول خير\" ومحدود بفترة زمنية أو كمية، مما يدفع المشاهد لاتخاذ قرار سريع.\n*   **التسعير النفسي (Anchor Pricing):** البدء بسعر 10 دنانير كمرجع للمقارنة، ثم خفضه إلى أقل من 9 دنانير لإشعار العميل بالحصول على صفقة استثنائية (قيمة مدركة عالية).\n*   **تقديم دليل اجتماعي (Social Proof):** تصوير \"زبون\" حقيقي يتفاعل مع العرض ليؤكد مصداقية العرض وجاذبيته.\n*   **استهداف المشكلة والحل:** توظيف المنتج كـ \"حل\" لعيوب السيارة (تغطية العيوب)، مما يحول الخدمة من مجرد \"ديكور\" إلى \"ضرورة\".\n*   **الوضوح الجغرافي:** تحديد الموقع بدقة (علامات مرجعية) لضمان سهولة الوصول للجمهور المحلي.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1617042485984398",
