@@ -2,7 +2,7 @@
   "scan_date": "2026-10-20",
   "total_ads": 32,
   "total_video_ads": 32,
-  "analyzed_video_ads": 28,
+  "analyzed_video_ads": 29,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -488,11 +488,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\nيحتوي الفيديو على موسيقى خلفية (أغنية أجنبية - راب) ولا يوجد أي حوار صوتي منطوق. يظهر نص مكتوب على الشاشة في البداية يقول: \"حال الفيوجن قبل تنجيد 🫨❌\".\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **الهدف:** استعراض مهارات ورشة تنجيد سيارات عبر إبراز \"التحول الجذري\" (Before & After).\n*   **نقطة الألم (Problem):** عرض حالة مهترئة وممزقة للمقاعد الداخلية لسيارة من نوع \"فورد فيوجن\"، مما يثير تعاطف المشاهد ويبرز سوء الحالة الأصلية.\n*   **الحل (Solution):** الانتقال السريع والمبهر إلى النتيجة النهائية بعد التجديد، والتي تضمنت تغيير لون الفرش إلى الأحمر القرمزي (Burgundy)، وتطريز المقاعد بنمط \"المعينات\" (Quilted stitching)، وتجديد بطانة السقف بقماش مخملي (Suede).\n*   **استراتيجية الجذب:** الاعتماد على الانتقال الموسيقي الحماسي لجذب انتباه الجمهور (Target Audience) من محبي تعديل السيارات والباحثين عن خدمات التجديد.\n*   **الرسالة الضمنية:** \"المهندس حسام\" (الاسم الظاهر في الفيديو) متخصص في إعادة إحياء السيارات الفاخرة ومنحها مظهراً راقياً ومحدثاً.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الهدف:** استعراض مهارات ورشة تنجيد سيارات عبر إبراز \"التحول الجذري\" (Before & After).\n*   **نقطة الألم (Problem):** عرض حالة مهترئة وممزقة للمقاعد الداخلية لسيارة من نوع \"فورد فيوجن\"، مما يثير تعاطف المشاهد ويبرز سوء الحالة الأصلية.\n*   **الحل (Solution):** الانتقال السريع والمبهر إلى النتيجة النهائية بعد التجديد، والتي تضمنت تغيير لون الفرش إلى الأحمر القرمزي (Burgundy)، وتطريز المقاعد بنمط \"المعينات\" (Quilted stitching)، وتجديد بطانة السقف بقماش مخملي (Suede).\n*   **استراتيجية الجذب:** الاعتماد على الانتقال الموسيقي الحماسي لجذب انتباه الجمهور (Target Audience) من محبي تعديل السيارات والباحثين عن خدمات التجديد.\n*   **الرسالة الضمنية:** \"المهندس حسام\" (الاسم الظاهر في الفيديو) متخصص في إعادة إحياء السيارات الفاخرة ومنحها مظهراً راقياً ومحدثاً.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\nيحتوي الفيديو على موسيقى خلفية (أغنية أجنبية - راب) ولا يوجد أي حوار صوتي منطوق. يظهر نص مكتوب على الشاشة في البداية يقول: \"حال الفيوجن قبل تنجيد 🫨❌\".\n\n---"
       }
     },
     {
@@ -557,7 +557,15 @@
       "cta": "Visit Instagram profile",
       "ad_url": "https://www.facebook.com/ads/library/?id=1120620347211536",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOYs9kbN9ZTen2gH3QKbZyNgbh3u7or3OByDlspc4xS7UQ7sje7YepAQ6Pty4x0DH61yJsdAkV76ajD8vyAT67UV_tXgPFahNPU6aBaFkaDgg.mp4?_nc_cat=108&_nc_oc=Adq0LluuT8OXOGjTRVCrsSBIFmJfMGYRpAINUIqPn61ydbWIvSlJ7iR8LFQVE2ymTPU&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=_8091zt-nDoQ7kNvwE_AIqe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MjQ4Mjk2MzI3NjgzODcsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=eef10336c66d3170&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xMkZGQTQwNDMyODA0OEI5QjkwMEZGMEVDQzEzOTYzNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY2MTZGNDhDMjlBMzQ5MjJBNjQzMERBMkVDMUY4QzQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaGpqeRxPHiBRUCKAJDMywXQD67peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=gNF1bATcq_aUavnUVNQqAg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGntMDT-Z-LOgiJPrOeFRXVNRPPcIySmhw1E89wjJKaHJ98g6V4IXBt4fSrPK6lkthBtRVkCjIFOMRZeykKH-BM&oh=00_AQONyyN1Nhig3opFVFJ-tx21ir3d7gQVIQaMqIuasFssiA&oe=6ADD5B80",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محلل محتوى منافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"اليوم جايب لك عرض، فرش زائد طارة خياطة وشامل التركيب بس بـ 15 دينار والفرش متوفر منه العديد من الألوان.\nعرض منفاخ التويوتا، هذا المنفاخ راح يفقع لك عجلة السيارة، مش بس ينفخ لك عجلة السيارة.. منفاخ تويوتا بس بـ 6 دنانير.\nهاي مش مي عادية، هاي مي مساحات، عملنا لك عليها عرض بس بدينارين.\nوالأربع أحزمة أي لون من اختيارك بس بـ 10 دنانير شامل التركيب، ركز شامل التركيب.\nكل هاي العروض متوفرة لدى معارض غازي الزعبي لزينة واكسسوارات السيارات بالفرعين.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **استراتيجية التسعير المباشر:** يركز الفيديو على \"قوة العرض\" عبر تقديم أسعار واضحة ومغرية جداً لكل منتج (خدمة التركيب مشمولة)، مما يحفز العميل على اتخاذ قرار الشراء فوراً.\n*   **استهداف \"نقاط الألم\":** يستخدم المتحدث أسلوباً ذكياً في الطرح، مثل عبارة \"يفقع لك عجلة السيارة\" (بمعنى أنه قوي جداً)، مما يزيل التردد لدى العميل بشأن جودة المنتج.\n*   **التسويق الشامل:** استعراض متنوع للمنتجات (تجميلية، صيانة، إكسسوارات) يجعل المعرض يبدو وجهة متكاملة للعميل بدلاً من مجرد متجر لسلعة واحدة.\n*   **نبرة الثقة:** استخدام التكرار في جملة \"شامل التركيب\" يعزز من قيمة العرض، ويُشعر العميل بأنه سيحصل على خدمة إضافية توفر عليه الجهد والتكلفة.\n*   **دعوة واضحة للعمل (CTA):** يختتم الفيديو بتحديد اسم المعرض وتأكيد وجود أكثر من فرع، مما يسهل على العميل الوصول إليهم.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1130217963276907",
