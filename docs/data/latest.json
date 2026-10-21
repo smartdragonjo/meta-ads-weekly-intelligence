@@ -2,7 +2,7 @@
   "scan_date": "2026-10-21",
   "total_ads": 43,
   "total_video_ads": 43,
-  "analyzed_video_ads": 39,
+  "analyzed_video_ads": 40,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -992,11 +992,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفضل عزيزي المستخدم تحليل محتوى الفيديو وفق الهيكل المطلوب:\n\n التفريغ النصي:\nأريد أن أريك شيئاً جميلاً، هذا كريتف، طبعاً هذا الكريتف لا يوجد له أي بديل، ولا تقولي برداي ولا تقولي أي شيء، طبعا بديل التظليل، التظليل الناس ما بتحب تتخالف، هذا فليكسبل يا معلم، مرن، أينما تريد وضعه، أنظر كيف، بكل سهولة، ولا يوجد له أي بديل، انظر السيارة كيف أصبحت، لقد قمنا بكل النوافذ بهذا الشكل، انظر كيف أصبح شكل السيارة، أنظر إلى الرؤية من الداخل، جميلة جداً، وبالنسبة للسعر سأجيبه لكم لاحقاً، تابعونا بكل جديد.\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n* **الفكرة الرئيسية:** تقديم منتج تظليل سيارات مبتكر يُسمى \"كريتف\" كبديل مرن وعملي للتظليل التقليدي.\n* **المميزات المعروضة:** \n  * مرونة عالية وسهولة التركيب والإزالة دون الحاجة لمخالفات مرورية.\n  * ملائمته لجميع نوافذ السيارة الخلفية والجانبية بشكل كامل.\n  * المحافظة على رؤية واضحة من داخل السيارة إلى الخارج.\n* **الأسلوب التسويقي:** \n  * استخدام أسلوب تفاعلي وحماسي لشرح مميزات المنتج بشكل عملي ومباشر على سيارة نوع (لاند كروزر).\n  * جذب المشاهدين بوعود الكشف عن السعر لاحقاً لتشجيعهم على المتابعة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n* **الفكرة الرئيسية:** تقديم منتج تظليل سيارات مبتكر يُسمى \"كريتف\" كبديل مرن وعملي للتظليل التقليدي.\n* **المميزات المعروضة:** \n  * مرونة عالية وسهولة التركيب والإزالة دون الحاجة لمخالفات مرورية.\n  * ملائمته لجميع نوافذ السيارة الخلفية والجانبية بشكل كامل.\n  * المحافظة على رؤية واضحة من داخل السيارة إلى الخارج.\n* **الأسلوب التسويقي:** \n  * استخدام أسلوب تفاعلي وحماسي لشرح مميزات المنتج بشكل عملي ومباشر على سيارة نوع (لاند كروزر).\n  * جذب المشاهدين بوعود الكشف عن السعر لاحقاً لتشجيعهم على المتابعة.",
+        "transcript": "تفضل عزيزي المستخدم تحليل محتوى الفيديو وفق الهيكل المطلوب:\n\n التفريغ النصي:\nأريد أن أريك شيئاً جميلاً، هذا كريتف، طبعاً هذا الكريتف لا يوجد له أي بديل، ولا تقولي برداي ولا تقولي أي شيء، طبعا بديل التظليل، التظليل الناس ما بتحب تتخالف، هذا فليكسبل يا معلم، مرن، أينما تريد وضعه، أنظر كيف، بكل سهولة، ولا يوجد له أي بديل، انظر السيارة كيف أصبحت، لقد قمنا بكل النوافذ بهذا الشكل، انظر كيف أصبح شكل السيارة، أنظر إلى الرؤية من الداخل، جميلة جداً، وبالنسبة للسعر سأجيبه لكم لاحقاً، تابعونا بكل جديد.\n\n---"
       }
     },
     {
@@ -1013,7 +1013,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1108894718585429",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMg0IYB0HsvlzxJcq0IBbvzClR8UI-Am-JzdbHKZkYOTIFU3_G2x_2D2lY-W_hhmJR-9GamFbyt3AGcyRMkD2gUx69Km3rYuGC0-TuGkNRsNg.mp4?_nc_cat=108&_nc_oc=AdqQ-zxcQVNUvUpLA5EDfk3a3P41g9PEMEFz80Aj9jY-H_fsu3QqdXszVXfXrlvxk7c&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=xcMYHOjf9NQQ7kNvwHRoOBF&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjc0MTExODMzNDk0NjU2OSwiYXNzZXRfYWdlX2RheXMiOjQ3NCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=eae3c70e901165e4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MDQ4NkNGQUQ0RDhEMkJCM0UyODA2MjZGRkFDNDNCRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0M5NEVFRUMzNEE0NzA2QjQ5MDFCRUE4QjZENzk0OTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaStLrx4YLRAhUCKAJDMywXQFCO6XjU_fQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=aJd04hq8JayS2y62BfSOsQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFvw71yCwdr8k_OiQ7gBYgBbJguSAXMfUpsmC5IBcx9Sk_Bvl4MSDrvKNSr_wjtWPNJOy4FKTdVGsHuUQ2fdW3e&oh=00_AQNbo5YgheHrScK6Qxiq41jdVCcjIPSSDqwfL-ivpFtCqw&oe=6ADEE0F0",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\n- \"طلع يا معلم\"\n- \"هذا ايش؟ الليزر الجديد\"\n- \"طلّع لي، طلّع، طلّع، طلّع جوا\"\n- \"أبلكيشن يا معلم\"\n- \"طلّع\"\n- \"أبلكيشن بتخليه أبيض، وبتوطيه، وبتعلّيه على الدرجة اللي أنت بدك اياها\"\n- \"والله العظيم 100 واط فعلي، قرب، قرب، قرب، شوف، هاي 100 واط فعلي، بدي أنزله لـ 75، طلّع كيف نزّل لـ 75، طلّع نزل لـ 50 واط، هاي بقلبه لـ 13 هون\"\n- \"هون يا معلم للجبل وما جبل، وللبحر والشمس، وللأرض، وللاستريت، ماشي؟ طلّع\"\n- \"معلم، طلّع\"\n- \"يعني أنت بدك توطي، بتوطي، بدك تعلّي، بتعلّي، بدك تقلبو أصفر، بتقلبو، بدك تقلبو أبيض، بتقلبو\"\n- \"معلم، هايو، عامل عليه عرض سعر، طلّع تابعني بكل جديد طلّع ينور الدنيا يا معلم، معلم ولا غبار على هذا الليزر، وبعدين كفالة لمدة سنتين، تبديل، سنتين تبديل طلّع، تابعني بكل جديد لطلال زينو إكسسوارات سيارات سلام\"\n\n---",
+        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف بأسلوب نقاط واضحة:\n\n- **المنتج المعلن:** ليزر سيارات جديد متعدد الوظائف (AP-120) يتميز بإمكانية التحكم به عبر تطبيق الهاتف الذكي (أبلكيشن).\n- **المميزات التقنية:** \n  - إمكانية التحكم في درجة اللون (أبيض وأصفر).\n  - التحكم في مستوى السطوع والطاقة (من 100 واط، 75 واط، وحتى 50 واط).\n  - أوضاع إضاءة مخصصة تناسب ظروف القيادة المختلفة (الجبال، البحر، الشمس، الاستريت).\n- **العروض والضمان:**\n  - عرض سعر خاص على المنتج.\n  - ضمان لمدة سنتين مع خدمة التبديل.\n- **الجهة المعلنة:** محل طلال زينو إكسسوارات السيارات.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2206929363590435",
