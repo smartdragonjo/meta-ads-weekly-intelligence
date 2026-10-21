@@ -2,7 +2,7 @@
   "scan_date": "2026-10-21",
   "total_ads": 43,
   "total_video_ads": 43,
-  "analyzed_video_ads": 36,
+  "analyzed_video_ads": 37,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -776,11 +776,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "معلم هي الارضيات ال6 دي لايش؟ ال8 مل اغلب انواع السيارات موجود منهم طبعا هذا مهم جدا بالشدى وقرب علي ومهم جدا ايش الهوايات الخط نقل وموجود منه اللي بيسالني سادة واذا بدك تحمي السيرين بتاع السيارة تيجي عند سيف بتقول له ايش ظبطني بظبطك طال من هون انا بحب الفنشنج اللي حلو شايف الفنشنج اللي حلو ما شاء الله شايف هاي قاعد بكمل اقل سعر في كمان ملكة الا لادلال الزينة واكسسوارات السيارات ذلك تابعني بكل جديد وسلام",
-        "summary": "### 2.\n- **عرض لمنتجات السيارات:** استعراض لأرضيات السيارات \"6D\" ونوعيتها الـ 8 مل المناسبة لمعظم أنواع السيارات.\n- **تنوع الملحقات:** الإشارة إلى وجود إكسسوارات مختلفة مثل هوايات نقل الخط وحماية عجلة القيادة \"السيرين\".\n- **الترويج للمحل:** تسليط الضوء على محل \"الدلال لزينة واكسسوارات السيارات\" كوجهة مميزة لتقديم الخدمات بأسعار مناسبة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض لمنتجات السيارات:** استعراض لأرضيات السيارات \"6D\" ونوعيتها الـ 8 مل المناسبة لمعظم أنواع السيارات.\n- **تنوع الملحقات:** الإشارة إلى وجود إكسسوارات مختلفة مثل هوايات نقل الخط وحماية عجلة القيادة \"السيرين\".\n- **الترويج للمحل:** تسليط الضوء على محل \"الدلال لزينة واكسسوارات السيارات\" كوجهة مميزة لتقديم الخدمات بأسعار مناسبة.",
+        "transcript": "معلم هي الارضيات ال6 دي لايش؟ ال8 مل اغلب انواع السيارات موجود منهم طبعا هذا مهم جدا بالشدى وقرب علي ومهم جدا ايش الهوايات الخط نقل وموجود منه اللي بيسالني سادة واذا بدك تحمي السيرين بتاع السيارة تيجي عند سيف بتقول له ايش ظبطني بظبطك طال من هون انا بحب الفنشنج اللي حلو شايف الفنشنج اللي حلو ما شاء الله شايف هاي قاعد بكمل اقل سعر في كمان ملكة الا لادلال الزينة واكسسوارات السيارات ذلك تابعني بكل جديد وسلام"
       }
     },
     {
@@ -797,7 +797,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2032415114142094",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQN2RyMbLqW15powltzWd7N7g3PbZvhOdm5l2Cl8j5NSb3z-5KvdsV99iXqor53gF0CYnWnpmZ6Kq7rseVAYTxqNpTKRR4ng5KuqHT7IUK_t3A.mp4?_nc_cat=102&_nc_oc=AdrHIfd7T4kPHT0qATl1uHeFpbtCYTq5V1l4-mkcxpTWGe6XfaG2yHOXTt-OP5t4MDM&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=t4qOuHQ8II0Q7kNvwENRSLR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5MTIwOTQ5ODYzMDIwNDcsImFzc2V0X2FnZV9kYXlzIjo0MzcsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=322a9047d1edc2f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82NzRGRkExMDZGRTk0NzdDNTcxRjI2QTYzOUU1RjJBOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0U5NEVFQkJDNUFFRUFDRUYxMzZEOThEQzNFRThFODhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-yfvmycLlBhUCKAJDMywXQFaAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=pxLH7vFBMwOQ3C57LlH74A&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFDiZqIuD02eQBVoq-QkhEj0Cbymde7XoPQJvKZ17teg0ivyRqtap_dfddCSdvAZCjGJ-JYRFaaKuExWly7xf-A&oh=00_AQPkVipBSx0eRdmk7d4FRNElwmHnnQ-MLj4q4oDiZ3a2cw&oe=6ADEC072",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بكل سرور، إليك تحليل محتوى الفيديو من منظور منافس محترف:\n\n التفريغ النصي الكامل والدقيق\n\nقولك، قول وفعل.\nايوه عندك،\nطبعا معلم،\nالريز!\nمعلم، قرب علي.\nلعالم الصوتيات بالأردن هو النمبر ون يا معلم.\nقرب علي، هذا الرانجلر لأخونا وصاحبنا، ركبنا عليه ست سماعات، قرب اعطيه!\nهون يا معلم تويترات ركبناهم على الكابلو وهون على السماعات الخلفية، وقرب شوف هون الحفلة اللي بتجنن!\nوهون ركز معي منيح، بدك تسال عن السماعة بتفوت على ايش؟ آخر حرفين NX.\nقرب علي، طبعا هذا ترزيز ايش السماعة DF، كمان NX تويتر.\nمعلم، صوت ولا أجمل بالأردن كامدة، لا تقولي براندات ثاني ولا اشي، بعد الريز سكر ايش؟ ملف الصوتيات، سلام.\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي الذكي والمكثف\n\n* **الهدف الترويجي:** إبراز جودة وريادة منتجات \"ريز أويديو\" (Reiss Audio) في مجال صوتيات السيارات بالأردن عبر تجربة عملية على سيارة \"رانجلر\".\n* **المميزات المعروضة:**\n  * تركيب نظام صوتي متكامل يشمل 6 سماعات، تويترات، ومكبرات صوت (Amplifier).\n  * تحديد دقيق لطرازات القطع ومواصفاتها (مثل موديلات NX وDF) لتعزيز المصداقية والاحترافية التقنية.\n* **نبرة الخطاب:** ثقة عالية، تحدي للمنافسين في السوق المحلي، وإبراز التفوق المطلق للعلامة التجارية.\n* **القيمة التسويقية:** جذب عشاق تعديل سيارات الدفع الرباعي والصوتيات القوية عبر توثيق مرحلة التعديل والنتيجة النهائية باحترافية.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1437088277757777",
