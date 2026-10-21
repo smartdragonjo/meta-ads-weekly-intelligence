@@ -2,7 +2,7 @@
   "scan_date": "2026-10-21",
   "total_ads": 43,
   "total_video_ads": 43,
-  "analyzed_video_ads": 29,
+  "analyzed_video_ads": 30,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -104,11 +104,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\n\"وهان هم خمس منتجات لازم يكونوا بسيارتك قبل دخول فصل الشتاء.\nوعندك أول منتج: الصفاية زائد العاكسة الواحد كيلو مع شنطة الدبل أم عشان ضلك متذكرني، بأقل من 8 دنانير.\nومنفاخ الجمل الأصلي اللي اثنين سلندر بأقل من 12 دينار.\nوعندك هوايات الخط النيكل بأقل من 12 دينار، وعندك الهوايات الأسود السادة راح يكونوا أقل من 7 دنانير.\nوعشان ما تنقطع بنص الشتاء وتضعف بطاريتك فلازم تخلي معك هذا الباور بانك، راح يكون أقل من 19 دينار.\nوبالإضافة عندك الجاك الواحد طن اللي مقص راح يكون أقل من 6 دنانير.\nوهذه العروض راح تكون في معارض الدبل أم ولمدة محدودة، إذا حاب تكسب هذه العروض زور واحد من معارض الدبل أم وأهلا وسهلا بالجميع.\"\n\n---",
-        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف:\n\n* **الهدف الترويجي:** الإعلان عن مجموعة مستلزمات أساسية لفصل الشتاء بأسعار تنافسية لفترة محدودة.\n* **المنتجات والأسعار:**\n  * طقم صفاية وعاكسة في شنطة (أقل من 8 دنانير).\n  * منفاخ جمل أصلي 2 سلندر (أقل من 12 دينار).\n  * هوايات سيارات نيكل (أقل من 12 دينار) وأسود سادة (أقل من 7 دنانير).\n  * باور بانك للطوارئ (أقل من 19 دينار).\n  * جاك سيارة مقص 1 طن (أقل من 6 دنانير).\n* **الدعوة لاتخاذ إجراء (CTA):** زيارة معارض \"الدبل أم\" للاستفادة من العروض قبل انتهاء مدتها المحدودة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف:\n\n* **الهدف الترويجي:** الإعلان عن مجموعة مستلزمات أساسية لفصل الشتاء بأسعار تنافسية لفترة محدودة.\n* **المنتجات والأسعار:**\n  * طقم صفاية وعاكسة في شنطة (أقل من 8 دنانير).\n  * منفاخ جمل أصلي 2 سلندر (أقل من 12 دينار).\n  * هوايات سيارات نيكل (أقل من 12 دينار) وأسود سادة (أقل من 7 دنانير).\n  * باور بانك للطوارئ (أقل من 19 دينار).\n  * جاك سيارة مقص 1 طن (أقل من 6 دنانير).\n* **الدعوة لاتخاذ إجراء (CTA):** زيارة معارض \"الدبل أم\" للاستفادة من العروض قبل انتهاء مدتها المحدودة.",
+        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\n\"وهان هم خمس منتجات لازم يكونوا بسيارتك قبل دخول فصل الشتاء.\nوعندك أول منتج: الصفاية زائد العاكسة الواحد كيلو مع شنطة الدبل أم عشان ضلك متذكرني، بأقل من 8 دنانير.\nومنفاخ الجمل الأصلي اللي اثنين سلندر بأقل من 12 دينار.\nوعندك هوايات الخط النيكل بأقل من 12 دينار، وعندك الهوايات الأسود السادة راح يكونوا أقل من 7 دنانير.\nوعشان ما تنقطع بنص الشتاء وتضعف بطاريتك فلازم تخلي معك هذا الباور بانك، راح يكون أقل من 19 دينار.\nوبالإضافة عندك الجاك الواحد طن اللي مقص راح يكون أقل من 6 دنانير.\nوهذه العروض راح تكون في معارض الدبل أم ولمدة محدودة، إذا حاب تكسب هذه العروض زور واحد من معارض الدبل أم وأهلا وسهلا بالجميع.\"\n\n---"
       }
     },
     {
@@ -197,7 +197,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2801979240203469",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMzHkoF3rG3ZmvigI0G7l2g8Hm4APGjwHH3ocR48v7B2R63jWddLZe8Gmm9_a1a60Pnh-8g95mMesTz4PLLfDrKwpMdkJAf20s51uFCP138dw.mp4?_nc_cat=110&_nc_oc=AdoztKhbzSBRbufTb7nR0m70SlsblN0bBZVDcPU5F3B-kIhuaKf-K6FV5Z8JchHp3c0&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=5RfZ8cC5c74Q7kNvwGtdz3s&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDkxNjcyNzc0MjcyNjgsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=71aa63d4457a8193&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9EQkY0NkUxMjAxMjM0MjdBQTczRjRCRkYwMzg2QzA0RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzE4REY4QzczNzJCOTREQzVCMkU3RERGREQwRUM3QjM2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIqdTM0YCTBRUCKAJDMywXQDiIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=52r2kxanFbQ_gYiz_Ppfcg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEAMXFeuQTGRxTAOE6sGqTcPs8lu3KzrEI-zyW7crOsQobRA2LI4-f9Hn_Mwv5q-MlCdjno5PV32ET2I4i34BRD&oh=00_AQOrFS1PrRj5hGZ8TUpwuK3UY6aQsZPz1vvrLCJA3XFjUg&oe=6ADED092",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "لازم تحضر الفيديو للاخر عشان تلحق العروض كلها. ارضيات الجلد الثقيل النمر 1. ظهر خياطة. كل هذول مع الفرش بأقل من 26 دينار. والمساطر الضوئية 18 قطعة بأقل من 15 دينار. 32 مساحة تخزين، 2 رام، مع كاميرا هدية، مع فريم مخصص هدية، فقط بأقل من 66 دينار. ضوء الـ Laser T2 بأقل من 8 دنانير. والعرض هاض بمدة ثلاث أيام، ثلاثاء، أربعاء، خميس.",
+        "summary": "### 2.\n- **نوع المحتوى:** فيديو إعلاني ترويجي لعروض متجر إكسسوارات سيارات.\n- **الهدف التسويقي:** جذب المشاهدين لمشاهدة الفيديو بالكامل للاستفادة من مجموعة عروض لفترة محدودة (ثلاثاء، أربعاء، خميس).\n- **المنتجات والأسعار المعروضة:**\n  - أرضيات جلد ثقيلة (النمر 1).\n  - ظهر خياطة مع فرش بأقل من 26 دينار.\n  - مساطر ضوئية (18 قطعة) بأقل من 15 دينار.\n  - شاشة سيارة (32 مساحة تخزين، 2 رام) مع كاميرا وفريم هدية بأقل من 66 دينار.\n  - ضوء ليزر T2 بأقل من 8 دنانير.\n- **مدة العرض:** 3 أيام (الثلاثاء، الأربعاء، الخميس).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1447556783996167",
