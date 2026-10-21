@@ -2,7 +2,7 @@
   "scan_date": "2026-10-21",
   "total_ads": 43,
   "total_video_ads": 43,
-  "analyzed_video_ads": 37,
+  "analyzed_video_ads": 38,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -800,11 +800,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بكل سرور، إليك تحليل محتوى الفيديو من منظور منافس محترف:\n\n التفريغ النصي الكامل والدقيق\n\nقولك، قول وفعل.\nايوه عندك،\nطبعا معلم،\nالريز!\nمعلم، قرب علي.\nلعالم الصوتيات بالأردن هو النمبر ون يا معلم.\nقرب علي، هذا الرانجلر لأخونا وصاحبنا، ركبنا عليه ست سماعات، قرب اعطيه!\nهون يا معلم تويترات ركبناهم على الكابلو وهون على السماعات الخلفية، وقرب شوف هون الحفلة اللي بتجنن!\nوهون ركز معي منيح، بدك تسال عن السماعة بتفوت على ايش؟ آخر حرفين NX.\nقرب علي، طبعا هذا ترزيز ايش السماعة DF، كمان NX تويتر.\nمعلم، صوت ولا أجمل بالأردن كامدة، لا تقولي براندات ثاني ولا اشي، بعد الريز سكر ايش؟ ملف الصوتيات، سلام.\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي الذكي والمكثف\n\n* **الهدف الترويجي:** إبراز جودة وريادة منتجات \"ريز أويديو\" (Reiss Audio) في مجال صوتيات السيارات بالأردن عبر تجربة عملية على سيارة \"رانجلر\".\n* **المميزات المعروضة:**\n  * تركيب نظام صوتي متكامل يشمل 6 سماعات، تويترات، ومكبرات صوت (Amplifier).\n  * تحديد دقيق لطرازات القطع ومواصفاتها (مثل موديلات NX وDF) لتعزيز المصداقية والاحترافية التقنية.\n* **نبرة الخطاب:** ثقة عالية، تحدي للمنافسين في السوق المحلي، وإبراز التفوق المطلق للعلامة التجارية.\n* **القيمة التسويقية:** جذب عشاق تعديل سيارات الدفع الرباعي والصوتيات القوية عبر توثيق مرحلة التعديل والنتيجة النهائية باحترافية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي الذكي والمكثف\n\n* **الهدف الترويجي:** إبراز جودة وريادة منتجات \"ريز أويديو\" (Reiss Audio) في مجال صوتيات السيارات بالأردن عبر تجربة عملية على سيارة \"رانجلر\".\n* **المميزات المعروضة:**\n  * تركيب نظام صوتي متكامل يشمل 6 سماعات، تويترات، ومكبرات صوت (Amplifier).\n  * تحديد دقيق لطرازات القطع ومواصفاتها (مثل موديلات NX وDF) لتعزيز المصداقية والاحترافية التقنية.\n* **نبرة الخطاب:** ثقة عالية، تحدي للمنافسين في السوق المحلي، وإبراز التفوق المطلق للعلامة التجارية.\n* **القيمة التسويقية:** جذب عشاق تعديل سيارات الدفع الرباعي والصوتيات القوية عبر توثيق مرحلة التعديل والنتيجة النهائية باحترافية.",
+        "transcript": "بكل سرور، إليك تحليل محتوى الفيديو من منظور منافس محترف:\n\n التفريغ النصي الكامل والدقيق\n\nقولك، قول وفعل.\nايوه عندك،\nطبعا معلم،\nالريز!\nمعلم، قرب علي.\nلعالم الصوتيات بالأردن هو النمبر ون يا معلم.\nقرب علي، هذا الرانجلر لأخونا وصاحبنا، ركبنا عليه ست سماعات، قرب اعطيه!\nهون يا معلم تويترات ركبناهم على الكابلو وهون على السماعات الخلفية، وقرب شوف هون الحفلة اللي بتجنن!\nوهون ركز معي منيح، بدك تسال عن السماعة بتفوت على ايش؟ آخر حرفين NX.\nقرب علي، طبعا هذا ترزيز ايش السماعة DF، كمان NX تويتر.\nمعلم، صوت ولا أجمل بالأردن كامدة، لا تقولي براندات ثاني ولا اشي، بعد الريز سكر ايش؟ ملف الصوتيات، سلام.\n\n---"
       }
     },
     {
@@ -821,7 +821,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1437088277757777",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQOEVQOG2EZ_iXOGgeQb0vqwUaSUVRHKFNOUqyND_cpw8Iwh6f67csEsUFV_cpcoPgNY3x_lK0yw2DtQFvNcDZqMMsIpTBp7xTpCsRYSTtmKHA.mp4?_nc_cat=104&_nc_oc=Adq28djfF7L6Z_duuKz4EZIezNNdHtSZQrc_XWOT5qQ_1AY_rSZbOHG7SfefjqC9ShY&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=03XkAMqAY8IQ7kNvwGrK0z0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzMyMDQ5MTE5Mzk5ODYsImFzc2V0X2FnZV9kYXlzIjo2NiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bf935e2c3d771a1c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QTRBMDlEODMxODFCOEQ0OTVEQzBBMzI0M0MwREJCQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQzNERGNDhGQjNFRTBDNTM3MUU1NTAxNjAxQjUwNjk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACakhqfiopy5BRUCKAJDMywXQEoMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=pxLH7vFBMwOQ3C57LlH74A&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGWC9j-ZRAirqDYyRvRPkyutCEIQPloTf60IQhA-WhN_m1o9LoYOhLh6fgKppTMRlmQDPrWZClBmiv5b2lfNHZg&oh=00_AQNfRdPMwn7lX8enW1p_8dFkQOBfOnGaQc0Vpb8j35BOAA&oe=6ADEE8A8",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تفريغ محتوى الفيديو وملخصه الاستراتيجي:\n\n\nتفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\"يا هلا. شوف السيارة كيف بتكون، بالله قيمها شوي، ارجع شوي، طلعها ثانية. هدول مناظر تجميلية حلوة، الكاسحة ولا ايش والشفة؟ هسة أغلب أنواع السيارات موجود هدول القطع، اسألني عالتعليقات، وقول لي ايش موجود لأي سيارة، الكاسحة أو الشفة رح أجابك. طبعا هي الشفة معلم أنا ما بحب أحط عليها ايش؟ سيليكون زي أغلب المحلات، طبعا هي بتنزل، بس بحب أحط عليها هذا الدبل فيس، هذا الدبل فيس معلم طبعاً حديد وإذا بدك تقيمها، ماشي ما بترك أثر. معلم موضوعنا الأساسي، اسألني عالتعليقات إذا بدك كاسحة أو شفة خلفية، عاضم، اسألني عالتعليقات، ايش نوع سيارتك رح أجابك بأحلى سيارة في كملكة، ضلك تابعني بكل جديد. أهلاً وسهلاً فيكم، سلام.\"",
+        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف:\n* **الموضوع الأساسي:** عرض وتركيب شفة/إكسسوار خلفي لسيارة مرسيدس وإبراز الجانب التجميلي والعملي للقطعة (بدون استخدام سيليكون وترك آثار).\n* **التفاعل المطلوب:** تشجيع المتابعين على طرح استفسارات في التعليقات حول توفر كاسحات أو شفف خلفية لأنواع سياراتهم المختلفة للحصول على إجابات مخصصة.\n* **الأسلوب الترويجي:** أسلوب تفاعلي، مباشر، وودي، يعتمد على بناء مجتمع متابعين متفاعل والاستفادة من التعليقات لزيادة التفاعل والوصول.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1373116424620790",
