@@ -2,7 +2,7 @@
   "scan_date": "2026-10-21",
   "total_ads": 43,
   "total_video_ads": 43,
-  "analyzed_video_ads": 30,
+  "analyzed_video_ads": 31,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -200,11 +200,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "لازم تحضر الفيديو للاخر عشان تلحق العروض كلها. ارضيات الجلد الثقيل النمر 1. ظهر خياطة. كل هذول مع الفرش بأقل من 26 دينار. والمساطر الضوئية 18 قطعة بأقل من 15 دينار. 32 مساحة تخزين، 2 رام، مع كاميرا هدية، مع فريم مخصص هدية، فقط بأقل من 66 دينار. ضوء الـ Laser T2 بأقل من 8 دنانير. والعرض هاض بمدة ثلاث أيام، ثلاثاء، أربعاء، خميس.",
-        "summary": "### 2.\n- **نوع المحتوى:** فيديو إعلاني ترويجي لعروض متجر إكسسوارات سيارات.\n- **الهدف التسويقي:** جذب المشاهدين لمشاهدة الفيديو بالكامل للاستفادة من مجموعة عروض لفترة محدودة (ثلاثاء، أربعاء، خميس).\n- **المنتجات والأسعار المعروضة:**\n  - أرضيات جلد ثقيلة (النمر 1).\n  - ظهر خياطة مع فرش بأقل من 26 دينار.\n  - مساطر ضوئية (18 قطعة) بأقل من 15 دينار.\n  - شاشة سيارة (32 مساحة تخزين، 2 رام) مع كاميرا وفريم هدية بأقل من 66 دينار.\n  - ضوء ليزر T2 بأقل من 8 دنانير.\n- **مدة العرض:** 3 أيام (الثلاثاء، الأربعاء، الخميس).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **نوع المحتوى:** فيديو إعلاني ترويجي لعروض متجر إكسسوارات سيارات.\n- **الهدف التسويقي:** جذب المشاهدين لمشاهدة الفيديو بالكامل للاستفادة من مجموعة عروض لفترة محدودة (ثلاثاء، أربعاء، خميس).\n- **المنتجات والأسعار المعروضة:**\n  - أرضيات جلد ثقيلة (النمر 1).\n  - ظهر خياطة مع فرش بأقل من 26 دينار.\n  - مساطر ضوئية (18 قطعة) بأقل من 15 دينار.\n  - شاشة سيارة (32 مساحة تخزين، 2 رام) مع كاميرا وفريم هدية بأقل من 66 دينار.\n  - ضوء ليزر T2 بأقل من 8 دنانير.\n- **مدة العرض:** 3 أيام (الثلاثاء، الأربعاء، الخميس).",
+        "transcript": "لازم تحضر الفيديو للاخر عشان تلحق العروض كلها. ارضيات الجلد الثقيل النمر 1. ظهر خياطة. كل هذول مع الفرش بأقل من 26 دينار. والمساطر الضوئية 18 قطعة بأقل من 15 دينار. 32 مساحة تخزين، 2 رام، مع كاميرا هدية، مع فريم مخصص هدية، فقط بأقل من 66 دينار. ضوء الـ Laser T2 بأقل من 8 دنانير. والعرض هاض بمدة ثلاث أيام، ثلاثاء، أربعاء، خميس."
       }
     },
     {
@@ -317,7 +317,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2316478862540786",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQM9AArPEIzdC5LcMsPJiy6jtAWi3nCXhKNL27RcUD2KUEAg2RLxNqfrXHfHpGJYbTYYRvYXTOjDpLqX40kizPEiDgDx1YKjWjr5OYFljWcL4w.mp4?_nc_cat=103&_nc_oc=AdoSL5cugv1jYcC7mdCCPjueKK_fQ3k5hafsY6LU28BRYFdOqtTKE-IaaSnvCQJqz6Q&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=6I2Wb30Ky-AQ7kNvwFCZCeD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4Mzc1ODgwOTA1NzI2NjksImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=31de179a1776d6bb&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMjQ1NUQyMDg4OTk0MUExQjhGODQyNkJCNEQ4QUQ3QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0NFQjE2Mzg0OTRGQTRBMzQ4QUFCQjFDMUI2MEYyOUE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb6vY6W2tHDBhUCKAJDMywXQD3MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=52r2kxanFbQ_gYiz_Ppfcg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeH8rZN9lw16sPtTJVFZs2-tMxeZE6LE94czF5kTosT3hzfpPW4Wo7srHrMlakUH6igsk3qldWYJToVgZWr_EaW4&oh=00_AQNy_-5-dCFvR151xz4rWBCQU7-NtAYsDb-Zyk1QQBUVcw&oe=6ADED9A1",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك، بصفتي محللاً لمحتوى الفيديو التسويقي الخاص بك، إليك التحليل المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"مع أنه دخلنا فصل الشتا، ودخل معها العروض القوية، اليوم جبتلك الخصم على الهوايات الأكثر طلباً. إذا بدك أسود سادة فهو موجود، وإذا بدك كمان الأسود الخط نيكل برضو موجود. متوفر لمعظم أنواع السيارات الهوايات بحسب نوعية سيارتك، وبيركبوا عندك دبل فيس عشان ما تأثر على سيارتك. فإذا كنت حاب تعرف قد إيه صار الخصم وقد إيه صار سعرهم الجديد، راح يكون عليهم سعر كثير مميز في معرض الدبل إم. ومتوفر لمعظم أنواع السيارات، اسألني عن السعر، واكتب لي نوع سيارتك بالتعليقات لأزودك باقي التفاصيل، والعرض لفترة محدودة، وأهلاً وسهلاً بالجميع.\"\n\n---",
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **الخطاف (Hook):** ربط المنتج بتغير الفصول (فصل الشتاء) يخلق حاجة ملحة ومناسبة للمستهلك.\n*   **استعراض المزايا:** ركز الفيديو على \"التنوع\" (سادة، نيكل) و\"سهولة التركيب\" (دبل فيس لا يضر السيارة)، وهي أهم نقاط التخوف لدى المشتري.\n*   **التفاعل (CTA):** استراتيجية \"اكتب نوع سيارتك في التعليقات\" ذكية جداً، فهي تزيد من معدلات المشاركة (Engagement) على المنصة، وتسمح بإنشاء قاعدة بيانات للعملاء المهتمين (Leads) للتواصل معهم لاحقاً.\n*   **العامل النفسي:** استخدام عبارة \"فترة محدودة\" هو أسلوب تحفيزي لخلق شعور بالاستعجال (Urgency) لاتخاذ قرار الشراء.\n*   **الوضوح:** الفيديو مباشر، يظهر فيه المنتج بوضوح، ويتحدث بلهجة ودودة ومقنعة، مما يبني الثقة بين البائع والمشاهد.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "4390326241230570",
