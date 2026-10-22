@@ -2,7 +2,7 @@
   "scan_date": "2026-10-22",
   "total_ads": 26,
   "total_video_ads": 25,
-  "analyzed_video_ads": 23,
+  "analyzed_video_ads": 24,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -610,11 +610,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك النتيجة المطلوبة:\n\n\nأي والله هيك كثير معلم. الشاشة 2/32 جيجا مساحة تخزين أصلية وفعلية زائد الفريم المخصص تبع سيارتك زائد الكاميرا الخلفية اللي بتدعم تصوير نهاري أو ليلي، هذول عندك 15 دينار وعندك الفريم سعره معلم معروف ومكشوف 25 دينار، بالنسبة للشاشة سعرها 70 دينار اليوم ولفتة محدودة بالفرعين دوار الحويان والحرية مول وقريباً الثالث فقط ب65 دينار شامل فريم وشامل كاميرا وأنت هيك مش ماخذ أي شاشة، أنت هيك ماخذ الشاشة من معارض دوبل إم اللي رح تعطيك 2 رام 32 جيجا مساحة تخزين مروح التبريد أهلاً وسهلاً بالجميع.",
-        "summary": "### 2.\n- **عرض ترويجي شامل:** عرض مكون من شاشة سيارة 2/32 جيجا مع فريم مخصص وكاميرا خلفية ليلية/نهاريه بسعر حصري 65 دينار لفترة محدودة.\n- **تخفيض الأسعار:** مقارنة التكلفة الأصلية (الشاشة 70 د، الفريم 25 د، الكاميرا 15 د) بالسعر المخفض (65 د) لتشجيع الشراء السريع.\n- **مواقع الفروع:** الإشارة إلى فروع المعرض (دوار الحويان والحرية مول وقريباً الفرع الثالث) لجذب العملاء وزيادة المبيعات.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض ترويجي شامل:** عرض مكون من شاشة سيارة 2/32 جيجا مع فريم مخصص وكاميرا خلفية ليلية/نهاريه بسعر حصري 65 دينار لفترة محدودة.\n- **تخفيض الأسعار:** مقارنة التكلفة الأصلية (الشاشة 70 د، الفريم 25 د، الكاميرا 15 د) بالسعر المخفض (65 د) لتشجيع الشراء السريع.\n- **مواقع الفروع:** الإشارة إلى فروع المعرض (دوار الحويان والحرية مول وقريباً الفرع الثالث) لجذب العملاء وزيادة المبيعات.",
+        "transcript": "إليك النتيجة المطلوبة:\n\n\nأي والله هيك كثير معلم. الشاشة 2/32 جيجا مساحة تخزين أصلية وفعلية زائد الفريم المخصص تبع سيارتك زائد الكاميرا الخلفية اللي بتدعم تصوير نهاري أو ليلي، هذول عندك 15 دينار وعندك الفريم سعره معلم معروف ومكشوف 25 دينار، بالنسبة للشاشة سعرها 70 دينار اليوم ولفتة محدودة بالفرعين دوار الحويان والحرية مول وقريباً الثالث فقط ب65 دينار شامل فريم وشامل كاميرا وأنت هيك مش ماخذ أي شاشة، أنت هيك ماخذ الشاشة من معارض دوبل إم اللي رح تعطيك 2 رام 32 جيجا مساحة تخزين مروح التبريد أهلاً وسهلاً بالجميع."
       }
     },
     {
@@ -631,7 +631,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1695026262208377",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMV1ZMhRmBoARaD7vSZy5J_RoK-G4u6FneKKw0Bc-y5y2hA39klwS8AEO66RZmFt9pRIwZgZBps8uDQEP2iMOY01FGV5K0FW9YeiPHlrirUZA.mp4?_nc_cat=110&_nc_oc=AdqVc4ilzwhpmJz8y_AQE8giEkxEgIRM9LzKL2Z6SYj7pZ8Nbf9dsNEDHsqIYyL99Sk&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=IqLHIbvFuzgQ7kNvwGv6Ko6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTE2MzIxNTYzNzQ2NjcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=227134ae7f485bd2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GOURDMEFBRDIwNTk0RkE0QTMyQkFEQTFDMTRDRjcwMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlEOEE5NEU4MjYxQjRFQzY4NDE1MjIzOTA4NEIzOThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaW2rXF0-v4BBUCKAJDMywXQDUZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=EoLRbdJ7_jlPYmjnE0tzJQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeETzVBAJ-fPeBBoC8avuJU_RLr15Lz2w-REuvXkvPbD5O9fctKZtXVQeDHwrM7a5RBIpoNqPGx4tTDrhjLIpeoe&oh=00_AQOpNRGBhGlHkU3o6aSPn4ZVGgcGEWCD9MS20-zT_8SFUQ&oe=6ADFC766",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بالتأكيد، إليك تحليل المحتوى المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"بالنسبة لطقم المساطر الفل والرانينج قديش حرقوا لك؟ 18 و 20 وبتمنوا عليك بـ 15، طيب معلم لفترة محدودة فقط طقم المساطر رح يركب عندك تابلو، كب هولدرات وأربع بطاين فقط بـ 14 دينار، وأجور تركيب جدا رمزية بالفرعين دوار الحويان والحرية مول، ولا تنسى تتوقع وين الفرع الثالث والرابع وأهلا وسهلا بالجميع.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **خلق الإحساس بالإلحاح:** اعتمد الفيديو على مبدأ \"لفترة محدودة\" لزيادة دافع الشراء الفوري لدى العميل.\n*   **استراتيجية التنافس السعري:** طرح مقارنة مباشرة مع أسعار السوق (18-20-15) ليظهر عرض الـ 14 دينار كـ \"صفقة رابحة\" ومثالية.\n*   **توضيح قيمة العرض:** سرد تفصيلي للمكونات (تابلو، كب هولدرات، بطاين) لرفع القيمة المتصورة للمنتج مقابل سعره المنخفض.\n*   **تعزيز التفاعل (Engagement):** استخدام سؤال تفاعلي (توقع فروعنا الجديدة) لزيادة خوارزميات الوصول للمنشور والمشاركة المجتمعية.\n*   **ترويج الخدمة الشاملة:** ربط عملية البيع بخدمة التركيب بأسعار \"رمزية\"، مما يزيل عقبات ما بعد البيع ويشجع العميل على زيارة المحل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2436099823465945",
