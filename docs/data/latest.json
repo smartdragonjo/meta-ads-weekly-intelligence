@@ -2,7 +2,7 @@
   "scan_date": "2026-10-24",
   "total_ads": 51,
   "total_video_ads": 50,
-  "analyzed_video_ads": 26,
+  "analyzed_video_ads": 27,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -104,11 +104,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي:\n\"من الطبيعي إنه بطارية سيارتك بفصل الشتاء إنه تقطعك، أو تضعف معك، إشي طبيعي. بس أنا اليوم هون في معرض دبل إم (Double M) وموفر لك الباور بانك اللي تقيل، اللي بيجي فيه 4 يو إس بي (USB)، وبيجي عندك 100 ألف ميلي أمبير إلا. طبعاً طلع بيجي 4 يو إس بي، ومكان للشحن، وبينشحن معك بالولاعة أو في البيت. وراح يكون سعره تريند في الأردن، بدل ما كنت تاخذه بـ 35، راح يكون عليه ما يقارب الـ 50 بالمية. واستنونا بالفرعين راح يكون لسه في كمان عروض أكثر وأكثر، وأهلاً وسهلاً بالجميع.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **الخطاف (Hook):** استغلال \"مشكلة شائعة\" (ضعف البطارية في الشتاء) لجذب انتباه الجمهور المستهدف فوراً.\n*   **تقديم القيمة:** عرض حل عملي ومحمول، مع التركيز على المواصفات التقنية (100 ألف ميلي أمبير، تعدد المداخل) لتعزيز الثقة.\n*   **العرض التنافسي (Value Proposition):** استخدام التخفيض الكبير (50% خصم) كحافز قوي لاتخاذ إجراء شرائي (Call to Action).\n*   **استراتيجية التوسع:** الإشارة لوجود \"فرعين\" تعزز من مصداقية العلامة التجارية وتخلق شعوراً بالانتشار والسهولة في الوصول.\n*   **الأسلوب:** نمط \"الفيديو القصير\" (Reels/TikTok) المباشر وغير المتكلف يساهم في زيادة التفاعل العفوي وبناء علاقة ودية مع الزبائن.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الخطاف (Hook):** استغلال \"مشكلة شائعة\" (ضعف البطارية في الشتاء) لجذب انتباه الجمهور المستهدف فوراً.\n*   **تقديم القيمة:** عرض حل عملي ومحمول، مع التركيز على المواصفات التقنية (100 ألف ميلي أمبير، تعدد المداخل) لتعزيز الثقة.\n*   **العرض التنافسي (Value Proposition):** استخدام التخفيض الكبير (50% خصم) كحافز قوي لاتخاذ إجراء شرائي (Call to Action).\n*   **استراتيجية التوسع:** الإشارة لوجود \"فرعين\" تعزز من مصداقية العلامة التجارية وتخلق شعوراً بالانتشار والسهولة في الوصول.\n*   **الأسلوب:** نمط \"الفيديو القصير\" (Reels/TikTok) المباشر وغير المتكلف يساهم في زيادة التفاعل العفوي وبناء علاقة ودية مع الزبائن.",
+        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي:\n\"من الطبيعي إنه بطارية سيارتك بفصل الشتاء إنه تقطعك، أو تضعف معك، إشي طبيعي. بس أنا اليوم هون في معرض دبل إم (Double M) وموفر لك الباور بانك اللي تقيل، اللي بيجي فيه 4 يو إس بي (USB)، وبيجي عندك 100 ألف ميلي أمبير إلا. طبعاً طلع بيجي 4 يو إس بي، ومكان للشحن، وبينشحن معك بالولاعة أو في البيت. وراح يكون سعره تريند في الأردن، بدل ما كنت تاخذه بـ 35، راح يكون عليه ما يقارب الـ 50 بالمية. واستنونا بالفرعين راح يكون لسه في كمان عروض أكثر وأكثر، وأهلاً وسهلاً بالجميع.\"\n\n---"
       }
     },
     {
@@ -125,7 +125,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4591439591109638",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMoLePFNKI6YvjTMaaIGqco33HdBAGiZF-04hXcFojjr8T98Jq12wRrKRlRp3JzfmKyM8QNVrKtv2fYDzwmO6wQZPoDz6vPs_dWes4inpC6Bg.mp4?_nc_cat=101&_nc_oc=AdqFVxPKVUw8jDT6EGVuVOnH_wEWJlAsR0JmAZOHpOiz8Xe8NIdIpmVpJz667YQyvjo&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=vWic6aTyc5AQ7kNvwHwcrHp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4OTQ1NzYwMzgxNzk2NDQsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ecf73171d2278868&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RERCQURCNkRFODM0QzE3OTJFNTIyQjYyMzQyREQyRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNzJEMTk4QzI0RjREM0NBOEQxQTFCMjYzRjUyNjdFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4zIu868bdBhUCKAJDMywXQDfmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vGAQtcXqdeW2zEO-S_3vWg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGwlPoapg0q1PNT1QY8Pv_ZJ5x7ex2SNuEnnHt7HZI24ZotbRPcFGUz--dKOybMFq8quUbaqHcUcorG4cbH5sDo&oh=00_AQMiiFuEdxA7hCufCjc_qU9eoP2D2bP24Belx00v8FLn-Q&oe=6AE282D7",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"أنا أول تاجر بقول لك ما بدي إياك تركب عندي ضباب، بس تعال شوف التظليل الصح. اتصل علي العفوية، تعال معي أورجيك جوا، على ماكينة الفرن، لا تشوف الفرق بين التجاري والألترا نانو. 677، أورجيك شغلة تحت. غطي لك التابلو عشان ما نغرق السيارة مي، ومنظبلك بغرفة بتعزل الهوى والغبار والأتربة، وغير ماكينة الفرن بخليك تفحص الضباب بإيدك. وبدك تظب بالألترا نانو، اكتب لي كلمة نانو بالتعليقات.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **كسر حاجز الشك:** يبدأ الفيديو بأسلوب \"العكس النفسي\" (أنا لا أريدك أن تشتري مني)، مما يرفع سقف المصداقية لدى المشاهد ويجعله أكثر انفتاحاً على الرسالة.\n*   **استغلال \"دليل القيمة\" (Proof of Value):** يستخدم الفيديو مكنة اختبار حرارية كأداة إقناع ملموسة، حيث يثبت للعميل جودة المنتج (الألترا نانو) مقابل التجاري بشكل مرئي ومحسوس.\n*   **بناء الثقة عبر التفاصيل:** يركز صانع المحتوى على \"احترافية العمل\" (تغطية التابلو، استخدام غرف معزولة، السماح للعميل بالفحص بنفسه)، مما يعطي انطباعاً بالجودة العالية والاهتمام بتفاصيل السيارة.\n*   **دعوة ذكية للعمل (CTA):** بدلاً من طلب الشراء المباشر، يستخدم استراتيجية الـ \"Lead Magnet\" من خلال طلب كتابة كلمة \"نانو\" في التعليقات، وهو ما يخدم خوارزميات المنصة لزيادة انتشار الفيديو ويخلق قائمة تواصل مباشرة مع المهتمين.\n*   **التسويق بالتجربة:** الفيديو لا يبيع \"تظليل\"، بل يبيع \"طريقة عمل احترافية\" وتجربة تقنية، مما يبرر السعر المرتفع مقارنة بالمنافسين التقليديين.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2217475105496372",
