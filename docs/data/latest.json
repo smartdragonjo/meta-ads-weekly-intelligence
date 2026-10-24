@@ -2,7 +2,7 @@
   "scan_date": "2026-10-24",
   "total_ads": 51,
   "total_video_ads": 50,
-  "analyzed_video_ads": 35,
+  "analyzed_video_ads": 36,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -336,11 +336,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"لازم تحفظ الفيديو للآخر عشان تلحق العروض كلها. أرضيات الجلد التقيل النمبر ون. غطاء خياطة، كل هدول مع الفرش بأقل من 26 دينار. والمساطر الضوئية 18 قطعة بأقل من 15 دينار. 32 مساحة تخزين 2 رام مع كاميرا هدية مع فريم مخصص هدية فقط بأقل من 66 دينار. ضوء الليزر التي 2 بأقل من 8 دنانير. والعرض هاد بمدة 3 أيام؛ ثلاثاء، أربعاء، خميس.\"",
-        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية جذب الانتباه:** استخدام حافز \"الحفظ\" (Save) في بداية الفيديو لزيادة التفاعل والحفاظ على استمرارية المشاهدة (Retention).\n*   **هيكلة العرض:** التركيز على \"عروض الحزمة\" (Bundle Deals) من خلال تقديم إضافات مجانية (كاميرا + فريم) لرفع القيمة المدركة للمنتج الرئيسي.\n*   **خلق الاستعجال (Scarcity):** تحديد مدة زمنية قصيرة للعرض (3 أيام فقط) لدفع العملاء لاتخاذ قرار شراء فوري.\n*   **الوضوح السعري:** استخدام لغة الأرقام المباشرة (أقل من XX دينار) لتبسيط عملية اتخاذ القرار وتقليل الحاجة للاستفسار.\n*   **أسلوب التسليم:** الاعتماد على الإيقاع السريع والتنقل البصري بين المنتجات داخل المتجر، مما يعطي شعوراً بالتنوع والوفرة في المعروضات.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية جذب الانتباه:** استخدام حافز \"الحفظ\" (Save) في بداية الفيديو لزيادة التفاعل والحفاظ على استمرارية المشاهدة (Retention).\n*   **هيكلة العرض:** التركيز على \"عروض الحزمة\" (Bundle Deals) من خلال تقديم إضافات مجانية (كاميرا + فريم) لرفع القيمة المدركة للمنتج الرئيسي.\n*   **خلق الاستعجال (Scarcity):** تحديد مدة زمنية قصيرة للعرض (3 أيام فقط) لدفع العملاء لاتخاذ قرار شراء فوري.\n*   **الوضوح السعري:** استخدام لغة الأرقام المباشرة (أقل من XX دينار) لتبسيط عملية اتخاذ القرار وتقليل الحاجة للاستفسار.\n*   **أسلوب التسليم:** الاعتماد على الإيقاع السريع والتنقل البصري بين المنتجات داخل المتجر، مما يعطي شعوراً بالتنوع والوفرة في المعروضات.",
+        "transcript": "التفريغ النصي\n\"لازم تحفظ الفيديو للآخر عشان تلحق العروض كلها. أرضيات الجلد التقيل النمبر ون. غطاء خياطة، كل هدول مع الفرش بأقل من 26 دينار. والمساطر الضوئية 18 قطعة بأقل من 15 دينار. 32 مساحة تخزين 2 رام مع كاميرا هدية مع فريم مخصص هدية فقط بأقل من 66 دينار. ضوء الليزر التي 2 بأقل من 8 دنانير. والعرض هاد بمدة 3 أيام؛ ثلاثاء، أربعاء، خميس.\""
       }
     },
     {
@@ -357,7 +357,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1051530671258448",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQP1yZ3QndoYkDRBmRFsntmCoIkBCpAXYrhXqRxnPDQWI_A4p9yBLydhwJyhLs4FDOvh6eZ89NNYueIrc9OGHqzAydu0wH0iamBtMeXdiFx4wA.mp4?_nc_cat=102&_nc_oc=AdoHcwY13tn0Zt5NvIC2_v7Mhu9mDW_sH43RZ85WejN98idvovpf9SdAhydIcrG1ocE&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=Mb2enHNzrCUQ7kNvwGGxOjd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMTQ5NjI4NTA2NzI4ODksImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bce97d3116692a42&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80NjhERjY1MzNEREE0NDkxQkUzRkJCMDMwRjZEQTRDMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZFMEQyNDJFQTdEMDRFM0RBNkI4RkI3QjQ0NDA5MkJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbyw9vZ9PzVBBUCKAJDMywXQERqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=vGAQtcXqdeW2zEO-S_3vWg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFt8ifg7AXJXzL2OxzLKXQnPaENAUfUb0E9oQ0BR9RvQUcke3IdCKhgC3FJYyRi3taUipmg9zVKFzjycXd3j-IO&oh=00_AQOpLmGSeQmyvme9qhleBi1WSi1vnKoA2RcGSDHd8d6-fw&oe=6AE25E12",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"وهان أهم خمس منتجات لازم يكونوا بسيارتك قبل دخول فصل الشتاء. وعندك أول منتج: الطفاية زائد العاكس الواحد كيلو مع شنطة الدبل إم، عشان تضلك متذكرني، بأقل من 8 دنانير. ومنفاخ الجمل الأصلي اللي اثنين سلندر بأقل من 12 دينار. وعندك هوايات الخط النيكل بأقل من 12 دينار، وعندك الهوايات الأسود سادة راح يكونوا أقل من 9 دنانير. وعشان ما تنقطع بنص الشتاء وتضعف بطاريتك، فلازم تخلي معك هذا الباور بانك، راح يكون أقل من 19 دينار. وبالإضافة عندك الجاك الواحد طن اللي مقص راح يكون أقل من 6 دنانير. وهذي العروض راح تكون في معارض الدبل إم ولفترة محدودة، إذا حاب تكسب هذه العروض، زور واحد من معارض الدبل إم، وأهلاً وسهلاً بالجميع.\"\n\n---",
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **الهدف التسويقي:** الترويج لمستلزمات السيارات الأساسية لفصل الشتاء بأسعار تنافسية لجذب العملاء إلى معارض \"دبل إم\".\n*   **استراتيجية السعر:** استخدام \"التسعير النفسي\" (أقل من...) لتعزيز مفهوم القيمة مقابل السعر.\n*   **أداة الربط:** استخدام \"الخوف من فقدان الفرصة\" (لفترة محدودة) لتحفيز العملاء على اتخاذ قرار الشراء بسرعة.\n*   **عنصر الجذب:** اختيار منتجات ترتبط بـ \"حالات الطوارئ\" (مثل ضعف البطارية أو الحاجة للطفاية/المنفاخ) لزيادة أهمية الشراء لدى المشاهد.\n*   **أسلوب التقديم:** الاعتماد على عرض المنتجات بشكل عملي وسريع، مما يناسب طبيعة فيديوهات \"الريلز\" ويحافظ على تفاعل المشاهد.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1533584488815728",
