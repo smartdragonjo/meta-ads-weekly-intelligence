@@ -2,7 +2,7 @@
   "scan_date": "2026-10-26",
   "total_ads": 41,
   "total_video_ads": 39,
-  "analyzed_video_ads": 24,
+  "analyzed_video_ads": 25,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -90,11 +90,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"حايب تغير من داخلية سيارتك؟ بدك تركب فرش جلد، بدك تركب فرش قماش، بدك تعمل مكس ما بينهم؟ اليوم بتقدر تركب هذا الفرش عندك على السيارة وبأقل سعر في المملكة. اليوم راح يكون في عنا خصم 25% على جميع أنواع الفروش داخل معارض الدبل إم. احكيلنا تحت في التعليقات ايش نوع سيارتك، وايش الفرش اللي بدك تركبه عندك سواء جلد أو حتى قماش لحتى نزودك بكامل التفاصيل، وبنستناك وأهلا وسهلا فيكم.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **خطة المحتوى:** يعتمد الفيديو على \"نموذج المشكلة والحل\" (Problem-Solution Framework)، حيث يبدأ بطرح أسئلة استقصائية حول رغبات العميل في التجديد، ثم يقدم المنتج كحل مباشر ومرن.\n*   **عناصر الجذب:**\n    *   **العرض الترويجي:** استخدام نسبة خصم واضحة ومحددة (25%) لخلق شعور بالفرصة العاجلة.\n    *   **الاستهداف المباشر:** التركيز على التخصيص (Mix) بين خامات الجلد والقماش لجذب شريحة واسعة من أذواق العملاء.\n    *   **تفعيل التفاعل (CTA):** دعوة الجمهور للتعليق بنوع السيارة هو \"إجراء ذكي\" لزيادة التفاعل (Engagement) على المنصة، وفي نفس الوقت بناء قاعدة بيانات للعملاء المحتملين للتواصل معهم لاحقاً.\n*   **طريقة العرض:** استخدام لقطات (Close-ups) احترافية وعالية الجودة لتفاصيل الفرش يعزز من قيمة العلامة التجارية ويثير رغبة الشراء البصرية لدى المشاهد.\n*   **نقطة القوة التنافسية:** التركيز على \"أقل سعر في المملكة\" كرسالة بيعية رئيسية (Unique Selling Proposition) لجذب العميل الذي يهتم بالسعر مع الحفاظ على الجودة المظهرية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **خطة المحتوى:** يعتمد الفيديو على \"نموذج المشكلة والحل\" (Problem-Solution Framework)، حيث يبدأ بطرح أسئلة استقصائية حول رغبات العميل في التجديد، ثم يقدم المنتج كحل مباشر ومرن.\n*   **عناصر الجذب:**\n    *   **العرض الترويجي:** استخدام نسبة خصم واضحة ومحددة (25%) لخلق شعور بالفرصة العاجلة.\n    *   **الاستهداف المباشر:** التركيز على التخصيص (Mix) بين خامات الجلد والقماش لجذب شريحة واسعة من أذواق العملاء.\n    *   **تفعيل التفاعل (CTA):** دعوة الجمهور للتعليق بنوع السيارة هو \"إجراء ذكي\" لزيادة التفاعل (Engagement) على المنصة، وفي نفس الوقت بناء قاعدة بيانات للعملاء المحتملين للتواصل معهم لاحقاً.\n*   **طريقة العرض:** استخدام لقطات (Close-ups) احترافية وعالية الجودة لتفاصيل الفرش يعزز من قيمة العلامة التجارية ويثير رغبة الشراء البصرية لدى المشاهد.\n*   **نقطة القوة التنافسية:** التركيز على \"أقل سعر في المملكة\" كرسالة بيعية رئيسية (Unique Selling Proposition) لجذب العميل الذي يهتم بالسعر مع الحفاظ على الجودة المظهرية.",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"حايب تغير من داخلية سيارتك؟ بدك تركب فرش جلد، بدك تركب فرش قماش، بدك تعمل مكس ما بينهم؟ اليوم بتقدر تركب هذا الفرش عندك على السيارة وبأقل سعر في المملكة. اليوم راح يكون في عنا خصم 25% على جميع أنواع الفروش داخل معارض الدبل إم. احكيلنا تحت في التعليقات ايش نوع سيارتك، وايش الفرش اللي بدك تركبه عندك سواء جلد أو حتى قماش لحتى نزودك بكامل التفاصيل، وبنستناك وأهلا وسهلا فيكم.\"\n\n---"
       }
     },
     {
@@ -111,7 +111,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2185467605659824",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNns_gv8GkMqk2jUStZjdnC8BEY1Oa8z0hBJgyYo832hLks6xI4ZjDUdgic4osHehHNt4wJaDmiGlmi1cu0RhvkU4mxEEbVO8dFwuwz-OhJww.mp4?_nc_cat=105&_nc_oc=AdoczhAj99PNe1CG6sUUTt_UFX8KgKgIcngO3yIZ0FwmFJ0JIfCM9dBzisHVQVZoGQg&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=ysgjLKANGtcQ7kNvwH48GqP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2NDE1NzUzMTI5NjM0MzEsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=db2b8d507d8022dd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRjQyNjQxMUY2RkM0MjYyQjRDNjQzQzM2QTE0OTQyRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5MkZDRjUyMTVFODQxNTQ5MDcxMjBDMjU2Njc0OTM2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbO3eni9Z-xCRUCKAJDMywXQDezMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=XD45pFLT8Uy6A6z7YJZsFw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHUpISxMXzeez0Nz_YqtXGsJa5j2yaOagklrmPbJo5qCUC33gbfWxbt7r-hFHSp3JqhzMLpdhmb3bLj5cI7ik5a&oh=00_AQPP0Xc1811YuiEf59mSZ3dHjiM-RyXAjQVNFURnGvQDSQ&oe=6AE527BF",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي\nعن طريق التطبيق رح تصير تشوف كل زوايا السيارة. هاي الداش كام اللي بتركب على سيارتك، بكل أنواع السيارات، رح يكون متوفر فيها أربع كاميرات؛ كاميرا يمين وكاميرا شمال وكاميرا أمامية وكاميرا خلفية. زي ما أنتم شايفين بتدعم اللغة العربية، حجمها صغير وما رح تضايق عليك بالسواقة وأنت بتسوق. إذا حاب تحمي سيارتك من الحوادث المفتعلة، متوفرة في \"دبليو إم\" بالفرعين: دوار الحويان وأمام الحرية مول. السلام عليكم.",
+        "summary": "### 2. الملخص الاستراتيجي\n* **استهداف دقيق للمشكلة:** يركز الفيديو على حل \"نقطة ألم\" واضحة للسائقين، وهي القلق من الحوادث المفتعلة، مما يرفع من دافعية الشراء.\n* **إبراز القيمة المضافة:** توضيح أن الجهاز يدعم اللغة العربية (تعزيز الملاءمة المحلية) ويأتي بتصميم مدمج صغير الحجم لا يعيق رؤية السائق.\n* **تأكيد الموثوقية التقنية:** عرض \"تعدد الزوايا\" عبر التطبيق يوصل رسالة قوية للمشاهد بأن المنتج يغطي كافة الجوانب الأمنية للسيارة (أربع كاميرات).\n* **الدعوة لاتخاذ إجراء (CTA):** يتضمن الفيديو دعوة واضحة للعميل من خلال تحديد فروع المتجر، مما يسهل عملية التحويل من مشاهدة الفيديو إلى زيارة المحل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1686951246462688",
