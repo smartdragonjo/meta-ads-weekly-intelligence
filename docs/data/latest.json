@@ -2,7 +2,7 @@
   "scan_date": "2026-10-27",
   "total_ads": 49,
   "total_video_ads": 47,
-  "analyzed_video_ads": 42,
+  "analyzed_video_ads": 43,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -265,11 +265,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "- \"السماعات القديمة راح نفكهم ونركب مكانهم سماعات الأفاتار من الدي بي، طبعاً بنفس القياس، زي ما أنت شايف ستة ونص إنش، بتيجي بقدرة 140 واط. سماعات الأفاتار بتركب مكان الأصلية بنفس الحجم، تفرج معي، هي ركبت ستاندر معلم. تعال اسمع الصوت. أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون، سماعات الأفاتار من الدي بي هو خيارك الأنسب لسيارتك. هذي السماعات متوفرة في معارض الدبل إم فرع دوار الحيوان والحرية مول، وأهلا وسهلا فيكم.\"",
-        "summary": "### 2.\n*   **القيمة المقترحة:** حل سريع واحترافي لمشاكل الصوت في السيارات عبر استبدال السماعات التالفة بقطع عالية الجودة (Avatar) وبنفس قياسات المصنع الأصلية.\n*   **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن ترقية سهلة ومباشرة لنظام الصوت دون الحاجة لتعديلات معقدة أو تغيير الهيكل.\n*   **ميزات المنتج المذكورة:** سهولة التركيب (نظام ستاندر)، مطابقة المقاسات الأصلية (6.5 إنش)، وقوة أداء تصل إلى 140 واط.\n*   **الاستراتيجية الإعلانية:** التركيز على إظهار عملية التركيب السريعة لإزالة أي مخاوف لدى العميل من صعوبة التعديل، مع توفير دعوة واضحة لاتخاذ إجراء (زيارة المعرض).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n*   **القيمة المقترحة:** حل سريع واحترافي لمشاكل الصوت في السيارات عبر استبدال السماعات التالفة بقطع عالية الجودة (Avatar) وبنفس قياسات المصنع الأصلية.\n*   **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن ترقية سهلة ومباشرة لنظام الصوت دون الحاجة لتعديلات معقدة أو تغيير الهيكل.\n*   **ميزات المنتج المذكورة:** سهولة التركيب (نظام ستاندر)، مطابقة المقاسات الأصلية (6.5 إنش)، وقوة أداء تصل إلى 140 واط.\n*   **الاستراتيجية الإعلانية:** التركيز على إظهار عملية التركيب السريعة لإزالة أي مخاوف لدى العميل من صعوبة التعديل، مع توفير دعوة واضحة لاتخاذ إجراء (زيارة المعرض).",
+        "transcript": "- \"السماعات القديمة راح نفكهم ونركب مكانهم سماعات الأفاتار من الدي بي، طبعاً بنفس القياس، زي ما أنت شايف ستة ونص إنش، بتيجي بقدرة 140 واط. سماعات الأفاتار بتركب مكان الأصلية بنفس الحجم، تفرج معي، هي ركبت ستاندر معلم. تعال اسمع الصوت. أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون، سماعات الأفاتار من الدي بي هو خيارك الأنسب لسيارتك. هذي السماعات متوفرة في معارض الدبل إم فرع دوار الحيوان والحرية مول، وأهلا وسهلا فيكم.\""
       }
     },
     {
@@ -286,7 +286,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=3357765561097290",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMZ3Ho4Q-Lq4R45BDgqPXQJl3sAk3nEDVnoth0964rUsu3l5YCLJV4SWIixK_AmcPAfLaZadLssWCOkCmpBv7v8VggzLerQ4vwUgOd_RP1fqg.mp4?_nc_cat=106&_nc_oc=AdqqGTp5YUII46qhIn3i_LXoq-RjzhQSWVVY_e1Xdb9ZxmlckLhS5MeiFeUQ9C_iNEY&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=BWMVtDXCOPQQ7kNvwHFWfUZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDA0MjA2NjUxODM4MzgsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d9a8e4ce4228c39f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNjU4QzZENzRDODI0NTE1QTU2NkU2OTMzODc3NTE0RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI4MkVDRjlENEM0QzRFNUU5NTM1NERCQUZGMjhGMEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa8uaSKnM2GBBUCKAJDMywXQEOAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DHQTLHuQx4AiS55kXJM1jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFiRQyasNu42U0MuWs6_yu1Isjt8kevotsiyO3yR6-i2-ACjmundO-jFdiRJdU6icoH5eGIFH-9YE-LtXXBLDjJ&oh=00_AQOeONGz0wGcC5-oDdutrg5c2Vvsq-jlMRtPiRETv8_ofA&oe=6AE696CA",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي للفيديو\n\n\"سوناتا 2016، ولسه موجود لباقي السيارات التاني: الكوري، الألماني، الأمريكي، ايش ما يكون نوع سيارتك يا معلم، الدبل إم وفر لك ملف طارة بيركب عندك على السيارة مخصص بنوع سيارتك.\n\nطريقة التركيب فيش بفيش زي ما هو واضح أمامك بالفيديو. هذا الملف إحنا بنركبه على سيارتك إذا صار عندك هاي المشاكل: الزمور صار يغلط، بتزيح الستيرنج على اليمين على اليسار بتحس الصوت صار يقطع، أو حتى تحكم الطارة عندك بطل يشتغل، تعلاية الصوت، التوطاي، أو حتى إنك ترد على المكالمات، كل هاي المشاكل ملف الطارة هو المسؤول عنها.\n\nاليوم إذا حبيت تغيره، بس كل اللي عليك تكتب لي نوع سيارتك تحت في التعليقات، وإحنا بنزودك بالسعر، وأهلاً وسهلاً فيكم.\"\n\n---",
+        "summary": "### 2. ملخص استراتيجي للفيديو\n\n*   **الهدف التسويقي:** الترويج لمنتج \"ملف طارة السيارة\" (Clock Spring) بتركيز على التوافق مع مختلف العلامات التجارية.\n*   **استراتيجية جذب العميل:** ربط المشاكل الشائعة التي يواجهها السائقون (خلل في البوق، أزرار التحكم، أو الصوت) بالحل المباشر وهو استبدال هذه القطعة.\n*   **نقاط القوة:**\n    *   **سهولة التركيب:** استخدام عبارة \"فيش بفيش\" لتبسيط عملية الصيانة في نظر العميل وإزالة الخوف من التعقيد الفني.\n    *   **التفاعل المباشر:** استخدام \"دعوة لاتخاذ إجراء\" (Call to Action) واضحة ومباشرة (اكتب نوع سيارتك في التعليقات)، مما يزيد من التفاعل ويجمع \"قاعدة بيانات\" محتملة للعملاء.\n    *   **التخصص:** إظهار وعي فني بالمشكلات الميكانيكية/الكهربائية للسيارة يعزز من مصداقية المتجر أمام العميل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2952782975120872",
