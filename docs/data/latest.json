@@ -2,7 +2,7 @@
   "scan_date": "2026-10-27",
   "total_ads": 49,
   "total_video_ads": 47,
-  "analyzed_video_ads": 35,
+  "analyzed_video_ads": 36,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -97,11 +97,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي:\n- \"جاهز تشوف أفلام الحماية الـ PPF على هاي السيارة؟ خليك معي بالفيديو لحتى تشوف النتيجة النهائية.\"\n- \"ومع كفالة خمس سنوات بتقدر تركب أفلام الحماية عندك على السيارة سواء كان مات أو حتى الجلوس. كل اللي عليك تحكيلنا نوع سيارتك في التعليقات ونحنا بنحكيلك التكلفة كاملة، وأهلاً وسهلاً فيكم.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **الهدف التسويقي:** الترويج لخدمة تركيب أفلام الحماية (PPF) وجذب عملاء محتملين (Leads) عبر التعليقات.\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) واضحة ومباشرة من خلال طلب نوع السيارة للحصول على عرض سعر، مما يرفع من معدل التفاعل على المنشور.\n*   **عناصر الثقة:** التركيز على ميزة \"ضمان الخمس سنوات\" لتعزيز موثوقية الخدمة لدى العميل.\n*   **هيكل المحتوى:**\n    *   **الخُطّاف (Hook):** سؤال تشويقي للمشاهد حول النتيجة النهائية.\n    *   **العرض (Body):** استعراض بصري سريع لعملية التركيب (خلف الكواليس) لإظهار الاحترافية.\n    *   **الخاتمة (Call to Action):** توجيه المشاهد للتعليقات لطلب الخدمة.\n*   **نقاط القوة:** المقطع قصير، سريع الإيقاع، ويُظهر النتيجة النهائية للسيارة بشكل جذاب ومحفز.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الهدف التسويقي:** الترويج لخدمة تركيب أفلام الحماية (PPF) وجذب عملاء محتملين (Leads) عبر التعليقات.\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) واضحة ومباشرة من خلال طلب نوع السيارة للحصول على عرض سعر، مما يرفع من معدل التفاعل على المنشور.\n*   **عناصر الثقة:** التركيز على ميزة \"ضمان الخمس سنوات\" لتعزيز موثوقية الخدمة لدى العميل.\n*   **هيكل المحتوى:**\n    *   **الخُطّاف (Hook):** سؤال تشويقي للمشاهد حول النتيجة النهائية.\n    *   **العرض (Body):** استعراض بصري سريع لعملية التركيب (خلف الكواليس) لإظهار الاحترافية.\n    *   **الخاتمة (Call to Action):** توجيه المشاهد للتعليقات لطلب الخدمة.\n*   **نقاط القوة:** المقطع قصير، سريع الإيقاع، ويُظهر النتيجة النهائية للسيارة بشكل جذاب ومحفز.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي:\n- \"جاهز تشوف أفلام الحماية الـ PPF على هاي السيارة؟ خليك معي بالفيديو لحتى تشوف النتيجة النهائية.\"\n- \"ومع كفالة خمس سنوات بتقدر تركب أفلام الحماية عندك على السيارة سواء كان مات أو حتى الجلوس. كل اللي عليك تحكيلنا نوع سيارتك في التعليقات ونحنا بنحكيلك التكلفة كاملة، وأهلاً وسهلاً فيكم.\"\n\n---"
       }
     },
     {
@@ -118,7 +118,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1095236116713394",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOdEZnOYV9X1biNXraDDLac_mGBFJniq4_ZUawJW2rolcc3iCUuRRFTOCzcS4pzZ_4NdSOf4ASZGQYyhJG8wzI--v_7Ha3TdEbQKM4Sz0B-6Q.mp4?_nc_cat=111&_nc_oc=AdrzhycEJz_kKehIh7jtpzLTKfwnkc2gdUOTxTo8WQAbeKCH7T4DJnK3R6UGfQxsQtg&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=0q1sl4oRUFMQ7kNvwEHYnp6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQ0OTY5ODA5MjA1MTYxMDMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=45ae7b90750dba4b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDU1QzhFRDcyNTc0RjMwOUIzMDEzQkJFOEJEQTQ5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0QzMDBBREI1NzY2QzQ3OEU4NTAwMUI4RTBCNzQxOUQ4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaO-KHl3v78DxUCKAJDMywXQEWRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DHQTLHuQx4AiS55kXJM1jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEyubK-QDIpSyi4xmanvoHJSllXeSCdm8RKWVd5IJ2bxIIrnK0IcZEzuEghwglG6BiS5kRYJZeVwIdNEXzwVhjK&oh=00_AQMeqswHgjPRZ5Lcwg83aP4IYOBINJgkKZ4hiL4sQkRzVg&oe=6AE683D1",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي الكامل\n\"ورسمياً، الفرش الكاربون توفر داخل معارض دبل إم. طبعاً هذا الفرش فقط متوفر بمكان واحد اللي هو معارض دبل إم بالفرعين، وطبعاً عندك بسم الله ما شاء الله كاربون فايبر أصلي، تطريزات الكاربون فايبر. لو أنت مهتم، عندك سيارة محول داخليتها زي هاي السيارة لكاربون فايبر، فأكيد بيلزمك فرش جواته كاربون فايبر، أهلاً وسهلاً فيكم، بس اكتبلي فايبر بالتعليقات ورح يوصلك سعر هذا الفرش الجديد اللي ما حدا ركبه، خليك أنت مميز وركب هذا الفرش، أهلاً وسهلاً فيكم وتشرفونا بالفرعين.\"",
+        "summary": "### 2. الملخص الاستراتيجي\n*   **الهدف التسويقي:** الترويج لمنتج جديد (فرش سيارات بتطريز الكاربون فايبر) لزيادة المبيعات في فروع معارض \"دبل إم\".\n*   **عنصر التفرد (USP):** التركيز على حصرية توفر المنتج لدى معارض \"دبل إم\" فقط، والتركيز على جودة الخامات (كاربون فايبر أصلي).\n*   **الجمهور المستهدف:** أصحاب السيارات المهتمين بتعديل وتطوير ديكور سياراتهم الداخلي (إكسسوارات السيارات).\n*   **تكتيك التفاعل (CTA):** استخدام \"النداء للفعل\" الذكي عبر الطلب من المشاهدين كتابة كلمة \"فايبر\" في التعليقات للحصول على السعر، مما يساهم في زيادة التفاعل (Engagement) وتحسين ظهور الفيديو في خوارزميات المنصة.\n*   **القيمة المقترحة:** منح المشاهد شعوراً بالتميز والسبق في الحصول على منتج جديد وحصري، مما يحفز دافع الشراء لديه.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1907611656890272",
