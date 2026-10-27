@@ -2,7 +2,7 @@
   "scan_date": "2026-10-27",
   "total_ads": 49,
   "total_video_ads": 47,
-  "analyzed_video_ads": 45,
+  "analyzed_video_ads": 46,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -337,11 +337,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"العرض الذهبي من الدبل أم، وهالمرة بقولك السماعتين الـ 800 واط مع المسجل المدعوم بالبلوتوث رح يكونوا بأقل من سعر السماعتين لحالهم، والأحلى من هيك إنه رح يكون عليهم سعر عمره ما صار في تاريخ زينة السيارات، وما رح أقولك السعر إنه في ناس رح تزعل، لا انزل عالتعليقات واسألني عن السعر، لأنه السعر رح يكون صدمة وهذا العرض لفترة محدودة وبستناكم بالفرعين.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **خطة الجذب (Hook):** اعتمد المتحدث على أسلوب \"التسعير الصادم\" (أقل من سعر القطعة الواحدة) لإثارة فضول العميل الفوري.\n*   **استراتيجية التفاعل (Engagement):** تعمد إخفاء السعر وتحويل الجمهور لقسم التعليقات لطلب التفاصيل، مما يرفع خوارزميات الفيديو ويزيد من وصوله (Reach) بشكل كبير.\n*   **تكتيك الندرة (Scarcity):** خلق حالة من الاستعجال عبر عبارة \"لفترة محدودة\" لحث العميل على اتخاذ قرار الشراء السريع وعدم التأجيل.\n*   **بناء الثقة:** استخدام لغة جسد حماسية وثقة عالية في الطرح، مع الإشارة إلى وجود \"فرعين\" للشركة مما يوحي بكيان تجاري موثوق ومعروف محلياً.\n*   **دعوة لاتخاذ إجراء (Call to Action):** واضحة ومباشرة (اكتب في التعليقات للاستفسار عن السعر + زوروا الفروع).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **خطة الجذب (Hook):** اعتمد المتحدث على أسلوب \"التسعير الصادم\" (أقل من سعر القطعة الواحدة) لإثارة فضول العميل الفوري.\n*   **استراتيجية التفاعل (Engagement):** تعمد إخفاء السعر وتحويل الجمهور لقسم التعليقات لطلب التفاصيل، مما يرفع خوارزميات الفيديو ويزيد من وصوله (Reach) بشكل كبير.\n*   **تكتيك الندرة (Scarcity):** خلق حالة من الاستعجال عبر عبارة \"لفترة محدودة\" لحث العميل على اتخاذ قرار الشراء السريع وعدم التأجيل.\n*   **بناء الثقة:** استخدام لغة جسد حماسية وثقة عالية في الطرح، مع الإشارة إلى وجود \"فرعين\" للشركة مما يوحي بكيان تجاري موثوق ومعروف محلياً.\n*   **دعوة لاتخاذ إجراء (Call to Action):** واضحة ومباشرة (اكتب في التعليقات للاستفسار عن السعر + زوروا الفروع).",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"العرض الذهبي من الدبل أم، وهالمرة بقولك السماعتين الـ 800 واط مع المسجل المدعوم بالبلوتوث رح يكونوا بأقل من سعر السماعتين لحالهم، والأحلى من هيك إنه رح يكون عليهم سعر عمره ما صار في تاريخ زينة السيارات، وما رح أقولك السعر إنه في ناس رح تزعل، لا انزل عالتعليقات واسألني عن السعر، لأنه السعر رح يكون صدمة وهذا العرض لفترة محدودة وبستناكم بالفرعين.\"\n\n---"
       }
     },
     {
@@ -358,7 +358,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=3473944449660090",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMoLePFNKI6YvjTMaaIGqco33HdBAGiZF-04hXcFojjr8T98Jq12wRrKRlRp3JzfmKyM8QNVrKtv2fYDzwmO6wQZPoDz6vPs_dWes4inpC6Bg.mp4?_nc_cat=101&_nc_oc=Adrcarkz5RGvoolbyb4UajV6b8VUk6IrWr5Ulvcc6tU3QgJLVFzAQaiPRirKkdv7k-A&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=pkybv6Fc91gQ7kNvwGThOVa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4OTQ1NzYwMzgxNzk2NDQsImFzc2V0X2FnZV9kYXlzIjo1LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ecf73171d2278868&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RERCQURCNkRFODM0QzE3OTJFNTIyQjYyMzQyREQyRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNzJEMTk4QzI0RjREM0NBOEQxQTFCMjYzRjUyNjdFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4zIu868bdBhUCKAJDMywXQDfmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DHQTLHuQx4AiS55kXJM1jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGwlPoapg0q1PNT1QY8Pv_ZJ5x7ex2SNuEnnHt7HZI24ZotbRPcFGUz--dKOybMFq8quUbaqHcUcorG4cbH5sDo&oh=00_AQMPKPtpayRqA0HCuLMGhS62pq-qaBgcoLBaY8-4qaMsbQ&oe=6AE6AF97",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"أنا أول تاجر بقول لك ما بدي إياك تركب عندي ضباب، بس تعال شوف التظليل الصح. اتصل علي العفوية، تعال معي أوريك جوه على ماكينة الفرن، لا تشوف الفرق بين التجاري والألترا نانو، 6767 أوريك شغلة تحت، غطي لك التابلو عشان ما نغرق السيارة مي، ومن ضبب لك بغرفة بتعزل الهوا والغبار والأتربة، وغير ماكينة الفرن بخليك تفحص الضباب بإيدك، وبدك تضبب الألترا نانو اكتبلي كلمة نانو بالتعليقات.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n* **أسلوب \"الصدق العكسي\" (Reverse Psychology):** بدأ المتحدث بعبارة \"ما بدي إياك تركب عندي\"، وهي استراتيجية تسويقية فعالة لإثارة الفضول وبناء المصداقية (Authority) كخبير يضع مصلحة العميل قبل الربح السريع.\n* **التركيز على القيمة المضافة (Value-Added Selling):** لم يعتمد على الإعلان التقليدي، بل ركز على توضيح \"التظليل الصحيح\" مقارنةً بالبدائل التجارية، مما يجعل العميل يشعر أنه يتعلم مهارة تقييم المنتج.\n* **إبراز الميزة التنافسية (USP):** ركز الفيديو على \"ماكينة الفرن\" كدليل تقني ملموس على الجودة، مما يمنح العلامة التجارية طابعاً احترافياً تقنياً يتفوق على المنافسين التقليديين.\n* **بناء الثقة عبر الشفافية:** تصوير العمليات الداخلية (حماية التابلو، الغرفة المعزولة، فحص الضباب أمام العميل) يقلل من مخاوف العميل من تلف مركبته.\n* **دعوة واضحة لاتخاذ إجراء (Call to Action):** استخدام كلمة مفتاحية \"نانو\" في التعليقات يهدف إلى زيادة التفاعل (Engagement) مع خوارزميات منصات التواصل الاجتماعي، مما يرفع من وصول الفيديو بشكل عضوي.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "29219860437639687",
