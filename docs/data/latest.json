@@ -2,7 +2,7 @@
   "scan_date": "2026-10-27",
   "total_ads": 49,
   "total_video_ads": 47,
-  "analyzed_video_ads": 34,
+  "analyzed_video_ads": 35,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -73,11 +73,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "واحد، اتنين، تلاتة، أربعة. هذا الباكج الكثير قوي اللي بيوفر عليك بكمية كتير منيحة بالشتا، وأكتر إشي ممكن تستعمله بالشتا: مية المساحات، ومية الروديتر أو نحكي المية المقطرة، مساحات القشاطة، ولزقات الموراي منعات المطر. هذا الباكج كلياته بأقل من خمس دنانير. توقع سعره بالتعليقات. العرض اثنين، تلاتة، أربعة بالفرعين: دبل إم مقابل دوار الحويان، والفرع الثاني مقابل الحرية مول. وأهلاً وسهلاً بالجميع.",
-        "summary": "### 2.\n* **الهدف:** الترويج لعرض خاص (حزمة ملحقات سيارات للشتاء) بأسعار تنافسية.\n* **نقاط القوة:**\n    * **تحديد المشكلة:** معالجة احتياجات السائقين خلال فصل الشتاء (رؤية واضحة، حماية المبرد).\n    * **القيمة المضافة:** تقديم \"باكج\" متكامل بخصم ملحوظ (أقل من 5 دنانير) لجذب العملاء.\n    * **التفاعل:** استخدام أسلوب \"التخمين\" في التعليقات لزيادة التفاعل مع الفيديو.\n    * **سهولة الوصول:** ذكر مواقع الفروع بوضوح لضمان التحويل (Conversion) الفعلي.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n* **الهدف:** الترويج لعرض خاص (حزمة ملحقات سيارات للشتاء) بأسعار تنافسية.\n* **نقاط القوة:**\n    * **تحديد المشكلة:** معالجة احتياجات السائقين خلال فصل الشتاء (رؤية واضحة، حماية المبرد).\n    * **القيمة المضافة:** تقديم \"باكج\" متكامل بخصم ملحوظ (أقل من 5 دنانير) لجذب العملاء.\n    * **التفاعل:** استخدام أسلوب \"التخمين\" في التعليقات لزيادة التفاعل مع الفيديو.\n    * **سهولة الوصول:** ذكر مواقع الفروع بوضوح لضمان التحويل (Conversion) الفعلي.",
+        "transcript": "واحد، اتنين، تلاتة، أربعة. هذا الباكج الكثير قوي اللي بيوفر عليك بكمية كتير منيحة بالشتا، وأكتر إشي ممكن تستعمله بالشتا: مية المساحات، ومية الروديتر أو نحكي المية المقطرة، مساحات القشاطة، ولزقات الموراي منعات المطر. هذا الباكج كلياته بأقل من خمس دنانير. توقع سعره بالتعليقات. العرض اثنين، تلاتة، أربعة بالفرعين: دبل إم مقابل دوار الحويان، والفرع الثاني مقابل الحرية مول. وأهلاً وسهلاً بالجميع."
       }
     },
     {
@@ -94,7 +94,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4552919801620690",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOWXj9jGN6F7xApmgLowVL45fTwmjL0Hhc9mvNEE9XBaNcbWGnDFK4W3BhXSsxB8JdFC0Z6MhErsHwsrrzPnKD2Lx11nFMxmN_tTmplcKs_fQ.mp4?_nc_cat=104&_nc_oc=AdqceecfIGnXfo1FcgDJJ1a-1IdstSjbrqC9bpii-IktGJ83lOEmiGTxFBr1-2s5njY&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=Jl4XZCOFgw8Q7kNvwEaxckV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4MzQwNjY4NjQ1OTY0ODYsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=da58e3b625ddc7d3&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yN0FGNjFGREE2NjA0RTU2OTA0NEY1QjM1RTAwODY0Rl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI0RjJBODUzNDJCMDQxQ0E5RTBGMEQ5ODY2MEIwMDNEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaMmKv_3oTCBhUCKAJDMywXQEmRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DHQTLHuQx4AiS55kXJM1jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHptgYOgSIRqzKxeP2At-QUnkFqdaQf_3eeQWp1pB__d8rT3m1M8BRnmmAu6vXHc8kPst0ieWGlwH-QL4jYPIB_&oh=00_AQOJV4EZbW9zKIpznZzow3FTlOjsQ7q0vBUUGCxL7atZkQ&oe=6AE684C4",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي:\n- \"جاهز تشوف أفلام الحماية الـ PPF على هاي السيارة؟ خليك معي بالفيديو لحتى تشوف النتيجة النهائية.\"\n- \"ومع كفالة خمس سنوات بتقدر تركب أفلام الحماية عندك على السيارة سواء كان مات أو حتى الجلوس. كل اللي عليك تحكيلنا نوع سيارتك في التعليقات ونحنا بنحكيلك التكلفة كاملة، وأهلاً وسهلاً فيكم.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الهدف التسويقي:** الترويج لخدمة تركيب أفلام الحماية (PPF) وجذب عملاء محتملين (Leads) عبر التعليقات.\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) واضحة ومباشرة من خلال طلب نوع السيارة للحصول على عرض سعر، مما يرفع من معدل التفاعل على المنشور.\n*   **عناصر الثقة:** التركيز على ميزة \"ضمان الخمس سنوات\" لتعزيز موثوقية الخدمة لدى العميل.\n*   **هيكل المحتوى:**\n    *   **الخُطّاف (Hook):** سؤال تشويقي للمشاهد حول النتيجة النهائية.\n    *   **العرض (Body):** استعراض بصري سريع لعملية التركيب (خلف الكواليس) لإظهار الاحترافية.\n    *   **الخاتمة (Call to Action):** توجيه المشاهد للتعليقات لطلب الخدمة.\n*   **نقاط القوة:** المقطع قصير، سريع الإيقاع، ويُظهر النتيجة النهائية للسيارة بشكل جذاب ومحفز.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1095236116713394",
