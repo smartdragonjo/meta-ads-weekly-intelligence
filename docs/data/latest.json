@@ -2,7 +2,7 @@
   "scan_date": "2026-10-27",
   "total_ads": 49,
   "total_video_ads": 47,
-  "analyzed_video_ads": 41,
+  "analyzed_video_ads": 42,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -241,11 +241,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"حابب تغير من داخلية سيارتك؟ بدك تركب فرش جلد، بدك تركب فرش قماش، بدك تعمل مكس ما بينهم؟ اليوم بتقدر تركب هذا الفرش عندك على السيارة وبأقل سعر في المملكة. اليوم راح يكون في عندنا خصم 25% على جميع أنواع الفروش داخل معارض الدبل إم. احكيلنا تحت في التعليقات ايش نوع سيارتك، وايش الفرش اللي بدك تركبه عندك سواء جلد أو حتى قماش لحتى نزودك بكامل التفاصيل، وبنستناك وأهلا وسهلا فيكم.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي للمحتوى\n*   **الهدف التسويقي:** جذب عملاء جدد لخدمة تغيير فرش السيارات (تنجيد) من خلال تقديم عرض خصم حصري.\n*   **الجمهور المستهدف:** مالكو السيارات المهتمون بتجديد المظهر الداخلي لمركباتهم.\n*   **نقاط القوة في المحتوى:**\n    *   **العرض التحفيزي:** الإعلان عن خصم مباشر (25%) مما يخلق رغبة فورية في الشراء.\n    *   **إبراز التنوع:** استعراض خيارات متعددة (جلد، قماش، أو مزيج) لتلبية كافة أذواق العملاء.\n    *   **التفاعل (Call to Action):** توجيه المستخدم للتعليق باسم السيارة ونوع الفرش المفضل، مما يعزز خوارزميات المنصة ويفتح باباً للمبيعات المباشرة عبر الرسائل الخاصة.\n*   **عنصر الجذب البصري:** استخدام لقطات مقربة (Close-ups) عالية الجودة تبرز دقة وجودة خامات الفرش، مما يعطي انطباعاً بالفخامة والاحترافية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي للمحتوى\n*   **الهدف التسويقي:** جذب عملاء جدد لخدمة تغيير فرش السيارات (تنجيد) من خلال تقديم عرض خصم حصري.\n*   **الجمهور المستهدف:** مالكو السيارات المهتمون بتجديد المظهر الداخلي لمركباتهم.\n*   **نقاط القوة في المحتوى:**\n    *   **العرض التحفيزي:** الإعلان عن خصم مباشر (25%) مما يخلق رغبة فورية في الشراء.\n    *   **إبراز التنوع:** استعراض خيارات متعددة (جلد، قماش، أو مزيج) لتلبية كافة أذواق العملاء.\n    *   **التفاعل (Call to Action):** توجيه المستخدم للتعليق باسم السيارة ونوع الفرش المفضل، مما يعزز خوارزميات المنصة ويفتح باباً للمبيعات المباشرة عبر الرسائل الخاصة.\n*   **عنصر الجذب البصري:** استخدام لقطات مقربة (Close-ups) عالية الجودة تبرز دقة وجودة خامات الفرش، مما يعطي انطباعاً بالفخامة والاحترافية.",
+        "transcript": "التفريغ النصي\n\"حابب تغير من داخلية سيارتك؟ بدك تركب فرش جلد، بدك تركب فرش قماش، بدك تعمل مكس ما بينهم؟ اليوم بتقدر تركب هذا الفرش عندك على السيارة وبأقل سعر في المملكة. اليوم راح يكون في عندنا خصم 25% على جميع أنواع الفروش داخل معارض الدبل إم. احكيلنا تحت في التعليقات ايش نوع سيارتك، وايش الفرش اللي بدك تركبه عندك سواء جلد أو حتى قماش لحتى نزودك بكامل التفاصيل، وبنستناك وأهلا وسهلا فيكم.\"\n\n---"
       }
     },
     {
@@ -262,7 +262,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1155958047374569",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNxfIy7l0fPcZjVyEP8qmlUQB6UGuD_9no-pq1PInmsQIVVP-48dHBroWtFrlcY_N4TZ6OdEfDRKzGCDzHAyjne57p9WgQShvjXBAqoSnsXwg.mp4?_nc_cat=105&_nc_oc=AdpxrUWXooaARLGl3e65oj-ficqCz9yePH8-e4uLFUky5GQSWEvMP5n4Br8GPH-77Bw&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=cTSicONETeYQ7kNvwHmfWjc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDg2NDgzMDEzMzE3MTYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7373a1d5a51b87ce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83REI0MzI2QTdDODk0Q0VEODdGQzczODlDMTIwMzA5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UzOEE2MEZGNjcyMDRENjhCNTkwODg3NDVDOUY0OEQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIlJjSrY3TBBUCKAJDMywXQE0d0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DHQTLHuQx4AiS55kXJM1jg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeF8L1cwdjXhBurf9BG-Mhk-tQzeG6z3N_-1DN4brPc3_zO45pMsbZJkM4YE9NWA43zjUNJUSUwWpSZBzxdV3wNC&oh=00_AQOF2uqDEo8rCsSBz3hG-ztcU31pfnb4hV_TyTjYxXxKXQ&oe=6AE67F07",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "- \"السماعات القديمة راح نفكهم ونركب مكانهم سماعات الأفاتار من الدي بي، طبعاً بنفس القياس، زي ما أنت شايف ستة ونص إنش، بتيجي بقدرة 140 واط. سماعات الأفاتار بتركب مكان الأصلية بنفس الحجم، تفرج معي، هي ركبت ستاندر معلم. تعال اسمع الصوت. أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون، سماعات الأفاتار من الدي بي هو خيارك الأنسب لسيارتك. هذي السماعات متوفرة في معارض الدبل إم فرع دوار الحيوان والحرية مول، وأهلا وسهلا فيكم.\"",
+        "summary": "### 2.\n*   **القيمة المقترحة:** حل سريع واحترافي لمشاكل الصوت في السيارات عبر استبدال السماعات التالفة بقطع عالية الجودة (Avatar) وبنفس قياسات المصنع الأصلية.\n*   **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن ترقية سهلة ومباشرة لنظام الصوت دون الحاجة لتعديلات معقدة أو تغيير الهيكل.\n*   **ميزات المنتج المذكورة:** سهولة التركيب (نظام ستاندر)، مطابقة المقاسات الأصلية (6.5 إنش)، وقوة أداء تصل إلى 140 واط.\n*   **الاستراتيجية الإعلانية:** التركيز على إظهار عملية التركيب السريعة لإزالة أي مخاوف لدى العميل من صعوبة التعديل، مع توفير دعوة واضحة لاتخاذ إجراء (زيارة المعرض).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "3357765561097290",
