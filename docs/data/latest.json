@@ -2,7 +2,7 @@
   "scan_date": "2026-10-29",
   "total_ads": 57,
   "total_video_ads": 54,
-  "analyzed_video_ads": 53,
+  "analyzed_video_ads": 54,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -1089,11 +1089,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\n- **المتحدث 1:** بس بـ 7 دنانير، تخيل!\n- **المتحدث 2:** لا، بالله عليك يابا بدك إياني أصوره؟\n- **المتحدث 1:** إي يا معلم!\n- **المتحدث 2:** (يغني) يا معلم..\n- **المتحدث 1:** صلِ على النبي، صلِ على النبي. لمبات الـ T9 العدسات، فقط H4، بيركبوا على الـ H4 عالي واطي عدسة.\n- **المتحدث 2:** حقهم 25 و200 متر، اليوم رح يصيروا بـ 7 دنانير!\n- **المتحدث 1:** بس بـ 7 دنانير، تخيل! يعني لو بدك تبيع النحاس اللي جوه، بيجيب أغلى.\n- **المتحدث 2:** معلم..\n- **المتحدث 1:** بس بـ 7 دنانير، جميع فروعنا. إذا ما في بكل فرع 1000 حبة، هذا عليه تحدي.\n- **المتحدث 2:** فقط خميس وجمعة.\n- **المتحدث 1:** خميس ويوم الجمعة، يلا سلام عليكم.\n\n---",
-        "summary": "### 2. ملخص استراتيجي:\n\n*   **استراتيجية التسعير الصادم:** استخدام \"سعر الخصم\" (7 دنانير) كخطاف لجذب الانتباه، مع تبرير منطقي (القيمة أعلى بكثير من السعر) لتعزيز رغبة الشراء الفوري.\n*   **خلق الإلحاح (Scarcity & Urgency):** حصر العرض في يومين فقط (الخميس والجمعة) وربط التوافر بكمية ضخمة (1000 حبة) لتحدي المنافسين وإشعار العميل بضرورة التوجه للمحل بسرعة.\n*   **القيمة المقترحة:** التركيز على المزايا التقنية (H4، عالي/واطي، عدسات) بأسلوب بسيط ومباشر، مما يقلل من حواجز اتخاذ القرار لدى العميل.\n*   **النمط البصري والاجتماعي:** أسلوب \"الديالوج\" الحيوي بين شخصين يكسر رتابة الإعلانات التقليدية، ويخلق حالة من الثقة والقبول لدى المشاهد من خلال العفوية والمرح.\n*   **التوظيف العاطفي:** استخدام التحدي (\"إذا ما في.. هذا عليه تحدي\") لزيادة مصداقية العرض وإثارة الفضول لدى الجمهور.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **استراتيجية التسعير الصادم:** استخدام \"سعر الخصم\" (7 دنانير) كخطاف لجذب الانتباه، مع تبرير منطقي (القيمة أعلى بكثير من السعر) لتعزيز رغبة الشراء الفوري.\n*   **خلق الإلحاح (Scarcity & Urgency):** حصر العرض في يومين فقط (الخميس والجمعة) وربط التوافر بكمية ضخمة (1000 حبة) لتحدي المنافسين وإشعار العميل بضرورة التوجه للمحل بسرعة.\n*   **القيمة المقترحة:** التركيز على المزايا التقنية (H4، عالي/واطي، عدسات) بأسلوب بسيط ومباشر، مما يقلل من حواجز اتخاذ القرار لدى العميل.\n*   **النمط البصري والاجتماعي:** أسلوب \"الديالوج\" الحيوي بين شخصين يكسر رتابة الإعلانات التقليدية، ويخلق حالة من الثقة والقبول لدى المشاهد من خلال العفوية والمرح.\n*   **التوظيف العاطفي:** استخدام التحدي (\"إذا ما في.. هذا عليه تحدي\") لزيادة مصداقية العرض وإثارة الفضول لدى الجمهور.",
+        "transcript": "إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\n- **المتحدث 1:** بس بـ 7 دنانير، تخيل!\n- **المتحدث 2:** لا، بالله عليك يابا بدك إياني أصوره؟\n- **المتحدث 1:** إي يا معلم!\n- **المتحدث 2:** (يغني) يا معلم..\n- **المتحدث 1:** صلِ على النبي، صلِ على النبي. لمبات الـ T9 العدسات، فقط H4، بيركبوا على الـ H4 عالي واطي عدسة.\n- **المتحدث 2:** حقهم 25 و200 متر، اليوم رح يصيروا بـ 7 دنانير!\n- **المتحدث 1:** بس بـ 7 دنانير، تخيل! يعني لو بدك تبيع النحاس اللي جوه، بيجيب أغلى.\n- **المتحدث 2:** معلم..\n- **المتحدث 1:** بس بـ 7 دنانير، جميع فروعنا. إذا ما في بكل فرع 1000 حبة، هذا عليه تحدي.\n- **المتحدث 2:** فقط خميس وجمعة.\n- **المتحدث 1:** خميس ويوم الجمعة، يلا سلام عليكم.\n\n---"
       }
     },
     {
@@ -1390,7 +1390,15 @@
       "cta": "Learn more",
       "ad_url": "https://www.facebook.com/ads/library/?id=1809022893735702",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOmgukNgs_NIFf6U-YbVZaTEf-UNmMg7uZOka8Tiu1erq7OLulZxon4zUM0HFbMn9JwyzJRSYPfZefgOqWPMCe9oggd8o3SJLr70pxPJavXkA.mp4?_nc_cat=101&_nc_oc=AdraoPTwdnLX3TQGXX3Q8uF5OhocMlxEJopB91jDpYjJicTAigTX1gyucwWu3ygsX0M&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=F4q1TGinec4Q7kNvwEk-r1-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyOTQxMDk5MzcxMjg2MTYsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=422f1dccbf179e51&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMzY2MDM1MkYxNUQ0NkQ5QkZEQjBBNkNGMUUxNUE0QV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDRDI1NzAyQzAwNDRCN0Y5RTk5MDIxRUNEMzM0RDVEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbQ0tKxjr_MBBUCKAJDMywXQEgVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DDjWxOUBccp5kpsr13SjRQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEM6plezdQlXuv_uPGeyQNWnZoigSUvaxqdmiKBJS9rGgY28zBopoJC4Lv72UPvXzVnLESHAm_pOcRFdrnajAwD&oh=00_AQTsX1d3u9aHT-KWHXmT1rVPytIKxdny2y_PUsCF5x-W4A&oe=6AE8FA5F",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "- عازل الترا شيلد.\n- تغليف داخلي.\n- أفلام الحماية الـ PPF.\n- تعال أفرجيكم النتيجة.",
+        "summary": "### 2.\n- **الهدف التسويقي:** إبراز جودة خدمات العناية بالسيارات (تغليف وحماية) لجذب أصحاب السيارات الفارهة.\n- **استراتيجية العرض:** الانتقال السريع بين \"الخدمة\" (لقطات عملية للتطبيق) و\"النتيجة\" (لقطات سينمائية نهائية للسيارة) لتعزيز المصداقية البصرية.\n- **عنصر الجذب:** استخدام موسيقى إيقاعية حديثة وزوايا تصوير احترافية تعطي انطباعاً بالفخامة والحصرية.\n- **الدعوة لاتخاذ إجراء (CTA):** دعوة مباشرة وغير رسمية (\"تعال أفرجيكم النتيجة\") لكسر الحاجز بين مقدم الخدمة والعميل المحتمل.\n- **الخاتمة:** توثيق الهوية البصرية (الشعار) لترسيخ اسم العلامة التجارية في ذهن المشاهد.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     }
   ]
 }
