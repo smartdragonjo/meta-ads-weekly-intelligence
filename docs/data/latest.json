@@ -2,7 +2,7 @@
   "scan_date": "2026-10-29",
   "total_ads": 57,
   "total_video_ads": 54,
-  "analyzed_video_ads": 34,
+  "analyzed_video_ads": 35,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -241,11 +241,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"من الطبيعي يصير عندك انكماش بكاوتشوك سيارتك بالشتا، لأن الشتا معروف بصير فيه انكماشات. وطبعاً أنا قاعد بقلكم عن منفاخ جمل، سعته بتيجي على البربيش نفسه، وبيشتغل معك على الولاعة، وبيشتغل معك على البطارية، وطوله أكثر من 5 متر بمد معك. معك بيك أب، سيدان، بيزبط لكل شيء. وراح يكون سعره إذا انباع بالمحلات 20، أنا راح أقولك ممكن أعملك عليه 50%، وتوقع السعر بالتعليقات، وهذا العرض رح يكون لفترة محدودة جداً، فالحق هذا العرض، وبستناكم بالفرعين.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي\n* **استهداف الاحتياج الموسمي:** ربط المنتج (منفاخ الإطارات) بمشكلة واقعية ومزعجة (انكماش الكاوتشوك في الشتاء) لزيادة القناعة الشرائية.\n* **إبراز القيمة العملية:** التركيز على التعددية والاستخدام السهل (يعمل على الولاعة والبطارية، طول كابل 5 متر، يناسب جميع أنواع المركبات).\n* **خلق التفاعل (Engagement):** استخدام استراتيجية \"توقع السعر\" لتحفيز المشاهدين على التعليق، مما يرفع من تصنيف الفيديو في الخوارزميات.\n* **استخدام ندرة العرض (Scarcity):** التأكيد على أن العرض \"لفترة محدودة جداً\" لدفع العميل لاتخاذ قرار الشراء السريع (FOMO).\n* **مستوى الوصول:** التنويه بوجود \"فرعين\" يعطي انطباعاً بالمصداقية والموثوقية للعلامة التجارية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n* **استهداف الاحتياج الموسمي:** ربط المنتج (منفاخ الإطارات) بمشكلة واقعية ومزعجة (انكماش الكاوتشوك في الشتاء) لزيادة القناعة الشرائية.\n* **إبراز القيمة العملية:** التركيز على التعددية والاستخدام السهل (يعمل على الولاعة والبطارية، طول كابل 5 متر، يناسب جميع أنواع المركبات).\n* **خلق التفاعل (Engagement):** استخدام استراتيجية \"توقع السعر\" لتحفيز المشاهدين على التعليق، مما يرفع من تصنيف الفيديو في الخوارزميات.\n* **استخدام ندرة العرض (Scarcity):** التأكيد على أن العرض \"لفترة محدودة جداً\" لدفع العميل لاتخاذ قرار الشراء السريع (FOMO).\n* **مستوى الوصول:** التنويه بوجود \"فرعين\" يعطي انطباعاً بالمصداقية والموثوقية للعلامة التجارية.",
+        "transcript": "التفريغ النصي\n\"من الطبيعي يصير عندك انكماش بكاوتشوك سيارتك بالشتا، لأن الشتا معروف بصير فيه انكماشات. وطبعاً أنا قاعد بقلكم عن منفاخ جمل، سعته بتيجي على البربيش نفسه، وبيشتغل معك على الولاعة، وبيشتغل معك على البطارية، وطوله أكثر من 5 متر بمد معك. معك بيك أب، سيدان، بيزبط لكل شيء. وراح يكون سعره إذا انباع بالمحلات 20، أنا راح أقولك ممكن أعملك عليه 50%، وتوقع السعر بالتعليقات، وهذا العرض رح يكون لفترة محدودة جداً، فالحق هذا العرض، وبستناكم بالفرعين.\"\n\n---"
       }
     },
     {
@@ -262,7 +262,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1146862287773553",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNxfIy7l0fPcZjVyEP8qmlUQB6UGuD_9no-pq1PInmsQIVVP-48dHBroWtFrlcY_N4TZ6OdEfDRKzGCDzHAyjne57p9WgQShvjXBAqoSnsXwg.mp4?_nc_cat=105&_nc_oc=AdoVww79lFCDOezzgCn-ee-6q63gcDGnC2PuPHbqgsGBFV49CyENrU-laPmLJgeAZoo&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=cTSicONETeYQ7kNvwE-EsLx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDg2NDgzMDEzMzE3MTYsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7373a1d5a51b87ce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83REI0MzI2QTdDODk0Q0VEODdGQzczODlDMTIwMzA5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UzOEE2MEZGNjcyMDRENjhCNTkwODg3NDVDOUY0OEQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIlJjSrY3TBBUCKAJDMywXQE0d0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0d5IBIpIyEqlrqNE0w3XOQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEu1XQYPw_giz-mWu7KMkJ9tQzeG6z3N_-1DN4brPc3_45A_ti_GM4GygfhgSsOpKf7FVaPmWJke5Jvkcb50-x6&oh=00_AQRXgx19wq794nPdFaOZoqntL1c3XAliS29_MykGccLeyQ&oe=6AE8E9C7",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "- \"السماعات القديمة راح نفكهم ونركب مكانهم سماعات الأفـاتار من الـ دي بي، طبعاً بنفس القياس زي ما أنت شايف 6.5 إنش، بتيجي بقدرة 140 واط.\"\n- \"سماعات الأفـاتار بتركب مكان الأصلية بنفس الحجم، تفرج معي، هاي ركبت ستاندر معلم.\"\n- \"تعال اسمع الصوت.\"\n- \"أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون، سماعات الأفـاتار من الـ دي بي هو خيارك الأنسب لسيارتك.\"\n- \"هاي السماعات متوفرة في معارض الدبل إم، فرع دوار الحيوان والحرية مول وأهلاً وسهلاً فيكم.\"",
+        "summary": "### 2.\n- **القيمة المقترحة:** حل سريع واحترافي لاستبدال سماعات السيارة التالفة بمكونات ذات جودة أعلى (Avatar) وبنفس قياسات المصنع، مما يسهل عملية التركيب.\n- **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن ترقية بسيطة ومضمونة لنظام الصوت (Plug and Play) دون الحاجة لتعديلات معقدة.\n- **أسلوب العرض:** فيديو توضيحي مباشر يركز على \"قبل وبعد\" (فك وتركيب)، مع التركيز على المواصفات التقنية (140 واط، 6.5 إنش) لتعزيز الثقة.\n- **دعوة لاتخاذ إجراء (CTA):** توجيه المشاهد بوضوح إلى فروع محددة (معارض الدبل إم) لإتمام عملية الشراء، مما يربط المحتوى الرقمي بالمبيعات على أرض الواقع.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1673154534537686",
