@@ -2,7 +2,7 @@
   "scan_date": "2026-10-29",
   "total_ads": 57,
   "total_video_ads": 54,
-  "analyzed_video_ads": 35,
+  "analyzed_video_ads": 36,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -265,11 +265,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "- \"السماعات القديمة راح نفكهم ونركب مكانهم سماعات الأفـاتار من الـ دي بي، طبعاً بنفس القياس زي ما أنت شايف 6.5 إنش، بتيجي بقدرة 140 واط.\"\n- \"سماعات الأفـاتار بتركب مكان الأصلية بنفس الحجم، تفرج معي، هاي ركبت ستاندر معلم.\"\n- \"تعال اسمع الصوت.\"\n- \"أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون، سماعات الأفـاتار من الـ دي بي هو خيارك الأنسب لسيارتك.\"\n- \"هاي السماعات متوفرة في معارض الدبل إم، فرع دوار الحيوان والحرية مول وأهلاً وسهلاً فيكم.\"",
-        "summary": "### 2.\n- **القيمة المقترحة:** حل سريع واحترافي لاستبدال سماعات السيارة التالفة بمكونات ذات جودة أعلى (Avatar) وبنفس قياسات المصنع، مما يسهل عملية التركيب.\n- **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن ترقية بسيطة ومضمونة لنظام الصوت (Plug and Play) دون الحاجة لتعديلات معقدة.\n- **أسلوب العرض:** فيديو توضيحي مباشر يركز على \"قبل وبعد\" (فك وتركيب)، مع التركيز على المواصفات التقنية (140 واط، 6.5 إنش) لتعزيز الثقة.\n- **دعوة لاتخاذ إجراء (CTA):** توجيه المشاهد بوضوح إلى فروع محددة (معارض الدبل إم) لإتمام عملية الشراء، مما يربط المحتوى الرقمي بالمبيعات على أرض الواقع.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **القيمة المقترحة:** حل سريع واحترافي لاستبدال سماعات السيارة التالفة بمكونات ذات جودة أعلى (Avatar) وبنفس قياسات المصنع، مما يسهل عملية التركيب.\n- **الجمهور المستهدف:** أصحاب السيارات الذين يبحثون عن ترقية بسيطة ومضمونة لنظام الصوت (Plug and Play) دون الحاجة لتعديلات معقدة.\n- **أسلوب العرض:** فيديو توضيحي مباشر يركز على \"قبل وبعد\" (فك وتركيب)، مع التركيز على المواصفات التقنية (140 واط، 6.5 إنش) لتعزيز الثقة.\n- **دعوة لاتخاذ إجراء (CTA):** توجيه المشاهد بوضوح إلى فروع محددة (معارض الدبل إم) لإتمام عملية الشراء، مما يربط المحتوى الرقمي بالمبيعات على أرض الواقع.",
+        "transcript": "- \"السماعات القديمة راح نفكهم ونركب مكانهم سماعات الأفـاتار من الـ دي بي، طبعاً بنفس القياس زي ما أنت شايف 6.5 إنش، بتيجي بقدرة 140 واط.\"\n- \"سماعات الأفـاتار بتركب مكان الأصلية بنفس الحجم، تفرج معي، هاي ركبت ستاندر معلم.\"\n- \"تعال اسمع الصوت.\"\n- \"أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون، سماعات الأفـاتار من الـ دي بي هو خيارك الأنسب لسيارتك.\"\n- \"هاي السماعات متوفرة في معارض الدبل إم، فرع دوار الحيوان والحرية مول وأهلاً وسهلاً فيكم.\""
       }
     },
     {
@@ -286,7 +286,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1673154534537686",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPn3YuaLFqi_slJzsN4D2QXas5y4xiz6un2KrHS5l1_EG1XU76Mjr22Bg92JsSePPySFwzHYpwLcoLx78H9YXZYpjm66DZUPnbatJdM4AM5Lw.mp4?_nc_cat=101&_nc_oc=AdoybEjeZ3YrmYUJvKTJWtFkwSAoRLrRkmLnQGrdTJoT1Kernx7hiqsQ3AAG3RiXgbU&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=rST83LygKs0Q7kNvwGJt1FL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMjU0NTg2NjY4OTE1MjAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=34cc09c149dd847a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RDA4MThBNEVFQjk0OTI1QTQxNTZDQjZBMjZGNTVFN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNCMzhFRUI0RkQwRjQyNTM5MDk1QTAxMDdBMDkxRjIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaApLfIiqOtBBUCKAJDMywXQDfdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0d5IBIpIyEqlrqNE0w3XOQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFp0QaAqAHP3MLReNYN16FHKz0tX3RhmUMrPS1fdGGZQ3YfdCraqN2CZ4wcR9wgGZ0a5M90auBDF4BK9MaPG5ON&oh=00_AQRXFSs476bZ1p4aYLoZF_mQK6oew92Vz58tVndDz4l3ew&oe=6AE91527",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو المطلوب:\n\n التفريغ النصي للفيديو:\n\"وتع خلنا نحسبهم حسبة سريعة، عندك 5 قطع جلد أرضيات رح يكونوا 10 دنانير، وعندك كمان هون طارة خياطة 7 دنانير، وعندك هان الفرش 20 دينار. طبعاً أنا اليوم بقولك رح تيجي على الدبل إم (Double M) وتاخدهم بأقل من هيك بكتير، وهاد العرض رح يكون فقط لـ 24 ساعة، الفرش مع الأرضيات مع طارة الخياطة رح يكون فقط بـ 15 دينار ولنهاية اليوم، فيا بتلحق هاد العرض يا إما رح يروح عليك، وتع خلنا نفرجيك العروض التانية بالصفحة.\"",
+        "summary": "### 2. الملخص الاستراتيجي (تحليل المحتوى التنافسي):\n* **استراتيجية \"تجميع القيمة\" (Bundling Strategy):** يعتمد العرض على ربط ثلاثة منتجات تكميلية (أرضيات، غطاء طارة، فرش مقاعد) لرفع القيمة المتصورة للعميل، مما يجعل السعر المخفض (15 دينار) يبدو صفقة لا تُفوت مقارنة بالسعر الأصلي (37 دينار).\n* **خلق \"الإلحاح\" (Scarcity & Urgency):** استخدام تقنية التوقيت المحدود بوضوح (24 ساعة فقط) لدفع العميل نحو اتخاذ قرار شرائي سريع وتجنب التسويف.\n* **أسلوب العرض (Persona):** يعتمد الفيديو على أسلوب الشخصية الديناميكية (Dynamic Spokesperson) التي تخاطب العميل بلهجة مباشرة وودية، مما يعزز الثقة والارتباط العاطفي مع العلامة التجارية (Double M).\n* **هدف التفاعل (Call to Action):** التركيز على توجيه الجمهور لزيارة \"الصفحة\" (الحساب) للاطلاع على عروض إضافية، مما يهدف لزيادة معدل الوصول (Reach) وتفاعل المتابعين على المنصة.\n* **الوضوح التسعيري:** المقارنة المباشرة بين السعر الفردي التراكمي (37) والسعر الجماعي المخفض (15) هو أقوى حافز نفسي في هذا المحتوى لتحويل المشاهد إلى مشترٍ.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1106299815653045",
