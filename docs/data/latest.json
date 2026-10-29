@@ -2,7 +2,7 @@
   "scan_date": "2026-10-29",
   "total_ads": 57,
   "total_video_ads": 54,
-  "analyzed_video_ads": 33,
+  "analyzed_video_ads": 34,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -217,11 +217,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"حاب تغير من داخلية سيارتك؟ بدك تركب فرش جلد، بدك تركب فرش قماش، بدك تعمل مكس ما بينهم؟ اليوم بتقدر تركب هذا الفرش عندك على السيارة وبأقل سعر في المملكة. اليوم راح يكون في عندنا خصم 25% على جميع أنواع الفروش داخل معارض الدبل إم (Double M). احكيلنا تحت في التعليقات ايش نوع سيارتك، وايش الفرش اللي بدك تركبه عندك سواء جلد أو حتى قماش لحتى نزودك بكامل التفاصيل، وبنستناك وأهلا وسهلا فيكم.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **تحديد نقطة الألم (Pain Point):** يبدأ الفيديو بسؤال الجمهور عن الرغبة في التجديد، مما يلامس حاجة ملموسة لدى شريحة كبيرة من أصحاب السيارات.\n*   **استعراض الحلول:** يعرض الفيديو خيارات متنوعة (جلد، قماش، أو مزيج بينهما)، مما يظهر تنوع وجودة المنتجات المتوفرة.\n*   **عرض القيمة (Value Proposition):** الربط بين \"أقل سعر في المملكة\" وبين \"جودة المنتج\"، وهو ما يمنح العميل دافعاً قوياً للشراء.\n*   **عامل الحث على اتخاذ إجراء (Call to Action):** استخدام خصم (25%) كأداة تحفيزية قوية (عامل استعجال)، مع توجيه المشاهد للتعليق على الفيديو لتلقي المزيد من التفاصيل، مما يرفع من معدل التفاعل (Engagement) الخاص بالمقطع.\n*   **استراتيجية التفاعل:** طلب كتابة \"نوع السيارة\" في التعليقات ليس فقط لزيادة التفاعل، بل أيضاً لبناء قاعدة بيانات (Lead Generation) للمهتمين يمكن استهدافهم لاحقاً.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **تحديد نقطة الألم (Pain Point):** يبدأ الفيديو بسؤال الجمهور عن الرغبة في التجديد، مما يلامس حاجة ملموسة لدى شريحة كبيرة من أصحاب السيارات.\n*   **استعراض الحلول:** يعرض الفيديو خيارات متنوعة (جلد، قماش، أو مزيج بينهما)، مما يظهر تنوع وجودة المنتجات المتوفرة.\n*   **عرض القيمة (Value Proposition):** الربط بين \"أقل سعر في المملكة\" وبين \"جودة المنتج\"، وهو ما يمنح العميل دافعاً قوياً للشراء.\n*   **عامل الحث على اتخاذ إجراء (Call to Action):** استخدام خصم (25%) كأداة تحفيزية قوية (عامل استعجال)، مع توجيه المشاهد للتعليق على الفيديو لتلقي المزيد من التفاصيل، مما يرفع من معدل التفاعل (Engagement) الخاص بالمقطع.\n*   **استراتيجية التفاعل:** طلب كتابة \"نوع السيارة\" في التعليقات ليس فقط لزيادة التفاعل، بل أيضاً لبناء قاعدة بيانات (Lead Generation) للمهتمين يمكن استهدافهم لاحقاً.",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"حاب تغير من داخلية سيارتك؟ بدك تركب فرش جلد، بدك تركب فرش قماش، بدك تعمل مكس ما بينهم؟ اليوم بتقدر تركب هذا الفرش عندك على السيارة وبأقل سعر في المملكة. اليوم راح يكون في عندنا خصم 25% على جميع أنواع الفروش داخل معارض الدبل إم (Double M). احكيلنا تحت في التعليقات ايش نوع سيارتك، وايش الفرش اللي بدك تركبه عندك سواء جلد أو حتى قماش لحتى نزودك بكامل التفاصيل، وبنستناك وأهلا وسهلا فيكم.\"\n\n---"
       }
     },
     {
@@ -238,7 +238,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2154123635537019",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQM9WGHM5Rmd5jpRw1iTb4mRCJmXyiceuBlaneTg0u5AgFjktG_Uu_jvq5Zwd-5aJ44avgdXdDJhO_LTYHjbKNtrOz9yz9vOKNL2nHTL-ETs1A.mp4?_nc_cat=109&_nc_oc=AdpebqRDZBYgKBanqk_fW4QsKMm9Eo5pmP73TpAT2kVbJjIVYjVyE_XN43On3pCOnN8&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=ndmc0I3P5DYQ7kNvwGn3pSi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1NTMxMzg4MzkzNDY1MSwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=121e2b3a833d3618&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTE4OEQ1Q0YzNzg0RjlFQjczNTAxMUE3NDQxQzEwOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGRTA1Q0RFNUYzRTRBQzBCNTMzQUZFODQzODYzNDAyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2vpuLy7ayAxUCKAJDMywXQD3VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0d5IBIpIyEqlrqNE0w3XOQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHNunTJCCTHw5ZVydC2srYh6B_EiQ3teI3oH8SJDe14jTnAn6TyPlWoa6S6F0OVbxm5ZZ_ri4nBvPfKFx98umXG&oh=00_AQRmaVdkAE6A-VKy1BqLkMJlAvCQC0vYW4vpmwSrchaGog&oe=6AE91ABF",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي\n\"من الطبيعي يصير عندك انكماش بكاوتشوك سيارتك بالشتا، لأن الشتا معروف بصير فيه انكماشات. وطبعاً أنا قاعد بقلكم عن منفاخ جمل، سعته بتيجي على البربيش نفسه، وبيشتغل معك على الولاعة، وبيشتغل معك على البطارية، وطوله أكثر من 5 متر بمد معك. معك بيك أب، سيدان، بيزبط لكل شيء. وراح يكون سعره إذا انباع بالمحلات 20، أنا راح أقولك ممكن أعملك عليه 50%، وتوقع السعر بالتعليقات، وهذا العرض رح يكون لفترة محدودة جداً، فالحق هذا العرض، وبستناكم بالفرعين.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي\n* **استهداف الاحتياج الموسمي:** ربط المنتج (منفاخ الإطارات) بمشكلة واقعية ومزعجة (انكماش الكاوتشوك في الشتاء) لزيادة القناعة الشرائية.\n* **إبراز القيمة العملية:** التركيز على التعددية والاستخدام السهل (يعمل على الولاعة والبطارية، طول كابل 5 متر، يناسب جميع أنواع المركبات).\n* **خلق التفاعل (Engagement):** استخدام استراتيجية \"توقع السعر\" لتحفيز المشاهدين على التعليق، مما يرفع من تصنيف الفيديو في الخوارزميات.\n* **استخدام ندرة العرض (Scarcity):** التأكيد على أن العرض \"لفترة محدودة جداً\" لدفع العميل لاتخاذ قرار الشراء السريع (FOMO).\n* **مستوى الوصول:** التنويه بوجود \"فرعين\" يعطي انطباعاً بالمصداقية والموثوقية للعلامة التجارية.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1146862287773553",
