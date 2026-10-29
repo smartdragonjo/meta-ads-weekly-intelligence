@@ -2,7 +2,7 @@
   "scan_date": "2026-10-29",
   "total_ads": 57,
   "total_video_ads": 54,
-  "analyzed_video_ads": 45,
+  "analyzed_video_ads": 46,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -505,11 +505,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل المحتوى بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"لأصحاب الكورولا، الكامري، اللاند كروزر، الشاص، ايش ما يكون معاك خصم 50% في معارض دبل إم، اليوم جبتلك هاي الطارة اللي راح تركب عندك 100%، وما يهم موديل سيارتك، لأنها بتركب على كل السيارات بديزاين الكربون فايبر والجلد المعضلة، واحلى من هيك كل تحكم الطارة راح يضل شغال عندك 100%، وحتى عندك الإيرباق راح يصير عندك جديد، ويشتغل عندك طبعا أصلي 100%، والحلو بالموضوع أنه ما راح تعطيك ولا أي خطأ على الشاشة ولا حتى على شاشة العداد، حابب تكسب هذا الخصم انزل على التعليقات واحكيلي شو نوع سيارتك لعملك على طارة سيارتك كمان خصم مرتب، وأهلاً وسهلاً بالجميع.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **تحديد الجمهور المستهدف (Target Audience):** التركيز على شريحة محددة ومؤثرة من ملاك سيارات تويوتا (الكورولا، الكامري، اللاند كروزر، والشاص)، مما يضمن وصول الرسالة لمهتمي تعديل السيارات.\n*   **خلق الإلحاح والقيمة (Urgency & Value Proposition):** استخدام عرض \"خصم 50%\" كعامل جذب قوي وسريع (Hook) يدفع المشاهد للمتابعة.\n*   **معالجة مخاوف العميل (Addressing Pain Points):** استباق الاعتراضات التقنية بتأكيد أن القطعة أصلية، متوافقة مع جميع الموديلات، تحافظ على أنظمة التحكم، ولا تظهر أي تحذيرات (Error codes) على شاشة السيارة.\n*   **استراتيجية التفاعل (Engagement Strategy):** توجيه المشاهد للتعليقات لذكر نوع السيارة، وهو أسلوب ذكي لزيادة \"خوارزمية\" الفيديو عبر التفاعل، وبناء قاعدة بيانات للعملاء المهتمين لمتابعتهم لاحقاً.\n*   **بناء الثقة (Trust Building):** إبراز الميزة التنافسية (Carbon fiber & Premium Leather) مع ربط المنتج ببيئة العمل (معارض دبل إم) لإضفاء طابع الاحترافية والمصداقية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **تحديد الجمهور المستهدف (Target Audience):** التركيز على شريحة محددة ومؤثرة من ملاك سيارات تويوتا (الكورولا، الكامري، اللاند كروزر، والشاص)، مما يضمن وصول الرسالة لمهتمي تعديل السيارات.\n*   **خلق الإلحاح والقيمة (Urgency & Value Proposition):** استخدام عرض \"خصم 50%\" كعامل جذب قوي وسريع (Hook) يدفع المشاهد للمتابعة.\n*   **معالجة مخاوف العميل (Addressing Pain Points):** استباق الاعتراضات التقنية بتأكيد أن القطعة أصلية، متوافقة مع جميع الموديلات، تحافظ على أنظمة التحكم، ولا تظهر أي تحذيرات (Error codes) على شاشة السيارة.\n*   **استراتيجية التفاعل (Engagement Strategy):** توجيه المشاهد للتعليقات لذكر نوع السيارة، وهو أسلوب ذكي لزيادة \"خوارزمية\" الفيديو عبر التفاعل، وبناء قاعدة بيانات للعملاء المهتمين لمتابعتهم لاحقاً.\n*   **بناء الثقة (Trust Building):** إبراز الميزة التنافسية (Carbon fiber & Premium Leather) مع ربط المنتج ببيئة العمل (معارض دبل إم) لإضفاء طابع الاحترافية والمصداقية.",
+        "transcript": "إليك تحليل المحتوى بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"لأصحاب الكورولا، الكامري، اللاند كروزر، الشاص، ايش ما يكون معاك خصم 50% في معارض دبل إم، اليوم جبتلك هاي الطارة اللي راح تركب عندك 100%، وما يهم موديل سيارتك، لأنها بتركب على كل السيارات بديزاين الكربون فايبر والجلد المعضلة، واحلى من هيك كل تحكم الطارة راح يضل شغال عندك 100%، وحتى عندك الإيرباق راح يصير عندك جديد، ويشتغل عندك طبعا أصلي 100%، والحلو بالموضوع أنه ما راح تعطيك ولا أي خطأ على الشاشة ولا حتى على شاشة العداد، حابب تكسب هذا الخصم انزل على التعليقات واحكيلي شو نوع سيارتك لعملك على طارة سيارتك كمان خصم مرتب، وأهلاً وسهلاً بالجميع.\"\n\n---"
       }
     },
     {
@@ -526,7 +526,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2409394253138208",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOVIoCvbX6J6CR3e4F5aRgeXzBFO4uRP13qpu4QZ4sDTTh1ZpjZGDYj10mN1EiAuKCdXZgeuCFnqkceAnkqCseEtuOtH1t3PyYoix-mnXqyrA.mp4?_nc_cat=108&_nc_oc=AdrwhtfqKpvfbrl5DeWp_BJxdw7ME5Ehj_yQfiKRTg8AeAKnYJGlePlf5Qk9TOXjXa4&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=4Jti7gYlpccQ7kNvwFQWFkh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjgwMzI5MDU4ODY0NzYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4f64ba866191eb0c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QThCMkFEODk3QzQ0MTREODcwOUZDMDQ1RUJFQkFGOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UyMkJCMDNFODBEMzRDNTNBNjFBRTQ4MjBBNzU0NjI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY7Ienu5STBBUCKAJDMywXQEWAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=0d5IBIpIyEqlrqNE0w3XOQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGqkMLrM9-4Zv8d2iOZ1i4uUPtPfb2JdNtQ-099vYl02-uJTYm77cCKCOeHO2GWAfgmzVq9BZKcH7fIbqHwXfYr&oh=00_AQTItOx3MF88fSCJUi9HlynQCtBL6EMnih8ChezE-I-N4g&oe=6AE916D4",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"إسكاليد آي كيو (Escalade IQ) 2027، الأولى في الأردن اللي تم عليها البي بي إف (PPF) المات داخل الدبل إم (Double M).. تعال شوف معي النتيجة.\"",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **تحديد الفئة المستهدفة:** يستهدف الفيديو عشاق السيارات الفارهة والعملاء المهتمين بحماية وتعديل السيارات الفاخرة (Premium Detailing).\n* **تعزيز المكانة السوقية (Authority):** استخدم المتحدث عبارة \"الأولى في الأردن\"، وهو أسلوب تسويقي قوي لبناء الثقة وإظهار الريادة والتميز عن المنافسين في السوق المحلي.\n* **التركيز على القيمة المضافة:** يركز المحتوى على إبراز جودة الخدمة (تغليف PPF مطفي) بدلاً من الحديث عن مواصفات السيارة فقط، مما يربط علامة \"Double M\" بالتميز في العمل.\n* **بساطة \"الدعوة للعمل\" (Call to Action):** استخدام جملة \"تعال شوف معي النتيجة\" بأسلوب تشويقي سريع يضمن بقاء المشاهد ومتابعة بقية المقطع للنهاية.\n* **نمط الإنتاج:** المقطع يعتمد على نمط \"الاستعراض البصري\" مع موسيقى خلفية حماسية، وهو أسلوب فعال جداً لمنصات الفيديو العمودية مثل تيك توك وريلز، حيث يركز على الجماليات البصرية للمنتج النهائي.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1928726788090755",
