@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 30,
+  "analyzed_video_ads": 31,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -385,11 +385,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "ورسميا الفرش الكربون متوفر داخل معارض دبل ام طبعا هذا الفرش فقط متوفر بمكان واحد اللي هو معارض دبل ام بالفرعين وطبعا عندك بسم الله ماشاء الله كاربون فايبراصلي تطريزات الكربون فايبر لو انت مهتم عندك سيارة محول داخليتها زي هاي السياره الكربون فايبر فاكيد بلزمك فرش جولات و كاربون فايبر اهلا وسهلا فيكم بس اكتب لي فايبر بالتعليقات وراح يوصلك سعر هذا الفرش الجديد اللي ما حدا ركبه خليك انت مميز وركب هذا الفرش اهلا وسهلا فيكم بتشرفونا بالفرعين",
-        "summary": "### 2.\n- **عرض مميز لفرش كربون فايبر أصلي:** يتوفر الفرش حصرياً في معارض دبل ام بفرعيها.\n- **تصميم فريد وعالي الجودة:** يتميز بتطريزات كربون فايبر تمنح السيارة مظهراً داخلياً مميزاً.\n- **دعوة للتفاعل والاستفسار:** يُشجع المتابعون على كتابة \"فايبر\" في التعليقات لمعرفة السعر والتفاصيل.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض مميز لفرش كربون فايبر أصلي:** يتوفر الفرش حصرياً في معارض دبل ام بفرعيها.\n- **تصميم فريد وعالي الجودة:** يتميز بتطريزات كربون فايبر تمنح السيارة مظهراً داخلياً مميزاً.\n- **دعوة للتفاعل والاستفسار:** يُشجع المتابعون على كتابة \"فايبر\" في التعليقات لمعرفة السعر والتفاصيل.",
+        "transcript": "ورسميا الفرش الكربون متوفر داخل معارض دبل ام طبعا هذا الفرش فقط متوفر بمكان واحد اللي هو معارض دبل ام بالفرعين وطبعا عندك بسم الله ماشاء الله كاربون فايبراصلي تطريزات الكربون فايبر لو انت مهتم عندك سيارة محول داخليتها زي هاي السياره الكربون فايبر فاكيد بلزمك فرش جولات و كاربون فايبر اهلا وسهلا فيكم بس اكتب لي فايبر بالتعليقات وراح يوصلك سعر هذا الفرش الجديد اللي ما حدا ركبه خليك انت مميز وركب هذا الفرش اهلا وسهلا فيكم بتشرفونا بالفرعين"
       }
     },
     {
@@ -406,7 +406,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1593391085417771",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOVIoCvbX6J6CR3e4F5aRgeXzBFO4uRP13qpu4QZ4sDTTh1ZpjZGDYj10mN1EiAuKCdXZgeuCFnqkceAnkqCseEtuOtH1t3PyYoix-mnXqyrA.mp4?_nc_cat=108&_nc_oc=Adpz5jrYsr4QJPAlltuoLDqav5B-CV2YnxQxM23E1886O5zXktWnyrzOUcL_UFWb_wU&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=4Jti7gYlpccQ7kNvwEK7bxK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNjgwMzI5MDU4ODY0NzYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4f64ba866191eb0c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QThCMkFEODk3QzQ0MTREODcwOUZDMDQ1RUJFQkFGOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UyMkJCMDNFODBEMzRDNTNBNjFBRTQ4MjBBNzU0NjI5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaY7Ienu5STBBUCKAJDMywXQEWAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEE4fy9gNXQYRYik3JxHQ-oUPtPfb2JdNtQ-099vYl02_umDLbNRuCo-unP0WgFHFEqhjro2IO08D_Tu3yK38PU&oh=00_AQSmC-PremYGOx34-yCXtTWs958yffD8DNrhXEX3Hr36mQ&oe=6AEBB9D4",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"هذه كاديلاك آي كيو (Cadillac Escalade IQ) 2024، الأولى في الأردن التي تم عليها البي بي إف (PPF) الماط داخل الدبل إم (Double M).. تعال شوف معي النتيجة.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **القيمة التسويقية للمحتوى:** يركز الفيديو على \"عامل الحصرية\" من خلال الإشارة بوضوح إلى أنها السيارة الأولى من نوعها في الدولة، مما يرفع من قيمة العلامة التجارية (Double M) ويجعلها وجهة للنخبة.\n*   **استراتيجية العرض:** الانتقال السريع بين لقطات تفصيلية (Close-ups) للسيارة واللقطات العامة يعزز من إدراك المشاهد لجودة التنفيذ (اللمسة الماط للـ PPF)، مما يخدم أهداف التسويق البصري بشكل ممتاز.\n*   **الجمهور المستهدف:** الفيديو يستهدف أصحاب السيارات الفارهة (Luxury Car Owners) الذين يهتمون بحماية سياراتهم وتطوير مظهرها الخارجي لدى مراكز متخصصة ذات سمعة عالية.\n*   **عناصر الجذب:** الاعتماد على لقطات سينمائية مع إيقاع موسيقي متماشٍ مع حركة الكاميرا يعطي طابعاً احترافياً يوحي بالفخامة، ويقلل من حدة \"الإعلان المباشر\" لصالح \"الاستعراض الجمالي\".\n*   **نقطة القوة:** دمج الإعلان مع \"التجربة الشخصية\" والمبادرة بالدعوة للمشاهدة (\"تعال شوف معي النتيجة\") يخلق تفاعلاً مباشراً ويدفع المشاهد لمتابعة باقي المقطع حتى النهاية.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "840243912517070",
