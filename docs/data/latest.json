@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 31,
+  "analyzed_video_ads": 32,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -409,11 +409,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"هذه كاديلاك آي كيو (Cadillac Escalade IQ) 2024، الأولى في الأردن التي تم عليها البي بي إف (PPF) الماط داخل الدبل إم (Double M).. تعال شوف معي النتيجة.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **القيمة التسويقية للمحتوى:** يركز الفيديو على \"عامل الحصرية\" من خلال الإشارة بوضوح إلى أنها السيارة الأولى من نوعها في الدولة، مما يرفع من قيمة العلامة التجارية (Double M) ويجعلها وجهة للنخبة.\n*   **استراتيجية العرض:** الانتقال السريع بين لقطات تفصيلية (Close-ups) للسيارة واللقطات العامة يعزز من إدراك المشاهد لجودة التنفيذ (اللمسة الماط للـ PPF)، مما يخدم أهداف التسويق البصري بشكل ممتاز.\n*   **الجمهور المستهدف:** الفيديو يستهدف أصحاب السيارات الفارهة (Luxury Car Owners) الذين يهتمون بحماية سياراتهم وتطوير مظهرها الخارجي لدى مراكز متخصصة ذات سمعة عالية.\n*   **عناصر الجذب:** الاعتماد على لقطات سينمائية مع إيقاع موسيقي متماشٍ مع حركة الكاميرا يعطي طابعاً احترافياً يوحي بالفخامة، ويقلل من حدة \"الإعلان المباشر\" لصالح \"الاستعراض الجمالي\".\n*   **نقطة القوة:** دمج الإعلان مع \"التجربة الشخصية\" والمبادرة بالدعوة للمشاهدة (\"تعال شوف معي النتيجة\") يخلق تفاعلاً مباشراً ويدفع المشاهد لمتابعة باقي المقطع حتى النهاية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **القيمة التسويقية للمحتوى:** يركز الفيديو على \"عامل الحصرية\" من خلال الإشارة بوضوح إلى أنها السيارة الأولى من نوعها في الدولة، مما يرفع من قيمة العلامة التجارية (Double M) ويجعلها وجهة للنخبة.\n*   **استراتيجية العرض:** الانتقال السريع بين لقطات تفصيلية (Close-ups) للسيارة واللقطات العامة يعزز من إدراك المشاهد لجودة التنفيذ (اللمسة الماط للـ PPF)، مما يخدم أهداف التسويق البصري بشكل ممتاز.\n*   **الجمهور المستهدف:** الفيديو يستهدف أصحاب السيارات الفارهة (Luxury Car Owners) الذين يهتمون بحماية سياراتهم وتطوير مظهرها الخارجي لدى مراكز متخصصة ذات سمعة عالية.\n*   **عناصر الجذب:** الاعتماد على لقطات سينمائية مع إيقاع موسيقي متماشٍ مع حركة الكاميرا يعطي طابعاً احترافياً يوحي بالفخامة، ويقلل من حدة \"الإعلان المباشر\" لصالح \"الاستعراض الجمالي\".\n*   **نقطة القوة:** دمج الإعلان مع \"التجربة الشخصية\" والمبادرة بالدعوة للمشاهدة (\"تعال شوف معي النتيجة\") يخلق تفاعلاً مباشراً ويدفع المشاهد لمتابعة باقي المقطع حتى النهاية.",
+        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"هذه كاديلاك آي كيو (Cadillac Escalade IQ) 2024، الأولى في الأردن التي تم عليها البي بي إف (PPF) الماط داخل الدبل إم (Double M).. تعال شوف معي النتيجة.\"\n\n---"
       }
     },
     {
@@ -430,7 +430,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=840243912517070",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNns_gv8GkMqk2jUStZjdnC8BEY1Oa8z0hBJgyYo832hLks6xI4ZjDUdgic4osHehHNt4wJaDmiGlmi1cu0RhvkU4mxEEbVO8dFwuwz-OhJww.mp4?_nc_cat=105&_nc_oc=AdpzAI89yL473xtlDbu4FB5Upca0UGRkv1_-mTgwmDgkX0WY1dnTXNEdaPCdGDo0OJg&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=JgeLUnrzdRwQ7kNvwEqm7XW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2NDE1NzUzMTI5NjM0MzEsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=db2b8d507d8022dd&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRjQyNjQxMUY2RkM0MjYyQjRDNjQzQzM2QTE0OTQyRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzU5MkZDRjUyMTVFODQxNTQ5MDcxMjBDMjU2Njc0OTM2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbO3eni9Z-xCRUCKAJDMywXQDezMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHUpISxMXzeez0Nz_YqtXGsJa5j2yaOagklrmPbJo5qCUC33gbfWxbt7r-hFHSp3JqhzMLpdhmb3bLj5cI7ik5a&oh=00_AQSeHWK7Wjyh-2bESIZe2ilNCN7CSRXl-NF9SufeucgN6A&oe=6AEB86FF",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "عن طريق تطبيق راح تصير تشوف كل زوايا السيارة هاي الدش كام اللي بترکب على سيارتك وكل انواع السيارات راح يكون متوفر فيها 4 كاميرات وكاميرا يمين وكاميرا شمال وكاميرا أمامية وكاميرا خلفية زي ما انتم شايفين بتدعم اللغة العربية حجمها صغير وما راح تضايق عليك وانت بتسوق اذا حاب تحمي سيارتك من الحوادث المفاجأة متوفرة في ال دبل ام بالفرعين دوار الحويان وأمام الحرية مول السلام عليكم\n\n---",
+        "summary": "### 2.\n- **عرض المنتج:** داش كام للسيارات مزودة بـ 4 كاميرات تغطي جميع الزوايا (يمين، شمال، أمامية، وخلفية).\n- **المميزات:** حجم صغير لا يعيق القيادة، دعم كامل للغة العربية، وتطبيق للهاتف المذكور في الفيديو لتسهيل المشاهدة.\n- **الهدف التسويقي:** توفير الحماية ضد الحوادث بتركيز على الأمان.\n- **أماكن التوفر:** متوفرة في \"دبل إم\" (فرعي دوار الحويان وأمام الحرية مول).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "29038634802412220",
