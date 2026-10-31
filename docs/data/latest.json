@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 44,
+  "analyzed_video_ads": 45,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -857,11 +857,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "أهلاً بك. تفضل تحليل الفيديو:\n\n\nأجى الشتاء، شو يعني؟ ثلاث عروض، الأول: أن العرض الأول الفرش القصة التركي، الي راح يركب معك على المقاعد الأمامية وعلى المقاعد الخلفية ومع طارة خياطة، بس ب 15 دينار شامل التركيب، العرض الثاني: مهو حكالك دخل الشتاء، عشان هيك جايب لك عرض على البطارية، 25 دينار شامل التركيب مع بطاريتك القديمة وتاريخ جديد، الثالث: يا زلمة ظلش غير أبيك إياه بلاش، سبع ليرات راسيا نحاس ومراوح تبريد شامل تركيب. يا زمة وأنت شامل كل هذا الحكي وين؟ بتخوف؟ وين بده يكون يعني غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين.",
-        "summary": "### 2.\n- **نوع المحتوى:** إعلان تجاري ترويجي لعروض الشتاء في محل إكسسوارات سيارات.\n- **الهدف التسويقي:** جذب زبائن جدد من خلال تقديم حزمة عروض متنوعة تشمل (فرش تركي، بطاريات سيارات، إضاءة ليد).\n- **الأسلوب الجاذب:** استخدام أسلوب حواري مشوق وسريع بين مقدمي الفيديو، مع إبراز الأسعار التنافسية (شامل التركيب).\n- **هوية العلامة التجارية:** محل \"غازي الزعبي\" لزينة وإكسسوارات السيارات.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **نوع المحتوى:** إعلان تجاري ترويجي لعروض الشتاء في محل إكسسوارات سيارات.\n- **الهدف التسويقي:** جذب زبائن جدد من خلال تقديم حزمة عروض متنوعة تشمل (فرش تركي، بطاريات سيارات، إضاءة ليد).\n- **الأسلوب الجاذب:** استخدام أسلوب حواري مشوق وسريع بين مقدمي الفيديو، مع إبراز الأسعار التنافسية (شامل التركيب).\n- **هوية العلامة التجارية:** محل \"غازي الزعبي\" لزينة وإكسسوارات السيارات.",
+        "transcript": "أهلاً بك. تفضل تحليل الفيديو:\n\n\nأجى الشتاء، شو يعني؟ ثلاث عروض، الأول: أن العرض الأول الفرش القصة التركي، الي راح يركب معك على المقاعد الأمامية وعلى المقاعد الخلفية ومع طارة خياطة، بس ب 15 دينار شامل التركيب، العرض الثاني: مهو حكالك دخل الشتاء، عشان هيك جايب لك عرض على البطارية، 25 دينار شامل التركيب مع بطاريتك القديمة وتاريخ جديد، الثالث: يا زلمة ظلش غير أبيك إياه بلاش، سبع ليرات راسيا نحاس ومراوح تبريد شامل تركيب. يا زمة وأنت شامل كل هذا الحكي وين؟ بتخوف؟ وين بده يكون يعني غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين."
       }
     },
     {
@@ -878,7 +878,15 @@
       "cta": "Visit Instagram profile",
       "ad_url": "https://www.facebook.com/ads/library/?id=1138578082215800",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQPl1lT3RflBRhgdQr3tILyhuSyyFxaq7jpwVB0LM59QwDV3rAwrqqvn1y7JMCAjyj-mB-onWYS6ZNlsOqjDYgUomrHSad6nMREPQ4acvMP_Gg.mp4?_nc_cat=104&_nc_oc=AdrfLCF7wpKcNlAXU5QEq7xAl83xSHW-Q_QRIABzKLtictFcdzMQ7k4FCPoE5IDNxOY&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=S1-iGCjFz_sQ7kNvwGrvsSD&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMDM0NTc5MzU2MzExMTUsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=566a585bf3bf1489&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTdDNEVDRDAwMDA0NkYzODJCOTc4RDhFMzczODc3M19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzhCMUM2NzVCNjU3NzQzNTE4Rjc1QjI3OTdCRDRBRDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaWjLmk2uX1AxUCKAJDMywXQEGd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=WGsQaF0b8jergjky23_NdQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGWsfzIDsRDFmf2EbGA3Od_kaXdRT4GV-KRpd1FPgZX4sFfW3U0HjM8Q1-XpSRcdPVxKrPq3-Q3dQBg3GNOmHxb&oh=00_AQQWI2hf5qWUIJaIJQs3cjmkYSTDEX5pcrGFQ9uUfHxfTA&oe=6AEB85A8",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك، إليك تحليل محتوى الفيديو وفق الهيكل المطلوب:\n\n التفريغ النصي:\n\"إجا الشتا، شو يعني؟ ثلاث عروض! \nالأول: العرض الأول، الفرش القصة التركي، يلي رح يركب معك على المقاعد الأمامية وعلى المقاعد الخلفية مع طارة خياطة، بس بـ 15 دينار شامل التركيب. \nالثاني: ما هو حكا لك، دخل الشتا، عشان هيك جايب لك عرض على البطارية 25 دينار شامل التركيب مع بطاريتك القديمة وتاريخ جديد. \nالثالث: يا زلمة ما ضلش، غير أبيك إياه ببلاش، 7 ليرات، راسين حاس ومراوح تبريد شامل تركيب. \nيا زلمة وأنت شامل وكل هذا الحكي وين؟ يب تخوف، وين بيكون؟ يعني غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين.\"",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **نوع المحتوى:** فيديو ترويجي إعلاني لعروض موسم الشتاء.\n* **الهدف:** جذب العملاء عبر تقديم عروض تخفيضية جذابة على إكسسوارات وصيانة السيارات (فرش، بطاريات، إنارة وتبريد).\n* **طريقة العرض:** تقديم درامي وتفاعلي بأسلوب حماسي يعتمد على التناوب بين شخصين لجذب الانتباه.\n* **أهم النقاط التسويقية:**\n  * تقديم ثلاث عروض متنوعة تشمل احتياجات السيارات الشتوية.\n  * تحديد الأسعار بشكل واضح لجذب الفئة المستهدفة.\n  * التركيز على شمولية الخدمة (التركيب المجاني أو الضمني).\n  * تحديد مكان الخدمة بوضوح في نهاية الفيديو (محلات غازي الزعبي).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1854576118866685",
