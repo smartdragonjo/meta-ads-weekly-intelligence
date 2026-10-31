@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 20,
+  "analyzed_video_ads": 21,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -145,11 +145,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"شباب في الجو كيف، حافظ على أرضية سيارتك بدل هاي الأرضية، لأن هاي الأرضية رح تعطيك ريحة سيئة بالسيارة ورطوبة، اليوم الـ DM موفرلك أرضيات TPE اللي بتركب على سيارتك، مخصص مقصوصة بقص الليزر، ناهيك عن ذلك إنها بتقعد بحوض سيارتك فت 100%، والأحلى من هيك إنه هاي الأرضيات بتيجي سيليكون، أي بمعنى ما رح تجمع ريحة ولا أي نوع من أنواع الوسخ. حافظ على سيارتك واكتبلي نوع سيارتك بالتعليقات، لأزودك بالسعر المخصص لسيارتك.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **تحديد المشكلة (نقطة الألم):** استخدام الفيديو لمشهد حي لهطول الأمطار في الخلفية لتعزيز الشعور بالرطوبة والريحة الكريهة التي تسببها الأرضيات القماشية التقليدية، مما يخلق حاجة فورية لدى المشاهد للبحث عن حل.\n*   **تقديم الحل (عرض القيمة):** عرض المنتج (أرضيات TPE السيليكونية) كبديل احترافي وعملي. تم التركيز على المزايا التنافسية: (مخصصة للسيارة - قص ليزر - فت 100% - مقاومة للروائح والاتساخ).\n*   **استراتيجية التفاعل (دعوة للعمل):** تحفيز الجمهور على \"التفاعل\" (Comment) من خلال طلب كتابة نوع السيارة، وهي استراتيجية ذكية لرفع خوارزميات الفيديو (Algorithm) والحصول على \"ليدز\" (Leads) جاهزة ومستهدفة لخدمة العملاء.\n*   **أسلوب التقديم:** أسلوب \"استعراضي\" يركز على لمس المنتج لإظهار جودته وملمسه، مما يعزز الثقة في المادة المصنوع منها المنتج.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **تحديد المشكلة (نقطة الألم):** استخدام الفيديو لمشهد حي لهطول الأمطار في الخلفية لتعزيز الشعور بالرطوبة والريحة الكريهة التي تسببها الأرضيات القماشية التقليدية، مما يخلق حاجة فورية لدى المشاهد للبحث عن حل.\n*   **تقديم الحل (عرض القيمة):** عرض المنتج (أرضيات TPE السيليكونية) كبديل احترافي وعملي. تم التركيز على المزايا التنافسية: (مخصصة للسيارة - قص ليزر - فت 100% - مقاومة للروائح والاتساخ).\n*   **استراتيجية التفاعل (دعوة للعمل):** تحفيز الجمهور على \"التفاعل\" (Comment) من خلال طلب كتابة نوع السيارة، وهي استراتيجية ذكية لرفع خوارزميات الفيديو (Algorithm) والحصول على \"ليدز\" (Leads) جاهزة ومستهدفة لخدمة العملاء.\n*   **أسلوب التقديم:** أسلوب \"استعراضي\" يركز على لمس المنتج لإظهار جودته وملمسه، مما يعزز الثقة في المادة المصنوع منها المنتج.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"شباب في الجو كيف، حافظ على أرضية سيارتك بدل هاي الأرضية، لأن هاي الأرضية رح تعطيك ريحة سيئة بالسيارة ورطوبة، اليوم الـ DM موفرلك أرضيات TPE اللي بتركب على سيارتك، مخصص مقصوصة بقص الليزر، ناهيك عن ذلك إنها بتقعد بحوض سيارتك فت 100%، والأحلى من هيك إنه هاي الأرضيات بتيجي سيليكون، أي بمعنى ما رح تجمع ريحة ولا أي نوع من أنواع الوسخ. حافظ على سيارتك واكتبلي نوع سيارتك بالتعليقات، لأزودك بالسعر المخصص لسيارتك.\"\n\n---"
       }
     },
     {
@@ -166,7 +166,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2219538808978271",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQM9WGHM5Rmd5jpRw1iTb4mRCJmXyiceuBlaneTg0u5AgFjktG_Uu_jvq5Zwd-5aJ44avgdXdDJhO_LTYHjbKNtrOz9yz9vOKNL2nHTL-ETs1A.mp4?_nc_cat=109&_nc_oc=AdosCga1wr-Sxh6BM3IsYh94AdQ5xYqq_ItbfzKRV9eUsBs3hgX-RIf2kdiVGLfJcmE&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=ndmc0I3P5DYQ7kNvwFp72Hb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk1NTMxMzg4MzkzNDY1MSwiYXNzZXRfYWdlX2RheXMiOjMsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjoyOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=121e2b3a833d3618&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQTE4OEQ1Q0YzNzg0RjlFQjczNTAxMUE3NDQxQzEwOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZGRTA1Q0RFNUYzRTRBQzBCNTMzQUZFODQzODYzNDAyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb2vpuLy7ayAxUCKAJDMywXQD3VP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGIRCIX63aAOg_ZMgbs11xJ6B_EiQ3teI3oH8SJDe14jRjCxUTDAj2eKWFbRgK1-NQ999YtE_7y65UkTNiKUJU1&oh=00_AQR9NRx4fw_tp6mM_38kLVjWyes93o6yFInCydLSugrOCA&oe=6AEB857F",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "من الطبيعي يصير عندك انكماش بكاوتش سيارتك بالشتاء، لأنه الشتاء معروف يصير فيه انكماشات وطبعاً أنا قاعد بقول لك عن منفاخ جمل. سعته بتجي على البربيش نفسه وبيشتغل معك على الولاعة، وبيشتغل معك على البطارية وطوله أكثر من خمسة متر ليمتد معك، معك بيك آب، سيدان بيضبط لكل شي، وراح يكون سعره إذا بينباع بالمحلات عشرين، أنا راح أقول لك يمكن أعمل لك عليه خمسين بالمئة وتوقع السعر بالتعليقات، وهذا العرض راح يكون لفترة محدودة جداً فالحق هذا العرض وبستناكم بالفرعين.\n\n---",
+        "summary": "### 2.\n- **عرض موسم الشتاء**: إبراز الحاجة لمنفاخ إطارات السيارة بسبب انكماش الكاوتش في فصل الشتاء.\n- **مواصفات المنتج (\"منفاخ جمل\")**:\n  - بربيش مدمج بسعة محددة.\n  - يعمل على ولاعة السيارة وعلى البطارية.\n  - طول سلك/بربيش يتجاوز 5 أمتار (يناسب السيارات الكبيرة مثل البيك آب والصغيرة مثل السيدان).\n- **ميزة السعر والعرض**:\n  - السعر المعتاد في المحلات: 20.\n  - خصم ترويجي مقترح: أكثر من 50%.\n  - تفاعل مع الجمهور: طلب توقع السعر في التعليقات.\n- **طبيعة العرض**: عرض محدود الوقت حصرياً في فروع المتجر.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "953776080945576",
