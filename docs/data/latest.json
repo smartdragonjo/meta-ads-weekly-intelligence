@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 21,
+  "analyzed_video_ads": 22,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -169,11 +169,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "من الطبيعي يصير عندك انكماش بكاوتش سيارتك بالشتاء، لأنه الشتاء معروف يصير فيه انكماشات وطبعاً أنا قاعد بقول لك عن منفاخ جمل. سعته بتجي على البربيش نفسه وبيشتغل معك على الولاعة، وبيشتغل معك على البطارية وطوله أكثر من خمسة متر ليمتد معك، معك بيك آب، سيدان بيضبط لكل شي، وراح يكون سعره إذا بينباع بالمحلات عشرين، أنا راح أقول لك يمكن أعمل لك عليه خمسين بالمئة وتوقع السعر بالتعليقات، وهذا العرض راح يكون لفترة محدودة جداً فالحق هذا العرض وبستناكم بالفرعين.\n\n---",
-        "summary": "### 2.\n- **عرض موسم الشتاء**: إبراز الحاجة لمنفاخ إطارات السيارة بسبب انكماش الكاوتش في فصل الشتاء.\n- **مواصفات المنتج (\"منفاخ جمل\")**:\n  - بربيش مدمج بسعة محددة.\n  - يعمل على ولاعة السيارة وعلى البطارية.\n  - طول سلك/بربيش يتجاوز 5 أمتار (يناسب السيارات الكبيرة مثل البيك آب والصغيرة مثل السيدان).\n- **ميزة السعر والعرض**:\n  - السعر المعتاد في المحلات: 20.\n  - خصم ترويجي مقترح: أكثر من 50%.\n  - تفاعل مع الجمهور: طلب توقع السعر في التعليقات.\n- **طبيعة العرض**: عرض محدود الوقت حصرياً في فروع المتجر.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض موسم الشتاء**: إبراز الحاجة لمنفاخ إطارات السيارة بسبب انكماش الكاوتش في فصل الشتاء.\n- **مواصفات المنتج (\"منفاخ جمل\")**:\n  - بربيش مدمج بسعة محددة.\n  - يعمل على ولاعة السيارة وعلى البطارية.\n  - طول سلك/بربيش يتجاوز 5 أمتار (يناسب السيارات الكبيرة مثل البيك آب والصغيرة مثل السيدان).\n- **ميزة السعر والعرض**:\n  - السعر المعتاد في المحلات: 20.\n  - خصم ترويجي مقترح: أكثر من 50%.\n  - تفاعل مع الجمهور: طلب توقع السعر في التعليقات.\n- **طبيعة العرض**: عرض محدود الوقت حصرياً في فروع المتجر.",
+        "transcript": "من الطبيعي يصير عندك انكماش بكاوتش سيارتك بالشتاء، لأنه الشتاء معروف يصير فيه انكماشات وطبعاً أنا قاعد بقول لك عن منفاخ جمل. سعته بتجي على البربيش نفسه وبيشتغل معك على الولاعة، وبيشتغل معك على البطارية وطوله أكثر من خمسة متر ليمتد معك، معك بيك آب، سيدان بيضبط لكل شي، وراح يكون سعره إذا بينباع بالمحلات عشرين، أنا راح أقول لك يمكن أعمل لك عليه خمسين بالمئة وتوقع السعر بالتعليقات، وهذا العرض راح يكون لفترة محدودة جداً فالحق هذا العرض وبستناكم بالفرعين.\n\n---"
       }
     },
     {
@@ -190,7 +190,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=953776080945576",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPn3YuaLFqi_slJzsN4D2QXas5y4xiz6un2KrHS5l1_EG1XU76Mjr22Bg92JsSePPySFwzHYpwLcoLx78H9YXZYpjm66DZUPnbatJdM4AM5Lw.mp4?_nc_cat=101&_nc_oc=Adr5C3DIFtnv9sZg0Gn-s_uYGXqkd1TTKx317n8hnofCe7iqzhcrktrdrAtWcluO3mc&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=XmUsulOydxwQ7kNvwHjH6at&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyMjU0NTg2NjY4OTE1MjAsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=34cc09c149dd847a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RDA4MThBNEVFQjk0OTI1QTQxNTZDQjZBMjZGNTVFN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNCMzhFRUI0RkQwRjQyNTM5MDk1QTAxMDdBMDkxRjIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaApLfIiqOtBBUCKAJDMywXQDfdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeE2nH5f32Bkz4qD9PCEDSKqKz0tX3RhmUMrPS1fdGGZQwpwkoN7xIZ9iRiu8yM9dTSf8oxIZ4N_qQEI7y7Aca53&oh=00_AQTpd6rh_Ibjn2AhSELRobdQSGZfMv9x6xRzCJT9s5wrIA&oe=6AEBB827",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي\n\"تعال خلينا نحسبهم حسبة سريعة، عندك خمس قطع جلد أرضيات راح يكونوا 10 دنانير، وعندك كمان هون طارة خياطة 7 دنانير، وعندك هان الفرش 20 دينار، طبعاً أنا اليوم بقولك راح تيجي على الـ Double M وتاخدهم بأقل من هيك بكتير، وهذا العرض راح يكون فقط لـ 24 ساعة، الفرش مع الأرضيات مع طارة الخياطة راح يكون فقط بـ 15 دينار ولنهاية اليوم، فيا بتلحق هذا العرض يا إما راح يروح عليك، وتعال خلينا نفرجيك العروض التانية بالصفحة.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية التسعير (Bundle Pricing):** يعتمد الفيديو استراتيجية \"تجميع المنتجات\" لتقديم قيمة إدراكية عالية، حيث تم خفض السعر الإجمالي من 37 ديناراً إلى 15 ديناراً فقط، مما يخلق جاذبية فورية للمشاهد.\n*   **عامل الندرة (Scarcity & Urgency):** استخدام تقنية التحديد الزمني (عرض لمدة 24 ساعة فقط) يحفز المشاهد على اتخاذ قرار الشراء السريع، وهو تكتيك فعال لرفع معدلات التحويل.\n*   **هيكلة الخطاب التسويقي:** \n    *   **الإغراء:** البدء بعرض السعر الأصلي لكل منتج على حدة لإبراز القيمة.\n    *   **الصدمة:** تقديم السعر المخفض كعرض حصري.\n    *   **الخاتمة (Call to Action):** دعوة صريحة للتحرك قبل فوات الأوان، مع ربطها بزيارة الصفحة لاكتشاف المزيد، مما يعزز من معدل التفاعل (Engagement Rate) عبر منصات التواصل الاجتماعي.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "4680464205607073",
