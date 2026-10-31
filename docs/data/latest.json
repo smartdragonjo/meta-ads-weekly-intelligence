@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 28,
+  "analyzed_video_ads": 29,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -337,11 +337,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك التحليل المطلوب للفيديو:\n\n التفريغ النصي:\n\"في ظل هذه الأجواء الشتوية، الإنارة الصفراء ما رح تفيدك، ما رح تشوف الحفر اللي مليانة مي ولا رح تكشف معك الطريق. اليوم يا \"دبل إم\" وفرلك عرض على لمبات الليزر اللي بتكشفلك الحفر وبتكشفلك الطريق وقت الشتا. اللمبات اللي بتيجي مزودة برصيص تبريد نحاس ومروحة تبريد، هاي اللمبة سعرها بالسوق 25 دينار، اليوم أنا عملتلك عرض عليها، تعال غير لمبات سيارتك واحمي رؤيتك على الطريق بأقل من 6 دنانير، ومتوفر العرض هذا بالفرعين: دوار الحويان وأمام الحرية مول. السلام عليكم.\"",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **تحديد المشكلة:** استهدف الفيديو معاناة السائقين خلال فصل الشتاء (ضعف الرؤية بسبب الإضاءة الصفراء، الحفر المغمورة بالمياه).\n*   **تقديم الحل:** طرح المنتج (لمبات الليزر) كحل عملي وضروري للسلامة في ظروف القيادة الصعبة.\n*   **القيمة التقنية:** التركيز على مواصفات المنتج (نحاس التبريد والمروحة) لتعزيز الثقة في جودة الأداء.\n*   **استراتيجية السعر (Hook):** استخدام \"الصدمة\" في السعر (من 25 دينار إلى أقل من 6 دنانير) لجذب الانتباه وزيادة الرغبة في الشراء.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة واضحة للعميل لزيارة الفروع المحددة لضمان التواجد الجغرافي للجمهور المستهدف.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **تحديد المشكلة:** استهدف الفيديو معاناة السائقين خلال فصل الشتاء (ضعف الرؤية بسبب الإضاءة الصفراء، الحفر المغمورة بالمياه).\n*   **تقديم الحل:** طرح المنتج (لمبات الليزر) كحل عملي وضروري للسلامة في ظروف القيادة الصعبة.\n*   **القيمة التقنية:** التركيز على مواصفات المنتج (نحاس التبريد والمروحة) لتعزيز الثقة في جودة الأداء.\n*   **استراتيجية السعر (Hook):** استخدام \"الصدمة\" في السعر (من 25 دينار إلى أقل من 6 دنانير) لجذب الانتباه وزيادة الرغبة في الشراء.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة واضحة للعميل لزيارة الفروع المحددة لضمان التواجد الجغرافي للجمهور المستهدف.",
+        "transcript": "إليك التحليل المطلوب للفيديو:\n\n التفريغ النصي:\n\"في ظل هذه الأجواء الشتوية، الإنارة الصفراء ما رح تفيدك، ما رح تشوف الحفر اللي مليانة مي ولا رح تكشف معك الطريق. اليوم يا \"دبل إم\" وفرلك عرض على لمبات الليزر اللي بتكشفلك الحفر وبتكشفلك الطريق وقت الشتا. اللمبات اللي بتيجي مزودة برصيص تبريد نحاس ومروحة تبريد، هاي اللمبة سعرها بالسوق 25 دينار، اليوم أنا عملتلك عرض عليها، تعال غير لمبات سيارتك واحمي رؤيتك على الطريق بأقل من 6 دنانير، ومتوفر العرض هذا بالفرعين: دوار الحويان وأمام الحرية مول. السلام عليكم.\""
       }
     },
     {
@@ -358,7 +358,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1631488378778261",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNxfIy7l0fPcZjVyEP8qmlUQB6UGuD_9no-pq1PInmsQIVVP-48dHBroWtFrlcY_N4TZ6OdEfDRKzGCDzHAyjne57p9WgQShvjXBAqoSnsXwg.mp4?_nc_cat=105&_nc_oc=AdqMe-QfnmNCjrNweOsdAVH-4QaVm_TJTx7a-dZPjUhc_wJY3xapy3doxuf9_1rUGcE&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=MK1-EL0FENEQ7kNvwGXEYVy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDg2NDgzMDEzMzE3MTYsImFzc2V0X2FnZV9kYXlzIjo2LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7373a1d5a51b87ce&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83REI0MzI2QTdDODk0Q0VEODdGQzczODlDMTIwMzA5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0UzOEE2MEZGNjcyMDRENjhCNTkwODg3NDVDOUY0OEQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaIlJjSrY3TBBUCKAJDMywXQE0d0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeF8L1cwdjXhBurf9BG-Mhk-tQzeG6z3N_-1DN4brPc3_zO45pMsbZJkM4YE9NWA43zjUNJUSUwWpSZBzxdV3wNC&oh=00_AQSL28vj5CVKZegImFCLd-k2yIo7CDTBongAs2axALj-Ww&oe=6AEB8CC7",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك النتيجة بصيغة طلبك:\n\n\n00:00 - 00:06 السماعات القديمة رح نفكهم ونركب مكانهم سماعات الأفاتها من الدي بي طبعا بنفس القياس\n00:06 - 00:10 زي ما انت شايف ستة ونص أنش بتجي بقدرة 140 واط سماعات\n00:10 - 00:16 الأفاتها بتركب مكان الأصلية بنفس الحجم \n00:16 - 00:26 تفرج معي هي ركبت ستاندر معلم تعال اسمع الصوت\n00:26 - 00:43 أي مشكلة بتواجهها بسماعات سيارتك الأصلية لا تتردد بأنك تغيرها بالشيء المضمون\n00:43 - 00:53 سماعات الأفاتها من الدي بي هو خيارك الأنسب لسيارتك هاي السماعات متوفرة في معارض الدبل أم فرع دوار الحويان والحرية مول وأهلا وسهلا فيكم.",
+        "summary": "### 2.\n- **تبديل السماعات القديمة بأخرى جديدة:** يوضح الفيديو كيفية إزالة سماعات السيارة القديمة واستبدالها بسماعات جديدة من نوع \"أفاتها\" (Avatar) بقطر 6.5 بوصة وقدرة 140 واط.\n- **تطابق المقاسات:** تؤكد التجربة على التوافق التام للسماعات الجديدة مع المقاسات الأصلية لمكان التركيب دون الحاجة لتعديلات إضافية.\n- **الجودة والأداء:** يتم عرض جودة الصوت العالية الناتجة عن السماعات الجديدة كخيار موثوق لحل مشاكل الصوت في السيارة.\n- **معلومات الشراء:** يوفر الفيديو تفاصيل عن توفر السماعات في معارض محددة (الدبل أم) مع عناوين الفروع.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2018151395531264",
