@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 43,
+  "analyzed_video_ads": 44,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -697,11 +697,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "اليوم أنا جاي أفرجيك أصغر داش كام موجودة في العالم. هي الداش كام تنحط عندك على الزجاج الأمامي، وبتقلي وضوح التو كي، والأحلى من هيك أنها بتنشبك عندك تايب سي زي ما أنت شايف، وبتقدر تضيف لو حبيت كاميرا خلفية. ومنحط فيها مومري كارد لغاية 64 جيجا، والحلو بالموضوع وضوحها جدا عالي، وبتدعم تطبيق للتلفون لتقدر ترجع على فيديوهاتها عن طريق التلفون. وعليها سعر مميز في معارض دبل إم، وإذا حاب تعرف هي الكاميرا قديش سعرها في معارض دبل إم اسأل عنها بالتعليقات.",
-        "summary": "### 2.\n- **عرض منتج:** استعراض لأصغر داش كام في العالم بقدرات تصوير 2K.\n- **المميزات التقنية:** اتصال Type-C، دعم كاميرا خلفية اختيارية، متوافقة مع بطاقات ذاكرة حتى 64 جيجا.\n- **التطبيق والتحكم:** تدعم تطبيق الهاتف الذكي لاستعراض الفيديوهات وتسجيلاتها.\n- **التسعير والترويج:** توفرها بسعر مميز في معارض \"دبل إم\" مع دعوة للتفاعل والاستفسار عن السعر في التعليقات.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض منتج:** استعراض لأصغر داش كام في العالم بقدرات تصوير 2K.\n- **المميزات التقنية:** اتصال Type-C، دعم كاميرا خلفية اختيارية، متوافقة مع بطاقات ذاكرة حتى 64 جيجا.\n- **التطبيق والتحكم:** تدعم تطبيق الهاتف الذكي لاستعراض الفيديوهات وتسجيلاتها.\n- **التسعير والترويج:** توفرها بسعر مميز في معارض \"دبل إم\" مع دعوة للتفاعل والاستفسار عن السعر في التعليقات.",
+        "transcript": "اليوم أنا جاي أفرجيك أصغر داش كام موجودة في العالم. هي الداش كام تنحط عندك على الزجاج الأمامي، وبتقلي وضوح التو كي، والأحلى من هيك أنها بتنشبك عندك تايب سي زي ما أنت شايف، وبتقدر تضيف لو حبيت كاميرا خلفية. ومنحط فيها مومري كارد لغاية 64 جيجا، والحلو بالموضوع وضوحها جدا عالي، وبتدعم تطبيق للتلفون لتقدر ترجع على فيديوهاتها عن طريق التلفون. وعليها سعر مميز في معارض دبل إم، وإذا حاب تعرف هي الكاميرا قديش سعرها في معارض دبل إم اسأل عنها بالتعليقات."
       }
     },
     {
@@ -854,7 +854,15 @@
       "cta": "Visit profile",
       "ad_url": "https://www.facebook.com/ads/library/?id=2024163794960070",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQPPpRav_1zaE1bAXPl-t402G5omfpIyh_d6_RIOrYEFIQFEg-P3EMolbcebdHbA3E58Zqq1B1ydwpfbMXgVfcyHx7ZzHUqpZZuV-6ZVdA.mp4?_nc_cat=110&_nc_oc=AdokLyGtF7EMb_tHjdCLtxt2mVVeHV5M_36_EcGiwLLyhZISjogpKfCFTgs3TEHrwB8&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=HHkgX-k93_MQ7kNvwF7gyQ7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDUzMjg4NzgwMjgwNjAyLCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=WGsQaF0b8jergjky23_NdQ&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEo49EPUlRnxT6GSNsthp71z4Yemg5IHKDPhh6aDkgcoGgdH0viuR9BVPipDsKcIPuHOo0vBEccmC7SRr4KkcW6&oh=00_AQTMaQD2KoBqqMxn1ekLkyQtaAVXSS3n_eRR8jDPhiY2vw&oe=6AEB9330",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك. تفضل تحليل الفيديو:\n\n\nأجى الشتاء، شو يعني؟ ثلاث عروض، الأول: أن العرض الأول الفرش القصة التركي، الي راح يركب معك على المقاعد الأمامية وعلى المقاعد الخلفية ومع طارة خياطة، بس ب 15 دينار شامل التركيب، العرض الثاني: مهو حكالك دخل الشتاء، عشان هيك جايب لك عرض على البطارية، 25 دينار شامل التركيب مع بطاريتك القديمة وتاريخ جديد، الثالث: يا زلمة ظلش غير أبيك إياه بلاش، سبع ليرات راسيا نحاس ومراوح تبريد شامل تركيب. يا زمة وأنت شامل كل هذا الحكي وين؟ بتخوف؟ وين بده يكون يعني غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين.",
+        "summary": "### 2.\n- **نوع المحتوى:** إعلان تجاري ترويجي لعروض الشتاء في محل إكسسوارات سيارات.\n- **الهدف التسويقي:** جذب زبائن جدد من خلال تقديم حزمة عروض متنوعة تشمل (فرش تركي، بطاريات سيارات، إضاءة ليد).\n- **الأسلوب الجاذب:** استخدام أسلوب حواري مشوق وسريع بين مقدمي الفيديو، مع إبراز الأسعار التنافسية (شامل التركيب).\n- **هوية العلامة التجارية:** محل \"غازي الزعبي\" لزينة وإكسسوارات السيارات.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1138578082215800",
