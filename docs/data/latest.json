@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 32,
+  "analyzed_video_ads": 33,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -433,11 +433,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "عن طريق تطبيق راح تصير تشوف كل زوايا السيارة هاي الدش كام اللي بترکب على سيارتك وكل انواع السيارات راح يكون متوفر فيها 4 كاميرات وكاميرا يمين وكاميرا شمال وكاميرا أمامية وكاميرا خلفية زي ما انتم شايفين بتدعم اللغة العربية حجمها صغير وما راح تضايق عليك وانت بتسوق اذا حاب تحمي سيارتك من الحوادث المفاجأة متوفرة في ال دبل ام بالفرعين دوار الحويان وأمام الحرية مول السلام عليكم\n\n---",
-        "summary": "### 2.\n- **عرض المنتج:** داش كام للسيارات مزودة بـ 4 كاميرات تغطي جميع الزوايا (يمين، شمال، أمامية، وخلفية).\n- **المميزات:** حجم صغير لا يعيق القيادة، دعم كامل للغة العربية، وتطبيق للهاتف المذكور في الفيديو لتسهيل المشاهدة.\n- **الهدف التسويقي:** توفير الحماية ضد الحوادث بتركيز على الأمان.\n- **أماكن التوفر:** متوفرة في \"دبل إم\" (فرعي دوار الحويان وأمام الحرية مول).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض المنتج:** داش كام للسيارات مزودة بـ 4 كاميرات تغطي جميع الزوايا (يمين، شمال، أمامية، وخلفية).\n- **المميزات:** حجم صغير لا يعيق القيادة، دعم كامل للغة العربية، وتطبيق للهاتف المذكور في الفيديو لتسهيل المشاهدة.\n- **الهدف التسويقي:** توفير الحماية ضد الحوادث بتركيز على الأمان.\n- **أماكن التوفر:** متوفرة في \"دبل إم\" (فرعي دوار الحويان وأمام الحرية مول).",
+        "transcript": "عن طريق تطبيق راح تصير تشوف كل زوايا السيارة هاي الدش كام اللي بترکب على سيارتك وكل انواع السيارات راح يكون متوفر فيها 4 كاميرات وكاميرا يمين وكاميرا شمال وكاميرا أمامية وكاميرا خلفية زي ما انتم شايفين بتدعم اللغة العربية حجمها صغير وما راح تضايق عليك وانت بتسوق اذا حاب تحمي سيارتك من الحوادث المفاجأة متوفرة في ال دبل ام بالفرعين دوار الحويان وأمام الحرية مول السلام عليكم\n\n---"
       }
     },
     {
@@ -454,7 +454,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=29038634802412220",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNBn19bfIBbGeqvhM26IECseNHK2OCMHuv67OoEKTWIZW8SDs6YRivGAbK_q-zpLlzx04JdMZsu82BL9OcKtKkyF-fbx5SrdQlxTn-0R8OcDA.mp4?_nc_cat=111&_nc_oc=Adqgq81IzNxEkMvkpfXw8e6Sj09q5fO5G3T-9IDa-lZCrrN7nIHRW7M67T_Kn2aUw6s&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=pWg8fy7CZlsQ7kNvwG_tYkb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIyMjI5ODM5NjU3Njc2MjQsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=70e19cf78f27cb8f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MjMyODA0MDEzMkU0QzYxOUY1RkEzNEU5Q0ZBNzRFQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzUyMTFCQzVBM0ZDOTQ0OEJCRTIxNENGNkM1NDFCNzJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaQ3_eZ2fLyBxUCKAJDMywXQDhdsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEBMu8Cy_mzi2ITr4EsdyEIH7bu62HQ8NMftu7rYdDw0zj6x1Hhk2dOkgdVYuDDD7Ikn0UhuMCXydcph2LlOSix&oh=00_AQSqBAwJi4yJpGf680-KP6U2wXb0PG8y0Cm6zqTIC3xlTw&oe=6AEBA975",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك، إليك التفريغ والملخص الاستراتيجي للفيديو:\n\n التفريغ النصي:\nأول ما بلش الشتا فحاب أقول لك عن باكج الشتا يلي وفرتلك إياه عندي في الـ MM. \nالمكون عندك من واحد، اثنين، ثلاث، أربع، خمس قطع بسعر منتج واحد!\nراح يكون عندك مساحات الكريستال، وبالإضافة لماء مقطر من الـ MM، ومساحتين قشاطة، ورح تاخذ معهم لزقات للمري.\nبدل ما تشتريهم بـ 20 دينار رح يكونوا بأقل من خمس دنانير! شغل سيارتك وضلّك جاي عندي عالـ MM لأنه هذا العرض فقط لما يخلص الشتا اليوم، وأهلاً وسهلاً بالجميع.\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n- **نوع الفيديو:** إعلان تجاري ترويجي لعرض موسمي (باكج شتاء).\n- **الهدف التسويقي:** جذب زبائن عبر تقديم عرض مخفض جداً لفترة محدودة بمناسبة حلول فصل الشتاء.\n- **مكونات العرض:** 5 منتجات متنوعة للعناية بالسيارة في الشتاء (مساحات كريستال، ماء مقطر، قشاطات، لزقات مرايا).\n- **استراتيجية التسعير:** تجميع عدة منتجات بسعر منتج واحد (أقل من 5 دنانير بدلاً من 20 دينار).\n- **عنصر الإلحاح (Urgency):** ربط العرض بانتهاء فصل الشتاء اليوم، مما يحفز على الشراء الفوري.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1632737474985364",
