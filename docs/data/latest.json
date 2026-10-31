@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 22,
+  "analyzed_video_ads": 23,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -193,11 +193,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"تعال خلينا نحسبهم حسبة سريعة، عندك خمس قطع جلد أرضيات راح يكونوا 10 دنانير، وعندك كمان هون طارة خياطة 7 دنانير، وعندك هان الفرش 20 دينار، طبعاً أنا اليوم بقولك راح تيجي على الـ Double M وتاخدهم بأقل من هيك بكتير، وهذا العرض راح يكون فقط لـ 24 ساعة، الفرش مع الأرضيات مع طارة الخياطة راح يكون فقط بـ 15 دينار ولنهاية اليوم، فيا بتلحق هذا العرض يا إما راح يروح عليك، وتعال خلينا نفرجيك العروض التانية بالصفحة.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية التسعير (Bundle Pricing):** يعتمد الفيديو استراتيجية \"تجميع المنتجات\" لتقديم قيمة إدراكية عالية، حيث تم خفض السعر الإجمالي من 37 ديناراً إلى 15 ديناراً فقط، مما يخلق جاذبية فورية للمشاهد.\n*   **عامل الندرة (Scarcity & Urgency):** استخدام تقنية التحديد الزمني (عرض لمدة 24 ساعة فقط) يحفز المشاهد على اتخاذ قرار الشراء السريع، وهو تكتيك فعال لرفع معدلات التحويل.\n*   **هيكلة الخطاب التسويقي:** \n    *   **الإغراء:** البدء بعرض السعر الأصلي لكل منتج على حدة لإبراز القيمة.\n    *   **الصدمة:** تقديم السعر المخفض كعرض حصري.\n    *   **الخاتمة (Call to Action):** دعوة صريحة للتحرك قبل فوات الأوان، مع ربطها بزيارة الصفحة لاكتشاف المزيد، مما يعزز من معدل التفاعل (Engagement Rate) عبر منصات التواصل الاجتماعي.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية التسعير (Bundle Pricing):** يعتمد الفيديو استراتيجية \"تجميع المنتجات\" لتقديم قيمة إدراكية عالية، حيث تم خفض السعر الإجمالي من 37 ديناراً إلى 15 ديناراً فقط، مما يخلق جاذبية فورية للمشاهد.\n*   **عامل الندرة (Scarcity & Urgency):** استخدام تقنية التحديد الزمني (عرض لمدة 24 ساعة فقط) يحفز المشاهد على اتخاذ قرار الشراء السريع، وهو تكتيك فعال لرفع معدلات التحويل.\n*   **هيكلة الخطاب التسويقي:** \n    *   **الإغراء:** البدء بعرض السعر الأصلي لكل منتج على حدة لإبراز القيمة.\n    *   **الصدمة:** تقديم السعر المخفض كعرض حصري.\n    *   **الخاتمة (Call to Action):** دعوة صريحة للتحرك قبل فوات الأوان، مع ربطها بزيارة الصفحة لاكتشاف المزيد، مما يعزز من معدل التفاعل (Engagement Rate) عبر منصات التواصل الاجتماعي.",
+        "transcript": "التفريغ النصي\n\"تعال خلينا نحسبهم حسبة سريعة، عندك خمس قطع جلد أرضيات راح يكونوا 10 دنانير، وعندك كمان هون طارة خياطة 7 دنانير، وعندك هان الفرش 20 دينار، طبعاً أنا اليوم بقولك راح تيجي على الـ Double M وتاخدهم بأقل من هيك بكتير، وهذا العرض راح يكون فقط لـ 24 ساعة، الفرش مع الأرضيات مع طارة الخياطة راح يكون فقط بـ 15 دينار ولنهاية اليوم، فيا بتلحق هذا العرض يا إما راح يروح عليك، وتعال خلينا نفرجيك العروض التانية بالصفحة.\"\n\n---"
       }
     },
     {
@@ -214,7 +214,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4680464205607073",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQO4cQAAGPo1PDacbj1XA-CV32MsLzmOkOfa3yypp4s31PHw5llKzbGj03xt6bENa1CvZt6G6wb6aX38ul99qjaGsXNUq2k9mY6wuHkVf0kg6Q.mp4?_nc_cat=105&_nc_oc=Adq0-RRmNp5vW-P4eh7FaWvjoBzQ2eJZ9eJTeFQGRIKxUeryUWlsAee7dgEye3x8Q1g&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=a1KRzwLjEAcQ7kNvwF2f8xA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NDk5MDM2NzcyMzUxODIsImFzc2V0X2FnZV9kYXlzIjo3LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=89083d776f39d7a8&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9CQjNGRTZEQ0NDNEY0OTUzODdGMjhEOUU3NDBCN0Q4Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFGMTg3MEJFMDE1QTQ1RTRBRTI1MkEwQ0RGNDUzRjIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbc_56awKuTBRUCKAJDMywXQELMzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHnkLuBk_J72HUGBopSbhOOb6vTOsXWy1Rvq9M6xdbLVNCA-G9N-nTro4a7fXNZ2eJzglX2DHsSEIXVKqiPvzIf&oh=00_AQSSp9q12RFO-8wWLpaWnORf3-BzW4hJK7YSBCl2fjsOEg&oe=6AEB9AE7",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "تفضل طلبك:\n\n\nوهذا طقم السماعات اللي راح تركبه على سيارتك لو عندك نظام الصوت مش واضح طقم السماعات مشيتي من شركة الدي بي زي مااحنا شايفين كيف طلع كيف شكل السماعة الفينيشنج المغناطيس تبع السماعة وسماعات الدي بي راح يعطوك ارمس فعلي واتف فعلي يعني الثلاثمئة واط راح تعطيك مئة وخمسين ارمس فعلي وفي منهم كمان بيجي الربار كاربون فايبر او قماش عشان شو ماطعت بيست تحافظ على رابر السماعة وهي السماعات متوفرة في الفرع عندنا دوار الحويان او الحرية مول ولاتنسى تتوقع وين الفرع الثالث وأهلا وسهلا بالجميع",
+        "summary": "### 2.\n- **عرض منتج:** يقدم الفيديو نظرة تفصيلية على طقم سماعات سيارات من ماركة \"DB\" (طراز \"Fight 60\").\n- **مواصفات تقنية:** يوضح المحدث مزايا السماعات مثل القوة الفعلية (150 RMS من أصل 300 واط) وجودة التصنيع (رابر كاربون فايبر/قماش للحماية).\n- **هدف ترويجي:** تسليط الضوء على حلول تحسين جودة صوت السيارة عبر متاجرهم المنتشرة في \"دوار الحويان\" و\"الحرية مول\" مع طرح سؤال تفاعلي لتخمين موقع الفرع الثالث لزيادة التفاعل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1529677872329718",
