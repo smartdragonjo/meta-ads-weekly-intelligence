@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 42,
+  "analyzed_video_ads": 43,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -673,11 +673,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\n- جاهز تشوف أفلام الحماية PPF على هاي السيارة؟ خليك معي باللحظة لحتى تشوف النتيجة النهائية.\n- وبكفالة 5 سنوات، بتقدر تركب أفلام الحماية عندك على السيارة، سواء كان مات أو حتى الجلوس.\n- كل اللي عليك تحكينا نوع سيارتك في التعليقات ونحن بنحكي لك التكلفة كاملة، وأهلا وسهلا فيكم.\n\n---",
-        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف بأسلوب نقاط واضحة:\n\n- **الهدف التسويقي:** الترويج لخدمات تطبيق أفلام الحماية (PPF) وتوضيح جودتها العالية وكفالتها الطويلة للسيارات.\n- **عرض القيمة:** تقديم كفالة لمدة 5 سنوات، مع توفر خيارات متعددة (مات أو جلوس) لتناسب تفضيلات العملاء المختلفة.\n- **التفاعل والتحويل (Call to Action):** دعوة الجمهور للتفاعل عبر التعليقات بكتابة نوع السيارة للحصول على تسعيرة فورية ومباشرة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\nملخص استراتيجي ذكي ومكثف بأسلوب نقاط واضحة:\n\n- **الهدف التسويقي:** الترويج لخدمات تطبيق أفلام الحماية (PPF) وتوضيح جودتها العالية وكفالتها الطويلة للسيارات.\n- **عرض القيمة:** تقديم كفالة لمدة 5 سنوات، مع توفر خيارات متعددة (مات أو جلوس) لتناسب تفضيلات العملاء المختلفة.\n- **التفاعل والتحويل (Call to Action):** دعوة الجمهور للتفاعل عبر التعليقات بكتابة نوع السيارة للحصول على تسعيرة فورية ومباشرة.",
+        "transcript": "تفريغ نصي كامل ودقيق للكلام المسموع في الفيديو:\n\n- جاهز تشوف أفلام الحماية PPF على هاي السيارة؟ خليك معي باللحظة لحتى تشوف النتيجة النهائية.\n- وبكفالة 5 سنوات، بتقدر تركب أفلام الحماية عندك على السيارة، سواء كان مات أو حتى الجلوس.\n- كل اللي عليك تحكينا نوع سيارتك في التعليقات ونحن بنحكي لك التكلفة كاملة، وأهلا وسهلا فيكم.\n\n---"
       }
     },
     {
@@ -694,7 +694,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1437359808500780",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNriK2B22IbCktMDfo0hykkRayONJxXr6IH1xmjQVA8uLReAtfPl4tQwEHD3vrtqZUUWB8utRxE69lcEzR77Gj8ynwLK4gijQaUFcx2ZjNylQ.mp4?_nc_cat=102&_nc_oc=Adob-ZWo7uCgoRjilyh7I6qD5eztnyYixIoJnk9snNMVseLzRfBnixGOlnWxCqXPmiI&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=zt_4Y-hjlc4Q7kNvwGfkM1w&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NTc3OTg2Njk0MzQzNTUsImFzc2V0X2FnZV9kYXlzIjo0LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6052938b76c0747a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9FRkZFOUUyMzcxMDQ0M0Y5QTM3QTlFREE3NTQ3N0Q1MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzI5QUQwQjJFQzFFMzRBODBCQjg0M0QwRDhBNTYyM0ZDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm9-fMyvDxBRUCKAJDMywXQDszMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHMHwStQOCkCSvI_d53Pa3Shvhm-9fBd6CG-Gb718F3oDFnD6ATCgO0ikCem7sSkUEn9jyl4DAm0jXQ0Lm24EHy&oh=00_AQTurQ8iXIPQy6mmluxhfjiQ2kVBeFIFUskImOBAbuDBkA&oe=6AEBA73E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "اليوم أنا جاي أفرجيك أصغر داش كام موجودة في العالم. هي الداش كام تنحط عندك على الزجاج الأمامي، وبتقلي وضوح التو كي، والأحلى من هيك أنها بتنشبك عندك تايب سي زي ما أنت شايف، وبتقدر تضيف لو حبيت كاميرا خلفية. ومنحط فيها مومري كارد لغاية 64 جيجا، والحلو بالموضوع وضوحها جدا عالي، وبتدعم تطبيق للتلفون لتقدر ترجع على فيديوهاتها عن طريق التلفون. وعليها سعر مميز في معارض دبل إم، وإذا حاب تعرف هي الكاميرا قديش سعرها في معارض دبل إم اسأل عنها بالتعليقات.",
+        "summary": "### 2.\n- **عرض منتج:** استعراض لأصغر داش كام في العالم بقدرات تصوير 2K.\n- **المميزات التقنية:** اتصال Type-C، دعم كاميرا خلفية اختيارية، متوافقة مع بطاقات ذاكرة حتى 64 جيجا.\n- **التطبيق والتحكم:** تدعم تطبيق الهاتف الذكي لاستعراض الفيديوهات وتسجيلاتها.\n- **التسعير والترويج:** توفرها بسعر مميز في معارض \"دبل إم\" مع دعوة للتفاعل والاستفسار عن السعر في التعليقات.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2346184819533344",
