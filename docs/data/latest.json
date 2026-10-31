@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 33,
+  "analyzed_video_ads": 34,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -457,11 +457,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "أهلاً بك، إليك التفريغ والملخص الاستراتيجي للفيديو:\n\n التفريغ النصي:\nأول ما بلش الشتا فحاب أقول لك عن باكج الشتا يلي وفرتلك إياه عندي في الـ MM. \nالمكون عندك من واحد، اثنين، ثلاث، أربع، خمس قطع بسعر منتج واحد!\nراح يكون عندك مساحات الكريستال، وبالإضافة لماء مقطر من الـ MM، ومساحتين قشاطة، ورح تاخذ معهم لزقات للمري.\nبدل ما تشتريهم بـ 20 دينار رح يكونوا بأقل من خمس دنانير! شغل سيارتك وضلّك جاي عندي عالـ MM لأنه هذا العرض فقط لما يخلص الشتا اليوم، وأهلاً وسهلاً بالجميع.\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n- **نوع الفيديو:** إعلان تجاري ترويجي لعرض موسمي (باكج شتاء).\n- **الهدف التسويقي:** جذب زبائن عبر تقديم عرض مخفض جداً لفترة محدودة بمناسبة حلول فصل الشتاء.\n- **مكونات العرض:** 5 منتجات متنوعة للعناية بالسيارة في الشتاء (مساحات كريستال، ماء مقطر، قشاطات، لزقات مرايا).\n- **استراتيجية التسعير:** تجميع عدة منتجات بسعر منتج واحد (أقل من 5 دنانير بدلاً من 20 دينار).\n- **عنصر الإلحاح (Urgency):** ربط العرض بانتهاء فصل الشتاء اليوم، مما يحفز على الشراء الفوري.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n- **نوع الفيديو:** إعلان تجاري ترويجي لعرض موسمي (باكج شتاء).\n- **الهدف التسويقي:** جذب زبائن عبر تقديم عرض مخفض جداً لفترة محدودة بمناسبة حلول فصل الشتاء.\n- **مكونات العرض:** 5 منتجات متنوعة للعناية بالسيارة في الشتاء (مساحات كريستال، ماء مقطر، قشاطات، لزقات مرايا).\n- **استراتيجية التسعير:** تجميع عدة منتجات بسعر منتج واحد (أقل من 5 دنانير بدلاً من 20 دينار).\n- **عنصر الإلحاح (Urgency):** ربط العرض بانتهاء فصل الشتاء اليوم، مما يحفز على الشراء الفوري.",
+        "transcript": "أهلاً بك، إليك التفريغ والملخص الاستراتيجي للفيديو:\n\n التفريغ النصي:\nأول ما بلش الشتا فحاب أقول لك عن باكج الشتا يلي وفرتلك إياه عندي في الـ MM. \nالمكون عندك من واحد، اثنين، ثلاث، أربع، خمس قطع بسعر منتج واحد!\nراح يكون عندك مساحات الكريستال، وبالإضافة لماء مقطر من الـ MM، ومساحتين قشاطة، ورح تاخذ معهم لزقات للمري.\nبدل ما تشتريهم بـ 20 دينار رح يكونوا بأقل من خمس دنانير! شغل سيارتك وضلّك جاي عندي عالـ MM لأنه هذا العرض فقط لما يخلص الشتا اليوم، وأهلاً وسهلاً بالجميع.\n\n---"
       }
     },
     {
@@ -478,7 +478,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1632737474985364",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQPBl81e676J7pHJ5HhTg-naFsm5onXTAW8W0AcmERa7WKmpdu4x6r6b0DwV9nbgnvOT-8RyZoL1oOxPpnq-P_1RRB8VFSB5b3VBfiM8PEPwwg.mp4?_nc_cat=101&_nc_oc=Ado8kwB_SjTC9XlQRf3fYVi8Ec6nsHr4sUs2OpT4blnB-qmm8lMz0w36hllnDGDGK20&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=VcV3WdxZFisQ7kNvwGTOty0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzMDU5MjY4NTgyOTU4NDcsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=99d8dc072835a14e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wRDkyNzMyNzBDNzA0MzFBQUMxQjRENjU2MEM2M0M0Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdCMzUwQTFEQkRCRDQ1ODRBRjZGNTAzQzFDMkZGRDE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOqO6n-e7RBBUCKAJDMywXQDoIcrAgxJwYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGDGzVuxUV6wqRZ_ycsrwbj9135jyXdzBP3XfmPJd3MEy9U9l_MbATVYQzBMqU__5v7Am17sZxj3vMrk61aFoiB&oh=00_AQQrh3u4sAddkwANpiz-LpTrYGo222XwBwQZARCvgMvW7Q&oe=6AEBB593",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك، إليك النتيجة بناءً على طلبك:\n\n\nسعر لوحده 15 اليوم عمل لك الدبل إم أوفر مميز البكج الصوتيات كان بيجي المسجل مدعوم بمدخلين واحد للفلاش وواحد للشاحن مدعوم بأربع جاكات RCA وتخيل أنك راح تاخذ طقم سماعات بيضاوي مدعوم بتويتر والسماعة الواحدة بتعطيك 400 وات تعال خذ هذا البكج كامل سماعتين بيضاوي مع المسجل بأقل من 17 دينار لمدة 24 ساعة السلام عليكم.",
+        "summary": "### 2.\n- **المنتج المعروض:** بكج صوتي للسيارات يتكون من مسجل سيارة (مزود بمدخلين USB أحدهما للشاحن، و4 مخارج RCA) بالإضافة إلى طقم سماعات بيضاوية مزودة بتويتر بقوة 400 وات للسماعة الواحدة.\n- **العرض الترويجي:** سعر البج كاملاً (المسجل + سماعتين) أقل من 17 ديناراً، والعرض ساري لفترة محدودة (24 ساعة فقط).\n- **الهدف التسويقي:** جذب المشاهدين لشراء البج الصوتي بالكامل من خلال إبراز القيمة الاقتصادية والمواصفات مقارنة بالسعر المنخفض وفي مدة زمنية محددة لتعزيز الشراء السريع.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2350782102421016",
