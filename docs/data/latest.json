@@ -2,7 +2,7 @@
   "scan_date": "2026-10-31",
   "total_ads": 52,
   "total_video_ads": 45,
-  "analyzed_video_ads": 23,
+  "analyzed_video_ads": 24,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -217,11 +217,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفضل طلبك:\n\n\nوهذا طقم السماعات اللي راح تركبه على سيارتك لو عندك نظام الصوت مش واضح طقم السماعات مشيتي من شركة الدي بي زي مااحنا شايفين كيف طلع كيف شكل السماعة الفينيشنج المغناطيس تبع السماعة وسماعات الدي بي راح يعطوك ارمس فعلي واتف فعلي يعني الثلاثمئة واط راح تعطيك مئة وخمسين ارمس فعلي وفي منهم كمان بيجي الربار كاربون فايبر او قماش عشان شو ماطعت بيست تحافظ على رابر السماعة وهي السماعات متوفرة في الفرع عندنا دوار الحويان او الحرية مول ولاتنسى تتوقع وين الفرع الثالث وأهلا وسهلا بالجميع",
-        "summary": "### 2.\n- **عرض منتج:** يقدم الفيديو نظرة تفصيلية على طقم سماعات سيارات من ماركة \"DB\" (طراز \"Fight 60\").\n- **مواصفات تقنية:** يوضح المحدث مزايا السماعات مثل القوة الفعلية (150 RMS من أصل 300 واط) وجودة التصنيع (رابر كاربون فايبر/قماش للحماية).\n- **هدف ترويجي:** تسليط الضوء على حلول تحسين جودة صوت السيارة عبر متاجرهم المنتشرة في \"دوار الحويان\" و\"الحرية مول\" مع طرح سؤال تفاعلي لتخمين موقع الفرع الثالث لزيادة التفاعل.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض منتج:** يقدم الفيديو نظرة تفصيلية على طقم سماعات سيارات من ماركة \"DB\" (طراز \"Fight 60\").\n- **مواصفات تقنية:** يوضح المحدث مزايا السماعات مثل القوة الفعلية (150 RMS من أصل 300 واط) وجودة التصنيع (رابر كاربون فايبر/قماش للحماية).\n- **هدف ترويجي:** تسليط الضوء على حلول تحسين جودة صوت السيارة عبر متاجرهم المنتشرة في \"دوار الحويان\" و\"الحرية مول\" مع طرح سؤال تفاعلي لتخمين موقع الفرع الثالث لزيادة التفاعل.",
+        "transcript": "تفضل طلبك:\n\n\nوهذا طقم السماعات اللي راح تركبه على سيارتك لو عندك نظام الصوت مش واضح طقم السماعات مشيتي من شركة الدي بي زي مااحنا شايفين كيف طلع كيف شكل السماعة الفينيشنج المغناطيس تبع السماعة وسماعات الدي بي راح يعطوك ارمس فعلي واتف فعلي يعني الثلاثمئة واط راح تعطيك مئة وخمسين ارمس فعلي وفي منهم كمان بيجي الربار كاربون فايبر او قماش عشان شو ماطعت بيست تحافظ على رابر السماعة وهي السماعات متوفرة في الفرع عندنا دوار الحويان او الحرية مول ولاتنسى تتوقع وين الفرع الثالث وأهلا وسهلا بالجميع"
       }
     },
     {
@@ -238,7 +238,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1529677872329718",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQMoLePFNKI6YvjTMaaIGqco33HdBAGiZF-04hXcFojjr8T98Jq12wRrKRlRp3JzfmKyM8QNVrKtv2fYDzwmO6wQZPoDz6vPs_dWes4inpC6Bg.mp4?_nc_cat=101&_nc_oc=AdrsDinsMAJBoNBbAHt3DXf5FHyQO7-k2QLKm_DHlP6TPetBP897rnlh-HAZckd70yY&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=55wR36O0DvcQ7kNvwEJIq-t&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4OTQ1NzYwMzgxNzk2NDQsImFzc2V0X2FnZV9kYXlzIjo4LCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ecf73171d2278868&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC81RERCQURCNkRFODM0QzE3OTJFNTIyQjYyMzQyREQyRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwNzJEMTk4QzI0RjREM0NBOEQxQTFCMjYzRjUyNjdFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb4zIu868bdBhUCKAJDMywXQDfmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=KqC5PrCnMDnxLQq34TAmeg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGwlPoapg0q1PNT1QY8Pv_ZJ5x7ex2SNuEnnHt7HZI24ZotbRPcFGUz--dKOybMFq8quUbaqHcUcorG4cbH5sDo&oh=00_AQRQLzeLjP45FCkKNfKPsbRp4g8YEQ8nVks6XewJwcr6rQ&oe=6AEB8517",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك، إليك التحليل الاستراتيجي وتفريغ النص للفيديو كما طلبته:\n\n التفريغ النصي للفيديو:\n\n\"انا اول تاجر بقول لك ما بدي اياك تركب عندي ضباب، بس تعال شوف التظلل الصح.. اتصال علي العفوية، تعال معي اورجيك جوا.. اكاميكينة الفرن، لا تشوف الفرق بين التجاري والالترا نانو.. سويت حفظ للفيديو؟ 6776.. اورجيك شغلة تحت، نغطي لك التابلو عشان ما نغرق السيارة مي.. وبنضبط لك الغرفة بتعزل الهواء والغبار والأتربة، وغير مكينة الفرن لنخليك تفحص الضباب بإيدك.. وبدك تضبب بالالترا نانو؟ اكتب لي كلمة نانو بالتعليقات!\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي (تحليل المنافس):\n\n*   **نوع المحتوى:** فيديو تسويقي ترويجي لخدمات تظليل السيارات وتركيب الضباب، مستند إلى أسلوب سرد شخصي (Vlog) وتفاعل مباشر مع المشاهدين.\n*   **الهدف التسويقي:** \n    *   بناء المصداقية والثقة مع العميل (من خلال عرض الاحترافية في العمل وتفضيل الجودة والتظلل الصح).\n    *   إبراز الفرق التقني والجودة بين المنتجات التجارية والالترا نانو.\n*   **عناصر الجذب (Hooks):** \n    *   استخدام أسلوب التحدي والعفوية (\"أنا اول تاجر بقول لك ما بدي اياك تركب...\").\n    *   طرح سؤال تفاعلي لتحفيز المشاهدين على التعليق (\"سويت حفظ للفيديو؟\"، \"اكتب لي كلمة نانو بالتعليقات\").\n*   **نقاط القوة التنافسية المعروضة:**\n    *   استخدام أحدث التجهيزات والتقنيات (ماكينة الفرن، غرف عزل الهواء والغبار).\n    *   العناية الفائقة بتفاصيل العمل (تغطية التابلو لحماية السيارة من الماء).\n    *   التشجيع على الفحص اليدوي للجودة لضمان رضا العميل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2995988437427596",
