@@ -2,7 +2,7 @@
   "scan_date": "2026-11-04",
   "total_ads": 28,
   "total_video_ads": 26,
-  "analyzed_video_ads": 21,
+  "analyzed_video_ads": 22,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -585,11 +585,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "حسناً، تفضل تحليل الفيديو:\n\n\nهس! كلوا يا زلمة! سيبوكم من الحكي الفارض، إذا أنا بطلع بالفيديو اعرف إني رح أقلك المحل حرق. الجمعة البيضاء معروف أنها يوم واحد، بس من عندي أنا الخيار، وبقولك خميس، جمعة، سبت كلهم جمعة بيضاء، بدك الخيار يجنن؟ اطلب أي منتج بدك إياه أعمل عليه خصم أكثر من 90% بالتعليقات، المصور راح، أعرف وين راح! بس نسيت أحكيلكم أنه في مفاجأة بس خلص رح أخليها سر بيني وبينكم.",
-        "summary": "### 2.\n- **إستراتيجية التسويق:** استخدام أسلوب الإثارة والتشويق عبر الادعاء بأن المحل \"حرق\" لجذب انتباه المشاهدين بسرعة.\n- **التخفيضات الكبرى:** الإعلان عن تمديد فترة \"الجمعة البيضاء\" لتشمل الخميس والجمعة والسبت، مع تقديم خصومات ضخمة تتجاوز 90% على أي منتج يتم اختياره في التعليقات.\n- **خلق تفاعل (Engagement):** حث المشاهدين على ترك تعليقات لطلب المنتجات والاستفادة من الخصومات، مما يزيد من معدل التفاعل والوصول للفيديو.\n- **عنصر الغموض:** استخدام حيلة \"المصور الضائع\" والمفاجأة السرية لخلق فضول وتشويق لدى الجمهور للمتابعة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **إستراتيجية التسويق:** استخدام أسلوب الإثارة والتشويق عبر الادعاء بأن المحل \"حرق\" لجذب انتباه المشاهدين بسرعة.\n- **التخفيضات الكبرى:** الإعلان عن تمديد فترة \"الجمعة البيضاء\" لتشمل الخميس والجمعة والسبت، مع تقديم خصومات ضخمة تتجاوز 90% على أي منتج يتم اختياره في التعليقات.\n- **خلق تفاعل (Engagement):** حث المشاهدين على ترك تعليقات لطلب المنتجات والاستفادة من الخصومات، مما يزيد من معدل التفاعل والوصول للفيديو.\n- **عنصر الغموض:** استخدام حيلة \"المصور الضائع\" والمفاجأة السرية لخلق فضول وتشويق لدى الجمهور للمتابعة.",
+        "transcript": "حسناً، تفضل تحليل الفيديو:\n\n\nهس! كلوا يا زلمة! سيبوكم من الحكي الفارض، إذا أنا بطلع بالفيديو اعرف إني رح أقلك المحل حرق. الجمعة البيضاء معروف أنها يوم واحد، بس من عندي أنا الخيار، وبقولك خميس، جمعة، سبت كلهم جمعة بيضاء، بدك الخيار يجنن؟ اطلب أي منتج بدك إياه أعمل عليه خصم أكثر من 90% بالتعليقات، المصور راح، أعرف وين راح! بس نسيت أحكيلكم أنه في مفاجأة بس خلص رح أخليها سر بيني وبينكم."
       }
     },
     {
@@ -606,7 +606,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1836937573985517",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMlnRcgp59bK8Mu8_4GhoV40fvmzoIQSc2cc5SgtLBCI5mWlZwNfxPLiKPQJwuKnFts8QGnJ1b4b2cLi-Anjruk148-Xxd5U_9AGpj_ex03Rg.mp4?_nc_cat=111&_nc_oc=AdoiwMDyVvpXY5sWCMDuyA_R2JnNZN0ZtZxRaLaS0v37OagBjLk83fyBmAV-kcaZH6w&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=8qM2aNDrFa8Q7kNvwG0RNi1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMTk3MjA5NjA5MzA5NDAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8262f479b134982&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DQzVDQzM3NUU5QjM0OEI3OEJEQzZBQzc3MzJBQzRCQV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Y2MThGRDYxMzNFQTRGMEQ4N0VGNDFBQjEwODA1Rjc5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb40f2hq5j9AxUCKAJDMywXQEdqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=xI5j5MdaNZmk_xCDbae6bg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEHAmt6GgTgywTrLpnLqqq1tk5dHucwzQu2Tl0e5zDNC1uhRN6VGR81Hx2Fve2L5Koa8AfwYxA4F_ZFIFCHC0Se&oh=00_AQR9xzO1NRmvLQGCNMK1N3x54Ozjt4p2HDvL3S6E6jXlZA&oe=6AF1124D",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "خلاص نحكي عنها شو بتستنى قاعد اه بلش أكيد أكيد طيب متى شو عندك الخميس مثلاً خلينا ناس نداوم المعلم ناس نداوم اوكي شو عندك الجمعة طب ما هو الجمعة في ناس تروح على قرايبها طب السبت مش عارف معلم إذا الخميس والجمعة السبت لا لا لا زي ما حكيت لك الخميس جمعة سبت معلم بدي أفضي رفوف المحل معلم يا نياله الراجل بيكون على الساعة 8 الصبح بباب المحل عندنا ليش شو اللي ليش معلم راح يمسك في البضاعة هيك معلم هيك طب أنا راح يوخذ شغلات بتخوف عروض أصناف بالذات الناس اللي تيجي على الثمانية الصبح بدري.",
+        "summary": "### 2.\n* **الفكرة الرئيسية:** تنظيم العمل والترتيب لافتتاح المحل أو توفر البضائع في وقت مبكر لتلبية احتياجات الزبائن الصباحيين.\n* **النقاش الدائر:** التنسيق بين الطرفين حول مواعيد العمل (الخميس، الجمعة، السبت) ومحاولة إيجاد الوقت الأنسب لتنظيم المحل وتجهيزه.\n* **الموقف الحاسم:** الرغبة في فتح المحل وتفريغ الرفوف في وقت مبكر (الساعة 8:00 صباحاً) لجذب الزبائن المميزين والذين يبحثون عن صفقات وعروض مبكرة.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1674845837674238",
