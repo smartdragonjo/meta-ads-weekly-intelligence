@@ -2,7 +2,7 @@
   "scan_date": "2026-11-04",
   "total_ads": 28,
   "total_video_ads": 26,
-  "analyzed_video_ads": 23,
+  "analyzed_video_ads": 24,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -633,11 +633,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل المحتوى بالفيديو:\n\n\nيانيال اللي رح يجي علينا خميس جمعة سبت، بدي منك تمنشن لصاحبك ولقرايبك كلها وتيجي علينا على الدبل ام لأنه رح يكون في عنا فعاليات كثيرة كبيرة والخصومات زي ما بدك وزيادة، ما معك مصاري تعال رح تطلع من عندي بكيس. والخصومات رح تكون من 20% لـ 100%، أنت عارف شو يعني 100% يعني في أشياء قيمة راح تكون ببلاش، وهيني فضيت لك الساحات زي ما أنت شايف عشان أعبيلك ياها البضاعة اللي بتناسبكم. هذول الثلاث أيام راح يكونوا أقوى ثلاث أيام على مستوى المملكة، كل اللي بدي إياه منك أنك تمنشن لصاحبك لقرايبك وتضلك جاي عندي على الدبل ام، حبايبي موقعنا شارع الحرية مقابل الحرية مول والفرع الثاني مقابل جوار الحويان وأهلاً وسهلاً بالجميع وجمعة بيضاء علينا وعليكم.",
-        "summary": "### 2.\n- **الهدف التسويقي:** الإعلان عن تخفيضات كبرى ومفاجآت (تصل إلى 100% لبعض المنتجات) لمده ثلاثة أيام (خميس، جمعة، سبت).\n- **التحفيز الجماهيري:** دعوة المتابعين لمنشن الأصدقاء والأقارب لزيارة المعرض والاستفادة من العروض الكبيرة والفعاليات.\n- **التفاعل والروح الإيجابية:** استخدام أسلوب حماسي، ترفيهي، ومباشر من مقدم الفيديو للتأثير على المستهلك وتحفيز الشراء حتى لمن لا يملك نقوداً (\"تطلع من عندي بكيس\").\n- **تحديد المواقع:** إبراز تفاصيل الموقعين للفرعين الرئيسيين بوضوح لتسهيل وصول العملاء.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **الهدف التسويقي:** الإعلان عن تخفيضات كبرى ومفاجآت (تصل إلى 100% لبعض المنتجات) لمده ثلاثة أيام (خميس، جمعة، سبت).\n- **التحفيز الجماهيري:** دعوة المتابعين لمنشن الأصدقاء والأقارب لزيارة المعرض والاستفادة من العروض الكبيرة والفعاليات.\n- **التفاعل والروح الإيجابية:** استخدام أسلوب حماسي، ترفيهي، ومباشر من مقدم الفيديو للتأثير على المستهلك وتحفيز الشراء حتى لمن لا يملك نقوداً (\"تطلع من عندي بكيس\").\n- **تحديد المواقع:** إبراز تفاصيل الموقعين للفرعين الرئيسيين بوضوح لتسهيل وصول العملاء.",
+        "transcript": "إليك تحليل المحتوى بالفيديو:\n\n\nيانيال اللي رح يجي علينا خميس جمعة سبت، بدي منك تمنشن لصاحبك ولقرايبك كلها وتيجي علينا على الدبل ام لأنه رح يكون في عنا فعاليات كثيرة كبيرة والخصومات زي ما بدك وزيادة، ما معك مصاري تعال رح تطلع من عندي بكيس. والخصومات رح تكون من 20% لـ 100%، أنت عارف شو يعني 100% يعني في أشياء قيمة راح تكون ببلاش، وهيني فضيت لك الساحات زي ما أنت شايف عشان أعبيلك ياها البضاعة اللي بتناسبكم. هذول الثلاث أيام راح يكونوا أقوى ثلاث أيام على مستوى المملكة، كل اللي بدي إياه منك أنك تمنشن لصاحبك لقرايبك وتضلك جاي عندي على الدبل ام، حبايبي موقعنا شارع الحرية مقابل الحرية مول والفرع الثاني مقابل جوار الحويان وأهلاً وسهلاً بالجميع وجمعة بيضاء علينا وعليكم."
       }
     },
     {
@@ -654,7 +654,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=2497001157489360",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNEdGbKjwYFXoLkEz5y1E1lUYWfVpbIwMMtmHYYeSRP44AoNEQ6ACXZSqimuxAdvNyqjQYG65O6HhnsvAnYrADydXfOfHuNpUUDTOUq8w-RMA.mp4?_nc_cat=109&_nc_oc=AdqlltqHib6Vnl4Bygo4usZVIDUTQurQM3yFz7hNGJLKa63SQIHL5-FaqyD5KPxfLfA&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=yJq9CYAjv3MQ7kNvwH7W7nx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNDIwMzM1NjE1NDY4NDIsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e94cc52b81bfa5c4&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84NDRGM0I0QUU0MzI0MThGODU4QTI1MTIyQzMxMzE2MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA2MkQwMUMxQzVDNjQxMTk5ODgzRERCMUY1MENGRTY4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0wY-MjauHBBUCKAJDMywXQDciDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=xI5j5MdaNZmk_xCDbae6bg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeHT5zJhzU7zfvssDFZQaTjtmP-angVCAyuY_5qeBUIDK0_CLt2X2p-WcDu6EntAwC-WXKqm2tubPvuNkR7M8Do7&oh=00_AQTLWEslI4rxr4lINxAS7IC_bD7xKzl_IS758AM5dbr_nA&oe=6AF10DB3",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "الخميس راح يكون شغله، والجمعة راح تكون شغله ثانية، والسبت راح يكون شغله ثالثة، وهدول السلال راح افلل لك اياهم اشياء ما راح تخطر على العقل البشري، انت متخيل لوين؟ عروض، خصومات، انا لما اقول لك جمعة بيضاء انت عارف انا مين، عارف شو يعني الدبليو ام لما تكون جمعتها البيضاء، وبستناكم بالفرعين، وهي العروض فقط مرة في السنة.",
+        "summary": "إليك ملخص استراتيجي لفيديو المنافس بناءً على ما ورد في النص:\n\n*   **خطة العروض الزمنية:** تقديم جدول عروض مكثف ومقسم على مدار ثلاثة أيام (الخميس، الجمعة، والسبت)، حيث يخصص لكل يوم عروض وتشكيلة منتجات مختلفة.\n*   **استراتيجية جذب العملاء:** التركيز على إثارة الفضول والترقب من خلال الإعلان عن توفير \"سلال\" متنوعة بمنتجات غير تقليدية وغير مسبوقة.\n*   **هوية الحملة:** استغلال اسم العلامة التجارية (WM) كمرجع للقوة والمصداقية في سوق \"الجمعة البيضاء\".\n*   **الحصرية والندرة:** التأكيد على أن هذه العروض والخصومات استثنائية وتحدث مرة واحدة فقط في السنة.\n*   **نطاق التغطية:** العروض متاحة في كافة فروع العلامة التجارية لضمان وصولها لأكبر شريحة من الجمهور.",
+        "processing_method": "gemini_audio_transcribe",
+        "result_type": "audio_transcription",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1480925270808965",
