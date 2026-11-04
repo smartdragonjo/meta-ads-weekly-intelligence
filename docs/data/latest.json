@@ -2,7 +2,7 @@
   "scan_date": "2026-11-04",
   "total_ads": 28,
   "total_video_ads": 26,
-  "analyzed_video_ads": 22,
+  "analyzed_video_ads": 23,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -609,11 +609,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "خلاص نحكي عنها شو بتستنى قاعد اه بلش أكيد أكيد طيب متى شو عندك الخميس مثلاً خلينا ناس نداوم المعلم ناس نداوم اوكي شو عندك الجمعة طب ما هو الجمعة في ناس تروح على قرايبها طب السبت مش عارف معلم إذا الخميس والجمعة السبت لا لا لا زي ما حكيت لك الخميس جمعة سبت معلم بدي أفضي رفوف المحل معلم يا نياله الراجل بيكون على الساعة 8 الصبح بباب المحل عندنا ليش شو اللي ليش معلم راح يمسك في البضاعة هيك معلم هيك طب أنا راح يوخذ شغلات بتخوف عروض أصناف بالذات الناس اللي تيجي على الثمانية الصبح بدري.",
-        "summary": "### 2.\n* **الفكرة الرئيسية:** تنظيم العمل والترتيب لافتتاح المحل أو توفر البضائع في وقت مبكر لتلبية احتياجات الزبائن الصباحيين.\n* **النقاش الدائر:** التنسيق بين الطرفين حول مواعيد العمل (الخميس، الجمعة، السبت) ومحاولة إيجاد الوقت الأنسب لتنظيم المحل وتجهيزه.\n* **الموقف الحاسم:** الرغبة في فتح المحل وتفريغ الرفوف في وقت مبكر (الساعة 8:00 صباحاً) لجذب الزبائن المميزين والذين يبحثون عن صفقات وعروض مبكرة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n* **الفكرة الرئيسية:** تنظيم العمل والترتيب لافتتاح المحل أو توفر البضائع في وقت مبكر لتلبية احتياجات الزبائن الصباحيين.\n* **النقاش الدائر:** التنسيق بين الطرفين حول مواعيد العمل (الخميس، الجمعة، السبت) ومحاولة إيجاد الوقت الأنسب لتنظيم المحل وتجهيزه.\n* **الموقف الحاسم:** الرغبة في فتح المحل وتفريغ الرفوف في وقت مبكر (الساعة 8:00 صباحاً) لجذب الزبائن المميزين والذين يبحثون عن صفقات وعروض مبكرة.",
+        "transcript": "خلاص نحكي عنها شو بتستنى قاعد اه بلش أكيد أكيد طيب متى شو عندك الخميس مثلاً خلينا ناس نداوم المعلم ناس نداوم اوكي شو عندك الجمعة طب ما هو الجمعة في ناس تروح على قرايبها طب السبت مش عارف معلم إذا الخميس والجمعة السبت لا لا لا زي ما حكيت لك الخميس جمعة سبت معلم بدي أفضي رفوف المحل معلم يا نياله الراجل بيكون على الساعة 8 الصبح بباب المحل عندنا ليش شو اللي ليش معلم راح يمسك في البضاعة هيك معلم هيك طب أنا راح يوخذ شغلات بتخوف عروض أصناف بالذات الناس اللي تيجي على الثمانية الصبح بدري."
       }
     },
     {
@@ -630,7 +630,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1674845837674238",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQP_-n3NyZF8hr7jpn0eb7F_JMB-Krca2Pvfzj6rVCq1E3a-SNijJpXMNcabbWqvzyKiHSqs3o3S3xwDKpyEfu172wvaaHkRZhp8H_CsXfj70Q.mp4?_nc_cat=109&_nc_oc=AdpvMmDPqy9IwaGqlpff7s3OJsHX8yD2GoPzq7UZ8jTYNTIlFgmRwv-Pc0tun-rkJS8&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=l706WIiTg7UQ7kNvwHP7LjZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1OTkzMDMwMTEzOTczNDMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8b27ad65580604f0&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BOUNBOTA1MjJEM0Q0Q0Y2ODU5MDJGRDI5NkQ1MUVENl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0VERjI0NDVFQ0ZEQTQ5RjRBQjYzMzdGQ0M5RjQ3OTc1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-u4_-16PXBRUCKAJDMywXQEazMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=xI5j5MdaNZmk_xCDbae6bg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGWxVlm1v6-cK-Ej6z8tgf3eJE02uOPBYp4kTTa448Fiq88jYEn8IgwZBD0eqD5CbYC9_79I9xQ5ENxeaAJ5Io6&oh=00_AQTCYtdpnm-k78ocH1rLGLbF6zH0EcizSJIgbYMxVIAZfA&oe=6AF1166B",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل المحتوى بالفيديو:\n\n\nيانيال اللي رح يجي علينا خميس جمعة سبت، بدي منك تمنشن لصاحبك ولقرايبك كلها وتيجي علينا على الدبل ام لأنه رح يكون في عنا فعاليات كثيرة كبيرة والخصومات زي ما بدك وزيادة، ما معك مصاري تعال رح تطلع من عندي بكيس. والخصومات رح تكون من 20% لـ 100%، أنت عارف شو يعني 100% يعني في أشياء قيمة راح تكون ببلاش، وهيني فضيت لك الساحات زي ما أنت شايف عشان أعبيلك ياها البضاعة اللي بتناسبكم. هذول الثلاث أيام راح يكونوا أقوى ثلاث أيام على مستوى المملكة، كل اللي بدي إياه منك أنك تمنشن لصاحبك لقرايبك وتضلك جاي عندي على الدبل ام، حبايبي موقعنا شارع الحرية مقابل الحرية مول والفرع الثاني مقابل جوار الحويان وأهلاً وسهلاً بالجميع وجمعة بيضاء علينا وعليكم.",
+        "summary": "### 2.\n- **الهدف التسويقي:** الإعلان عن تخفيضات كبرى ومفاجآت (تصل إلى 100% لبعض المنتجات) لمده ثلاثة أيام (خميس، جمعة، سبت).\n- **التحفيز الجماهيري:** دعوة المتابعين لمنشن الأصدقاء والأقارب لزيارة المعرض والاستفادة من العروض الكبيرة والفعاليات.\n- **التفاعل والروح الإيجابية:** استخدام أسلوب حماسي، ترفيهي، ومباشر من مقدم الفيديو للتأثير على المستهلك وتحفيز الشراء حتى لمن لا يملك نقوداً (\"تطلع من عندي بكيس\").\n- **تحديد المواقع:** إبراز تفاصيل الموقعين للفرعين الرئيسيين بوضوح لتسهيل وصول العملاء.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2497001157489360",
