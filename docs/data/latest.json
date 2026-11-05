@@ -2,7 +2,7 @@
   "scan_date": "2026-11-05",
   "total_ads": 33,
   "total_video_ads": 33,
-  "analyzed_video_ads": 22,
+  "analyzed_video_ads": 23,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -176,11 +176,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"طقم عالي وطقم واطي، من أفضل ليزر على مستوى المملكة ليزرات الـ SR العالمية، الليزر الـ 50 برو. ما تنسى تسألني عن سعره بالتعليقات، وبيركب لجميع أنواع السيارات فيش بفيش، برضه على القاعدة الأصلية. الربيع زينون اكسسوارات السيارات، فرع مدارس إكسبور، موقعنا بعد دوار المشاغل 500 متر، إيدك اليمين مبنى مدارس إكسبور. ما ننسى باقي أفرعنا: المدينة، محطة إربد، والحرية. بشوفكم على خير، وسلام.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **المنتج:** تسليط الضوء على \"ليزر SR 50 برو\"، مع التركيز على ميزتين تنافسيتين (سهولة التركيب \"فيش بفيش\"، والمحافظة على \"القاعدة الأصلية\").\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) مباشرة من خلال حث المشاهدين على السؤال عن السعر في التعليقات لرفع معدل التفاعل (Engagement Rate).\n*   **بناء الثقة:** عرض المنتج مركباً بالفعل على سيارة (تويوتا بريوس)، مما يمنح المشاهدين دليلاً مرئياً واقعياً على الأداء والجودة.\n*   **التوسع الجغرافي:** تحديد الموقع بدقة شديدة (نقطة مرجعية + مسافة)، مع التنويه بوجود فروع أخرى لتعزيز التواجد والانتشار في السوق.\n*   **الهوية التجارية:** تكرار اسم العلامة التجارية (SR) في سياق يربطها بالجودة والاحترافية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **المنتج:** تسليط الضوء على \"ليزر SR 50 برو\"، مع التركيز على ميزتين تنافسيتين (سهولة التركيب \"فيش بفيش\"، والمحافظة على \"القاعدة الأصلية\").\n*   **استراتيجية التفاعل:** استخدام \"دعوة لاتخاذ إجراء\" (CTA) مباشرة من خلال حث المشاهدين على السؤال عن السعر في التعليقات لرفع معدل التفاعل (Engagement Rate).\n*   **بناء الثقة:** عرض المنتج مركباً بالفعل على سيارة (تويوتا بريوس)، مما يمنح المشاهدين دليلاً مرئياً واقعياً على الأداء والجودة.\n*   **التوسع الجغرافي:** تحديد الموقع بدقة شديدة (نقطة مرجعية + مسافة)، مع التنويه بوجود فروع أخرى لتعزيز التواجد والانتشار في السوق.\n*   **الهوية التجارية:** تكرار اسم العلامة التجارية (SR) في سياق يربطها بالجودة والاحترافية.",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"طقم عالي وطقم واطي، من أفضل ليزر على مستوى المملكة ليزرات الـ SR العالمية، الليزر الـ 50 برو. ما تنسى تسألني عن سعره بالتعليقات، وبيركب لجميع أنواع السيارات فيش بفيش، برضه على القاعدة الأصلية. الربيع زينون اكسسوارات السيارات، فرع مدارس إكسبور، موقعنا بعد دوار المشاغل 500 متر، إيدك اليمين مبنى مدارس إكسبور. ما ننسى باقي أفرعنا: المدينة، محطة إربد، والحرية. بشوفكم على خير، وسلام.\"\n\n---"
       }
     },
     {
@@ -197,7 +197,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=3129649390699524",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOjPTAkCpRRtzdw4ahB6fJ_9YMLAHniplWVn2vxqKlDc_jgD1T6aTKa5oE0KKJhJJ7KumaCmPq3xZcfn1jSlEEIau9peMbgLvTD615Z_BJksA.mp4?_nc_cat=106&_nc_oc=Ado25fuEz8d1b1mvtaqwcZDJdvNEpUXe6uxTOMebo9p-G1t-hkC1f0c6-rD7wUADruY&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=EamfAkxKUQUQ7kNvwGsBPpr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk4NDQwOTM0NDcyMDA3OCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjoyNywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=45d88c567bbcf2f&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82N0FBODA0OTJCNTE0ODg0OEM1RUFGRTY4RTE4MTE0OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIyNTZBQUExOUE5NDRDQjA5MjgzRUIzRTRDMDY2M0VEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACac8_GUldS_AxUCKAJDMywXQDvVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=DMjHAtOfaRgrIvvGwV8Tmg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeEiIvGZtLGeWSVmJiYa9DZq_aLiQ8Q0cfX9ouJDxDRx9SSckui1UTjIzm0OffUuZDQyv7teyUQRGWpHIdsq4mYR&oh=00_AQTAgTPUaJGItHfvuRvneHaVtcQnrej4uzLK9hryk2PkFw&oe=6AF24466",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي\n\"بالله عليك بتلاقي أحلى من هيك موديلات للفرش؟ شوف بسم الله ما شاء الله، فرش الـ 12D. كل الموديلات موجودة منه، وكل الألوان موجودة منه. كله ميموري فوم، وبيركب على قواعد السيارة من غير كباشي حديد، بالإضافة لمخدة الميموري فوم الأصلية. \nفروش الـ SR في كل أفرعنا، مدينة، محطة، إربد وحرية. وهذا الفرش بيركب على الكيا نيرو، حماية للجلد الأصلي وبالإضافة إنه هو كمان منظر جمالي. يعطيكم العافية وبنتشرف فيكم.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي\n*   **القيمة البيعية الأساسية:** التركيز على دمج الجمالية (التصميم بأسلوب 12D) مع الوظيفية (خامة الميموري فوم المريحة).\n*   **نقطة البيع الفريدة (USP):** سهولة التركيب (لا يحتاج لتعديلات أو \"كباشي حديد\" تحافظ على سلامة الجلد الأصلي للسيارة).\n*   **بناء الثقة:** عرض المنتج داخل بيئة حقيقية (داخل السيارة) ليوضح جودة التشطيب (Finishing).\n*   **تعزيز الانتشار:** استغلال اسم العلامة التجارية لربطه بمواقع جغرافية متعددة لزيادة سهولة الوصول للعملاء.\n*   **استراتيجية الإقناع:** استخدام أسلوب \"الحماية + التجميل\" لجذب العملاء الذين يحرصون على قيمة سيارتهم وإعادة بيعها مستقبلاً.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1128828152926197",
