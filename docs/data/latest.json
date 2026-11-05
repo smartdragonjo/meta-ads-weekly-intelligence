@@ -2,7 +2,7 @@
   "scan_date": "2026-11-05",
   "total_ads": 33,
   "total_video_ads": 33,
-  "analyzed_video_ads": 26,
+  "analyzed_video_ads": 27,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -536,11 +536,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل الفيديو المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"يا معلم، أحلى سعر فيك يا مملكة كمان، قرب علي. إذا بتلاقي سعر فيك يا مملكة أقل من هذا السعر وبهذه الجودة، أهم إشي قرب علي، أمامي خلفي نفس الشكل، ماشي؟ تعال راجعني، معلم عامل عليه عرض سعر، انزل على التعليقات وشوف أحلى سعر راح أعطيك إياه. سلام.\"",
-        "summary": "### 2. ملخص استراتيجي:\n\n*   **استغلال \"الندرة\" و\"الثقة\":** اعتمد مقدم الفيديو على أسلوب \"التحدي\" (إذا بتلاقي أرخص تعال راجعني) لتعزيز ثقة المشاهد في السعر المقدم.\n*   **التركيز على القيمة (Value Proposition):** ركز الخطاب على الجمع بين \"أفضل سعر\" و\"أعلى جودة\"، مع تسليط الضوء على ميزة تقنية محددة (تصميم أمامي وخلفي متطابق).\n*   **استراتيجية التفاعل (Engagement):** استخدام \"دعوة للعمل\" (Call to Action) واضحة ومباشرة للمشاهدين بالتوجه لقسم التعليقات، مما يعزز خوارزميات الانتشار للفيديو.\n*   **التسويق الموضعي (Branding):** ظهر اسم المحل بوضوح في الخلفية في نهاية الفيديو، مما يربط العرض الترويجي بهوية تجارية محددة تجذب العميل للمكان.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **استغلال \"الندرة\" و\"الثقة\":** اعتمد مقدم الفيديو على أسلوب \"التحدي\" (إذا بتلاقي أرخص تعال راجعني) لتعزيز ثقة المشاهد في السعر المقدم.\n*   **التركيز على القيمة (Value Proposition):** ركز الخطاب على الجمع بين \"أفضل سعر\" و\"أعلى جودة\"، مع تسليط الضوء على ميزة تقنية محددة (تصميم أمامي وخلفي متطابق).\n*   **استراتيجية التفاعل (Engagement):** استخدام \"دعوة للعمل\" (Call to Action) واضحة ومباشرة للمشاهدين بالتوجه لقسم التعليقات، مما يعزز خوارزميات الانتشار للفيديو.\n*   **التسويق الموضعي (Branding):** ظهر اسم المحل بوضوح في الخلفية في نهاية الفيديو، مما يربط العرض الترويجي بهوية تجارية محددة تجذب العميل للمكان.",
+        "transcript": "إليك تحليل الفيديو المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"يا معلم، أحلى سعر فيك يا مملكة كمان، قرب علي. إذا بتلاقي سعر فيك يا مملكة أقل من هذا السعر وبهذه الجودة، أهم إشي قرب علي، أمامي خلفي نفس الشكل، ماشي؟ تعال راجعني، معلم عامل عليه عرض سعر، انزل على التعليقات وشوف أحلى سعر راح أعطيك إياه. سلام.\""
       }
     },
     {
@@ -701,7 +701,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1807906330448339",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMhiWVZkVoYIH4DU4aghm86iLQQ4iNGOZ9P-9p7s03WqfpFNQsWuIdyH0ACRhPh0mSS70WCVr0JeeG3uTyIdJeSdo3LR7Af6nnKgyW_gdSqPw.mp4?_nc_cat=108&_nc_oc=AdqC6gQylN8FPGlZXHC-lEIYTx19mrQ1iiv_A_U4EUynyyPiVAJR0FhDCtviBBcJqtA&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=QDIwF9FMEmEQ7kNvwHbqimB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE4NDY5OTkyNjI5OTc4NDgsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=44daf539ffe250f9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82Q0Y1NjM3MEZDRTE0RUE2OTFEQzhFRkU0NzI5M0QwOF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NzExNUQ5NUFCODRDQUM5REU5MDZFQzREQzNCRDZCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACawtcXvwPXHBhUCKAJDMywXQESEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=dj-Eb70_FYY9aQM7cLGTfA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeGIm8wbKiYNJFU-JeCBzQ2cXsA_nhYeNLVewD-eFh40tRjunoI-Ke7cSmlWNljFZ1fOcU_Q2sv2GIIZ4J0pLxB0&oh=00_AQTSOkAkiFW_LNoW8O_A5aolzUEpvjK9DL4NknQBmv-o_g&oe=6AF25020",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي:\n- \"عقيد شو بتعمل؟\"\n- \"فرش كامل لسيارتك، إذا إنت كنت موجود الساعة 8، وممكن يكون مساطر ضوئية، ممكن يكون ليد داخلي، ممكن يكون هدايا قيمة.. الموضوع سهل جداً، إنت لما بتكون موجود الساعة 8 بكرة يوم الخميس والجمعة الساعة 9 صباحاً، والسبت الساعة 8، رح تربح هاي الكوبونات كلها هدية\".\n- \"ما في داعي إنك إنت تقعد تدور على هذا الكوبون، رح يكون ظاهر وموجود ومحطوط بأي مكان عشوائي، كل اللي عليك إنك تكون موجود الساعة 8 لتلحق تكسب هاي الهدايا المجانية، هدايا جداً قيمة وجداً محرزة وراح تكون ظاهرة للجميع\".\n- \"يعني التجمع الساعة 8، لا تتأخروا شباب، لأنه هاي الهدايا القيمة تستاهلها سيارتك\".\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **خطة الجذب (Gamification):** تحويل التسوق إلى تجربة تفاعلية من خلال \"لعبة البحث عن الكنز\" داخل المتجر، مما يرفع من معدل التفاعل والحماس.\n*   **خلق الإلحاح (Urgency):** تحديد ساعات وأيام محددة (الخميس، الجمعة، السبت) بجدول زمني دقيق، مما يحفز العملاء على زيارة المتجر في تلك الأوقات لضمان عدم ضياع الفرصة.\n*   **تكتيك الانتشار (Visibility):** توزيع الهدايا/الكوبونات بشكل عشوائي وواضح داخل أروقة المتجر يضمن تجوال العميل في كافة الأقسام، مما يزيد من فرص البيع العرضي للمنتجات الموجودة على الأرفف.\n*   **رسالة القيمة (Value Proposition):** التركيز على أن الجوائز \"قيمة ومحرزة\"، مما يبرر للعميل استثمار وقته والمجيء مبكراً.\n*   **الأسلوب التسويقي:** الاعتماد على العفوية والحيوية في التقديم (الطريقة المباشرة بالحديث مع الجمهور) لزيادة المصداقية والقرب من العميل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1628697338752818",
