@@ -2,7 +2,7 @@
   "scan_date": "2026-11-07",
   "total_ads": 52,
   "total_video_ads": 50,
-  "analyzed_video_ads": 33,
+  "analyzed_video_ads": 34,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -320,11 +320,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"لسه مكملين.. اليوم وبكرة لسه أقوى.. أقوى وأقوى، طلع.. ورجيني بس هيك لفة على المعرض..\n(أغنية في الخلفية)\nلسه مكملين اليوم والجمعة ما راح نسكر إلا لآخر زبون بيطلع من المعرض، وبكرة السبت 7/11 أقوى من اليوم وأقوى من مبارح، وبتشرفونا بالفرعين، وأهلاً وسهلاً ورّ..\".",
-        "summary": "### 2. الملخص الاستراتيجي\n*   **خلق حالة من الزخم (FOMO):** يعتمد الفيديو على أسلوب \"التصاعد\" في الترويج، عبر التأكيد المستمر أن الفعاليات القادمة ستكون أقوى من الحالية.\n*   **التسويق بالتجربة الحية:** استعراض الحشود الكبيرة داخل المتجر (Social Proof) يعزز من مصداقية العروض ويحفز المشاهدين الآخرين على الزيارة.\n*   **المرونة والالتزام:** إيصال رسالة قوية للعملاء بأن المتجر مستمر في الخدمة حتى \"آخر زبون\"، مما يكسر حاجز التردد لدى المتسوقين في أوقات متأخرة.\n*   **الترويج العابر للموقع:** الإشارة إلى وجود \"فرعين\" تساهم في توسيع القاعدة الجغرافية للجمهور المستهدف وتسهيل الوصول للخدمة.\n*   **أسلوب التقديم الحماسي:** الاعتماد على لغة الجسد والنبرة الخطابية القوية يضفي طابع \"المهرجان\" على عملية التسوق، مما يجعلها تجربة اجتماعية وليست مجرد عملية شراء.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n*   **خلق حالة من الزخم (FOMO):** يعتمد الفيديو على أسلوب \"التصاعد\" في الترويج، عبر التأكيد المستمر أن الفعاليات القادمة ستكون أقوى من الحالية.\n*   **التسويق بالتجربة الحية:** استعراض الحشود الكبيرة داخل المتجر (Social Proof) يعزز من مصداقية العروض ويحفز المشاهدين الآخرين على الزيارة.\n*   **المرونة والالتزام:** إيصال رسالة قوية للعملاء بأن المتجر مستمر في الخدمة حتى \"آخر زبون\"، مما يكسر حاجز التردد لدى المتسوقين في أوقات متأخرة.\n*   **الترويج العابر للموقع:** الإشارة إلى وجود \"فرعين\" تساهم في توسيع القاعدة الجغرافية للجمهور المستهدف وتسهيل الوصول للخدمة.\n*   **أسلوب التقديم الحماسي:** الاعتماد على لغة الجسد والنبرة الخطابية القوية يضفي طابع \"المهرجان\" على عملية التسوق، مما يجعلها تجربة اجتماعية وليست مجرد عملية شراء.",
+        "transcript": "التفريغ النصي\n\"لسه مكملين.. اليوم وبكرة لسه أقوى.. أقوى وأقوى، طلع.. ورجيني بس هيك لفة على المعرض..\n(أغنية في الخلفية)\nلسه مكملين اليوم والجمعة ما راح نسكر إلا لآخر زبون بيطلع من المعرض، وبكرة السبت 7/11 أقوى من اليوم وأقوى من مبارح، وبتشرفونا بالفرعين، وأهلاً وسهلاً ورّ..\"."
       }
     },
     {
@@ -341,7 +341,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=4507822399435865",
       "video_url": "https://scontent.famm3-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMIOv6S7nqNIw5MXJD0ubY_gL0ycLip3UajfxNHidrzMwb-OdcrYzosD14iUa98dCJP5GfiK8arv3K7Afdl9fQX-DjxWYJydQkzGtb0Fx5q-Q.mp4?_nc_cat=108&_nc_oc=AdpbRPSmTxahU0q8dPgmz-OaEY0DeqpMugHKVgFvRN4ZNwPER0MqAhWmE3W8zDJ0RSQ&_nc_sid=b66105&_nc_ht=scontent.famm3-3.fna.fbcdn.net&_nc_ohc=rVG-wrbmru0Q7kNvwGw9oTj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjg3MjM2MzU2MjYwMDEyOCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjozNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=b916f4343b814e5d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BQzY2OTZEQjMyQUY0QkY3QTNGOEM5NUJEMDA1NDJGNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50Lzg2RTFFMEQ2NEFGMTQxMDg5QUZEODNBMkEyREFGMEU4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaAm5yEn9qMAxUCKAJDMywXQEHZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=cHM5KdoKikoWoZ9toEBcLw&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFRzf8lkS1GmTui1JPewh2IIgwo9VyvPWUiDCj1XK89ZRQWUCOLrGIC0l4VdGCJs7QwbX_MzqD_wJG1gYcy-GIK&oh=00_AQSJDEQpz4NMSNwPiOar1Vk1SidA0Ju_uUZ6-36JG58yhQ&oe=6AF4E978",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل المحتوى بناءً على الهيكل المطلوب:\n\n التفريغ النصي:\n\"معلم اللي ما بيلحق، صدقني راحت عليه، افرش الـ 10D، بيحكيلك الـ Double M صارت بنص السعر، خصم 50 بالمية على أقوى فرش في الأردن، ووفرلك إياه الـ Double M بجميع الألوان، شوف معلم سيارات الكهرباء اللي بتيجي الركايب عندك متصلة، وغير متصلة كمان، شوف هذا أحد الألوان، وعندنا كمان برضه الألوان التانية، شوف ما شاء الله، بيركبوا على جميع أنواع السيارات، ما بدي تحكيلي نوع سيارتك في التعليقات، بدي إياك مباشرة تيجي تكبس عنا على أحد الأفرع، وتأخذه لسيارتك قبل ما يروح عليك، لأنه صار عليه اليوم خصم 50 بالمية، أقوى سعر بالأردن، السعر انحرق.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **خلق حالة من الاستعجال (Urgency):** يعتمد الفيديو بشكل أساسي على أسلوب \"الندرة\" و\"ضيق الوقت\" (\"اللي ما بيلحق راحت عليه\"، \"قبل ما يروح عليك\") لتحفيز المشاهد على اتخاذ قرار شراء فوري.\n*   **الوضوح في العرض (Value Proposition):** الإعلان يقدم عرضاً مغرياً ومباشراً (خصم 50% على فرش 10D)، مع التركيز على ميزة التوافق مع كافة أنواع السيارات، بما فيها سيارات الكهرباء الحديثة.\n*   **بناء الثقة عبر الاستعراض البصري:** الاعتماد على عرض المنتج من زوايا مختلفة وبحركته الواقعية يقلل من مخاوف المشتري بشأن الجودة والملاءمة قبل الشراء.\n*   **استراتيجية \"Call-to-Action\" (CTA) المباشرة:** بدلاً من إشغال العميل بالرد في التعليقات، وجّه الفيديو العميل مباشرة لزيارة الأفرع، مما يحول التفاعل الرقمي إلى حركة فعلية في المتجر.\n*   **مخاطبة الجمهور المحلي:** استخدام اللهجة المحلية (\"معلم\"، \"بيلحق\") يعزز من طابع الألفة والمصداقية مع الجمهور المستهدف في الأردن.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1477179850955034",
