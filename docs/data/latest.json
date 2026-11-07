@@ -2,7 +2,7 @@
   "scan_date": "2026-11-07",
   "total_ads": 52,
   "total_video_ads": 50,
-  "analyzed_video_ads": 45,
+  "analyzed_video_ads": 46,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -608,11 +608,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"خصم 50% الـ MM عملك إياه على جميع منتجات Armor All، منهم السكراتش ريموفر (Scratch Remover)، وعندك كمان الكالر ريستورر (Colour Restorer).\nهذه المادة اللي بتمحي لك الشخوط عن بودي السيارة، وبنفس الوقت عندك هذه المادة اللي رح تعطيك لمعة قوية وتشيل البهتان اللي كان موجود عندك على بودي السيارة بسبب الشمس.\nإذا حبيت تحصل عليهم، تعال لعنا على أقرب فرع عليك، هذا الخصم متاح لثلاث أيام ابتداءً من اليوم لنهاية يوم السبت، وأهلاً وسهلاً فيكم.\"\n\n---",
-        "summary": "### 2. ملخص استراتيجي\n* **العرض الترويجي:** إعلان عن خصم مباشر بنسبة 50% على منتجات العناية بالسيارات من علامة \"Armor All\" التجارية.\n* **التركيز على حل المشاكل (Pain Points):** يسلط الفيديو الضوء على مشكلتين شائعتين يواجههما أصحاب السيارات: خدوش طلاء السيارة (باستخدام Scratch Remover) والبهتان الناتج عن أشعة الشمس (باستخدام Colour Restorer).\n* **الدليل البصري:** استخدام لقطات توضيحية (قبل وبعد) لتطبيق المنتج على أجزاء حقيقية من السيارة لتعزيز الثقة في فاعلية المنتج.\n* **عامل الاستعجال (Scarcity):** وضع حد زمني محدد للعرض (3 أيام فقط) لدفع المشاهد لاتخاذ قرار شرائي فوري.\n* **الدعوة لاتخاذ إجراء (CTA):** دعوة واضحة للزيارة الميدانية لأقرب فرع للعلامة التجارية \"MM\".",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي\n* **العرض الترويجي:** إعلان عن خصم مباشر بنسبة 50% على منتجات العناية بالسيارات من علامة \"Armor All\" التجارية.\n* **التركيز على حل المشاكل (Pain Points):** يسلط الفيديو الضوء على مشكلتين شائعتين يواجههما أصحاب السيارات: خدوش طلاء السيارة (باستخدام Scratch Remover) والبهتان الناتج عن أشعة الشمس (باستخدام Colour Restorer).\n* **الدليل البصري:** استخدام لقطات توضيحية (قبل وبعد) لتطبيق المنتج على أجزاء حقيقية من السيارة لتعزيز الثقة في فاعلية المنتج.\n* **عامل الاستعجال (Scarcity):** وضع حد زمني محدد للعرض (3 أيام فقط) لدفع المشاهد لاتخاذ قرار شرائي فوري.\n* **الدعوة لاتخاذ إجراء (CTA):** دعوة واضحة للزيارة الميدانية لأقرب فرع للعلامة التجارية \"MM\".",
+        "transcript": "التفريغ النصي\n\"خصم 50% الـ MM عملك إياه على جميع منتجات Armor All، منهم السكراتش ريموفر (Scratch Remover)، وعندك كمان الكالر ريستورر (Colour Restorer).\nهذه المادة اللي بتمحي لك الشخوط عن بودي السيارة، وبنفس الوقت عندك هذه المادة اللي رح تعطيك لمعة قوية وتشيل البهتان اللي كان موجود عندك على بودي السيارة بسبب الشمس.\nإذا حبيت تحصل عليهم، تعال لعنا على أقرب فرع عليك، هذا الخصم متاح لثلاث أيام ابتداءً من اليوم لنهاية يوم السبت، وأهلاً وسهلاً فيكم.\"\n\n---"
       }
     },
     {
@@ -629,7 +629,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1661262512316294",
       "video_url": "https://scontent.famm3-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMpBATcjTk7ka944CzzntuMyKr1LtYoVvpNwMl80JU64u3WDZ6Su-vQGRbBxue431Ycz_bIQocLTp9LDC5czmZHLbj8RIgfUuzLZMUOCFg_FA.mp4?_nc_cat=100&_nc_oc=AdrVF5krE5HZh4CZfmxa_4fxIuVfqLUdWteJKTGivqC7x1ZIPed7MRCheO-JGOqSoqk&_nc_sid=b66105&_nc_ht=scontent.famm3-1.fna.fbcdn.net&_nc_ohc=Z-RTKqSVx3wQ7kNvwFHBW9b&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMTgwNjQ2NTA5MzA0NjMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3d1efad01a5d0d80&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMzVGNkMxMkY5NTI0QTIzOEM3OTkzODkxMTEyNUFBM19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0IwMTBGOERBQkJFNjQwODNBREM4OUFGNDM5MUZBMDI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa-pNbl9rf8AxUCKAJDMywXQDnVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=WSXHby4s2_aur9XlH4_goA&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFMGHwIsGyirSWnMVn3760RDrSertYiw0MOtJ6u1iLDQ1MzTdSWzdS_klJlWJgpAwkwRr-M1QV3SBznjuMQpct8&oh=00_AQT9F4Gg8s87ASQcQFWki2Drq67zuECNNhaB2LoCM_irgA&oe=6AF4D418",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً للمحتوى الترويجي، إليك تحليل الفيديو الخاص بك:\n\n التفريغ النصي:\n\"الشاشة الوحيدة عالمياً، وقاعد بقولك عن 10 جكات RCA، وقاعد بقولك عن سناب دراجون، يعني أنت بتعرف شو يعني سناب دراجون؟ يعني أقوى معالج على مستوى العالم. طبعاً هاي راح تكون عليها خصم 50%، خصم 50% من معارض دبل إم. فاللي كان مستغليها زمان أنا قاعد بقولك تعال اليوم ركبها واكسب هذا العرض. بس هاي بعتذر من أصحاب المحلات لأن هاي خاصة فيي، فتعال ركبها لسيارتك وشوف كيف بيببيض الوجه.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **خلق حالة من الندرة والحصرية:** نجح المقطع في وضع \"علامة تميز\" على المنتج من خلال ادعاء الحصرية (\"الشاشة الوحيدة عالمياً\"، \"خاصة فيي\")، مما يحفز المشاهد على الشراء خوفاً من ضياع الفرصة.\n*   **التركيز على القيمة التقنية:** اعتمد التسويق على مصطلحات تقنية قوية ومشهورة (مثل \"سناب دراجون\" و \"10 جكات RCA\")، مما يعزز ثقة العميل في جودة المنتج.\n*   **العرض الترويجي الجذاب:** استخدام خصم \"50%\" يعتبر من أقوى محفزات الشراء، خاصة عند ربطه بعبارة \"اللي كان مستغليها زمان\"، مما يخاطب مباشرة الجمهور المتردد.\n*   **التسويق العاطفي (Social Proof):** عبارة \"بيض الوجه\" تربط المنتج بالوجاهة الاجتماعية والرضا الشخصي، وهو محرك قوي لقرارات الشراء في قطاع كماليات السيارات.\n*   **نبرة الثقة العالية:** أسلوب المتحدث المباشر وسريع الإيقاع يعطي انطباعاً بالمصداقية والحماس، مما يقلل من حاجز التردد لدى العميل المحتمل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1007777841590639",
