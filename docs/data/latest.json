@@ -2,7 +2,7 @@
   "scan_date": "2026-11-12",
   "total_ads": 53,
   "total_video_ads": 42,
-  "analyzed_video_ads": 23,
+  "analyzed_video_ads": 24,
   "failed_video_ads": 2,
   "competitors": [
     {
@@ -284,7 +284,15 @@
       "cta": "",
       "ad_url": "https://www.facebook.com/ads/library/?id=1862539031379897",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQN4ujoNbURvr5NZMsdVXInH8Yft3iMTw_-9VRGwpEpDsqpGhkUGQXXeBhCCHF_L8bgnJs_4sMGqBN4XNo8ga8jt395qxORSSIFR7tdj0A.mp4?_nc_cat=104&_nc_oc=AdpMGKqJn6o-Qp5NkRAE6AzgjbL4MepL7GDufBICOMdWpOIKlFU9QtSNWD8C2oxewN0&_nc_sid=ef5aa3&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=6ZaJxLUhrUwQ7kNvwG5OeGK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTAyNC5wcm9ncmVzc2l2ZV9oMjY0LWJhc2ljLWdlbjJfNzIwcCIsInhwdl9hc3NldF9pZCI6MTQ4Mzk3MzUxNjM1NDA1NCwiYXNzZXRfYWdlX2RheXMiOjE0NywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=EogqmeX3YAMDOZk2U7g2Lg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFFZqPsS2tAZyg9fOm7-iFzF8nGwoHXbJkXycbCgddsmTKOfnzTSPem1D2ZHdfjOneUA8jUg_60Xcfo4_y-KKt6&oh=00_AQSwn2_6oMjZWMQUttCPVeo4psrizIhGZTX5rar0R22BCg&oe=6AFB8312",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "**تفريغ النص:**\n\nالمتحدث 1 (يرتدي قميصاً أزرق): \"نيتين، بعد قيود الحكومة على حركة السير، أكيد مبيعات إكسسوارات \"كينغز واي\" انخفضت؟\"\nالمتحدث 2 (يرتدي قميصاً أبيض): \"لا يا أخي، بالعكس مبيعاتنا تضاعفت!\"\nالمتحدث 1: \"بتمزح؟\"\nالمتحدث 2: \"سأخبرك السبب. لأن الحكومة تفرض الآن \"مشاركة السيارات\" (Car Pool)، ومعظم الوقت تكون سيارتك مركونة في المواقف، والحفاظ على السيارة المركونة لا يقل أهمية عن الحفاظ عليها أثناء القيادة. ولهذا السبب لدينا منتج ممتاز وهو \"أغطية جسم السيارة من كينغز واي\"، التي تحمي سيارتك وتجعلها آمنة وسليمة تحت الأشجار، من فضلات الطيور، وحتى في ظروف المطر.\"\nالمتحدث 1: \"إذا كانت سيارتك أيضاً مركونة تحت الشمس أو تحت شجرة، اطلب أغطية \"كينغز واي\" الآن واحفظ سيارتك من الأضرار.\"\nالمتحدث 2: \"ويمكنك شراء جميع أغطية سياراتنا مباشرة من أمازون، وستصلك إلى باب منزلك.\"\n\n---",
+        "summary": "### 2.\n**ملخص استراتيجي:**\n\n*   **خلق الحاجة (Problem-Solution Fit):** استغل العلامة التجارية تحولاً تنظيمياً (قيود الحركة ومشاركة السيارات) لتقديم منتجها كحل ضروري لا كرفاهية، مما يبرر زيادة المبيعات رغم الظروف الاقتصادية.\n*   **استراتيجية التوعية (Awareness):** استخدام أسلوب \"الحوار بين خبيرين/صديقين\" يضفي مصداقية طبيعية على المحتوى ويجعل الرسالة التسويقية تبدو كأنها نصيحة صادقة وليست إعلاناً تقليدياً.\n*   **التسويق الموجه (Direct Conversion):** التركيز على نقاط الألم (الأضرار الناتجة عن الأشجار، المطر، والطيور) يجعل الجمهور يتخيل بوضوح فوائد المنتج.\n*   **تسهيل عملية الشراء (Seamless UX):** اختتام الفيديو بتوجيه مباشر نحو منصة موثوقة (أمازون) مع وعد بالتوصيل للمنزل يقلل من \"احتكاك الشراء\" ويزيد من معدل التحويل (Conversion Rate).\n*   **الاستهداف الذكي:** الفيديو يخاطب مباشرة أصحاب السيارات الذين لا يمتلكون مواقف مغطاة، وهم الشريحة الأكثر احتياجاً لهذا النوع من المنتجات.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1634367244955481",
