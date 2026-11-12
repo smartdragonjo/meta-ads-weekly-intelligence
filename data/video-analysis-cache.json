@@ -929,6 +929,16 @@
     },
     "status": "success"
   },
+  "1426399772367650": {
+    "analysis": {
+      "confidence": "normal",
+      "processing_method": "gemini_video",
+      "result_type": "video_understanding",
+      "summary": "### 2. الملخص الاستراتيجي\n*   **القيمة البيعية:** ركز الفيديو على \"AVA GO+\" كأفضل خيار حالي في السوق، معتمداً على ميزة الضمان الطويل (10 سنوات) التي تعزز الثقة في متانة المنتج.\n*   **المقارنة التنافسية:** تم استعراض نقاط التفوق على المنافس (Ryobi) من خلال مرونة الخرطوم وجودة التصنيع (وصلات معدنية بدلاً من البلاستيكية).\n*   **تجربة المستخدم:** تم إبراز سهولة الاستخدام بفضل وصلات \"Quick Connect\" والملحقات المتعددة (مدفع الرغوة، ممسحة الغسيل، الفوهة التوربينية، والمقبض خفيف الوزن) التي توفر الراحة للمستخدم وتمنع خدش السيارة.\n*   **الاستراتيجية الإعلانية:** اعتمد صانع المحتوى على \"عرض المنتج في بيئة عمل\" (ورشة عمل وسيارات)، مع التركيز على \"التجربة العملية\" بدلاً من مجرد سرد المواصفات، مما يعطي مصداقية للمراجعة.\n*   **دعوة للعمل (CTA):** تم تسعير المنتج بوضوح (270 دولاراً) لجذب الفئة المستهدفة التي تبحث عن أداة احترافية بسعر معقول، مع إظهار سهولة دمج كل الملحقات في حزمة واحدة.",
+      "transcript": "التفريغ النصي\n\"You know this pressure washer, but you might not know this one. And I need to make you familiar with it, because this is hands down the best option right now. And they're serviceable. 10-year warranty, so that tells you that they believe it's not going to break for a very long time. This hose is 40 feet, plenty long. Quick connect fittings already on it. And it's way more flexible than the Ryobi one. Then I come over here to the foam cannon and I tested it, and it works great. And it works really good. The foam cannon lid is double threaded, you can stick a regular bottle or the full-size beaker, they both work. This thing extends. Clean the floor or something dirty and get it less splashback. This is called a pressure washer mop, but when you take this little skin off, it has holes where the water goes through, this is equivalent to like a hand wash. These tips, they're rubber. So if you hit the car, you're not going to scratch it. And even a turbo nozzle. There's a quick connect here. There's a quick connect for the hose on the actual machine. We have metal fittings here. I'm like, dang, this thing is nice. Purchase separately, a shorty nozzle, and this little black trigger right there is really lightweight, and it helps you hold it full throttle really easily. Make sure you snag this, most important thing. I've been using all of this and been loving it, it's my favorite setup yet. And all your accessories all in one. Now for $270, your money...\"\n\n---"
+    },
+    "status": "success"
+  },
   "1426561806101025": {
     "analysis": {
       "confidence": "normal",
