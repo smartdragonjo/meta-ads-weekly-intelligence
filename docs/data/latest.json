@@ -2,7 +2,7 @@
   "scan_date": "2026-11-12",
   "total_ads": 53,
   "total_video_ads": 42,
-  "analyzed_video_ads": 29,
+  "analyzed_video_ads": 30,
   "failed_video_ads": 4,
   "competitors": [
     {
@@ -526,7 +526,15 @@
       "cta": "Learn more",
       "ad_url": "https://www.facebook.com/ads/library/?id=1495674932197634",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNhLPOSZ8Fr3IwM6jsKo9X5Hu1OvRt7aC2VONX2M8pc2wBsW1uZXhkWeSTJIGEuWvptgerVGgXXUh-tHFusbAZAsKxHAG4d_kVf_H0UdSRTQA.mp4?_nc_cat=101&_nc_oc=Adop6I5w-IdeY1k9jChQzo3qBFj8CKId4PX7hq94YpFaO_RVtAmmbtOirh167ELipq0&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=sbnq0-OjWQMQ7kNvwELtbRH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTc2MzI4Mjg3MzU4NDEsImFzc2V0X2FnZV9kYXlzIjozMzgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=792c457a0c6e8fb5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDQyMzc4NzhBNzIwNjk1ODU5NTM1QzJCNTg5RDc5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBCNEY5NjFFMDVFNjVGRkM5RkZEMDIyODExNjRFQzgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbChcSE-Mj7BBUCKAJDMywXQFDCHKwIMScYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=EogqmeX3YAMDOZk2U7g2Lg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFgw2D7gLRZ32v1HbFMEb2kuTIEHDagArS5MgQcNqACtPKyG_mrzWcn58iy7pWNq0kBa__pIhmGiuDGN1og-GFe&oh=00_AQTu6AGJU_xqDFrmP9_4BPon4iIy5cAveHUHqQrxS-RUKQ&oe=6AFBB6BB",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً للمحتوى التنافسي، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"هذه الـ GapBlock Pro، شرائط منع السقوط، هي أسوأ عملية شراء يمكنك القيام بها. إذا كنت لا تعرف هذا، فخلف بساطتها تكمن ابتكار مزدوج. فهي لا تملأ الفجوة بين مقعدك ووحدة التحكم لتمنع أي شيء من السقوط فوراً فحسب، بل توفر أيضاً مقصورتين ذكيتين للحفاظ على مفاتيحك، هاتفك، أو ضرورياتك اليومية في متناول اليد. بعد الاستماع لآلاف السائقين، قمنا بتطوير مادة الفوم عالية الكثافة، بحيث تتكيف بسلاسة مع كل مركبة، دون حجب حزام الأمان أو إفساد التصميم الداخلي. مع GapBlock Pro، أنت تقضي على تلك المشتتات الخطيرة الناجمة عن إسقاط عنصر أثناء القيادة. لا مزيد من الحركات المفاجئة، تركيزك يبقى على الطريق. التركيب يستغرق بضع ثوانٍ، لا أدوات مطلوبة، ويمكنك تخصيصها مع أكثر من 40 علامة تجارية للسيارات. والآن، من اليوم وحتى الأحد، للاحتفال بالذكرى الثامنة لأوتوفيا، نحن نقدم توصيلاً مجانياً بالإضافة إلى ضمان استعادة الأموال لمدة 30 يوماً.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **أسلوب \"الخداع العكسي\":** يبدأ الفيديو بعبارة \"أسوأ عملية شراء\" لجذب الانتباه (Hook) وتحدي التوقعات، ثم ينقلب بسرعة إلى عرض فوائد المنتج، مما يخلق تضاداً يثير فضول المشاهد.\n*   **حل المشكلات كركيزة أساسية:** يركز المحتوى على \"الأمان\" و\"التشتيت أثناء القيادة\"، وهي نقاط ألم (Pain Points) قوية تلامس احتياجات السائقين مباشرة، مما يحول المنتج من مجرد \"إكسسوار\" إلى \"أداة ضرورية للأمان\".\n*   **التميز في التخصيص:** التركيز على التوافق مع أكثر من 40 علامة تجارية يزيل حاجز التردد لدى المستهلك حول \"هل سيلائم سيارتي؟\"، مما يزيد من معدل التحويل.\n*   **الاستدلال الاجتماعي والمهني:** استخدام عبارة \"بعد الاستماع لآلاف السائقين\" يعطي انطباعاً بأن المنتج خضع لاختبارات وتطوير مستمر، مما يرفع من قيمته المدركة.\n*   **العرض الترويجي (CTA):** دمج عرض زمني محدد (حتى الأحد) مع \"ضمان استعادة الأموال\" يخلق شعوراً بالاستعجال (Urgency) ويقلل من مخاطر قرار الشراء لدى العميل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1426399772367650",
