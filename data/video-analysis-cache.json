@@ -3327,6 +3327,16 @@
     },
     "status": "success"
   },
+  "893036466388651": {
+    "analysis": {
+      "confidence": "normal",
+      "processing_method": "gemini_video",
+      "result_type": "video_understanding",
+      "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية \"الخدعة العكسية\":** يبدأ الإعلان بجملة صادمة ومثيرة للجدل (\"أسوأ عملية شراء يمكن أن تقوم بها\") لجذب انتباه المشاهد فوراً، ثم يقلب التوقعات بتوضيح مميزات المنتج (هيكل تسويقي ذكي يعتمد على \"تحدي التوقعات\").\n*   **حل مشكلة مؤلمة (Pain Point):** يركز المحتوى على مشكلة حقيقية وشائعة يعاني منها السائقون (سقوط الأغراض في فجوة مقعد السيارة)، مما يجعل المشاهد يشعر بالحاجة المباشرة للمنتج.\n*   **التأكيد على القيمة المضافة:** لا يكتفي المنتج بسد الفجوة فقط، بل يضيف قيمة إضافية (مساحة تخزين إضافية) ويعالج مخاوف العميل (سلامة تصميم السيارة، عدم إعاقة حزام الأمان، سهولة التركيب).\n*   **مبدأ \"الدليل الاجتماعي\":** الإشارة إلى \"آلاف السائقين\" تعزز من مصداقية المنتج وتظهر أنه خضع لعملية تطوير وتحديث بناءً على احتياجات المستخدمين الفعليين.\n*   **خلق الإلحاح (Urgency):** ينتهي الإعلان بعرض محدود زمنياً (حتى يوم الأحد) بمناسبة ذكرى تأسيس الشركة، مدعوماً بضمان استرداد الأموال، مما يحفز على اتخاذ إجراء فوري (Call to Action).",
+      "transcript": "بصفتي محللاً لمحتوى الفيديو، إليك التحليل المطلوب:\n\n التفريغ النصي للفيديو:\n\"These GapLock Pro anti-drop strips are the worst purchase you could make, if you don't know this... because behind their simplicity lies a double innovation. They not only fill the gap between your seat and the console to instantly stop anything from falling, but they also provide two smart compartments to keep your keys, phone, or everyday essentials within reach. After listening to thousands of drivers, we've upgraded the high-density foam so it adapts seamlessly to every vehicle without blocking the seatbelt or spoiling the interior design. With GapLock Pro, you eliminate those dangerous distractions caused by dropping an item while driving. No more sudden movements, your focus stays on the road. Installation takes just a few seconds, no tools required, and you can personalize them with over 40 car brands. And right now, from today until Sunday, to celebrate Ortovia's 8th anniversary, we're offering free delivery plus a 30-day money-back guarantee.\"\n\n---"
+    },
+    "status": "success"
+  },
   "929659679705405": {
     "analysis": {
       "confidence": "normal",

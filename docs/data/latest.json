@@ -2,7 +2,7 @@
   "scan_date": "2026-11-12",
   "total_ads": 53,
   "total_video_ads": 42,
-  "analyzed_video_ads": 24,
+  "analyzed_video_ads": 25,
   "failed_video_ads": 2,
   "competitors": [
     {
@@ -287,11 +287,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "**تفريغ النص:**\n\nالمتحدث 1 (يرتدي قميصاً أزرق): \"نيتين، بعد قيود الحكومة على حركة السير، أكيد مبيعات إكسسوارات \"كينغز واي\" انخفضت؟\"\nالمتحدث 2 (يرتدي قميصاً أبيض): \"لا يا أخي، بالعكس مبيعاتنا تضاعفت!\"\nالمتحدث 1: \"بتمزح؟\"\nالمتحدث 2: \"سأخبرك السبب. لأن الحكومة تفرض الآن \"مشاركة السيارات\" (Car Pool)، ومعظم الوقت تكون سيارتك مركونة في المواقف، والحفاظ على السيارة المركونة لا يقل أهمية عن الحفاظ عليها أثناء القيادة. ولهذا السبب لدينا منتج ممتاز وهو \"أغطية جسم السيارة من كينغز واي\"، التي تحمي سيارتك وتجعلها آمنة وسليمة تحت الأشجار، من فضلات الطيور، وحتى في ظروف المطر.\"\nالمتحدث 1: \"إذا كانت سيارتك أيضاً مركونة تحت الشمس أو تحت شجرة، اطلب أغطية \"كينغز واي\" الآن واحفظ سيارتك من الأضرار.\"\nالمتحدث 2: \"ويمكنك شراء جميع أغطية سياراتنا مباشرة من أمازون، وستصلك إلى باب منزلك.\"\n\n---",
-        "summary": "### 2.\n**ملخص استراتيجي:**\n\n*   **خلق الحاجة (Problem-Solution Fit):** استغل العلامة التجارية تحولاً تنظيمياً (قيود الحركة ومشاركة السيارات) لتقديم منتجها كحل ضروري لا كرفاهية، مما يبرر زيادة المبيعات رغم الظروف الاقتصادية.\n*   **استراتيجية التوعية (Awareness):** استخدام أسلوب \"الحوار بين خبيرين/صديقين\" يضفي مصداقية طبيعية على المحتوى ويجعل الرسالة التسويقية تبدو كأنها نصيحة صادقة وليست إعلاناً تقليدياً.\n*   **التسويق الموجه (Direct Conversion):** التركيز على نقاط الألم (الأضرار الناتجة عن الأشجار، المطر، والطيور) يجعل الجمهور يتخيل بوضوح فوائد المنتج.\n*   **تسهيل عملية الشراء (Seamless UX):** اختتام الفيديو بتوجيه مباشر نحو منصة موثوقة (أمازون) مع وعد بالتوصيل للمنزل يقلل من \"احتكاك الشراء\" ويزيد من معدل التحويل (Conversion Rate).\n*   **الاستهداف الذكي:** الفيديو يخاطب مباشرة أصحاب السيارات الذين لا يمتلكون مواقف مغطاة، وهم الشريحة الأكثر احتياجاً لهذا النوع من المنتجات.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n**ملخص استراتيجي:**\n\n*   **خلق الحاجة (Problem-Solution Fit):** استغل العلامة التجارية تحولاً تنظيمياً (قيود الحركة ومشاركة السيارات) لتقديم منتجها كحل ضروري لا كرفاهية، مما يبرر زيادة المبيعات رغم الظروف الاقتصادية.\n*   **استراتيجية التوعية (Awareness):** استخدام أسلوب \"الحوار بين خبيرين/صديقين\" يضفي مصداقية طبيعية على المحتوى ويجعل الرسالة التسويقية تبدو كأنها نصيحة صادقة وليست إعلاناً تقليدياً.\n*   **التسويق الموجه (Direct Conversion):** التركيز على نقاط الألم (الأضرار الناتجة عن الأشجار، المطر، والطيور) يجعل الجمهور يتخيل بوضوح فوائد المنتج.\n*   **تسهيل عملية الشراء (Seamless UX):** اختتام الفيديو بتوجيه مباشر نحو منصة موثوقة (أمازون) مع وعد بالتوصيل للمنزل يقلل من \"احتكاك الشراء\" ويزيد من معدل التحويل (Conversion Rate).\n*   **الاستهداف الذكي:** الفيديو يخاطب مباشرة أصحاب السيارات الذين لا يمتلكون مواقف مغطاة، وهم الشريحة الأكثر احتياجاً لهذا النوع من المنتجات.",
+        "transcript": "**تفريغ النص:**\n\nالمتحدث 1 (يرتدي قميصاً أزرق): \"نيتين، بعد قيود الحكومة على حركة السير، أكيد مبيعات إكسسوارات \"كينغز واي\" انخفضت؟\"\nالمتحدث 2 (يرتدي قميصاً أبيض): \"لا يا أخي، بالعكس مبيعاتنا تضاعفت!\"\nالمتحدث 1: \"بتمزح؟\"\nالمتحدث 2: \"سأخبرك السبب. لأن الحكومة تفرض الآن \"مشاركة السيارات\" (Car Pool)، ومعظم الوقت تكون سيارتك مركونة في المواقف، والحفاظ على السيارة المركونة لا يقل أهمية عن الحفاظ عليها أثناء القيادة. ولهذا السبب لدينا منتج ممتاز وهو \"أغطية جسم السيارة من كينغز واي\"، التي تحمي سيارتك وتجعلها آمنة وسليمة تحت الأشجار، من فضلات الطيور، وحتى في ظروف المطر.\"\nالمتحدث 1: \"إذا كانت سيارتك أيضاً مركونة تحت الشمس أو تحت شجرة، اطلب أغطية \"كينغز واي\" الآن واحفظ سيارتك من الأضرار.\"\nالمتحدث 2: \"ويمكنك شراء جميع أغطية سياراتنا مباشرة من أمازون، وستصلك إلى باب منزلك.\"\n\n---"
       }
     },
     {
@@ -324,7 +324,15 @@
       "cta": "Learn more",
       "ad_url": "https://www.facebook.com/ads/library/?id=893036466388651",
       "video_url": "https://scontent.famm3-2.fna.fbcdn.net/o1/v/t2/f2/m366/AQNhLPOSZ8Fr3IwM6jsKo9X5Hu1OvRt7aC2VONX2M8pc2wBsW1uZXhkWeSTJIGEuWvptgerVGgXXUh-tHFusbAZAsKxHAG4d_kVf_H0UdSRTQA.mp4?_nc_cat=101&_nc_oc=Adop6I5w-IdeY1k9jChQzo3qBFj8CKId4PX7hq94YpFaO_RVtAmmbtOirh167ELipq0&_nc_sid=b66105&_nc_ht=scontent.famm3-2.fna.fbcdn.net&_nc_ohc=sbnq0-OjWQMQ7kNvwELtbRH&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEzOTc2MzI4Mjg3MzU4NDEsImFzc2V0X2FnZV9kYXlzIjozMzgsInZpX3VzZWNhc2VfaWQiOjEwNzk5LCJkdXJhdGlvbl9zIjo2NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=792c457a0c6e8fb5&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BNDQyMzc4NzhBNzIwNjk1ODU5NTM1QzJCNTg5RDc5RF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBCNEY5NjFFMDVFNjVGRkM5RkZEMDIyODExNjRFQzgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbChcSE-Mj7BBUCKAJDMywXQFDCHKwIMScYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZd6oAQA&_nc_gid=EogqmeX3YAMDOZk2U7g2Lg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_eui2=AeFgw2D7gLRZ32v1HbFMEb2kuTIEHDagArS5MgQcNqACtPKyG_mrzWcn58iy7pWNq0kBa__pIhmGiuDGN1og-GFe&oh=00_AQTu6AGJU_xqDFrmP9_4BPon4iIy5cAveHUHqQrxS-RUKQ&oe=6AFBB6BB",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً لمحتوى الفيديو، إليك التحليل المطلوب:\n\n التفريغ النصي للفيديو:\n\"These GapLock Pro anti-drop strips are the worst purchase you could make, if you don't know this... because behind their simplicity lies a double innovation. They not only fill the gap between your seat and the console to instantly stop anything from falling, but they also provide two smart compartments to keep your keys, phone, or everyday essentials within reach. After listening to thousands of drivers, we've upgraded the high-density foam so it adapts seamlessly to every vehicle without blocking the seatbelt or spoiling the interior design. With GapLock Pro, you eliminate those dangerous distractions caused by dropping an item while driving. No more sudden movements, your focus stays on the road. Installation takes just a few seconds, no tools required, and you can personalize them with over 40 car brands. And right now, from today until Sunday, to celebrate Ortovia's 8th anniversary, we're offering free delivery plus a 30-day money-back guarantee.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية \"الخدعة العكسية\":** يبدأ الإعلان بجملة صادمة ومثيرة للجدل (\"أسوأ عملية شراء يمكن أن تقوم بها\") لجذب انتباه المشاهد فوراً، ثم يقلب التوقعات بتوضيح مميزات المنتج (هيكل تسويقي ذكي يعتمد على \"تحدي التوقعات\").\n*   **حل مشكلة مؤلمة (Pain Point):** يركز المحتوى على مشكلة حقيقية وشائعة يعاني منها السائقون (سقوط الأغراض في فجوة مقعد السيارة)، مما يجعل المشاهد يشعر بالحاجة المباشرة للمنتج.\n*   **التأكيد على القيمة المضافة:** لا يكتفي المنتج بسد الفجوة فقط، بل يضيف قيمة إضافية (مساحة تخزين إضافية) ويعالج مخاوف العميل (سلامة تصميم السيارة، عدم إعاقة حزام الأمان، سهولة التركيب).\n*   **مبدأ \"الدليل الاجتماعي\":** الإشارة إلى \"آلاف السائقين\" تعزز من مصداقية المنتج وتظهر أنه خضع لعملية تطوير وتحديث بناءً على احتياجات المستخدمين الفعليين.\n*   **خلق الإلحاح (Urgency):** ينتهي الإعلان بعرض محدود زمنياً (حتى يوم الأحد) بمناسبة ذكرى تأسيس الشركة، مدعوماً بضمان استرداد الأموال، مما يحفز على اتخاذ إجراء فوري (Call to Action).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2112739156235607",
