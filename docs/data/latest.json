@@ -2,7 +2,7 @@
   "scan_date": "2026-11-17",
   "total_ads": 35,
   "total_video_ads": 35,
-  "analyzed_video_ads": 28,
+  "analyzed_video_ads": 29,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -217,11 +217,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي\n\"بدل من 45 دينار، فرش السمبلي وكل الألوان منه موجودة، ابتداءً من يوم الاثنين لنهاية يوم الخميس رح يكون بس بـ 15 دينار، بالفرعين قبال دوار الحويان وقبال الحرية مول، فرش السمبلي فقط بـ 15 دينار، سلام.\"",
-        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية التسعير الجذابة:** استخدام أسلوب \"خفض السعر الحاد\" (من 45 إلى 15 دينار) لخلق صدمة إيجابية لدى العميل وجذب الانتباه الفوري.\n*   **خلق الندرة الزمنية:** حصر العرض في فترة زمنية قصيرة (من الاثنين إلى الخميس) لتحفيز المشاهد على اتخاذ قرار الشراء السريع (FOMO).\n*   **تعزيز الثقة والتواجد:** تحديد مواقع الفروع بدقة (دوار الحويان والحرية مول) لسهولة الوصول وتأكيد واقعية العرض.\n*   **وضوح العرض:** التركيز على منتج واحد محدد (\"فرش السمبلي\") مما يجعل العرض بسيطاً وسهل الاستيعاب ولا يشتت العميل.\n*   **أسلوب التقديم:** الاعتماد على العرض المباشر للمنتج (المسك باليد) مع خطاب حماسي، مما يعزز المصداقية ويجعل الفيديو يبدو كـ \"لقطة عفوية\" وليس إعلاناً تقليدياً مملاً.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي\n*   **استراتيجية التسعير الجذابة:** استخدام أسلوب \"خفض السعر الحاد\" (من 45 إلى 15 دينار) لخلق صدمة إيجابية لدى العميل وجذب الانتباه الفوري.\n*   **خلق الندرة الزمنية:** حصر العرض في فترة زمنية قصيرة (من الاثنين إلى الخميس) لتحفيز المشاهد على اتخاذ قرار الشراء السريع (FOMO).\n*   **تعزيز الثقة والتواجد:** تحديد مواقع الفروع بدقة (دوار الحويان والحرية مول) لسهولة الوصول وتأكيد واقعية العرض.\n*   **وضوح العرض:** التركيز على منتج واحد محدد (\"فرش السمبلي\") مما يجعل العرض بسيطاً وسهل الاستيعاب ولا يشتت العميل.\n*   **أسلوب التقديم:** الاعتماد على العرض المباشر للمنتج (المسك باليد) مع خطاب حماسي، مما يعزز المصداقية ويجعل الفيديو يبدو كـ \"لقطة عفوية\" وليس إعلاناً تقليدياً مملاً.",
+        "transcript": "التفريغ النصي\n\"بدل من 45 دينار، فرش السمبلي وكل الألوان منه موجودة، ابتداءً من يوم الاثنين لنهاية يوم الخميس رح يكون بس بـ 15 دينار، بالفرعين قبال دوار الحويان وقبال الحرية مول، فرش السمبلي فقط بـ 15 دينار، سلام.\""
       }
     },
     {
@@ -238,7 +238,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=1276823381327198",
       "video_url": "https://scontent.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQORiM7ftP9I-D6FyKP07byfd1AoEPzQoWAMb7ML1uL9YivDJt26p1NA5bOYWc5FT7i8Rf_baFka2NzxqAMATh9F2kqJbHNiV5ZYnfY-0oHlVg.mp4?_nc_cat=110&_nc_oc=Ado8BwetFRxrqdYIDxW9sH3tD0QlbQ9nTNxeMv6dREdEYmF9e_-IJqR6LidreHM9PmE&_nc_sid=b66105&_nc_ht=scontent.famm2-3.fna.fbcdn.net&_nc_ohc=OhT6ZOpgovEQ7kNvwGNCGlW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNzk1MTMxMTkzNDU0MTIsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=75edab496c19b406&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NTIzMDBFNjJBQTI0MkQ1OTQwOTYxN0RCQjBCNTQwRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDRDQyNEU3RjQ5QjRDQjFBNUREQ0EwREMzRjYyQ0Y1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaIrMaMzNOxBxUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=xUEK_7djQHvCmuGpRjzffg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQIAjqXTn3QVylRwMUhFb9Nab6knjig2I99erRQIUxODA&oe=6B0232E2",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي للفيديو\n\n- مسجل. \n- ست جكات، بيدعم بلوتوث، بيدعم AUX، بيدعم CD. \n- قديش متوقع سعره؟ أكيد فوق الـ 40 دينار.\n- ولو قلت لك خد معه طقم سماعات بيضاوي، راح تقول هيك رح يطلع عليّ الحسبة فوق الـ 65 دينار. \n- أنا اليوم بالدبل M بقولك لا 65، ولا 55، ولا 45 حتى. \n- 30 دينار عنا هون اليوم في الدبل M، بتيجي بتاخد مسجل وبتاخد معه طقم سماعات، وبنستناكم بالفرعين وهذا العرض لمده محدودة.\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي\n\n- **استراتيجية \"صدمة السعر\":** نجح المتحدث في بناء توقعات مرتفعة لدى العميل (تجاوز 65 دينار) ثم كسرها بتقديم عرض \"30 دينار\"، مما يولد شعوراً فورياً بالقيمة العالية والفرصة الذهبية.\n- **عرض الحزمة (Bundling):** تعزيز قيمة العرض عبر دمج منتجين متكاملين (المسجل + السماعات) في سعر واحد، مما يزيد من جاذبية العرض ويحفز على الشراء الفوري.\n- **ندرة العرض (Scarcity):** إنهاء الفيديو بالتأكيد على أن العرض \"لمدة محدودة\" هو محفز قوي للعمل الفوري (Call to Action) ويقلل من تأجيل قرار الشراء لدى العميل.\n- **وضوح القيمة:** التركيز على الميزات التقنية (بلوتوث، AUX، CD) قبل طرح السعر يعزز من قناعة المشتري بأن السعر المنخفض لا يعني ضعف الجودة.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1680868023408547",
