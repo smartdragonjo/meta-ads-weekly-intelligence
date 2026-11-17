@@ -2,7 +2,7 @@
   "scan_date": "2026-11-17",
   "total_ads": 35,
   "total_video_ads": 35,
-  "analyzed_video_ads": 24,
+  "analyzed_video_ads": 25,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -121,11 +121,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل المحتوى بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"سماعات البيضوي الـ 800 واط، معها تويتر، بس بـ 10 دنانير الطقم لنهاية يوم الخميس. كانت تنباع بـ 30 و 25 دينار، فقط بـ 10 دنانير لنهاية يوم الخميس الطقم، الـ 800 واط البيضوي، بالفرعين مقابل دوار الحويان وقبال الحرية مول. سلام.\"",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **العرض الترويجي:** يقدم الفيديو خصماً كبيراً \"تصفية\" على سماعات بيضاوية بقوة 800 واط، حيث انخفض سعر الطقم من 25-30 ديناراً إلى 10 دنانير فقط.\n*   **عنصر الإلحاح (Urgency):** حدد المعلن مدة زمنية محددة للعرض (ينتهي بنهاية يوم الخميس)، مما يحفز المشاهد على اتخاذ إجراء سريع.\n*   **تعزيز الثقة:** تم توضيح السعر السابق مقارنة بالسعر الحالي لزيادة إدراك القيمة (Value perception) لدى المستهلك.\n*   **تحديد المواقع:** ذكر المعلن فروع المحل بوضوح (دوار الحويان - مقابل الحرية مول) لسهولة الوصول.\n*   **أسلوب التسويق:** يعتمد المحتوى على \"أسلوب العرض المباشر\"، حيث يظهر البائع المنتج بيده ويستعرض التغليف، مما يضفي مصداقية وواقعية على العرض.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **العرض الترويجي:** يقدم الفيديو خصماً كبيراً \"تصفية\" على سماعات بيضاوية بقوة 800 واط، حيث انخفض سعر الطقم من 25-30 ديناراً إلى 10 دنانير فقط.\n*   **عنصر الإلحاح (Urgency):** حدد المعلن مدة زمنية محددة للعرض (ينتهي بنهاية يوم الخميس)، مما يحفز المشاهد على اتخاذ إجراء سريع.\n*   **تعزيز الثقة:** تم توضيح السعر السابق مقارنة بالسعر الحالي لزيادة إدراك القيمة (Value perception) لدى المستهلك.\n*   **تحديد المواقع:** ذكر المعلن فروع المحل بوضوح (دوار الحويان - مقابل الحرية مول) لسهولة الوصول.\n*   **أسلوب التسويق:** يعتمد المحتوى على \"أسلوب العرض المباشر\"، حيث يظهر البائع المنتج بيده ويستعرض التغليف، مما يضفي مصداقية وواقعية على العرض.",
+        "transcript": "إليك تحليل المحتوى بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"سماعات البيضوي الـ 800 واط، معها تويتر، بس بـ 10 دنانير الطقم لنهاية يوم الخميس. كانت تنباع بـ 30 و 25 دينار، فقط بـ 10 دنانير لنهاية يوم الخميس الطقم، الـ 800 واط البيضوي، بالفرعين مقابل دوار الحويان وقبال الحرية مول. سلام.\""
       }
     },
     {
@@ -142,7 +142,15 @@
       "cta": "Send message",
       "ad_url": "https://www.facebook.com/ads/library/?id=998638249383986",
       "video_url": "https://scontent.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMSJut_SWjgj8l6_TLndvoIU47d-awkLdUZQW9zB8LeuMLS5xsK-Cx1eevx3dOPlCdYPnWWN3XSpKpPJMIInEsJY4VIrx4cnmM_JWC2ReLHMA.mp4?_nc_cat=100&_nc_oc=AdrxedZdmosAwq423D43m13O_jRM6KeLqEZilMvPqpmcGpBLim_lzfzED1YElcFlRsw&_nc_sid=b66105&_nc_ht=scontent.famm9-1.fna.fbcdn.net&_nc_ohc=rDxEKxI5ebAQ7kNvwElu2-P&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNTMwNzU0MDcyNDMyMjMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=311fd3b7c2865998&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNTVDOTQ4NjYwRkM0QkIyOUVEMTkyMTkyNzAyNTgyMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdBNzRBQUIxRTQzQTQ0NzdCNkQ3OTcyQUVGN0ZFMDAyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaun-Kg6a2MBBUCKAJDMywXQD87peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=xUEK_7djQHvCmuGpRjzffg&_nc_ss=7b2a8&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTtDecnVMLWe-QOYug3dBHT1gtPHWDd8pwB1JNhf6FNBA&oe=6B020D5C",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي للفيديو\n\n\"لو ما عندك بطارية، عادي جداً! على الباور بانك هذا بس بتشبكه زي هيك، وبتشغل السيارة. وشوف كيف.. زي ما أنت شايف بكل بساطة الباور بانك هذا راح يشغلك إياها 100%. قبل دخول فصل الشتاء، عشان ما يصير عندك أي مشاكل ببطارية سيارتك، خلي معك هذا الباور بانك، بيلزمك، بيلزم صاحبك، بيلزم أخوك، أبوك.. بلاش تنقطع في فصل الشتاء، لأنه كل البطاريات بتضعف في فصل الشتاء. ومتوفر عنا بأقل من 18 دينار في معارض دبل أم، وراح يكون السعر تريند بإذن الله.. وأهلاً وسهلاً بالجميع.\"\n\n---",
+        "summary": "### 2. ملخص استراتيجي للفيديو\n\n*   **الهدف التسويقي:** استغلال موسم الشتاء (حيث يكثر تعطل بطاريات السيارات) لترويج منتج \"شاحن البطارية المتنقل\" كحل سريع وعملي للطوارئ.\n*   **بناء الثقة (البرهان الاجتماعي):** اعتمد الفيديو على استعراض عملي ومباشر (Demo) لتشغيل سيارة معطلة، مما يزيل الشكوك حول فاعلية المنتج.\n*   **استهداف الجمهور:** التركيز على ضرورة المنتج لجميع أفراد الأسرة والأصدقاء، مما يوسع نطاق الشريحة المستهدفة.\n*   **تكتيك السعر:** طرح السعر كعامل جذب قوي (\"أقل من 18 دينار\") وربطه بكلمة \"تريند\" لإعطاء انطباع بالتنافسية والطلب العالي.\n*   **نقاط القوة:**\n    *   **قصر المدة:** تركيز الرسالة التسويقية بدون حشو.\n    *   **الارتباط الزمني:** استهداف المشكلة تحديداً قبل تفاقمها في الشتاء.\n    *   **سهولة الاستخدام:** إظهار سهولة التركيب والتشغيل في خطوات بسيطة.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2039357413648632",
