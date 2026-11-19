@@ -2,7 +2,7 @@
   "scan_date": "2026-11-19",
   "total_ads": 64,
   "total_video_ads": 59,
-  "analyzed_video_ads": 31,
+  "analyzed_video_ads": 32,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -298,11 +298,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو من وجهة نظر منافسة:\n\n التفريغ النصي للفيديو:\n\"بدل من 45 دينار، فرش السيمبلي وكل الألوان منه موجودة، ابتداءً من يوم الاثنين لنهاية يوم الخميس راح يكون بس بـ 15 دينار، بالفرعين قبال دوار الحويان وقبال الحرية مول، فرش السيمبلي فقط بـ 15 دينار، سلام.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية التسعير النفسي (Psychological Pricing):** استخدام أسلوب \"التخفيض الجذري\" (من 45 إلى 15 دينار) لتعزيز شعور العميل بفرصة لا تعوض.\n*   **خلق حالة الاستعجال (Scarcity & Urgency):** تحديد إطار زمني قصير جداً للعرض (من الاثنين إلى الخميس) لدفع المشاهد لاتخاذ قرار شرائي سريع.\n*   **الوضوح في العرض (Clarity):** التركيز على اسم المنتج \"سيمبلي\" وتكراره لترسيخ العلامة التجارية، مع ربط السعر بمواقع الفروع بشكل مباشر.\n*   **الاستهداف الجغرافي:** تحديد مواقع الفروع (دوار الحويان والحرية مول) بدقة، مما يسهل على العميل الوصول ويقلل من حواجز اتخاذ القرار.\n*   **الرسالة التسويقية:** التركيز على القيمة مقابل السعر، حيث تم إبراز توفر كافة الألوان كعنصر جذب إضافي يقلل من مخاوف نفاذ الكميات أو خيارات محدودة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية التسعير النفسي (Psychological Pricing):** استخدام أسلوب \"التخفيض الجذري\" (من 45 إلى 15 دينار) لتعزيز شعور العميل بفرصة لا تعوض.\n*   **خلق حالة الاستعجال (Scarcity & Urgency):** تحديد إطار زمني قصير جداً للعرض (من الاثنين إلى الخميس) لدفع المشاهد لاتخاذ قرار شرائي سريع.\n*   **الوضوح في العرض (Clarity):** التركيز على اسم المنتج \"سيمبلي\" وتكراره لترسيخ العلامة التجارية، مع ربط السعر بمواقع الفروع بشكل مباشر.\n*   **الاستهداف الجغرافي:** تحديد مواقع الفروع (دوار الحويان والحرية مول) بدقة، مما يسهل على العميل الوصول ويقلل من حواجز اتخاذ القرار.\n*   **الرسالة التسويقية:** التركيز على القيمة مقابل السعر، حيث تم إبراز توفر كافة الألوان كعنصر جذب إضافي يقلل من مخاوف نفاذ الكميات أو خيارات محدودة.",
+        "transcript": "إليك تحليل محتوى الفيديو من وجهة نظر منافسة:\n\n التفريغ النصي للفيديو:\n\"بدل من 45 دينار، فرش السيمبلي وكل الألوان منه موجودة، ابتداءً من يوم الاثنين لنهاية يوم الخميس راح يكون بس بـ 15 دينار، بالفرعين قبال دوار الحويان وقبال الحرية مول، فرش السيمبلي فقط بـ 15 دينار، سلام.\"\n\n---"
       }
     },
     {
@@ -319,7 +319,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1801676041091619",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQO2TNZentEXZ_NZTBFqXD0zrO1BW_p3RwBxXb2QBKDhrf3yvidFbvQtc65QfXeC_-32caXDu1TktHlZIYj2mGFHj4YPORMyV44EBvBVkUoK_Q.mp4?_nc_cat=110&_nc_oc=AdqbBTkGBqYoYkfboe5FeZB5XAWVJ6C0NfwGDnyWzFZavDvh-96dbEXgyrEvrZClK6M&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=b-MEMDogs08Q7kNvwElOXpa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5Njk0MTQ0MTYwMjcyMDA5LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=78b44459f7fb792d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDUyNzJEOEYwMkI0MENDODk1RUQ2QjAzMkVCRjBCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNzc1QTVDMEU0MzRBNzA4MTg0MDc4NDkyQUNCQjdGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaSuqip1qq_aRUCKAJDMywXQDWZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQShVqbAs_gYPhPT0931cSSI4H_tJDFC1_lJuSLWjOwofA&oe=6B04817E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل المحتوى بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"مش تسألني كيف زبطت معي، بس تعالوا نستغل هذا العرض، بدل الـ 12 دينار، المسجل المدعوم بالبلوتوث واثنين يو إس بي واحد فلاشة وواحد شحن، أنا قاعد بقولك رح تاخذه وتأخذ معه كمان طقم سماعات 4 إنش بقوة 200 واط. كلهم رح يكونوا سعرهم بأقل من سعر المسجل لحاله، فإذا كنت حابب تكسب هذا العرض، ما.. زور معارض دبل إم، لأن هذا العرض رح يكون لفترة محدودة وبستناكم بالفرعين.\"",
+        "summary": "### 2. ملخص استراتيجي:\n*   **عامل الجذب (The Hook):** استخدام صيغة \"تحدي السعر\" (منتجين بسعر أقل من منتج واحد) لجذب فضول المشاهد فوراً.\n*   **القيمة المقترحة (Value Proposition):** \"عرض الحزمة\" (Bundling)؛ حيث يتم ربط جهازين (مسجل + سماعات) بسعر إجمالي أقل من سعر أحد الجهازين بمفرده، مما يرفع القيمة المدركة لدى العميل.\n*   **استراتيجية الإلحاح (Urgency):** التأكيد على أن العرض \"لفترة محدودة\" لتحفيز المشاهد على اتخاذ قرار الشراء السريع.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة واضحة للزيارة (زوروا معارض دبل إم) وتحديد مكان الخدمة (فرعين) لتعزيز المصداقية والسهولة.\n*   **الأسلوب:** محتوى قصير، سريع، موجه، ويعتمد على العرض المرئي والمسموع المباشر دون مقدمات طويلة، مما يجعله مثالياً لمنصات \"Reels\" و\"TikTok\".",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1743079097725139",
