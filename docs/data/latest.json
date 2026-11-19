@@ -2,7 +2,7 @@
   "scan_date": "2026-11-19",
   "total_ads": 64,
   "total_video_ads": 59,
-  "analyzed_video_ads": 26,
+  "analyzed_video_ads": 27,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -178,11 +178,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"سماعات البيضوي الـ 800 واط، معها تويتر، بس بـ 10 دنانير الطقم لنهاية يوم الخميس. كانت تنباع بـ 30 و 25 دينار، فقط بـ 10 دنانير لنهاية يوم الخميس الطقم الـ 800 واط البيضوي، بالفرعين: قبال دوار الحويان، وقبال الحرية مول. سلام.\"",
-        "summary": "### 2. ملخص استراتيجي:\n* **العرض الترويجي:** خصم هائل (Clearance Sale) بنسبة تزيد عن 60% على سماعات \"بيضوي 800 واط\"، مما يجعل السعر الحالي (10 دنانير) نقطة جذب قوية جداً.\n* **استراتيجية الإلحاح (Urgency):** ربط العرض بجدول زمني ضيق (ينتهي يوم الخميس)، مما يحفز العملاء على اتخاذ قرار شراء فوري.\n* **إثبات القيمة (Value Proposition):** عمل مقارنة واضحة بين السعر السابق (25-30 دينار) والسعر الحالي، مما يعزز شعور العميل بالحصول على صفقة رابحة.\n* **الاستهداف الجغرافي:** تحديد مواقع الفروع بدقة (قبال دوار الحويان وقبال الحرية مول) لتقليل عوائق الوصول وتسهيل عملية الشراء للعملاء القريبين.\n* **أسلوب العرض:** الاعتماد على \"استعراض المنتج في اليد\" يعطي مصداقية وملموسية للمنتج، مما يرفع من ثقة المشاهد في جودة العرض.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي:\n* **العرض الترويجي:** خصم هائل (Clearance Sale) بنسبة تزيد عن 60% على سماعات \"بيضوي 800 واط\"، مما يجعل السعر الحالي (10 دنانير) نقطة جذب قوية جداً.\n* **استراتيجية الإلحاح (Urgency):** ربط العرض بجدول زمني ضيق (ينتهي يوم الخميس)، مما يحفز العملاء على اتخاذ قرار شراء فوري.\n* **إثبات القيمة (Value Proposition):** عمل مقارنة واضحة بين السعر السابق (25-30 دينار) والسعر الحالي، مما يعزز شعور العميل بالحصول على صفقة رابحة.\n* **الاستهداف الجغرافي:** تحديد مواقع الفروع بدقة (قبال دوار الحويان وقبال الحرية مول) لتقليل عوائق الوصول وتسهيل عملية الشراء للعملاء القريبين.\n* **أسلوب العرض:** الاعتماد على \"استعراض المنتج في اليد\" يعطي مصداقية وملموسية للمنتج، مما يرفع من ثقة المشاهد في جودة العرض.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"سماعات البيضوي الـ 800 واط، معها تويتر، بس بـ 10 دنانير الطقم لنهاية يوم الخميس. كانت تنباع بـ 30 و 25 دينار، فقط بـ 10 دنانير لنهاية يوم الخميس الطقم الـ 800 واط البيضوي، بالفرعين: قبال دوار الحويان، وقبال الحرية مول. سلام.\""
       }
     },
     {
@@ -199,7 +199,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2333323637514658",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQORiM7ftP9I-D6FyKP07byfd1AoEPzQoWAMb7ML1uL9YivDJt26p1NA5bOYWc5FT7i8Rf_baFka2NzxqAMATh9F2kqJbHNiV5ZYnfY-0oHlVg.mp4?_nc_cat=110&_nc_oc=Adq8S5fnF60_f732Vli086PhqmAnxWko7groO4lcsgVjxCwGo5y4CeleV_KNgL-cib8&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=1m_C0wH2Z5MQ7kNvwG658vl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNzk1MTMxMTkzNDU0MTIsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=75edab496c19b406&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NTIzMDBFNjJBQTI0MkQ1OTQwOTYxN0RCQjBCNTQwRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDRDQyNEU3RjQ5QjRDQjFBNUREQ0EwREMzRjYyQ0Y1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaIrMaMzNOxBxUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSw3SpPGXipJ0cAm4FxKyi8ra94OZXy4EzXiyFJeq_igA&oe=6B049DA2",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"مسجل! 6 جكات بدعم بلوتوث، بدعم AUX، بدعم CD. قديش متوقع سعره؟ أكيد فوق الـ 40 دينار. ولو قلتلك خد معاه طقم سماعات بيضاوي، راح تقلي هيك راح يطلع علي الحسبة فوق الـ 65 دينار. أنا اليوم بالدبل إم بقولك لا 65 ولا 55 ولا 45 حتى.. 30 دينار عنا هون اليوم في الدبل إم، بتيجي بتاخذ مسجل وبتاخد معاه طقم سماعات. ومستنيناكم بالفرعين، وهذا العرض لمدة محدودة.\"\n\n---",
+        "summary": "### 2. ملخص استراتيجي:\n\n* **خطاف لجذب الانتباه (Hook):** بدأ الفيديو بعرض منتج تقني (مسجل سيارة) وتحديد مواصفاته التقنية لجذب شريحة المهتمين بتعديل السيارات.\n* **إستراتيجية التلاعب بالسعر:** اعتمد المتحدث على أسلوب \"التسعير النفسي\"؛ حيث طرح توقعات عالية للسعر (40 ثم 65 دينار) ليوحي للمشاهد بأن السعر الفعلي (30 دينار) هو \"صفقة ذهبية\".\n* **قوة \"العرض المزدوج\" (Bundling):** اعتمد على استراتيجية البيع الجماعي (مسجل + سماعات) لإضافة قيمة حقيقية للعميل في مقابل السعر المعروض، مما يقلل من مقاومة الشراء.\n* **استخدام ندرة العرض (Scarcity):** اختتم الفيديو بعبارة \"العرض لمدة محدودة\" لخلق حالة من الاستعجال (Urgency) لدى المشاهد لاتخاذ قرار الشراء سريعاً.\n* **وضوح الدعوة لاتخاذ إجراء (CTA):** وجه المتحدث المشاهدين بوضوح إلى زيارة \"الفرعين\" للاستفادة من العرض.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2368053060267500",
