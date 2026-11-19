@@ -2,7 +2,7 @@
   "scan_date": "2026-11-19",
   "total_ads": 64,
   "total_video_ads": 59,
-  "analyzed_video_ads": 47,
+  "analyzed_video_ads": 48,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -954,11 +954,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "\"الدلال إلك والخصم علينا. استمتعوا بتجربة من الراحة في كهرمان سبا. خصم 15% على جميع الحمامات. لا تفوتوا الفرصة، احجزوا الآن.\"",
-        "summary": "### 2.\n*   **الرسالة التسويقية:** التركيز على القيمة المضافة من خلال دمج مفهوم \"الدلال\" الشخصي مع حافز مادي مباشر (خصم 15%).\n*   **استراتيجية العرض:** الفيديو يعتمد على أسلوب \"الدعوة لاتخاذ إجراء\" (Call to Action) المباشر والمُلح، مع استخدام الموقع الفعلي كخلفية لتعزيز الثقة وجذب العميل بصرياً.\n*   **نقاط القوة:** صياغة إعلانية قصيرة، مركزة، وعاطفية تستهدف الباحثين عن الرفاهية بأسعار تنافسية.\n*   **عامل الجذب:** استغلال عنصر \"الحصرية\" من خلال عبارة \"لا تفوتوا الفرصة\" لتحفيز الحجز الفوري.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n*   **الرسالة التسويقية:** التركيز على القيمة المضافة من خلال دمج مفهوم \"الدلال\" الشخصي مع حافز مادي مباشر (خصم 15%).\n*   **استراتيجية العرض:** الفيديو يعتمد على أسلوب \"الدعوة لاتخاذ إجراء\" (Call to Action) المباشر والمُلح، مع استخدام الموقع الفعلي كخلفية لتعزيز الثقة وجذب العميل بصرياً.\n*   **نقاط القوة:** صياغة إعلانية قصيرة، مركزة، وعاطفية تستهدف الباحثين عن الرفاهية بأسعار تنافسية.\n*   **عامل الجذب:** استغلال عنصر \"الحصرية\" من خلال عبارة \"لا تفوتوا الفرصة\" لتحفيز الحجز الفوري.",
+        "transcript": "\"الدلال إلك والخصم علينا. استمتعوا بتجربة من الراحة في كهرمان سبا. خصم 15% على جميع الحمامات. لا تفوتوا الفرصة، احجزوا الآن.\""
       }
     },
     {
@@ -999,7 +999,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1138441225200477",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQO4kVXU6sCOI4EpO52LkKkYs7y0UfC9IomZ9_2hWugNO2yPYdL36Z57dsMeT2QlhEGitDtvklr3XyuXpQaWJOX0FBpniVV7VSSqxeBPO8cRTA.mp4?_nc_cat=110&_nc_oc=AdrUscMAFGvIVJi4wFgXkXvc74ZGBQjgZkGiWJeV2MZUbCjcHhVMNFaptvZeAlEgee0&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=c7-iBxSVrggQ7kNvwEmxw8S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzUyODY3MzU0MjEwODEsImFzc2V0X2FnZV9kYXlzIjo2OCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjExNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2b90895ebfc5038a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MzREQkY2NkRCQTczODJCQkI1MTZGMDIxQkYyOTZBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBGNENENENBMjJFRjA0Mzc3NEY5QTE5RUQxQTlCNzhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACay-qu-9v3oAxUCKAJDMywXQFyd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTqI6lYB0r3sWTIHOr1Upvhh2t3WII-tNiIIEJeJ8px-A&oe=6B04BF6A",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "معلم 23 دينار الساوند ماكس طلع عليها منيح ركز عليها عشان ايه ما تروح عند حمزة تقوله ايش عمل حرق على السماعة ساوند ماكس معلم قرب علي ايش بي سي ب20 دينار شامل التركيب وموضوعي مش الساوند ماكس ولا الجي بي سي ولا الكينود ولا اي نوع سماعة موضوعي انك انت تيجي تحط الى سيارتك اشي منيح معلم بتعلي الاغاني زي هيك بتطفي الاغاني كلياتها بتقولي يا دلال بلش سمعني يلا نبلش كل اشي عارضلك ياه ماشي قرب علي اللي بيجي بس كلنا دلال احطلي ياه قسمها علي بنشوف قديش عليه خصم ثلاثين بالمية ماشي محل المدينة اسمع",
+        "summary": "### 2.\n- **عرض منتجات صوتية متنوعة:** استعراض لأنواع مختلفة من السماعات (SoundMax, JVC, Kenwood, Reiss Audio) وأسعارها التنافسية.\n- **سياسة الأسعار والخصومات:** تقديم عروض خاصة مثل تركيب بـ 20 دينار وخصومات تصل إلى 30%.\n- **تجربة العملاء:** دعوة العملاء لتجربة جودة الصوت بأنفسهم داخل المتجر للتأكد من كفاءة المنتجات.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1666603831691107",
