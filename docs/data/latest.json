@@ -2,7 +2,7 @@
   "scan_date": "2026-11-19",
   "total_ads": 64,
   "total_video_ads": 59,
-  "analyzed_video_ads": 46,
+  "analyzed_video_ads": 47,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -834,11 +834,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "أوه يا حلو\nاللي شو بدك مني هلق بعمله\nوإذا بدك فيني آخد قلبك دليله\nكلمة أنا حدك",
-        "summary": "### 2.\n**الملخص الاستراتيجي للفيديو:**\n\n* **العرض الترويجي:** إعلان لمجموعة منتجات عناية بالبشرة (Skin Care) بسعر منافس (149 شيكل).\n* **القيمة المضافة:** يتم التركيز على \"النتيجة النهائية\" لاستخدام المنتجات، وهي بشرة \"مشرقة كأنها الزجاج\" (Glass Skin)، وهو مصطلح تسويقي جذاب ومطلوب جداً في قطاع التجميل حالياً.\n* **استراتيجية الإلحاح (FOMO):** استخدام عبارات مثل \"الكمية محدودة\" و\"العرض لفترة محدودة\" لتحفيز المتابعين على اتخاذ قرار الشراء السريع.\n* **الجاذبية البصرية:** التصوير الهادئ والمنسق للمنتجات مع خلفية موسيقية رومانسية يعزز من صورة المنتج كخيار \"للدلال\" والعناية الذاتية.\n* **نقاط القوة:** الفيديو قصير ومباشر، يربط بين المنتج وبين النتيجة الجمالية المرغوبة، ويخلق شعوراً بالضرورة الملحة للشراء.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n**الملخص الاستراتيجي للفيديو:**\n\n* **العرض الترويجي:** إعلان لمجموعة منتجات عناية بالبشرة (Skin Care) بسعر منافس (149 شيكل).\n* **القيمة المضافة:** يتم التركيز على \"النتيجة النهائية\" لاستخدام المنتجات، وهي بشرة \"مشرقة كأنها الزجاج\" (Glass Skin)، وهو مصطلح تسويقي جذاب ومطلوب جداً في قطاع التجميل حالياً.\n* **استراتيجية الإلحاح (FOMO):** استخدام عبارات مثل \"الكمية محدودة\" و\"العرض لفترة محدودة\" لتحفيز المتابعين على اتخاذ قرار الشراء السريع.\n* **الجاذبية البصرية:** التصوير الهادئ والمنسق للمنتجات مع خلفية موسيقية رومانسية يعزز من صورة المنتج كخيار \"للدلال\" والعناية الذاتية.\n* **نقاط القوة:** الفيديو قصير ومباشر، يربط بين المنتج وبين النتيجة الجمالية المرغوبة، ويخلق شعوراً بالضرورة الملحة للشراء.",
+        "transcript": "أوه يا حلو\nاللي شو بدك مني هلق بعمله\nوإذا بدك فيني آخد قلبك دليله\nكلمة أنا حدك"
       }
     },
     {
@@ -951,7 +951,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1459737173889139",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQPRAspZmxPxLip733O-yud8punJaCT9eXgHDIK7s4EYkUelRjf1zFqZR4D-P-072tJOWmsNWiU4uP_7vS6Dh6AzUWYEXgGBla7NZEJWPQ.mp4?_nc_cat=106&_nc_oc=Adp0UwZxXaxYKciWJtpfcwNpksbhXSk37QnroiAS_WkVG5KZf82Cd0ahiAsrYf7m3bw&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=z2-eyzDJPdYQ7kNvwHsOizw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTAyMzQ3MzUxNzg4OTEzLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQw-8bh3iFUJ8zYCLYX12tFeDA10SJRXdE63_z0Pa0nmw&oe=6B049474",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "\"الدلال إلك والخصم علينا. استمتعوا بتجربة من الراحة في كهرمان سبا. خصم 15% على جميع الحمامات. لا تفوتوا الفرصة، احجزوا الآن.\"",
+        "summary": "### 2.\n*   **الرسالة التسويقية:** التركيز على القيمة المضافة من خلال دمج مفهوم \"الدلال\" الشخصي مع حافز مادي مباشر (خصم 15%).\n*   **استراتيجية العرض:** الفيديو يعتمد على أسلوب \"الدعوة لاتخاذ إجراء\" (Call to Action) المباشر والمُلح، مع استخدام الموقع الفعلي كخلفية لتعزيز الثقة وجذب العميل بصرياً.\n*   **نقاط القوة:** صياغة إعلانية قصيرة، مركزة، وعاطفية تستهدف الباحثين عن الرفاهية بأسعار تنافسية.\n*   **عامل الجذب:** استغلال عنصر \"الحصرية\" من خلال عبارة \"لا تفوتوا الفرصة\" لتحفيز الحجز الفوري.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1108894718585429",
