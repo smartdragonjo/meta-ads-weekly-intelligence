@@ -2,7 +2,7 @@
   "scan_date": "2026-11-19",
   "total_ads": 64,
   "total_video_ads": 59,
-  "analyzed_video_ads": 48,
+  "analyzed_video_ads": 49,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -1002,11 +1002,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "معلم 23 دينار الساوند ماكس طلع عليها منيح ركز عليها عشان ايه ما تروح عند حمزة تقوله ايش عمل حرق على السماعة ساوند ماكس معلم قرب علي ايش بي سي ب20 دينار شامل التركيب وموضوعي مش الساوند ماكس ولا الجي بي سي ولا الكينود ولا اي نوع سماعة موضوعي انك انت تيجي تحط الى سيارتك اشي منيح معلم بتعلي الاغاني زي هيك بتطفي الاغاني كلياتها بتقولي يا دلال بلش سمعني يلا نبلش كل اشي عارضلك ياه ماشي قرب علي اللي بيجي بس كلنا دلال احطلي ياه قسمها علي بنشوف قديش عليه خصم ثلاثين بالمية ماشي محل المدينة اسمع",
-        "summary": "### 2.\n- **عرض منتجات صوتية متنوعة:** استعراض لأنواع مختلفة من السماعات (SoundMax, JVC, Kenwood, Reiss Audio) وأسعارها التنافسية.\n- **سياسة الأسعار والخصومات:** تقديم عروض خاصة مثل تركيب بـ 20 دينار وخصومات تصل إلى 30%.\n- **تجربة العملاء:** دعوة العملاء لتجربة جودة الصوت بأنفسهم داخل المتجر للتأكد من كفاءة المنتجات.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض منتجات صوتية متنوعة:** استعراض لأنواع مختلفة من السماعات (SoundMax, JVC, Kenwood, Reiss Audio) وأسعارها التنافسية.\n- **سياسة الأسعار والخصومات:** تقديم عروض خاصة مثل تركيب بـ 20 دينار وخصومات تصل إلى 30%.\n- **تجربة العملاء:** دعوة العملاء لتجربة جودة الصوت بأنفسهم داخل المتجر للتأكد من كفاءة المنتجات.",
+        "transcript": "معلم 23 دينار الساوند ماكس طلع عليها منيح ركز عليها عشان ايه ما تروح عند حمزة تقوله ايش عمل حرق على السماعة ساوند ماكس معلم قرب علي ايش بي سي ب20 دينار شامل التركيب وموضوعي مش الساوند ماكس ولا الجي بي سي ولا الكينود ولا اي نوع سماعة موضوعي انك انت تيجي تحط الى سيارتك اشي منيح معلم بتعلي الاغاني زي هيك بتطفي الاغاني كلياتها بتقولي يا دلال بلش سمعني يلا نبلش كل اشي عارضلك ياه ماشي قرب علي اللي بيجي بس كلنا دلال احطلي ياه قسمها علي بنشوف قديش عليه خصم ثلاثين بالمية ماشي محل المدينة اسمع"
       }
     },
     {
@@ -1023,7 +1023,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1666603831691107",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQN1G8v9MKI1pHD-b0YIJHo0Jo_0oOC7IgiBLYdoVLsF3kOyWgZhQkWNiXMJOQfhbW_1Wu5mR9Vugenuh7RxBkpfUpd1gouaIBXvaYzBIA62Vw.mp4?_nc_cat=107&_nc_oc=AdqLrm3vGXgn4RMS4JhF0N-S_u72dCkFZukvFb5W3RuqK_pTAs_fE33Nv6j7O8AqCas&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=IjyvuflwhtAQ7kNvwESeAm4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2MTUxMDAxMzE1NDM4NiwiYXNzZXRfYWdlX2RheXMiOjE4NywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ff72bef73efc8b5e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMDQ3MDAzRkVBNTA5QTRGOTAzNDQ2NDM3NjFGMDJCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCNEQyMEQ5NTkxRUQ2MzgxNjVENDJDQTZBMTJENTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACak0cHsn5-1AxUCKAJDMywXQD7MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTsklZ0iLU9xnZJG-n2MJozD9GJxg9Ex5SvAqw-qXTVmA&oe=6B04A465",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك. بصفتي محللاً لمحتوى الفيديو، إليك النتيجة المطلوبة وفق الهيكل المحدد:\n\n\n\"شوف كفر سيارتك كيف صار، طلع ماسكه كربون بلاستيك. أيش ما تكون نوع سيارتك معلم، سكودا، جيب شيروكي، قديم، جديد، هونداي، أربع كبسات، مايباخ، اسمع.. حقق أحلامك بالنسبة لكفر المفتاح، طلع كيف بيجي. عامل عليه عرض سعر، بشارع المدينة وشارع الجامعة، في منه حديد وفي منه بلاستيك. سلام.\"",
+        "summary": "### 2.\n**ملخص استراتيجي:**\n\n*   **الهدف الإعلاني:** الترويج لمجموعة متنوعة من كفرات مفاتيح السيارات بمختلف الأنواع والمواد (حديد/بلاستيك).\n*   **استراتيجية الجذب:** الاعتماد على العرض البصري المباشر للمنتج (قبل وبعد) وإظهار جودة التشطيب (الكربون).\n*   **عنصر الثقة:** التحدث بأسلوب \"ابن البلد\" غير المتكلف لتعزيز القرب من العميل.\n*   **نقطة البيع القوية:** إبراز التنوع الهائل في المنتجات التي تغطي معظم أنواع السيارات الموجودة في السوق.\n*   **الدعوة لاتخاذ إجراء (Call to Action):** التركيز على وجود \"عرض سعر\" وتحديد المواقع الجغرافية للفروع (شارع المدينة وشارع الجامعة) لضمان دفع العميل للزيارة.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "28518512124486889",
