@@ -2,7 +2,7 @@
   "scan_date": "2026-11-21",
   "total_ads": 44,
   "total_video_ads": 43,
-  "analyzed_video_ads": 22,
+  "analyzed_video_ads": 23,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -344,11 +344,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"عرض الألياف الضوئية (المساطر). المساطر الضوئية 18 قطعة، اللي كنت تشتريها بـ 25 دينار أو بـ 15 أقل سعر بالمملكة، أنا اليوم بقول لك: احزر كم عمري عشان تاخذها على قد عمري. العرض رح يكون لفترة محدودة، بنستناكم بالفرعين.\"\n\n---",
-        "summary": "### 2. ملخص استراتيجي:\n*   **خطاف الانتباه (Hook):** استخدام \"لغز\" تفاعلي (تخمين عمر المتحدث) بدلاً من الإعلان المباشر، مما يزيد من معدل الاحتفاظ بالمشاهدين (Retention Rate) عبر تحفيزهم على التعليق.\n*   **خلق الإلحاح (Urgency):** التأكيد على أن العرض \"لفترة محدودة\" لدفع العميل لاتخاذ قرار الشراء فوراً.\n*   **بناء المصداقية (Social Proof/Value):** التركيز على القيمة السعرية (مقارنة السعر الحالي بالسعر المعتاد في السوق) لإشعار المشاهد بوجود صفقة رابحة.\n*   **الوضوح (CTA):** دعوة واضحة للجمهور للتوجه إلى فروع المحل (\"بنستناكم بالفرعين\").\n*   **نقطة التحسين:** يمكن تحسين الفيديو بإضافة نص (نص على الشاشة) يوضح السعر النهائي بعد التخمين، أو ذكر تفاصيل الفروع بشكل أوضح للمشاهدين من خارج المنطقة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي:\n*   **خطاف الانتباه (Hook):** استخدام \"لغز\" تفاعلي (تخمين عمر المتحدث) بدلاً من الإعلان المباشر، مما يزيد من معدل الاحتفاظ بالمشاهدين (Retention Rate) عبر تحفيزهم على التعليق.\n*   **خلق الإلحاح (Urgency):** التأكيد على أن العرض \"لفترة محدودة\" لدفع العميل لاتخاذ قرار الشراء فوراً.\n*   **بناء المصداقية (Social Proof/Value):** التركيز على القيمة السعرية (مقارنة السعر الحالي بالسعر المعتاد في السوق) لإشعار المشاهد بوجود صفقة رابحة.\n*   **الوضوح (CTA):** دعوة واضحة للجمهور للتوجه إلى فروع المحل (\"بنستناكم بالفرعين\").\n*   **نقطة التحسين:** يمكن تحسين الفيديو بإضافة نص (نص على الشاشة) يوضح السعر النهائي بعد التخمين، أو ذكر تفاصيل الفروع بشكل أوضح للمشاهدين من خارج المنطقة.",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي المنافس، إليك تحليل الفيديو:\n\n التفريغ النصي للفيديو:\n\"عرض الألياف الضوئية (المساطر). المساطر الضوئية 18 قطعة، اللي كنت تشتريها بـ 25 دينار أو بـ 15 أقل سعر بالمملكة، أنا اليوم بقول لك: احزر كم عمري عشان تاخذها على قد عمري. العرض رح يكون لفترة محدودة، بنستناكم بالفرعين.\"\n\n---"
       }
     },
     {
@@ -365,7 +365,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2014960862793463",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOLm6yMT4glXbIMc0eG9jFZX2dzpOCpHt632EsBQM2ZrXVcb284sYyjXuKNpKuoySo1YY7Qj_XBNuIkbOA4tBAugCTgvnNJkO28TXOZdr4Q3g.mp4?_nc_cat=103&_nc_oc=AdoF-bGdHZyPGrlVxmL0nJDn3325hOONtBEI-io_9F5URnLAxmKbTkBURw8i5Wkt5bs&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=Tl4nZfMhDegQ7kNvwExWp1Z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NjE1MTUxMjkyNzQyNTAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d216d4d816cdd7fe&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82RkVCMjYyMEY0MDk0MDQxQTkxNjA3REU5QzdGQkY0RV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdDMTRBNTRFRjY5RjQ4NUI4NTBEREVGNkQ5RUJEMDJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaU_umhsM-YBRUCKAJDMywXQDwiDEm6XjUYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=PkSkbKIHm6QOU1xW7XQAdQ&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRuZbYdFT2v-Ek1gHORyN5qajhuRG1uebZ3AmDSOLg9vw&oe=6B076AD1",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي:\n\"هذا هو الشكل القديم، وهذا هو الشكل الجديد اللي راح يركب عندك، بصمة تشغيل مع جهازها الخاص، تركب على جميع أنواع السيارات، بتخلي سيارتك أحدث، وبالإضافة بيجي معها مفتاحين الشريحة عشان تعطيك الحساسية عشان لما تقرب على السيارة تقدر تشغلها، ولما تبعد عن السيارة بتبطل البصمة تشتغل، راح يكون عليها عرض سعر خصم 50%، وأما عن أجور التركيب فراح تكون جداً رمزية، بس احكي لي شو نوع سيارتك بالتعليقات واسألني عن سعرها لأنه عليها سعر كتير مميز بمعرض دبل إم، وأهلاً وسهلاً بالجميع.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية المنتج:** الترويج لـ \"تحديث تقني\" (Push Start Kit) يهدف لرفع القيمة السوقية والجمالية للسيارات القديمة، مما يجعله منتجاً واسع الانتشار وسهل التسويق.\n* **نقطة البيع الفريدة (USP):** التركيز على ميزة \"الحساسية\" (الأمان الذكي)، حيث يعمل النظام بالاقتران مع مفتاح الشريحة، مما يضيف قيمة عملية تتجاوز مجرد شكل \"زر التشغيل\".\n* **تحفيز التفاعل (Call to Action):** استغلال فضول الجمهور حول \"السعر\" لجعلهم يكتبون نوع سياراتهم في التعليقات، مما يؤدي إلى:\n    * زيادة التفاعل (Engagement) مما يرفع ترتيب الفيديو في الخوارزميات.\n    * بناء قاعدة بيانات لعملاء مهتمين فعلياً بالتطوير (Leads).\n* **التكتيك البيعي:** استخدام \"خصم الـ 50%\" كأداة جذب قوية (Hook)، مع إظهار \"رمزية أجور التركيب\" لإزالة آخر عقبة قد تمنع العميل من اتخاذ قرار الشراء.\n* **ملاحظة للمنافس:** يركز الفيديو على بناء علاقة مباشرة مع العميل من خلال طلب \"نوع السيارة\"، مما يتيح للمعرض تخصيص العرض لكل عميل لاحقاً عبر الرسائل الخاصة (Direct Messages).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2237089350180586",
