@@ -2,7 +2,7 @@
   "scan_date": "2026-11-19",
   "total_ads": 64,
   "total_video_ads": 59,
-  "analyzed_video_ads": 26,
+  "analyzed_video_ads": 59,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -178,11 +178,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"سماعات البيضوي الـ 800 واط، معها تويتر، بس بـ 10 دنانير الطقم لنهاية يوم الخميس. كانت تنباع بـ 30 و 25 دينار، فقط بـ 10 دنانير لنهاية يوم الخميس الطقم الـ 800 واط البيضوي، بالفرعين: قبال دوار الحويان، وقبال الحرية مول. سلام.\"",
-        "summary": "### 2. ملخص استراتيجي:\n* **العرض الترويجي:** خصم هائل (Clearance Sale) بنسبة تزيد عن 60% على سماعات \"بيضوي 800 واط\"، مما يجعل السعر الحالي (10 دنانير) نقطة جذب قوية جداً.\n* **استراتيجية الإلحاح (Urgency):** ربط العرض بجدول زمني ضيق (ينتهي يوم الخميس)، مما يحفز العملاء على اتخاذ قرار شراء فوري.\n* **إثبات القيمة (Value Proposition):** عمل مقارنة واضحة بين السعر السابق (25-30 دينار) والسعر الحالي، مما يعزز شعور العميل بالحصول على صفقة رابحة.\n* **الاستهداف الجغرافي:** تحديد مواقع الفروع بدقة (قبال دوار الحويان وقبال الحرية مول) لتقليل عوائق الوصول وتسهيل عملية الشراء للعملاء القريبين.\n* **أسلوب العرض:** الاعتماد على \"استعراض المنتج في اليد\" يعطي مصداقية وملموسية للمنتج، مما يرفع من ثقة المشاهد في جودة العرض.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. ملخص استراتيجي:\n* **العرض الترويجي:** خصم هائل (Clearance Sale) بنسبة تزيد عن 60% على سماعات \"بيضوي 800 واط\"، مما يجعل السعر الحالي (10 دنانير) نقطة جذب قوية جداً.\n* **استراتيجية الإلحاح (Urgency):** ربط العرض بجدول زمني ضيق (ينتهي يوم الخميس)، مما يحفز العملاء على اتخاذ قرار شراء فوري.\n* **إثبات القيمة (Value Proposition):** عمل مقارنة واضحة بين السعر السابق (25-30 دينار) والسعر الحالي، مما يعزز شعور العميل بالحصول على صفقة رابحة.\n* **الاستهداف الجغرافي:** تحديد مواقع الفروع بدقة (قبال دوار الحويان وقبال الحرية مول) لتقليل عوائق الوصول وتسهيل عملية الشراء للعملاء القريبين.\n* **أسلوب العرض:** الاعتماد على \"استعراض المنتج في اليد\" يعطي مصداقية وملموسية للمنتج، مما يرفع من ثقة المشاهد في جودة العرض.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"سماعات البيضوي الـ 800 واط، معها تويتر، بس بـ 10 دنانير الطقم لنهاية يوم الخميس. كانت تنباع بـ 30 و 25 دينار، فقط بـ 10 دنانير لنهاية يوم الخميس الطقم الـ 800 واط البيضوي، بالفرعين: قبال دوار الحويان، وقبال الحرية مول. سلام.\""
       }
     },
     {
@@ -199,7 +199,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2333323637514658",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQORiM7ftP9I-D6FyKP07byfd1AoEPzQoWAMb7ML1uL9YivDJt26p1NA5bOYWc5FT7i8Rf_baFka2NzxqAMATh9F2kqJbHNiV5ZYnfY-0oHlVg.mp4?_nc_cat=110&_nc_oc=Adq8S5fnF60_f732Vli086PhqmAnxWko7groO4lcsgVjxCwGo5y4CeleV_KNgL-cib8&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=1m_C0wH2Z5MQ7kNvwG658vl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNzk1MTMxMTkzNDU0MTIsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=75edab496c19b406&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83NTIzMDBFNjJBQTI0MkQ1OTQwOTYxN0RCQjBCNTQwRV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzJDRDQyNEU3RjQ5QjRDQjFBNUREQ0EwREMzRjYyQ0Y1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaIrMaMzNOxBxUCKAJDMywXQD1MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSw3SpPGXipJ0cAm4FxKyi8ra94OZXy4EzXiyFJeq_igA&oe=6B049DA2",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n\n* **خطاف لجذب الانتباه (Hook):** بدأ الفيديو بعرض منتج تقني (مسجل سيارة) وتحديد مواصفاته التقنية لجذب شريحة المهتمين بتعديل السيارات.\n* **إستراتيجية التلاعب بالسعر:** اعتمد المتحدث على أسلوب \"التسعير النفسي\"؛ حيث طرح توقعات عالية للسعر (40 ثم 65 دينار) ليوحي للمشاهد بأن السعر الفعلي (30 دينار) هو \"صفقة ذهبية\".\n* **قوة \"العرض المزدوج\" (Bundling):** اعتمد على استراتيجية البيع الجماعي (مسجل + سماعات) لإضافة قيمة حقيقية للعميل في مقابل السعر المعروض، مما يقلل من مقاومة الشراء.\n* **استخدام ندرة العرض (Scarcity):** اختتم الفيديو بعبارة \"العرض لمدة محدودة\" لخلق حالة من الاستعجال (Urgency) لدى المشاهد لاتخاذ قرار الشراء سريعاً.\n* **وضوح الدعوة لاتخاذ إجراء (CTA):** وجه المتحدث المشاهدين بوضوح إلى زيارة \"الفرعين\" للاستفادة من العرض.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n\"مسجل! 6 جكات بدعم بلوتوث، بدعم AUX، بدعم CD. قديش متوقع سعره؟ أكيد فوق الـ 40 دينار. ولو قلتلك خد معاه طقم سماعات بيضاوي، راح تقلي هيك راح يطلع علي الحسبة فوق الـ 65 دينار. أنا اليوم بالدبل إم بقولك لا 65 ولا 55 ولا 45 حتى.. 30 دينار عنا هون اليوم في الدبل إم، بتيجي بتاخذ مسجل وبتاخد معاه طقم سماعات. ومستنيناكم بالفرعين، وهذا العرض لمدة محدودة.\"\n\n---"
+      }
     },
     {
       "ad_id": "2368053060267500",
@@ -215,7 +223,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2368053060267500",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOGPPibW-5yO5NfoJqLmbBrF8kK6Aez7M3DQSlu8LrDEBgpca1IwXK2ypmr8l9bu5YqMlcRjh9EHf-tgmBQewJxc05ehxSGWobgFpMJNXMlOA.mp4?_nc_cat=111&_nc_oc=AdqLxyRJqc7k5dmPA_EG49PbntrnR3jZQ5-SKzJcVQYzN-H3ErJcRTxfaB1yBdRAwsA&_nc_sid=b66105&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=nYjcnnbntCYQ7kNvwEOJ-Ph&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2OTg0MzY3NTUwMzU3NTYsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=daca895b5e7aaf9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85ODY2MkUwMzJFREI0MDE4OTMzNjM3Q0I4RUJBMzJFMF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0I4QTlFQkQxRENCODQyRjA5MjBGQ0M3Q0U3NkI4RjYzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbY2aj3g66EBhUCKAJDMywXQEtRBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRRGPOM16g5r8ppmi2wcPQxrAWGdUz9SEzWcapw94vO8Q&oe=6B049385",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **المنتج:** غطاء حماية (واقي) لشاحن السيارات الكهربائية من العوامل الجوية (الأمطار).\n*   **القيمة المقترحة (USP):** التركيز على متانة المنتج (النوعية الثقيلة) وسهولة استخدامه عبر شريط مغناطيسي كامل يضمن ثبات الغطاء وعزل الشاحن بشكل محكم.\n*   **أسلوب العرض:** فيديو توضيحي (Demo) يعتمد على التجربة المباشرة أمام الكاميرا لتعزيز المصداقية لدى المشاهد.\n*   **الهدف التسويقي:** تحفيز التفاعل المباشر (Call to Action) عبر التعليقات لمعرفة السعر، وهو تكتيك ذكي لزيادة خوارزميات الوصول للفيديو وتوليد \"عملاء محتملين\" (Leads) بشكل شخصي.\n*   **عناصر تعزيز الثقة:** الإشارة لوجود نوعيات مختلفة (خيارات متنوعة) وتحديد مواقع الفروع (دوار الحويان والحرية مول) لإضفاء الطابع الواقعي والموثوق على المتجر.",
+        "transcript": "أهلاً بك، بصفتي محلل محتوى منافس، قمت بتحليل هذا الفيديو الإعلاني للمنتج، وإليك النتائج وفقاً للهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"بتحطه عندك زي هيك، تلاقيه ثابت عندك 100% معلم. هذا غطاء الشاحن النوعية الثقيلة، عشان تكون أنت عارف هذا الإشي في نوعيتين موجودة بالسوق، طبعاً النوعيتين متوفرات عنا، في عندك النوعية الخفيفة وفي عندك الثقيلة. هذا الثقيل وهو كمان برضو بيجي بنفس الوقت الحجم الكبير. زي ما أنت شايف هون إحنا في عندنا مغناطيس جاي من الأول للآخر، وهون تحت بتحط الشاحن هون وبعدين بتسكر عليه بهذا الشكل، وهيك رح يكون عندك ثابت 100% وما راح توصل عندك مياه الأمطار لشاحن السيارة. إذا حبيت تطلب هاي النوعية الثقيلة من الدبليو إم، كل ما عليك تكتبلي كم السعر تحت في التعليقات ونحن رح نجاوبك في السعر مباشرة ورح نزودك في كامل التفاصيل، وأهلاً وسهلاً فيكم. بتلاقوه هذا طبعاً في الدبليو إم بالفرعين، فرع دوار الحويان وفرع الحرية مول، وأهلاً وسهلاً فيكم.\"\n\n---"
+      }
     },
     {
       "ad_id": "1457932276439117",
@@ -231,7 +247,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1457932276439117",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMSJut_SWjgj8l6_TLndvoIU47d-awkLdUZQW9zB8LeuMLS5xsK-Cx1eevx3dOPlCdYPnWWN3XSpKpPJMIInEsJY4VIrx4cnmM_JWC2ReLHMA.mp4?_nc_cat=100&_nc_oc=AdqIB4cbV2c0GhnTtuk2yJdgvat_e_s-5bgWQiq31QDTs0zZdNzeUuwG8vDb4b3dWac&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=LvR3flcgh_AQ7kNvwFd-NOE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNTMwNzU0MDcyNDMyMjMsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=311fd3b7c2865998&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zNTVDOTQ4NjYwRkM0QkIyOUVEMTkyMTkyNzAyNTgyMl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzdBNzRBQUIxRTQzQTQ0NzdCNkQ3OTcyQUVGN0ZFMDAyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaun-Kg6a2MBBUCKAJDMywXQD87peNT988YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT-GsQH81BXk0Ai8kS31trXIoPZEBEU0irW0URfo-dNIA&oe=6B04B05C",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n\n* **القيمة الأساسية للمنتج (Value Proposition):** حماية السائق من المواقف الطارئة (تعطل البطارية) خلال فصل الشتاء باستخدام باور بانك مخصص للطوارئ (Jump Starter).\n* **أسلوب العرض (Visual Hooks):** الاعتماد على \"عرض العملي\" (Demonstration) لإثبات كفاءة الجهاز في تشغيل محرك سيارة متعطلة فعلياً، مما يكسر حاجز التردد لدى المشتري.\n* **الاستراتيجية البيعية (Sales Strategy):** \n    * **خلق الحاجة (Urgency):** ربط المنتج بتغيرات الموسم (دخول فصل الشتاء) وتأثير البرودة على كفاءة البطاريات.\n    * **توسيع دائرة الجمهور (Targeting):** استهداف الأصدقاء والأقارب كهدية أو حاجة ضرورية لجميع السائقين.\n    * **قوة السعر (Pricing):** تسليط الضوء على السعر التنافسي (أقل من 18 دينار) واستخدام مصطلحات جاذبة مثل \"سعر تريند\" لتعزيز الرغبة في الشراء.\n* **مكان التواجد (Call to Action):** توجيه مباشر إلى \"معارض دبل إم\" لضمان زيادة الزيارات الميدانية (Foot Traffic).",
+        "transcript": "التفريغ النصي للفيديو:\n\n\"لو ما عندك بطارية عادي جداً، على الباور بانك هذا بس بتشبكه زي هيك، وبتشغل السيارة. وشوف كيف، زي ما أنت شايف بكل بساطة الباور بانك هذا رح يشغلك إياها 100%. قبل دخول فصل الشتاء عشان ما يصير عندك أي مشاكل ببطارية سيارتك خلي معك هذا الباور بانك، بيلزمك وبيلزم صاحبك وبيلزم أخوك، أبوك، بلاش ينقطع في فصل الشتاء لأن كل البطاريات بتضعف بفصل الشتاء، ومتوفر عنا بأقل من 18 دينار في معارض دبل إم، ورح يكون السعر تريند بإذن الله وأهلاً وسهلاً بالجميع.\"\n\n---"
+      }
     },
     {
       "ad_id": "1149889414078006",
@@ -247,7 +271,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1149889414078006",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNiwYZZ0TuemaF7Uyd7Bdcs7ja28VHE5l1MkNwPnRrJ5hIcejZzw07WOOcVRmaw3drnEwUqkGv4ZLFc5maNqkv3GQidtykSzTmbdwpFUQ.mp4?_nc_cat=108&_nc_oc=AdqgVXhjW_2DtmZ97NCwrU9L4hkQWKSmZkpzJWeJ2TCFtAs_4LxJaOmo6GTxM-d7pco&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=BhaaOMaVXdQQ7kNvwFn0YxC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0NjcxODI5Njk2Mzc5ODYwLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQS11DwQf4ZXkuX0q65nfam9xJp3VgyAuRikqp2Tr1BpEw&oe=6B049442",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n\n*   **استراتيجية جذب الانتباه (Hook):** اعتمد المتحدث على أسلوب \"الصدمة\" في بدايته، مع ربط المنتج بـ \"التريند\" لزيادة رغبة المشاهد في الاقتناء.\n*   **القيمة المقترحة (Value Proposition):** ركز على الخصم الكبير (50% فعلي) والضمان (منتج أصلي)، مما يخلق شعوراً بالفرصة التي لا تعوض.\n*   **الاستهداف الفني (Technical Target):** ذكر تفاصيل تقنية ومحددة للتركيب (التابلو، البطاين، المقاعد) ليطمئن العميل أن المنتج يغطي كافة أجزاء السيارة الداخلية.\n*   **خلق التفاعل (CTA Strategy):** استخدم \"استراتيجية التوقع\" في التعليقات، وهي وسيلة ذكية لزيادة معدل التفاعل (Engagement) على المنصة، مما يرفع من وصول الفيديو (Algorithm reach).\n*   **الندرة والاستعجال (Scarcity):** التأكيد على أن العرض \"لفترة محدودة\" هو محرك أساسي لدفع العميل لاتخاذ قرار الشراء فوراً بدلاً من التأجيل.\n*   **الانتشار الجغرافي:** تحديد الفروع بوضوح في نهاية الفيديو (دوار الحويان - الحرية مول) لسهولة الوصول للجمهور المستهدف محلياً.",
+        "transcript": "إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\n\"بدك أصدمك؟ اسألني عن السعر والحق العرض.. على سعر المساطر الضوئية التريند 2026. معلم هدول المساطر راح يركبوا عندك تابلو، كاب هولدرات، تحت الأربع مقاعد، وعلى الأربع بطاين. طلع لي هذا الشكل، بوعدك لتأخذ أقل سعر على مستوى المملكة بخصم الـ 50 بالمية الفعلي، يعني لو مسعر بـ 50 تعال خذه بـ 25 دينار. تخيل لوين؟ أنا بحكيلك مثال طبعاً، ويركب عندك أصلي مليار بالمية يا صديقي. طبعاً عروضنا لفترة محدودة، اسألني عن السعر وتوقع السعر في التعليقات، وأنت لحالك راح تيجي لما تشوف تنصدم بالسعر. بتشرفونا بالفرعين دوار الحويان أو الحرية مول.\"\n\n---"
+      }
     },
     {
       "ad_id": "1664427615069861",
@@ -263,7 +295,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1664427615069861",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQPFuP6py1ddIMDKhilT0YCSyb29GVGoPxEyrfoHwWt_hc893qH0Et_BtPkIyzWrZY6d_UbkMBLXh-taQte58QvCAI9IaT2STSGYQGsK9A.mp4?_nc_cat=105&_nc_oc=AdpVErgaNxNCftX0py6P9j8dXFlD0eCvGuFc9iG-yoaYxZppXdbSlNj_pK5-dJOBql4&_nc_sid=ef5aa3&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=H2e2mgB1tWIQ7kNvwFUmcF8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0NTUyMTY5Njk1MDU0ODc5LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQROYFckRdbWONaFA-sZuzOJ_9Ul6ptAvNrW5fhW12PriA&oe=6B04B0F1",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية التسعير النفسي (Psychological Pricing):** استخدام أسلوب \"التخفيض الجذري\" (من 45 إلى 15 دينار) لتعزيز شعور العميل بفرصة لا تعوض.\n*   **خلق حالة الاستعجال (Scarcity & Urgency):** تحديد إطار زمني قصير جداً للعرض (من الاثنين إلى الخميس) لدفع المشاهد لاتخاذ قرار شرائي سريع.\n*   **الوضوح في العرض (Clarity):** التركيز على اسم المنتج \"سيمبلي\" وتكراره لترسيخ العلامة التجارية، مع ربط السعر بمواقع الفروع بشكل مباشر.\n*   **الاستهداف الجغرافي:** تحديد مواقع الفروع (دوار الحويان والحرية مول) بدقة، مما يسهل على العميل الوصول ويقلل من حواجز اتخاذ القرار.\n*   **الرسالة التسويقية:** التركيز على القيمة مقابل السعر، حيث تم إبراز توفر كافة الألوان كعنصر جذب إضافي يقلل من مخاوف نفاذ الكميات أو خيارات محدودة.",
+        "transcript": "إليك تحليل محتوى الفيديو من وجهة نظر منافسة:\n\n التفريغ النصي للفيديو:\n\"بدل من 45 دينار، فرش السيمبلي وكل الألوان منه موجودة، ابتداءً من يوم الاثنين لنهاية يوم الخميس راح يكون بس بـ 15 دينار، بالفرعين قبال دوار الحويان وقبال الحرية مول، فرش السيمبلي فقط بـ 15 دينار، سلام.\"\n\n---"
+      }
     },
     {
       "ad_id": "1801676041091619",
@@ -279,7 +319,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1801676041091619",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQO2TNZentEXZ_NZTBFqXD0zrO1BW_p3RwBxXb2QBKDhrf3yvidFbvQtc65QfXeC_-32caXDu1TktHlZIYj2mGFHj4YPORMyV44EBvBVkUoK_Q.mp4?_nc_cat=110&_nc_oc=AdqbBTkGBqYoYkfboe5FeZB5XAWVJ6C0NfwGDnyWzFZavDvh-96dbEXgyrEvrZClK6M&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=b-MEMDogs08Q7kNvwElOXpa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5Njk0MTQ0MTYwMjcyMDA5LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=78b44459f7fb792d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9DNDUyNzJEOEYwMkI0MENDODk1RUQ2QjAzMkVCRjBCOV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzQyNzc1QTVDMEU0MzRBNzA4MTg0MDc4NDkyQUNCQjdGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaSuqip1qq_aRUCKAJDMywXQDWZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQShVqbAs_gYPhPT0931cSSI4H_tJDFC1_lJuSLWjOwofA&oe=6B04817E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n*   **عامل الجذب (The Hook):** استخدام صيغة \"تحدي السعر\" (منتجين بسعر أقل من منتج واحد) لجذب فضول المشاهد فوراً.\n*   **القيمة المقترحة (Value Proposition):** \"عرض الحزمة\" (Bundling)؛ حيث يتم ربط جهازين (مسجل + سماعات) بسعر إجمالي أقل من سعر أحد الجهازين بمفرده، مما يرفع القيمة المدركة لدى العميل.\n*   **استراتيجية الإلحاح (Urgency):** التأكيد على أن العرض \"لفترة محدودة\" لتحفيز المشاهد على اتخاذ قرار الشراء السريع.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة واضحة للزيارة (زوروا معارض دبل إم) وتحديد مكان الخدمة (فرعين) لتعزيز المصداقية والسهولة.\n*   **الأسلوب:** محتوى قصير، سريع، موجه، ويعتمد على العرض المرئي والمسموع المباشر دون مقدمات طويلة، مما يجعله مثالياً لمنصات \"Reels\" و\"TikTok\".",
+        "transcript": "إليك تحليل المحتوى بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"مش تسألني كيف زبطت معي، بس تعالوا نستغل هذا العرض، بدل الـ 12 دينار، المسجل المدعوم بالبلوتوث واثنين يو إس بي واحد فلاشة وواحد شحن، أنا قاعد بقولك رح تاخذه وتأخذ معه كمان طقم سماعات 4 إنش بقوة 200 واط. كلهم رح يكونوا سعرهم بأقل من سعر المسجل لحاله، فإذا كنت حابب تكسب هذا العرض، ما.. زور معارض دبل إم، لأن هذا العرض رح يكون لفترة محدودة وبستناكم بالفرعين.\""
+      }
     },
     {
       "ad_id": "1743079097725139",
@@ -295,7 +343,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1743079097725139",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQOINlqcF3M9KN_MOhwzmk0ImoioSBpCKwBHRnzJpy9MJHktaDu4ioTXGRxCcB4YeZ_-fsPXL4GGzBzGDIEi6aVJKRRE5y5k0m2pK_bG_Q.mp4?_nc_cat=111&_nc_oc=Adqk6f9b7FWLPnaDowPfIKdZwls-dstCxCIu3ttH1Gj7-hnAuze8macCt60nMxIEFrk&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=pkjuHU3uKDgQ7kNvwE2xNig&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDU1Mzk3NzMyNjY1ODk1LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRZlZzDMwY2SIXK-D6IjRbMbUtQH1cHTUW2_CjbgjTQJw&oe=6B0483BB",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\nيُعد هذا الفيديو نموذجاً ناجحاً لـ \"محتوى البيع المباشر\" (Direct Response Marketing) عبر منصات التواصل الاجتماعي، ويمكن تلخيص نقاط قوته في الآتي:\n\n*   **خلق الحاجة (Triggering Demand):** بدأ الفيديو بعبارة \"الكل سألني عنها\"، مما يوهم المشاهد بوجود طلب مرتفع (Social Proof) ويخلق فضولاً للمشاهدة.\n*   **تقديم القيمة السعرية:** استخدام عبارة \"أقوى سعر على مستوى المملكة\" مع تحديد سعر ثابت وواضح (8 دنانير) يحفز المشاهد على اتخاذ قرار الشراء فوراً.\n*   **التأكيد على الجودة (Trust Signals):** ركز المتحدث على تفاصيل تقنية (دبل فيس 3M، وجود كبشايات إضافية للتثبيت) لتبديد مخاوف العملاء حول جودة المنتج أو سهولة تركيبه.\n*   **استراتيجية التفاعل (Call to Action):** استخدام التعليقات كأداة لجمع بيانات العملاء (عبر سؤالهم عن نوع سيارتهم) لا يعمل فقط على تحسين خوارزميات الانتشار، بل يخدم أيضاً في بناء قاعدة بيانات للزبائن المستهدفين للمتابعة لاحقاً.\n*   **الطابع الشخصي (Humanizing the Brand):** أسلوب المتحدث العفوي والواثق يزيد من مصداقية المتجر، ويخلق علاقة مباشرة بين البائع والمشتري، وهو أمر حيوي في قطاع إكسسوارات السيارات.",
+        "transcript": "أهلاً بك. بصفتي محللاً للمحتوى التسويقي، إليك التحليل الاستراتيجي للفيديو:\n\n التفريغ النصي للفيديو:\n\n- \"وهاي الكل سألني عنها معلم، هوايات الكوري أو الخط نجل، طبعاً ما بالك لما أجيبلك عليها أقوى سعر على مستوى المملكة! \n- الهوايات الأسود سادة أو الأسود خط نجل دبل فيس 3M، طلع كيف، بالإضافة كمان كبشاي أصلية منها وفيها في حال الدبل فيس ما مسك، بس 8 دنانير! \n- هاي الهواي أو الهوايات الأسود السادة، طلعلي كيف بسم الله ما شاء الله، مخصص حسب نوعية سيارتك، وضروري جداً عشان تستغل هاد العرض تعطيني نوع سيارتك بالتعليقات. \n- موجود لجميع أنواع السيارات، بس على كل حال أعطيني نوع سيارتك عشان أوفرلك اياها.\"\n\n---"
+      }
     },
     {
       "ad_id": "1103501449311380",
@@ -311,7 +367,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1103501449311380",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNVnZp4Vq7AY17R2WA_lVbuWLYOb9158Ady9eirSYHIWPu2VXjjt4_X7R_zh3giBkkbNCcB2dtIoBAUe2BmpnW9s_N8wYwPJyEwd1Ee2ZzqGA.mp4?_nc_cat=104&_nc_oc=Ado66s6Goq5swj39yZGrw7cfD6x3gYmCumFMH51XWC2N4SsSerItANx09axKwCCC7iM&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=7YPdJnizMpEQ7kNvwEe1ojs&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDI1MzQ1MjQ4OTM5MDMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c1e88a661a68be6a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zQzNCOEE5RkE2RjY0RUU4ODQwQzJBRkE1NEQzODVFRl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM2QkI2RTk5MUY4NzQ5RThBQURGQTRBMURENUM4OTgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACae68XR5N_YBRUCKAJDMywXQDvVP3ztkWgYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UtXCfUOrvC9qlDsE37WTgsADIJgXVqb6H_T1pr-9CnMvcFKK1q7kTzeu6uGMHilBeNMWnN3niJnX6zkDXGzS0m1XNFlfOtodlLJnl4A9WqsK0p6Jc45nKVDjQAM&oh=00_AQR5HKbFhO-JDgRtf3EXH-lv1hQA-FFW_VWbg7T7y7Dm1g&oe=6B048D34",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **هوية المنتج:** مساطر إضاءة محيطية (Ambient Lighting) بتقنية RGB، مخصصة لتزيين مقصورة السيارة الداخلية.\n*   **القيمة المقترحة (USP):** نظام إضاءة متكامل (12 وحدة) مع ميزة التحكم الذكي عبر تطبيق الهاتف، بالإضافة إلى نظام \"Relays\" لضمان توزيع الكهرباء.\n*   **استراتيجية التفاعل (Engagement):** اعتمد صانع المحتوى على \"استدراج الجمهور\" للمشاركة في التعليقات من خلال أسلوب التحدي والمراهنة على السعر، مما يرفع من معدلات خوارزميات المنصة.\n*   **عامل الجذب (The Hook):** استخدام \"المفاجأة\" (تلميحات بتقديم تركيب مجاني أو جوائز أفضل) لتحفيز المشاهدين على المتابعة والمشاركة، بعيداً عن مجرد عرض المنتج.\n*   **الجمهور المستهدف:** فئة الشباب ومحبي تعديل السيارات (Car Enthusiasts) الذين يبحثون عن تطوير مظهر سياراتهم بتكلفة اقتصادية.",
+        "transcript": "إليك التحليل المطلوب لمحتوى الفيديو:\n\n التفريغ النصي للفيديو:\n\n\"توقع السعر بالتعليقات، يمكن أربحك إياه. ما بدي أحكي كثير، قاعد بقول لك على المساطر الضوئية الفل آر جي بي (RGB) كل الألوان فيها، بيجي معها 12 ليزر، 4 للأرضيات، و4 في إيدين الأبواب، و4 كمان بيجوا بجيب الأبواب، وطبعاً بيجي معها خمس كتوتات (Relays)، وتتحكم بالألوان عن طريق الأبلكيشن، راح يكونوا أقل من 15 دينار. وتوقع السعر بالتعليقات، يمكن أربحك إياه، يمكن أربحك شيء أحسن، يمكن أطلع لك تركيب مجاني، توقع، توقع بالتعليقات، وخليها مفاجأة، سلام.\"\n\n---"
+      }
     },
     {
       "ad_id": "1877801263378086",
@@ -327,7 +391,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1877801263378086",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQMx6YRVd1S41vTbXNtHah8MheUmZtXwAS1fmYuMkxMP0OHPxKMz1sfcxWZz-i0ZJkGEcGO_wjKuMgSc6PPteIlVHBJeS05E79bBCoWerg.mp4?_nc_cat=111&_nc_oc=AdpxtsRyHTCtcbjVMEu1TEyd6SnjWhtTm49uR9-Ud6gdQ5w64S338ED1GUUAapizjOY&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=9pUS6x6nfGkQ7kNvwGmL87W&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMTc2MzkxODAxNTg1ODA4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRmzTHWyf_5oPtbxdw0IXujccVKCfi5d1zXmmoFLTcsfg&oe=6B04AA5B",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية التسعير (Psychological Pricing):** استخدام رقم \"دينارين\" كعامل جذب قوي لخفض حاجز الشراء وتحفيز العميل على اتخاذ قرار سريع.\n*   **خلق حالة الاستعجال (Scarcity):** التكرار المتعمد لعبارة \"لفترة محدودة\" و\"الكمية محدودة\" لإثارة الخوف من ضياع الفرصة (FOMO) لدى المشاهد.\n*   **التفاعل كأداة انتشار (Engagement Bait):** توجيه المشاهد للتعليق بنوع السيارة، وهي تقنية ذكية لزيادة تفاعل الخوارزميات (Algorithm) ونشر الفيديو بشكل أوسع.\n*   **الإثبات العملي (Product Demonstration):** الاعتماد على \"التجربة الصوتية\" المباشرة لكسر حاجز الشك لدى العميل تجاه جودة المنتج (بوق السيارة).\n*   **تحديد الموقع الجغرافي:** ربط المنتج بمعالم مشهورة (دوار الحويان، الحرية مول) لسهولة الوصول وتوجيه العملاء الفعليين للمتجر.",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي للمنافسين، إليك تفكيك الفيديو:\n\n التفريغ النصي للفيديو:\n\"هذا هو زمور (بوق) الطاط الموجود بمعارض دبل، وحياتك ليكون الحبة فقط بدينارين، ولفترة محدودة. اسألني عن نوع سيارتك بالتعليقات سريعاً جداً، لأنه الكمية محدودة ولفترة محدودة. من دوار الحويان، الحرية مول، واسمع لي صوت الزمور الطاط الأصلي لما يركب على سيارتك. طلع قديش راح أبعد، وراح تسمع صوت هذا الزمور.\"\n\n---"
+      }
     },
     {
       "ad_id": "2208254436760749",
@@ -343,7 +415,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2208254436760749",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNSW439nqcgGCGC5ZoPGWhYayOuXGVkWkpHcCvFMv-5POzSS5Jk2qhgU_sEMMkiNmwZlK4jitbKIubJ9d5DZK0P0OUCxHL36KC_tBkp9A.mp4?_nc_cat=104&_nc_oc=AdorKb7W8nAM4Jnwc92shyaEr7A3FdcUHYQLPAaIH-O-6VvQK5dt5kMMDFt4Cjl27fY&_nc_sid=ef5aa3&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=OpOmsJW4G_EQ7kNvwFgi2FV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODg3NTA4Mzk5MTE5MDgwLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjI1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRMQnHlaWJRBzrpvp_YJIwr9cBd_Wct2RMu4p7BplaaMQ&oe=6B049DDE",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية الإقناع:** اعتمد الفيديو على مبدأ \"المشكلة والحل\"؛ حيث قام بعرض الأداء السيئ للمنتج التجاري مقابل الأداء الفائق للمنتج الأصلي (قشاطة)، مما خلق رغبة فورية لدى المشاهد في التغيير.\n* **عامل السعر:** تم استخدام \"نص دينار\" كأداة جذب قوية (سعر تنافسي جداً) لكسر حاجز التردد لدى العميل عند اتخاذ قرار الشراء.\n* **استغلال التوقيت (التسويق الموسمي):** التركيز على قرب فصل الشتاء جعل الفيديو يبدو كنصيحة ضرورية وليس مجرد إعلان، مما يزيد من معدلات التحويل.\n* **التوجيه (Call to Action):** وضوح الهدف من الفيديو، مع تحديد أماكن الفروع بدقة، مما يسهل على المشاهد اتخاذ الخطوة التالية والتوجه للمتجر.\n* **نمط المحتوى:** استخدام صيغة \"POV\" (وجهة نظر) يضفي طابعاً واقعياً وشخصياً يعزز المصداقية مقارنة بالإعلانات التقليدية الجامدة.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على الهيكل المطلوب:\n\n التفريغ النصي للفيديو:\n\"POV: الفرق بين التجاري والأصلي، لما تكون مساحتك تجارية، معلم شو ما ترش مي على الفاضي، بينما طلع، بس بنص دينار تعال غير هاي المساحة، طلع كيف بتمسح، بسم الله ما شاء الله، مساحة أصلية وقشاطة، بس! مساحات متوفرة في معرض دبل إم، المساحة الواحدة فقط بنص دينار، وبما إنه إحنا داخلين على فصل الشتاء، تعال غير مساحة سيارتك بمساحة القشاطة، موجود جميع المقاسات، شو ما تكون نوعية سيارتك موجود بدبل إم، دوار الحويان والحرية مول، وأهلاً وسهلاً فيكم تشرفونا من أي فرع.\"\n\n---"
+      }
     },
     {
       "ad_id": "1148189214833891",
@@ -359,7 +439,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1148189214833891",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQMM-vHXL5d8Oc7teQhMVekrhFjSZNj2ctzRs_v3zbX_gOQB49o51Pvp4SXoLe2B1f6G7wnfKt3IVEItiT-VWincwrvnPRIJJ3hlneLqNQ.mp4?_nc_cat=100&_nc_oc=Adrq3oALob_UmlSJFRYXS6cKpVb1DCfv28vg6HksZl9jo5uqf5Dt7VmRhb0Dw1jzLIQ&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=WlgFBVycpU4Q7kNvwGkEuu2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMjM4ODg0MTQ2ODQwNjMzLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ8Vxv-GpUie5PGZeazX4_PeDQRgSX_2Ul7hNNXHUHdrA&oe=6B048B6E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n* **استهداف واضح للسعر:** التركيز على نقطة البيع الأساسية وهي السعر التنافسي (5 دنانير) لجذب الفئات المهتمة بالمنتجات الاقتصادية.\n* **إثبات القيمة (Proof of Concept):** استخدام لقطة توضيحية عملية في بداية الفيديو (نفخ الغبار) يعطي دليلاً ملموساً على قوة المنتج وكفاءته، مما يرفع من معدل الثقة لدى المشاهد.\n* **أسلوب العرض التفاعلي:** استعراض المزايا التقنية بشكل تسلسلي ومبسط (تدرج السرعات من 1 إلى 6) يجعل المنتج يبدو تقنياً واحترافياً.\n* **دعوة لاتخاذ إجراء (CTA):** تحديد مواقع الفروع (دوار الحويان والحرية مول) والأيام المتاحة للعرض يعزز من التوجه الفوري للشراء ويخلق شعوراً بالاستعجال.\n* **البساطة والسرعة:** الفيديو قصير ومباشر يبتعد عن الحشو، مما يجعله مثالياً للمنصات السريعة مثل \"ريلز\" أو \"تيك توك\".",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي:\n\"القوة هي كلها على بلاور الهواء فقط بخمس دنانير داخل معارض دبل إم. الأربعاء، الخميس، الجمعة، السبت، وبيجي بخمس سرعات: واحد، هي 2، هي 3، هي 4، وهي الخامسة. وعندك كبسة هون راح يخلي لك إيش باور ماكس على السرعة 6. فقط بخمس دنانير داخل معارض دبل إم بالفرعين: إقبال دوار الحويان وبالحرية مول وسلام.\""
+      }
     },
     {
       "ad_id": "2575067276332375",
@@ -375,7 +463,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2575067276332375",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQPMUjlyvvuQTV0Ma935RZizlldU6DPsnB2T_SFJtF3BYhAGwk0J_0UXuq92x3yAkmaNrVDfk0i0vgixKeJ3NTKOCnAW0K8IENsXhAo-mg.mp4?_nc_cat=103&_nc_oc=AdpQLuD_-RHIiD_D-73mSaSuQf047U6-xW75hXIZfGWfcD3p8v_G5A5xZBbFOJAQMsU&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=EsXHsRf3g_wQ7kNvwGzDDu4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyMDIwMzE1NTYyMjc4ODI4LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSLYHw8BjhDeev9sAK6-7b0d1hd6T4EWk8it6hHW9KYiA&oe=6B04A827",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي\n\n*   **الهدف التسويقي:** ترويج لمنتج \"مسند ذراع للسيارة\" (Armrest) بخصم هائل (سعر ثابت 8 دنانير بدلاً من 25-30 دينار).\n*   **عنصر الجذب (The Hook):** استغلال \"الصدمة السعرية\" كعامل جذب رئيسي للمشاهدين في بداية الفيديو.\n*   **عرض القيمة (Value Proposition):** التركيز على المواصفات التقنية (مخارج USB، حامل أكواب، توافق مع جميع السيارات) مع التأكيد على سهولة التركيب وتكامل الملحقات في الصندوق.\n*   **استراتيجية الترويج:** خلق شعور بـ \"الندرة\" و\"الاستعجال\" (FOMO) من خلال تحديد فترة عرض زمنية قصيرة (من اليوم حتى الخميس) وتحديد الفروع بوضوح.\n*   **أسلوب التقديم:** الاعتماد على العرض التوضيحي المباشر للمنتج (Hands-on demonstration) لتعزيز الثقة وتأكيد الجودة للمستهلك.",
+        "transcript": "التفريغ النصي للفيديو\n\n\"تعال شوف دي المساحة، طلع معي مساحتها ما أحلاها، مكنة خلفية، أربع مخارج يو إس بي، كب هولدر خلفي وشوف لي اليو إس بي الأمامي، 1، 2، 3.\nقديش حقها؟ 25، 30 دينار؟ بس بـ 8 دنانير! داخل معرض دبل إم (M&M) بالفرعين، قبال دوار الحويان وقبال الحرية مول، ابتداء من اليوم لغاية يوم الخميس.\nشوف بس تسوي فيها زي هيك، هاي هي المساحة، وهاي سلكها معها، وبتاخدها كاملة بكرتونتها مع كامل عدتها، وبتركب لجميع أنواع السيارات.\nلكل واحد ما عنده ركاي، هاي هي عند دبل إم بـ 8 ليرات، كل الألوان منها موجودة. سلام.\"\n\n---"
+      }
     },
     {
       "ad_id": "1126963740209741",
@@ -391,7 +487,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1126963740209741",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQPMyUkkHzVbNwc49Gf42Oa-2TOURQV80Qq0nIaHZXJCJAleTlTTf6cNgOW3DsOjhECbEEMXySmTS5CC8e84RFSioih15nWBPmQcON7ZIg.mp4?_nc_cat=111&_nc_oc=Ado2WUAtQ0VlQAe5py8V6_At2At0InYI2nCQmTsuMyZDccPrMYiBDlFRA0NubeoLRnY&_nc_sid=ef5aa3&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=6c_HIuV6_CwQ7kNvwH0K6CP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMDE1MTMzMTI3NTgxNzcyLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSJ63a2ZwStzeaa33WcywI2VtDkvvXXobqMxflD7qLa2w&oe=6B04A53F",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\n- **عرض المنتج:** كوابل سيارات لتشغيل البطاريات التالفة بطول 2.5 متر.\n- **السعر:** اقتصادي للغاية، أقل من 5 دنانير (متاحة في أيام معينة).\n- **الجودة:** جودة عالية، خمل سلك سميك، ونحاس أصلي لضمان الأداء السريع والفعال.\n- **مكان التواجد:** معارض \"دبل إم\" (فرعان: قرب دوار الحويان وقبال الحرية مول).\n- **التفاعل:** دعاء للتفاعل والمشاركة (السؤال عن السعر في التعليقات).",
+        "transcript": "ركز بالصوت كيف اشتغلت 🔥💯 وزي ما شفت كيف اشتغلت السيارة بكل سهولة ليش لاني اشتريت كوابل من عند دبل إم بأقل من خمس دنانير طولهم مترين ونص شوف معي تعال قرب قرب شوف لكوليتي والجودة وشوف لي خمل السلك كيف اشتغلت السيارة معي مية بالمية بطاريتها كانت نازلة يا معلم طلع النحاس الأصلي بأقل من خمس دنانير الأربعاء خميس جمعة وسبت كمان داخل معارض دبل إم بالفرعين اسألني عن سعرهم بالتعليقات كميتهم إقبال دوار الحويان وقبال الحرية مول سلام."
+      }
     },
     {
       "ad_id": "1188436217203215",
@@ -407,7 +511,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1188436217203215",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNnOFMFuSyeD3BtKbccvOXfkhtAAMomFafxZjQUQfgD4387rND9oroCg-HJvtLDs5jVRRgLF1LUKEPufQ2_nLyvYNWQOiVbkWgHpqM7_g.mp4?_nc_cat=106&_nc_oc=AdqOu_cro36gvOtb7o_J86VLQoj7wX_Ij6QXmu7WNViL1L7BiUAodp-OIi0mzc4-tak&_nc_sid=ef5aa3&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=qDX7OduxwzoQ7kNvwFW3qt6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDM1Mjg4NzY4Nzc4MzkxLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Uuk7FIseq8fQ7fOa-Q06gzVqvvAhLYttMPKkLy_AotleD-qznRkF-0ozGZ_6vCLlk-AuSbk2NRo-9tb1jRFRUA60hFgzgwN5TxdzZMKh_fqRztQNlH06BOvlOpE&oh=00_AQROB7glD-bVLwOyeJOJS0bC909Q3n9SWbQaGXAdE5oKvQ&oe=6B0490E8",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الهدف الإعلاني:** الترويج لعرض ترويجي (خصم) على شاشات سيارات (MP5) مع ملحقاتها، بهدف زيادة المبيعات في فروع المتجر المحددة.\n*   **عناصر الجذب:**\n    *   **عرض مالي واضح:** توفير خصم مباشر على الشاشات وربطها بعرض إضافي (الكاميرا بـ 15 دينار)، مما يخلق قيمة مضافة.\n    *   **إثبات الأداء:** استخدام لقطات حية تظهر سلاسة التحكم بالشاشة عن بُعد (عن طريق الريموت)، مما يبرز سهولة الاستخدام.\n    *   **خلق حالة من الاستعجال:** حصر العرض في أيام محددة (أربعاء، خميس، جمعة، وسبت) لتحفيز الجمهور على اتخاذ إجراء سريع.\n*   **الدعوة لاتخاذ إجراء (CTA):** دعوة المتابعين للتفاعل بالتعليقات (ذكر نوع السيارة) والاستفسار عن خدمات التركيب، مما يعزز من خوارزميات الانتشار ويفتح باباً للمبيعات المباشرة عبر خدمة العملاء.\n*   **الاستهداف الجغرافي:** تحديد مواقع الفروع بدقة (دوار الحويان، الحرية مول) لربط الجمهور بمواقع البيع الفعلية.",
+        "transcript": "إليك تحليل المحتوى المطلوب:\n\n التفريغ النصي للفيديو:\n\"تحكم كامل عن طريق الريموت، هاي شاشة الـ MP5 اللي بتركب لأغلب أنواع السيارات، بيجي معها ريموتها وبتحكم فيها زي ما بدك بدون ما تقرب على الشاشة كلها يا معلم. طلع كيف، كل التحكم بصير عن طريق الريموت والشاشة نفسها تاتش، بتدعم البلوتوث، الميموري، الـ AUX والفلاشة، بتركب لأغلب أنواع السيارات اللي بيجي حجم الفريم عندهم 7 إنش. بالأيام العادية سعرها بدون الكاميرا 25-30 دينار، مع كاميرا بس بـ 15 دينار، أربعاء، خميس، جمعة وسبت كمان، داخل الـ Double M بالفرعين، قبال دوار الحويان وقبال الحرية مول، استغل العرض وما تخليه يروح عليك. احكي لي نوع سيارتك بالتعليقات واسألني عن أجور التركيب، رح تكون جداً رمزية لأن سعره بدون تركيب، وأهلاً وسهلاً فيكم، زي ما حكيتلكم بتشرفونا بالفرعين، سلام.\""
+      }
     },
     {
       "ad_id": "1177639548126994",
@@ -423,7 +535,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1177639548126994",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNJdfIpM55x1ZQTrGenZ1GV5GT2Mo8hfsVa_-mlHpV-_P5R8jzBK329LZLdV6ht7__L6sq2VPSBZhjSGOPZCC5cBKoPHvXXLTEMqF9OeQ.mp4?_nc_cat=110&_nc_oc=AdrRDKBXTKieNiLxDEtWB30EHAT4wH_fPMnhiRjEOX3FVl6zizNd-zn8njLG3Qe0Ywg&_nc_sid=ef5aa3&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=DxOFJq7bmnQQ7kNvwHI7alb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzAzMTU1NDkxNTk2NzU3LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ854LZbdnwExDyTJ7faO9c4eciz0a9y1LqxZXde47sJw&oe=6B04AC00",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **استراتيجية التفاعل (Engagement):** استخدام \"الكلمة المفتاحية\" (هواي) كشرط للحصول على السعر، مما يضمن زيادة حيوية الفيديو ورفع نسبة التعليقات (Engagement Rate) في خوارزميات المنصة.\n* **إثارة الفضول (Mystery Marketing):** حجب السعر وإجبار المستخدم على التعليق لمعرفته، مما يخدم \"خوارزميات التوصية\" ويزيد من وصول الفيديو لشريحة أكبر من الجمهور.\n* **تحديد الجمهور (Targeting):** التوجه المباشر لأصحاب السيارات عبر طلب ذكر \"نوع السيارة\"، مما يسهل عملية البيع المباشر أو تجميع قاعدة بيانات عن اهتمامات الزبائن.\n* **تحديد النطاق الزمني والمكاني:** وضع \"سقف زمني\" (من الاثنين للخميس) لخلق شعور بـ \"ندرة الفرصة\" (FOMO)، مما يحفز العملاء على اتخاذ قرار الشراء فوراً.\n* **بناء الثقة:** الإعلان عن وجود \"فرعين\" للشركة يضفي طابعاً من الاحترافية والموثوقية للعلامة التجارية.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\"اكتب لي كلمة 'هواي' في التعليقات عشان تاخذ أحسن سعر على الهوايات، الأسود سادة أو أسود بخط نيكل مخصص لنوع سيارتك، ابتداءً من يوم الاثنين لنهاية يوم الخميس بالفرعين، والعرض راح يكون.. العرض راح يكون بالفرعين، قبال دوار الحويان وقبال الحرية مول، وحياتك غير يكون تريند، اسألني عن السعر بالتعليقات مع ذكر نوع سيارتك، سلام.\"\n\n---"
+      }
     },
     {
       "ad_id": "1689237176046498",
@@ -439,7 +559,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1689237176046498",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNBp53uD1qSAWJdrB5pp79unwZoYIOzWdE64eyeuHb29uK_y5r0wX9fJn49u_esZifOAmVYrJm4B1MhzL3XzhOFspRVzmCrurowXZ-i2A.mp4?_nc_cat=109&_nc_oc=AdqfUdFykkqgln_YWwy8Ix8Qcou82u1Qr2sGNhh6LaADdbkDHxrBf3dj71FMidLWbGo&_nc_sid=ef5aa3&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=kWbInOFAfjEQ7kNvwGjfuKb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo4ODkwMjEzNjA5NzAwNzIsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3NCwiZHVyYXRpb25fcyI6MTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=Fw-OfJQ4M1-mAZR1mhxlYw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTmBA0MEX9LrzDhCWuPBw5ne_yazWTnmhXNNCjQ3dTcfg&oe=6B0482C1",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n*   **استغلال \"قوة السعر\":** يركز الفيديو على نقطة بيع واحدة قوية وهي (السعر التنافسي جداً) كعامل جذب أساسي.\n*   **إثبات الأداء (التجربة الصوتية):** دمج صوت المنتج الفعلي (الزمّور) في الفيديو يعزز الثقة ويخلق حافزاً حسياً للشراء.\n*   **وضوح العرض والحصر:** تحديد أيام العرض وأماكن الفروع (دوّار الحويان والحرية مول) يجعل العرض ملموساً وقابلاً للتنفيذ الفوري.\n*   **صياغة \"عرض الفرصة\":** استخدام عبارات تحفيزية مثل \"استغل العرض\" و\"ضلك زمّر للصبح\" يعطي شعوراً بالإلحاح (FOMO) لزيارة المعرض.\n*   **هوية بصرية واضحة:** الشخص يظهر في المتجر الفعلي وسط المنتجات، مما يعزز مصداقية العلامة التجارية (Double M) ويوحي بتوافر المخزون.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي:\n\"الحبة بس بدينار داخل معرض دبل إم، وزي ما سمعت صوته بياخذ العقل، ضلك زمّر للصبح بس بليرتين، أربعاء، خميس، جمعة، سبت، بالفرعين؛ قبال دوار الحويان وقبال الحرية مول، استغل العرض، سلام.\""
+      }
     },
     {
       "ad_id": "1001538449396075",
@@ -479,7 +607,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1418007223824951",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMGqQ2JEJqFRUayBVmSDfPZU9oAkKQg8eV5bCs5G205tMDmX2XoGUFEiiaFPphkwj9pzoyAiZ8VVtahp5kE_nyD_gwxckboGFsoQVHPXCWyJA.mp4?_nc_cat=102&_nc_oc=Adr-0TYiOcx-nHlbRCsn2Pj2kYRA7LgKP9EyyYAO_mfj-qPJtIxaoVGiFGHSAk7kDQc&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=G7azrvCWzIcQ7kNvwHXtoQv&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjQzMTQ2MDQzMTg3OTEyNDAsImFzc2V0X2FnZV9kYXlzIjoxODUsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo2OSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=33e8c65c7be9603b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GMzRCMTRCRUQ2MUM4QUMwNjQ4OUIxQjZGMDc3MjU4N19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzZENEJBNzU0NTE1QTA0MUQ1RkM4Njc3MEYxQ0MzNThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaQ2aScg4eqDxUCKAJDMywXQFF90vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQusIpS8Q_OXQl8QdeIejxkdwoX8mqP0s6H2eu8nS_s6g&oe=6B04A98A",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **التركيز على نقاط البيع الفريدة (USP):** يركز المتحدث بقوة على \"الكفالة لمدة 10 سنوات\" و\"جودة المنتج\" (فيت، التماسك، وثبات الكلبسات) لتعزيز الثقة وتقديم قيمة مقابل السعر.\n*   **استراتيجية التفاعل (CTA):** دعوة مباشرة للمشاهدين للتعليق بنوع السيارة، مما يزيد من معدلات المشاركة (Engagement) ويساعد في بناء قاعدة بيانات للعملاء المحتملين.\n*   **خلق شعور بالتفرد:** ادعاء بأن أسعاره وجودته لا يوجد لها مثيل في السوق، وهو أسلوب \"التسويق الهجومي\" لجذب العملاء الباحثين عن أفضل صفقة.\n*   **بناء السلطة والثقة:** التأكيد على أنه \"مسؤول عن كلامه\" يعطي انطباعًا بالصدق والاحترافية، مما يقلل من مخاوف العميل تجاه جودة المنتج.\n*   **عامل الندرة:** العرض محدود (للفرعين فقط) مما يحفز المشاهدين على سرعة اتخاذ قرار الشراء.",
+        "transcript": "بناءً على طلبك، إليك تحليل محتوى الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\n\"الدلال، ايش في يا أبو الدلال؟ هي أحلى عرض، هي 6 دي (6D) 8 ميل، وهي التي بي إي (TPE)، ماشي اللي ايش؟ اللي كفالة لمدة 10 سنين، وهي الأرضية، ماشي التبي إي اللي ايش؟ الطبقتين. معلم عامل عليهم عرض، لو تلف المحلات كليتها هيك فوق تحت يمين شمال ما حدا بايعك إياها بهالسعر اللي أنا ببيعك إياها وبالجودة اللي أنا ببيعك إياها، قرب يا معلم، إذا مش 8 ميل ترجع، هي خلصنا من ايش من الـ 6 دي. \nإيزا، ها قرب علي، إذا مش التي بي إي كفالة لمدة 10 سنين تاخدها وتركب على سيارتك فيت، الدون قزقز وما قزقز أنت فاهم قصدي منيح فاهم؟ ترجع، وإذا التي بي إي القطعتين، هاي بتفلت هاي شايفها؟ الكلبسة عشان هسا التبي إي كليتها بتفلت الكلبسة، لا يا معلم أنا ببيعك إشي وبعرف كيف ببيعك ومسؤول عن كلامي ماشي وأهم إشي تاخد الكفالة. \nالثلاثة عامل عليهم عرض سعر، اسألني عالتعليقات ايش نوع سيارتك ماشي، وإيش اللي بيجي عليها ماشي، وإيش السعر، وبأي فرع، أنا حجاوبك بأحسن سعر فيك يا مملكة، وعلى كل حال للفرعين العرض، سلام\".\n\n---"
+      }
     },
     {
       "ad_id": "1517921759507892",
@@ -623,7 +759,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=29021711740826524",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQP9I1w9du2K_MFio6fYOELNIDm9hLrnHd5lkEzyfo8ZdQEFWYthxuUbg7ZKnMnC6rJVJs1trHwvglHYn1pcbEDB8fzOHiPVtxbGAHL4LN3TGw.mp4?_nc_cat=110&_nc_oc=AdoxhX3NtBzzaH4NbD1YI3H5wLUrcr0DBWlwhkNtgTGrZI6zd4Me6uUw5XvGnAYcthY&_nc_sid=b66105&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=_XJyQCdIUC8Q7kNvwGR8XBl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2MDExNDI0NjQ1NTA5MzAsImFzc2V0X2FnZV9kYXlzIjoyMywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjIxLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=69bd8b731f6c61b9&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8yNjk2MDhENjMwQTc0OUE4Qjc5Qzg5RDYzOURBRjcxNV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAxRUVBQjMzNzI4RjRBNjZBQTZERUM4RDVCM0NBMDlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACak4Kz94I7YBRUCKAJDMywXQDXmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQbBuCrptCoXZSFluumHNuTDx4JmuHK-vQxFJJJG7nfSg&oe=6B04B442",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\nملخص استراتيجي:\n* **استهداف عاطفي:** يعتمد الفيديو على دمج القصائد الغزلية (الشيلات) مع عرض المنتجات، مما يربط \"الجمال\" و\"التميز\" بالقطع المعروضة، وهو أسلوب تسويقي فعال لجذب العملاء في قطاع الهدايا والمجوهرات.\n* **إبراز الطابع الشخصي (Personalization):** التركيز على المجوهرات التي تحمل أسماءً محفورة يعزز من القيمة العاطفية للمنتج، مما يجعله خياراً مثالياً للهدايا التي تحمل لمسة خاصة.\n* **العرض التقديمي (Packaging):** التركيز على \"علبة الهدايا\" الفاخرة يرفع من القيمة المتصورة للمنتج ويحفز العميل على الشراء كطقم متكامل (ساعة، سوار، قلادة، وخاتم).\n* **التصوير الموجه (Lifestyle Footage):** عرض القطع وهي تُرتدى على اليد يمنح العميل تصوراً واضحاً للحجم والشكل (Scale)، ويساعد في اتخاذ قرار الشراء عبر إظهار التفاصيل الفنية والدقة في التصميم.\n* **التوجيه البصري:** استخدام موسيقى هادئة وكلمات تغزّلية مع لقطات بطيئة (Slow motion) يعطي طابعاً فخماً يتماشى مع هوية العلامة التجارية \"Silver Soul\".",
+        "transcript": "تفريغ النص:\n\"شيخة، ثم هي بتشبه كل شيخة، فارقة في زينها بين البنات، والله إني بعد شوفت خامة خمتها، ما بعد شفت العذارى في حياتي، والله إني بعد شوفت خامة خمتها، ما بعد شفت العذارى في حياتي، الله أكبر يا عيونٍ كني فيها، من عيون اللي على الملوح ياتي، كني في سلهامها.\""
+      }
     },
     {
       "ad_id": "1023303447086847",
@@ -663,7 +807,15 @@
       "cta": "",
       "ad_url": "https://www.facebook.com/ads/library/?id=1842709420230974",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMjGL2BD6_XQ5TG5KH5wSta1j9tSzitQldHvfdhhwPp94H_3Q0s22E3fALHqkxMWl5oidEtDdpksHH1dvpn-BGCTbp8joEpXbszR2vTkBQ4fA.mp4?_nc_cat=109&_nc_oc=AdoTDBhrdtl_YLvtSz-fOeqbItN0bVzDj4y4NyIqnvaOPV8iP11hufzjrcoMRhKpsRI&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=PscUMe4IclcQ7kNvwF6uFCq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuMTI4MC5kYXNoX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoyOTY0ODcyNTM2ODA1MjUzMywiYXNzZXRfYWdlX2RheXMiOjEyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6Mjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=a0c62bfa8b91939e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85MTM3MjZBM0Y1NDQ0ODAzOUU3NUQzNEFBRUFDRDI2MF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzY2REREQ0REMDdDMTQxRjQ5NzREQUU0NUM4NzAyNDZBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbq7Nj5-daqaRUCKAJDMywXQHJgAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTDur_eul4x-GMbr0ItkIbjxr29PFEUPfkjB7FFMmMKOw&oe=6B04A237",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **الرسالة الجوهرية:** يتبنى الفيديو فلسفة \"الاستحقاق عبر المعاناة\"، حيث يربط بين الوصول إلى الغايات السامية (الروحية أو الدينية) وبين ضرورة الصبر وبذل الجهد، نافياً إمكانية الوصول السهل أو المجاني.\n*   **القيمة البصرية والرمزية:** يعتمد المقطع على \"جماليات التضاد\" (الصحراء القاحلة مقابل المساجد المشعة، التعب الجسدي مقابل السكينة الروحية) لتعزيز فكرة أن الطريق نحو \"الوصل\" يتطلب تجاوز الماديات.\n*   **الاستهداف العاطفي:** يستهدف الفيديو المشاهد الذي يبحث عن المعنى والدافع في وسط تحديات الحياة اليومية، عبر تصوير \"الرجال\" كرموز للثبات والزهد والترفع عن الدنيويات.\n*   **تكتيك السرد:** تم استخدام القصص البصري المتوازي (بين صور الصحراء التاريخية والحياة المعاصرة) لترسيخ فكرة أن مبادئ \"الصبر والوصل\" هي قيم خالدة لا ترتبط بزمن معين.\n*   **الانطباع العام:** الفيديو عبارة عن \"أنشودة تأملية\" ذات طابع وعظي أخلاقي، تستخدم الإنتاج المرئي (AI-generated imagery) لإضفاء طابع فني وفخم يعزز من جودة المحتوى الدعوي/الإرشادي.",
+        "transcript": "إليك تحليل المحتوى بناءً على الهيكل المطلوب:\n\n التفريغ النصي:\nرويدك يا مريد الوصلِ اصبرْ.. فإن الصبرَ بابٌ للوصالِ\nفوصلٌ دونَ أن تلقى عناءً.. لعمرِي في السلوكِ من المحالِ\nرويدك يا مريد الوصلِ اصبرْ.. فإن الصبرَ بابٌ للوصالِ\nفوصلٌ دونَ أن تلقى عناءً.. لعمرِي في السلوكِ من المحالِ\nأيعقلُ أن تفوزَ بنورِ وصلٍ.. وصفوِ العيشِ دأبُك للمنالِ\nفلو جدلاً ظفرتَ بدونِ جهدٍ.. فذاك الوصلُ أوهامُ الخيالِ\nفإما أن تعيشَ بدونِ وصلٍ.. فأنتَ وما تحبُّ من الدلالِ\nوإما أن تعيشَ لنيلِ وصلٍ.. فدونكَ عندها همامُ الرجالِ\nرويدك يا مريد الوصلِ اصبرْ.. فإن الصبرَ بابٌ للوصالِ\nفوصلٌ دونَ أن تلقى عناءً.. لعمرِي في السلوكِ من المحالِ\nرجالٌ جاهدوا في اللهِ حتى.. أذابوا النفسَ في طلبِ المعالي\nرجالٌ في تواضعهم عبيدٌ.. وفي طلبِ المعالي كالجبالِ\nرجالٌ ليس يشغلهم سبيلٌ.. سوى ما كان درباً للكمالِ\nرجالٌ خالفوا شهواتِ نفسٍ.. فما مالوا لدنيا للزوالِ\nرويدك يا مريد الوصلِ اصبرْ.. فإن الصبرَ بابٌ للوصالِ\nفوصلٌ دونَ أن تلقى عناءً.. لعمرِي في السلوكِ من المحالِ\nرجالٌ في عفافٍ من سؤالٍ.. لصونِ النفسِ من ذلِّ السؤالِ\nرجالٌ عاملوا الدينارَ لكن.. بأيديهم وما شُغلوا بمالِ\nرجالٌ قد تساووا في رؤاهم.. عطاءُ المنعِ عن ذوقٍ وحالِ\nرضوا فيما أقامَ اللهُ علماً.. وفهماً قَد رأوا عينَ الجمالِ\nرويدك يا مريد الوصلِ اصبرْ.. فإن الصبرَ بابٌ للوصالِ\nفوصلٌ دونَ أن تلقى عناءً.. لعمرِي في السلوكِ من المحالِ\n\n---"
+      }
     },
     {
       "ad_id": "1785249969462341",
@@ -679,7 +831,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1785249969462341",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQPlTKRCISCqxDvExbL2SIC_q8jGaJJ8gw8xhBf_6tZ9688alUAnoAJUXnhJAoSbMHK72r8jBsPIzFpY7TvFI_HGGgniVi5vdnhFviDALQ.mp4?_nc_cat=103&_nc_oc=Adp5XJwyEPux3UZf9txcWZ12GIPuiUc6gS-qn2ATZHBqU_boL0VPBBYeU3lnFDnYA-U&_nc_sid=ef5aa3&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=Df44MjKhUP4Q7kNvwFFtg-M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMTA4MDE2MzE1MjkyNTE2LCJhc3NldF9hZ2VfZGF5cyI6MjAsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxNiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSBmwNPlvYebCD_UGKnn5e54yQ1tPuh1uh7d1dQ3dg9SA&oe=6B049013",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\n**الملخص الاستراتيجي للفيديو:**\n\n* **العرض الترويجي:** إعلان لمجموعة منتجات عناية بالبشرة (Skin Care) بسعر منافس (149 شيكل).\n* **القيمة المضافة:** يتم التركيز على \"النتيجة النهائية\" لاستخدام المنتجات، وهي بشرة \"مشرقة كأنها الزجاج\" (Glass Skin)، وهو مصطلح تسويقي جذاب ومطلوب جداً في قطاع التجميل حالياً.\n* **استراتيجية الإلحاح (FOMO):** استخدام عبارات مثل \"الكمية محدودة\" و\"العرض لفترة محدودة\" لتحفيز المتابعين على اتخاذ قرار الشراء السريع.\n* **الجاذبية البصرية:** التصوير الهادئ والمنسق للمنتجات مع خلفية موسيقية رومانسية يعزز من صورة المنتج كخيار \"للدلال\" والعناية الذاتية.\n* **نقاط القوة:** الفيديو قصير ومباشر، يربط بين المنتج وبين النتيجة الجمالية المرغوبة، ويخلق شعوراً بالضرورة الملحة للشراء.",
+        "transcript": "أوه يا حلو\nاللي شو بدك مني هلق بعمله\nوإذا بدك فيني آخد قلبك دليله\nكلمة أنا حدك"
+      }
     },
     {
       "ad_id": "1170612775635634",
@@ -791,7 +951,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1459737173889139",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m412/AQPRAspZmxPxLip733O-yud8punJaCT9eXgHDIK7s4EYkUelRjf1zFqZR4D-P-072tJOWmsNWiU4uP_7vS6Dh6AzUWYEXgGBla7NZEJWPQ.mp4?_nc_cat=106&_nc_oc=Adp0UwZxXaxYKciWJtpfcwNpksbhXSk37QnroiAS_WkVG5KZf82Cd0ahiAsrYf7m3bw&_nc_sid=ef5aa3&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=z2-eyzDJPdYQ7kNvwHsOizw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTAyMzQ3MzUxNzg4OTEzLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQw-8bh3iFUJ8zYCLYX12tFeDA10SJRXdE63_z0Pa0nmw&oe=6B049474",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\n*   **الرسالة التسويقية:** التركيز على القيمة المضافة من خلال دمج مفهوم \"الدلال\" الشخصي مع حافز مادي مباشر (خصم 15%).\n*   **استراتيجية العرض:** الفيديو يعتمد على أسلوب \"الدعوة لاتخاذ إجراء\" (Call to Action) المباشر والمُلح، مع استخدام الموقع الفعلي كخلفية لتعزيز الثقة وجذب العميل بصرياً.\n*   **نقاط القوة:** صياغة إعلانية قصيرة، مركزة، وعاطفية تستهدف الباحثين عن الرفاهية بأسعار تنافسية.\n*   **عامل الجذب:** استغلال عنصر \"الحصرية\" من خلال عبارة \"لا تفوتوا الفرصة\" لتحفيز الحجز الفوري.",
+        "transcript": "\"الدلال إلك والخصم علينا. استمتعوا بتجربة من الراحة في كهرمان سبا. خصم 15% على جميع الحمامات. لا تفوتوا الفرصة، احجزوا الآن.\""
+      }
     },
     {
       "ad_id": "1108894718585429",
@@ -831,7 +999,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1138441225200477",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQO4kVXU6sCOI4EpO52LkKkYs7y0UfC9IomZ9_2hWugNO2yPYdL36Z57dsMeT2QlhEGitDtvklr3XyuXpQaWJOX0FBpniVV7VSSqxeBPO8cRTA.mp4?_nc_cat=110&_nc_oc=AdrUscMAFGvIVJi4wFgXkXvc74ZGBQjgZkGiWJeV2MZUbCjcHhVMNFaptvZeAlEgee0&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=c7-iBxSVrggQ7kNvwEmxw8S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNzUyODY3MzU0MjEwODEsImFzc2V0X2FnZV9kYXlzIjo2OCwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjExNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=2b90895ebfc5038a&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC80MzREQkY2NkRCQTczODJCQkI1MTZGMDIxQkYyOTZBN19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzBGNENENENBMjJFRjA0Mzc3NEY5QTE5RUQxQTlCNzhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACay-qu-9v3oAxUCKAJDMywXQFyd0vGp--cYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTqI6lYB0r3sWTIHOr1Upvhh2t3WII-tNiIIEJeJ8px-A&oe=6B04BF6A",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\n- **عرض منتجات صوتية متنوعة:** استعراض لأنواع مختلفة من السماعات (SoundMax, JVC, Kenwood, Reiss Audio) وأسعارها التنافسية.\n- **سياسة الأسعار والخصومات:** تقديم عروض خاصة مثل تركيب بـ 20 دينار وخصومات تصل إلى 30%.\n- **تجربة العملاء:** دعوة العملاء لتجربة جودة الصوت بأنفسهم داخل المتجر للتأكد من كفاءة المنتجات.",
+        "transcript": "معلم 23 دينار الساوند ماكس طلع عليها منيح ركز عليها عشان ايه ما تروح عند حمزة تقوله ايش عمل حرق على السماعة ساوند ماكس معلم قرب علي ايش بي سي ب20 دينار شامل التركيب وموضوعي مش الساوند ماكس ولا الجي بي سي ولا الكينود ولا اي نوع سماعة موضوعي انك انت تيجي تحط الى سيارتك اشي منيح معلم بتعلي الاغاني زي هيك بتطفي الاغاني كلياتها بتقولي يا دلال بلش سمعني يلا نبلش كل اشي عارضلك ياه ماشي قرب علي اللي بيجي بس كلنا دلال احطلي ياه قسمها علي بنشوف قديش عليه خصم ثلاثين بالمية ماشي محل المدينة اسمع"
+      }
     },
     {
       "ad_id": "1666603831691107",
@@ -847,7 +1023,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1666603831691107",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQN1G8v9MKI1pHD-b0YIJHo0Jo_0oOC7IgiBLYdoVLsF3kOyWgZhQkWNiXMJOQfhbW_1Wu5mR9Vugenuh7RxBkpfUpd1gouaIBXvaYzBIA62Vw.mp4?_nc_cat=107&_nc_oc=AdqLrm3vGXgn4RMS4JhF0N-S_u72dCkFZukvFb5W3RuqK_pTAs_fE33Nv6j7O8AqCas&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=IjyvuflwhtAQ7kNvwESeAm4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk2MTUxMDAxMzE1NDM4NiwiYXNzZXRfYWdlX2RheXMiOjE4NywidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjMwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ff72bef73efc8b5e&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMDQ3MDAzRkVBNTA5QTRGOTAzNDQ2NDM3NjFGMDJCQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzlCNEQyMEQ5NTkxRUQ2MzgxNjVENDJDQTZBMTJENTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACak0cHsn5-1AxUCKAJDMywXQD7MzMzMzM0YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTsklZ0iLU9xnZJG-n2MJozD9GJxg9Ex5SvAqw-qXTVmA&oe=6B04A465",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\n**ملخص استراتيجي:**\n\n*   **الهدف الإعلاني:** الترويج لمجموعة متنوعة من كفرات مفاتيح السيارات بمختلف الأنواع والمواد (حديد/بلاستيك).\n*   **استراتيجية الجذب:** الاعتماد على العرض البصري المباشر للمنتج (قبل وبعد) وإظهار جودة التشطيب (الكربون).\n*   **عنصر الثقة:** التحدث بأسلوب \"ابن البلد\" غير المتكلف لتعزيز القرب من العميل.\n*   **نقطة البيع القوية:** إبراز التنوع الهائل في المنتجات التي تغطي معظم أنواع السيارات الموجودة في السوق.\n*   **الدعوة لاتخاذ إجراء (Call to Action):** التركيز على وجود \"عرض سعر\" وتحديد المواقع الجغرافية للفروع (شارع المدينة وشارع الجامعة) لضمان دفع العميل للزيارة.",
+        "transcript": "أهلاً بك. بصفتي محللاً لمحتوى الفيديو، إليك النتيجة المطلوبة وفق الهيكل المحدد:\n\n\n\"شوف كفر سيارتك كيف صار، طلع ماسكه كربون بلاستيك. أيش ما تكون نوع سيارتك معلم، سكودا، جيب شيروكي، قديم، جديد، هونداي، أربع كبسات، مايباخ، اسمع.. حقق أحلامك بالنسبة لكفر المفتاح، طلع كيف بيجي. عامل عليه عرض سعر، بشارع المدينة وشارع الجامعة، في منه حديد وفي منه بلاستيك. سلام.\""
+      }
     },
     {
       "ad_id": "28518512124486889",
@@ -879,7 +1063,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2211163202837853",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNXfSc0hFCICKP1vLtAfl5cuKT1JwQIMhokzwGirfm7jd94-q6LjtN-DrV5kQC_feqzrMVwVYQvF3EIhPP7_RoJ7mSdrxWEUjKAvsOi2wV4_Q.mp4?_nc_cat=109&_nc_oc=Ador3DQEg0zEks2msfK2iNTMSGA3cU7087TlHAR1mlMG73Tml_bsUy2jMN-Pm11w4ak&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=zZfsMT4--LcQ7kNvwGD3ODq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjk0MTc1NDYzNTQyODA5MiwiYXNzZXRfYWdlX2RheXMiOjIzLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=635fa307d1605661&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wMTNEMzk2NDE4OTk0RDgzQjczNUU0NDZFM0FGNTg0Nl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0E2NzAxNzQ1NTVENzQwRjNBRjY0M0U3NjQ1Mjk1MzUzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb4g5XoqqGsAxUCKAJDMywXQENqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR_Js9A3egu16U5Pir_KN5XPFK_6D3_2qMsb24jWeQAEg&oe=6B049A37",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n*   **استهداف الجمهور (Niche):** التركيز على فئة \"العرسان\" (شهر العسل) كجمهور مستهدف رئيسي يتطلب تجربة \"فاخرة ومريحة\" (دلال).\n*   **القيمة المقترحة (Value Proposition):** \"الراحة القصوى\" من خلال توفير خدمة متكاملة (سيارة خاصة، مرافق شخصي، تنقلات منظمة) لإزالة أي عناء تخطيطي عن العميل.\n*   **بناء الثقة (Authority & Trust):** إبراز الشراكة مع علامة تجارية عالمية (الخطوط القطرية) واستمرارية الدعم من فريق العمل (قبل، أثناء، بعد السفر) يقلل من مخاوف العميل من السفر الدولي.\n*   **التحفيز (Call to Action):** استخدام عنصر \"الهدية الخاصة\" للعرسان يعمل كمحفز تسويقي قوي لزيادة معدل التحويل (Conversion Rate).\n*   **أسلوب التقديم:** المحتوى يعتمد على نموذج \"المتحدث الشخصي\" (Personal Branding) لتعزيز الألفة والمصداقية مع العميل، مع دمج لقطات جمالية للوجهات السياحية لتحفيز الرغبة العاطفية في السفر.",
+        "transcript": "بصفتي محللاً لمحتوى الفيديو، إليك التحليل المطلوب:\n\n التفريغ النصي للفيديو:\n\"فيلا مع بركة خاصة وسيارات ومرافق لك طول الرحلة. بما إنك عريس أكيد بدك دلال، وهذا الدلال ما بتلاقيه إلا مع السبيل للسياحة والسفر. مع السبيل، رحلة بالي وكوالالمبور بتبدأ بـ 6 ليالي، ليلتين منهم في فيلا مع بركة خاصة، سيارة خاصة لكل ضيف ومعهم مرافق طول الرحلة، وبعدها 3 ليالي في كوالالمبور. كل هذا على متن الخطوط القطرية للطيران، ومو بس هيك، في هدية خاصة للعرسان، ومعكم فريقنا قبل السفر وأثناءه وبعده. مع السبيل خبرتنا بتصنع الفرق في كل رحلة.\"\n\n---"
+      }
     },
     {
       "ad_id": "1812673656531429",
@@ -895,7 +1087,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1812673656531429",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQMRt3QOXKKJx_Vt9eJyVS8uApOVJPTLNDblVcxXMJAqMnWjfvSi5mz5rxseqpOvBsMC7Zh1wJgY_zBIm_xlgbrtKQIHGZeip-RG_Qg.mp4?_nc_cat=108&_nc_oc=Adqb-pFk1xndnlgMjVp7tjHY3CxswseX1iDyDU286E4C-neamkgP_F7MzFOHAmdefR0&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=bEmkilfUnWgQ7kNvwEF-tpI&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NTk3MjUwMTUxMDAxNzIsImFzc2V0X2FnZV9kYXlzIjoyMjIsInZpX3VzZWNhc2VfaWQiOjEyMzc0LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=4a388561368e1fe7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMzRGQjdBNDEyRDE3QUVBMjc1RTlFQUZGQTBEMDRBN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0QyNDMxQzczMUExNDlENDYyRUVDNzlEODQ0MEYxODkwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaYrM_cypHnPxUCKAJDMywXQCgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdQBlrMEBAA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRMfuw7R3W5g04x3faOGlTLGJrzrKXpuOG1GLkWBpPCbQ&oe=6B009DA1",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **استراتيجية \"قبل وبعد\" (Problem-Solution):** يعتمد الإعلان على إثارة مشكلة شائعة (اسمرار المناطق الحساسة لدى العرائس) ثم تقديم المنتج كحل سحري ينهي هذه المعاناة، مما يبني اتصالاً عاطفياً مباشراً مع الجمهور المستهدف.\n*   **الأسلوب البصري الإبداعي:** استخدام شخصية \"البطاطس\" الكرتونية يكسر حاجز الخجل المرتبط بهذا النوع من المنتجات، ويجعل الإعلان أكثر طرافة وقبولاً للمشاركة والانتشار (Viral Potential).\n*   **التركيز على النتيجة النهائية:** ينقل الإعلان العميل من حالة \"الضيق والقلق\" إلى حالة \"الثقة والسعادة\"، وهو ما يركز عليه المسوقون لتعزيز الرغبة في الشراء.\n*   **عنصر الجذب الموسيقي:** اختيار أغنية إيقاعية خفيفة يضفي طابعاً إيجابياً على الفيديو ويساعد في تثبيت العلامة التجارية في ذهن المشاهد من خلال تكرار اللحن والكلمات.\n*   **الوضوح والمباشرة:** يظهر اسم المنتج بوضوح في الختام مع عبارة تسويقية قوية \"الأكثر فعالية بالعالم\"، مما يعزز الثقة في جودة المنتج.",
+        "transcript": "التفريغ النصي للفيديو:\n\n*   **المشهد الأول:** \"مورفريفو دلالي.. هوا.. ونص الليالي.. ورايا هو جمالي.. ورايا\"\n*   **المشهد الثاني:** (لا يوجد تعليق صوتي إضافي، الكلام مكتوب فقط على الشاشة)\n\n---"
+      }
     },
     {
       "ad_id": "920238617757930",
@@ -911,7 +1111,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=920238617757930",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQP56wBtvBNluWViLHLAf8iOCmVsyV7Ma1vRVOOgRShr2Ov2c4v0afTFvRwLSHXPY5XAGKJtcZ_2dBX-Qncy3XXuGziSGNPHPj2_X5KSMbQ3Bw.mp4?_nc_cat=108&_nc_oc=Adr4WQhziT0IOk6RgDeQt-Q8H8WLYpk8Q2YRtLO5VlHmkQotD8qCUaX0jqUC5l36VC8&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=NcQUddFZeh0Q7kNvwHIrS1f&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5MjM4Mjk1OTc5NjY3MDgsImFzc2V0X2FnZV9kYXlzIjoxMjYsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo4MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3481f3219bec0e41&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MzRERUQ0MkE5QzIyRjc4RkJENzQzOTY2NTNFNjVCNl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzFFNDAwNjBCRkMyOTBBMUE1Q0VBMTFCOEEyNTgwODlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACboxZCJpM2xChUCKAJDMywXQFQ5mZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=uLQcRnRM5JE9Wh3e_AUhpw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQR9nrWLurlxJg-ETzjQkr4hrSVSqz5xJUKHOFZuo4Jh1g&oe=6B04A94C",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية المنتج:** يعتمد المحتوى على تقديم \"باقات\" (Bundles) متكاملة ومصنفة لتسهيل اتخاذ قرار الشراء، مما يرفع متوسط قيمة الطلب (AOV).\n*   **الجمهور المستهدف:** استهداف الأزواج بمنتجات ترفيهية وحميمية خاصة، مع التركيز على \"التنوع\" و\"الحصرية\" في محتويات كل بكج.\n*   **عامل الأمان والخصوصية:** ركز الفيديو في الختام على \"التوصيل السري\" و\"التغليف الآمن\"؛ وهي نقطة حساسة ومهمة جداً لبناء الثقة في هذا النوع من المنتجات.\n*   **التسويق الحسي والعاطفي:** اختيار موسيقى هادئة وتقديم المنتجات بأسلوب أنيق (القفازات السوداء، الإضاءة الخافتة) يضفي طابعاً من الفخامة والرومانسية على العلامة التجارية.\n*   **دعوة لاتخاذ إجراء (CTA):** تنتهي السلسلة بوضوح بطلب التواصل للاستفسار، مما يعزز مبيعات المحادثة المباشرة (Direct Messaging) التي تزيد من معدلات التحويل.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n*(يبدأ الفيديو بموسيقى خلفية)*\n**نص الظهور على الشاشة:**\n- \"بكج رقم 1\"\n- \"بالإضافة لهدية مميزة 😍\"\n- \"طقم داخلي غذائي قابل للأكل 🍒\"\n- \"عطر فرموني 💋\"\n- \"زيت مساج 😍\"\n- \"زبدة جسم غذائية 🍑\"\n- \"عسل ملكي 🍯\"\n- \"لعبة بوس أو دوس 💋\"\n- \"لعبة سلم وحية 🐍\"\n- \"بكج رقم 2\"\n- \"بودرة جسم بنكهات قابلة للأكل 🍑\"\n- \"خاتم هزاز 💋\"\n- \"عسل يا عسل 🍯\"\n- \"زيت مساج 🌸\"\n- \"زبدة جسم قابلة للأكل 🍓\"\n- \"لعبة وضعيات 💋\"\n- \"بكج رقم 3\"\n- \"لعبة crazy love 💋\"\n- \"زبدة غذائية بنكهات 🍓\"\n- \"زيت مساج 🌸\"\n- \"عسل يا عسل 🍯\"\n- \"لعبة الوضعيات 💋\"\n- \"عطر فرموني 😍\"\n- \"لعبة السلم والحية 💋🐍\"\n- \"هدية مع كل بكج، التوصيل سري والتغليف آمن 100%، تواصلوا معانا حتى تستفسروا أكثر 😍\"\n\n---"
+      }
     },
     {
       "ad_id": "1721255145646951",
@@ -1071,7 +1279,15 @@
       "cta": "إرسال رسالة على واتساب",
       "ad_url": "https://www.facebook.com/ads/library/?id=1844208720067297",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQPNrXBZYCs-e-_ILyg6PnTroJUTfcJKRzyTtZhHrb1Olmaxh_UZQbLBbYivYKZZJ5yVExJJzo6PyqMT3u_fHk4whPPuj4oN2I9JwUHquQ.mp4?_nc_cat=105&_nc_oc=AdryYW1DigpyOB-QgV55MytXitKn3AA8di6Meq7oYkdhXk_7NPotBeG7ufHP22pc7Zo&_nc_sid=ef5aa3&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=3Z8YlIMgkHQQ7kNvwHiMJNl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNTEwMjk5OTc0MzM4OTk1LCJhc3NldF9hZ2VfZGF5cyI6NSwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TF4ZYFWrcnypJPgTa4WByw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTM_DmrEsX_cofd5KgDVzMkWgFB9n3oYlvOhRhrVf3g-Q&oe=6B0497C9",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2.\n**ملخص استراتيجي:**\n\n*   **تحديد القيمة السعرية:** استخدام استراتيجية \"السعر المصدوم\" (15 دينار مقارنة بـ 35-40 دينار) لكسر الحاجز الشرائي فوراً.\n*   **خلق حالة من الندرة والثقة:** ربط السعر بـ \"سعر الجملة\" والادعاء بوجود مصدر مباشر (من المصنع)، مما يعزز مصداقية العرض.\n*   **استهداف النطاق الجغرافي:** تحديد الفروع بدقة (إربد وعمان) لتقليل تكلفة التوصيل على العميل ورفع احتمالية الزيارة الميدانية.\n*   **استغلال النمط البصري:** استخدام مؤثرات بصرية مرافقة (رمي المال) لتعزيز الشعور بالوفرة والربح السريع للمستهلك.\n*   **الوضوح في العرض:** تحديد هوية المنتج بوضوح (الليجاند برو) لضمان ذهاب العميل للهدف المطلوب مباشرة.",
+        "transcript": "أقوى عرض وأقوى سعر على مستوى المملكة راح يطلع من المهندس حسام لعيون الزباين. طبعاً السعر هذا سعر جملة مش سعر بيع. كارت الليجاند برو الإيجورية الغنية عن التعريف، ضمن وات وليمن عالي تنباع بأربعين دينار وبخمسة وثلاثين. من المصنع للمهندس ولعيون الزباين فقط على 15 دينار والعرض شامل الفرعين فرع إربد شارع البتراء وفرع عمان شارع المدينة الرياضية."
+      }
     },
     {
       "ad_id": "975615661898626",
@@ -1087,7 +1303,15 @@
       "cta": "إرسال رسالة على واتساب",
       "ad_url": "https://www.facebook.com/ads/library/?id=975615661898626",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQOezGmb3EevjF-evsXkTnb6z0FE2TnuQTU7XBqImLFx3bUOa91SCXPqQOZ29h8yQYxlbC6iZ9WpOWMvZ3SRa7yoIAlpMY4J_jqjtxDXpA.mp4?_nc_cat=111&_nc_oc=AdodmeZsGKHu8g452WphWYA5dmgo9rxLzN5CcTtwlklon7jgvIwAqHEMqe32TCa3E30&_nc_sid=ef5aa3&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=Mti2jbmP06kQ7kNvwGWjFWy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxODc0NjY4NjA3MDAzNzAxLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjYwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TF4ZYFWrcnypJPgTa4WByw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSt0mPblP7gC3y6l9D_q9E11Vl6_ryax_Gt7cznQzg8jg&oe=6B04BC33",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي ذكي للمحتوى:\n\n*   **استراتيجية جذب التفاعل (Engagement):** استخدم البائع أسلوب \"التوقع والربح\" في بداية ونهاية الفيديو لتحفيز المشاهدين على كتابة تعليقات، مما يرفع من وصول الفيديو (Reach) في خوارزميات منصات التواصل الاجتماعي.\n*   **خلق القيمة (Value Proposition):** ركز على \"الأصالة\" مقابل \"التجارية\" (الجودة مقابل السعر)، مع إظهار المكونات التقنية (مروحة التبريد، البورد الألمنيوم) لتعزيز الثقة.\n*   **عنصر المفاجأة (The Upsell):** دمج \"هدية\" (الكاميرا) مع المنتج الأساسي (الشاشة) يخلق قيمة مضافة فورية للمشاهد، ويجعل العرض يبدو \"لا يُقاوم\".\n*   **استراتيجية السعر (Anchoring):** استخدم تقنية \"تثبيت السعر المرتفع\" (150 دينار) ثم كسر الحواجز النفسية (لا 100، ولا 90...) للوصول إلى السعر المستهدف (أقل من 75)، مما يعطي انطباعاً بوجود \"خصم هائل\".\n*   **الضمان الاجتماعي (Social Proof):** الاعتماد على \"كفالة خطية\" ومعرض حقيقي (اسم المهندس حسام) يزيل المخاوف من الشراء الإلكتروني أو من المنتجات المجهولة.\n*   **نداء للعمل (Call to Action):** توضيح أماكن الفروع (إربد وعمان) بشكل مباشر في نهاية الفيديو لربط التفاعل الرقمي بالزيارة الميدانية.",
+        "transcript": "بصفتي محللاً للمحتوى التسويقي، إليك تحليل هذا الفيديو الترويجي:\n\n التفريغ النصي للفيديو:\n\n\"اليوم بحب أقول لك: اتوقع واكتب بالتعليقات، قديش ممكن يكون سعرها واربح معي شاشة وكاميرا لعيون الزباين! بما أن الكل اليوم طلب عرض على الشاشة، راح أعمل لك عرض على شاشة الهجري العالمية، مش البضاعة التجارية. لما أقول لك شاشة 2 رام، 32 جيجا، بعطيك شاشة 2 رام، 32 جيجا فعلي، بالإضافة الشاشة تحتوي على مروحة تبريد، بورد ألمنيوم أصلي باي الهجري، ضمن كفالة خطية داخل معرض المهندس حسام. اليوم بحب أقول لك مش الشاشة لحالها راح أعمل لك عرض، راح أطلع لك معها هدية كاميرا أمامية أصلية بتركب عندك على اليو إس بي وبتسجل وبـ تراقب قدامك. شاشة بتنباع بـ 120 دينار وكاميرا بتنباع بـ 30 دينار تجمعهم بيطلعوا 150 دينار. اليوم بحب أقول لك لا 100، ولا 90، ولا بـ 85، ولا بـ 80، والسعر أقل من 75 دينار، والسعر على التحدي. اليوم بحب أقول لك اتوقع واكتب بالتعليقات، قديش ممكن يكون سعرها واربح معي شاشة وكاميرا لعيون الزباين، والعرض شامل الفرعين: فرع إربد شارع البتراء، وفرع عمان شارع المدينة الرياضية، يا سلام!\"\n\n---"
+      }
     },
     {
       "ad_id": "1615493809741586",
@@ -1103,7 +1327,15 @@
       "cta": "إرسال رسالة على واتساب",
       "ad_url": "https://www.facebook.com/ads/library/?id=1615493809741586",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQPLwtlSacnaCuLzLFulU58sbdM9BETzjp5DtANaNndRblxg-hWBnYVycm_ePp1tc0PHf3hIXD7Oow75v6186zqhzcvwNiEgYQaxmSUJ0w.mp4?_nc_cat=103&_nc_oc=Ado-JYJ2npnFtho-UiNbmXH0z9yMIkpFJVPsFy-WMMV0usyeOvWkgCAWYjqzTzzKVzU&_nc_sid=ef5aa3&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=X0PiEsn98bkQ7kNvwFCH1re&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNDcyNDkzNjU4MjgwNjAxLCJhc3NldF9hZ2VfZGF5cyI6NCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TF4ZYFWrcnypJPgTa4WByw&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UvjwTnLYJ9Rf3zvZkVWF6ogN23N5KxhSDTfRimvLe6ckaAljco5XHpyde-a6kQ0Zp8H5nUgRCppQUGTSJaSWEKYA7E2B2HJowlbbs3prstlkAStY5q7bCT3mv2c&oh=00_AQSArHyOlf7evXZVbS_8jWPLNJ2SBYCtnw6trvNv8UA8CQ&oe=6B049593",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استراتيجية العرض (Promotion):** يعتمد الفيديو على عرض \"محدود زمنياً\" (يوم واحد) لإثارة حاجة العميل لاتخاذ قرار سريع (FOMO)، مع تسعير تنافسي مباشر (30 دينار) لجذب شريحة واسعة.\n*   **القيمة المقترحة (Value Proposition):** ركز المحتوى على تنوع الخيارات (أكثر من 100 لون وقصة)، مما يوفر للعميل خيارات تخصيص عالية الجودة (قماش/جلد) تناسب مختلف الأذواق.\n*   **أداة توليد العملاء المحتملين (Lead Generation):** استخدام \"التعليقات\" كآلية للرد المباشر وطلب نوع السيارة يرفع من التفاعل (Engagement) مع خوارزميات المنصة، ويساعد المحل في بناء قاعدة بيانات للعملاء المهتمين.\n*   **التوسيع الجغرافي:** التركيز على توفر الخدمة في فرعين رئيسيين (إربد وعمان) يعطي مصداقية للمحل ويوسع النطاق الجغرافي للمستهلكين.\n*   **نصيحة للمنافس:** المحتوى جيد في العرض، ولكن يفتقر إلى عرض تجربة التركيب أو شكل الفرش داخل السيارة فعلياً، وهو ما قد يكون نقطة قوة إضافية لإقناع العميل بالجودة النهائية.",
+        "transcript": "إليك تحليل محتوى الفيديو من وجهة نظر منافسة:\n\n التفريغ النصي للفيديو:\n\"لمدة يوم واحد وبس بـ 30 دينار، قادر تركب فرش لـ الجورية (Special Car)، مثل ما احنا شايفين جمالية ولا أروع، وبتغير جمالية داخلية سيارتك بالكامل. الفرش متوفر منه أكثر من 100 قصة وأكثر من 100 لون، فرش بيجي قماش مطعم بجلد، والظهر كامل جلد. كل ما عليك تكتب لي نوع سيارتك في التعليقات وأرد عليك بالسعر، والعرض شامل الفرعين؛ فرع إربد شارع البتراء، وفرع عمان شارع المدينة الرياضية - سلام.\"\n\n---"
+      }
     },
     {
       "ad_id": "1488520176482919",
@@ -1191,7 +1423,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1749810107031691",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQOk12BNgWOjGbDRUC6ouwEoxHEB3IK81oO98VpYoTmt1IX9vhyW-NtJOJEYZL0tKF1KueuapSFWokxnwPpiWw3kYMr5yfj10-8uWmOfAeKfpQ.mp4?_nc_cat=107&_nc_oc=Adq2Fr80LbgthSOfHypmMQsWHkgZl5z5-gwdSals5DYU8eXMgGlWMwVlmkQ08dRw47M&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=3jJgXdLwM6sQ7kNvwHcAgXL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE2NDQ2NDkxMzcxMzc5NjcsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=87115e53240b1475&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MzI0ODEzRTQ3ODc0MzZBQURCMDIzRUI0MUE2Q0M4NF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzAyRjBCQTc1RTkyRTQxNjA4NzlDNUU3NDE5NDAwMzdDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbepMv5lvPrBRUCKAJDMywXQEAEOVgQYk4YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=Q0AL4FXPoP0PDb2P0Z_zAA&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSJpvIrEqmeukUQYYpWYFWwBPJaIX3O7wI-SCp8jYOpdg&oe=6B04A309",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\nيتبع صاحب الفيديو استراتيجية \"الإغراء بالمواصفات مقابل السعر التنافسي\"، ويمكن تلخيصها في النقاط التالية:\n\n*   **خلق حالة من \"الطوارئ البيعية\":** استخدام مصطلحات حماسية مثل \"طبول الحرب\" و\"إعلان حرب على العروض\" لخلق انطباع بوجود فرصة استثنائية لا تتكرر.\n*   **القيمة المضافة (Bundle):** تعزيز العرض بإضافة هدية مجانية (كاميرا فل إتش دي)، مما يرفع من القيمة المدركة للمنتج دون تكلفة باهظة على التاجر.\n*   **التسعير النفسي:** التركيز على فارق السعر الكبير (من 120/130 إلى 39 دينار) لجعل السعر يبدو كأنه \"صفقة رابحة\" لا يمكن رفضها.\n*   **المصداقية الاجتماعية:** محاولة التحدي والرهان على ثقة الزبون (\"اللي قدها يجيبها\")، وهو أسلوب يهدف لكسر حاجز التردد لدى المشتري.\n*   **انتشار جغرافي مدروس:** الإشارة إلى تواجد العرض في \"عمان وإربد\" يوسع قاعدة الجمهور المستهدف ويخدم توسع العلامة التجارية.\n*   **تركيز على الميزات التقنية الجوهرية:** تسليط الضوء على المواصفات التي تهم المستهلك (4 رام، 64 جيجا، أبل كار بلاي) بدلاً من الإطالة في الحديث عن جودة التصنيع أو الميزات الثانوية.",
+        "transcript": "إليك تحليل الفيديو من منظور منافس:\n\n التفريغ النصي للفيديو:\n\n\"مش قلتلك دقة طبول الحرب يا معلم؟ والربيع ناوي يعلنها حرب على العروض إن شاء الله. المرة هاي لا واحد رام ولا اثنين رام، اسمع ركز معي منيح! شاشة 4 رام، 64 جيجا مساحة تخزين. اسمع.. وبدي أكيدك أكثر إنها أبل كار بلاي وأندرويد أوتو، ورح نعطيك معاها يا معلم هدية، كاميرا فل إتش دي، وأقولك بدل من 120 و130، بس ب 39 دينار! واللي قدها يجيبها يا معلم، العرض هذا تفريجه يا عفرونها. عمان وإربد، والعرض لمتى ما بدك إياه يا زبوني العزيز، 100 أهلا وسهلا بالكل، نشوفكم على خير بفرع إربد وسلام.\"\n\n---"
+      }
     },
     {
       "ad_id": "1437088277757777",
@@ -1327,7 +1567,15 @@
       "cta": "زيارة الملف الشخصي",
       "ad_url": "https://www.facebook.com/ads/library/?id=1845178359837072",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNr0s_4MvVVRpJBftXki0DgMonczr8hQjdIkKCh8qqSPrXGbTaLKPvQk0BubAnnEHC63EYZdd5uSNw9b0hya3SJuwm_Lx4v1PdcXZRXkQ.mp4?_nc_cat=102&_nc_oc=Adp-F5FUnJ4Y3W9O4rkS0Cig45rqgbzikGnSqljhBaT8D94EVptG5tWChZOsa6KO-fU&_nc_sid=ef5aa3&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=MF7gvDLYmrEQ7kNvwG7kk4h&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjo0NzY4OTYxMzYzNDI4NDIwLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjQ2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=TBhqLK6LfLf9fblom-PKyQ&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQQ5e7z8qshTrE9ITBcvrOYgKVsmgiEMzVf97is_0jkMw&oe=6B049F98",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\nيستخدم الفيديو استراتيجية \"عروض الصدمة\" لجذب العملاء بأسعار تنافسية ومحددة بوضوح، ويمكن تلخيص نقاط القوة كالتالي:\n\n*   **تحديد القيمة السعرية المباشرة:** يبدأ كل عرض بالسعر النهائي والواضح (15، 3، 10، 20 دينار)، مما يقلل من وقت التفكير لدى العميل.\n*   **خدمة \"شامل التركيب\":** يركز الفيديو على تقديم قيمة مضافة (التوريد + التركيب) في سعر واحد، مما يزيل عبء البحث عن فني تركيب ويزيد من إغراء العرض.\n*   **عامل الجذب المرئي والحيوي:** استخدام أسلوب \"الحركة السريعة\" في العرض (إلقاء المنتجات) مع إضافة مؤثرات صوتية (بيب بيب) يكسر رتابة الإعلانات التقليدية ويجذب الانتباه.\n*   **إدارة التوقعات (الاستثناءات):** المصداقية في ذكر الاستثناءات (مثل: ما عدا قياس الـ H4 أو تسحيل الطبلون) تعزز من ثقة العميل وتمنع الارتباك أثناء عملية البيع في المعرض.\n*   **الخاتمة الدعائية:** توجيه العملاء مباشرة إلى مكان التواجد (معارض غازي الزعبي) مع الإشارة إلى وجود أكثر من فرع لزيادة فرص الوصول الجغرافي.",
+        "transcript": "التفريغ النصي للفيديو:\n\n- ارمي، ارمي.\n- يا زلمة، إيه!\n- فرش القصة التركي بس 15 دينار، أي لون بدك إياه وبيركب على أي سيارة مع طارة خياطة وشامل تركيب.\n- وبيب بيب، واليوم عندك زمور الشنص بس بـ 3 دنانير لجميع أنواع السيارات ما عدا تسحيل الطبلون وتمديد الأسلاك.\n- لمبات الـ M10 صارت بس بـ 10 دنانير شامل تركيب ما عدا قياس الـ H4، مراوح تبريد، راسية نحاس وأكيد ضد المي.\n- وعندك شاشة الـ MP5 الـ 7 إنش اللي بتركب على جميع أنواع السيارات مع كاميرا الريفيرس بس بـ 20 دينار شامل التركيب.\n- فرجينا الشاشة؟\n- شوف لي جمالية هالـ شاشة مع كاميرا الريفيرس اللي بتركب معك عالسيارة، بتركب عندك فت 100% على أي نوع سيارة بدك إياه، وهذه العروض متوفرة لدى معارض غازي الزعبي لزينة وإكسسوارات السيارات بالفرعين، سلام.\n\n---"
+      }
     },
     {
       "ad_id": "1128026136673833",
@@ -1375,7 +1623,15 @@
       "cta": "زيارة الملف الشخصي على Instagram",
       "ad_url": "https://www.facebook.com/ads/library/?id=1647372803514958",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMcdHahSZuuAt7L3UQlWlxCaTBSi9pvxIYqt7zfhzEJoZ0t4gQwVs6v5UZoH3fyOC78Q8KiIk3mX0H-9RfpkBI0lyhwpTj9eBVVwS2wCwgPGA.mp4?_nc_cat=109&_nc_oc=Adow0pdzwbZY4MEnD3HHi8U4TdAdaazUKkWvJOx68voDlMUBERqLCpJVeV_ZBCwHTSw&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=HvUdah7DPgAQ7kNvwHeR-3H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NTQ2NjQ3MjIxNjMxMjgsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=eaee2f92dd324a1b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9ENzNENkZBQ0NFMTk0MEI4OTMxOUU0ODFDRDk5Mzc5OV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0FEQjg4QzhCMDNGNDRCRThBQzBCREZGMzAzNjc0N0U3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbwltuGu_D4BhUCKAJDMywXQEcZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=TBhqLK6LfLf9fblom-PKyQ&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQT8SyZDu9o-t7mfTT3j_8qRh-BCL8dgz5qvnMF_kT0TWg&oe=6B04AF57",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **نوع المحتوى:** فيديو ترويجي سريع (Flash Sale) يعتمد على أسلوب العرض المباشر والمكثف لجذب انتباه العميل.\n*   **عنصر الجذب:** استخدام \"عروض الصدمة\" من حيث السعر الزهيد مقابل خدمة شاملة (المنتج + التركيب)، وهو ما يزيل عوائق الشراء لدى المستهلك.\n*   **استراتيجية التسويق:** \n    *   **تنوع العروض:** تقديم باقة متنوعة من إكسسوارات السيارات (فرش، تنبيه، إضاءة، تقنية) لاستهداف شريحة واسعة من أصحاب السيارات.\n    *   **الوضوح والمصداقية:** تحديد الاستثناءات في العروض (مثل عدم شمول بعض الأنواع للتركيب) يعزز من ثقة العميل في صدق الإعلان.\n    *   **الإيقاع السريع:** الانتقال السريع بين المنتجات يحافظ على تفاعل المشاهد ويمنع الملل، مما يجعله مناسباً جداً لمنصات الفيديو القصيرة (TikTok/Reels/Shorts).\n    *   **الدعوة لاتخاذ إجراء (CTA):** الإشارة الواضحة لاسم المعرض (غازي الزعبي) وتوفر الفروع يعطي دليلاً عملياً للعميل لكيفية الاستفادة من العروض.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n التفريغ النصي للفيديو:\n\n- **00:00** (المذيع): ارمي ارمي. (زميله): يا زلمة..\n- **00:02** (المذيع): فرش القص التركي بس 15 دينار، أي لون بدك إياه وبيركب على أي سيارة مع طارة خياطة وشامل تركيب.\n- **00:09** (المذيع): وبيبي بيب، واليوم عندك زمور الشنص، بس بثلاث دنانير لجميع أنواع السيارات، ما عدا تسهيل الطبون وتمديد الأسلاك.\n- **00:18** (المذيع): لمبات الـ M10 صارت بس بعشر دنانير شامل تركيب ما عدا قياس الـ H4، مراوح تبريد رأسية نحاس وأكيد ضد المي.\n- **00:26** (المذيع): وعندك شاشة الـ MP5 الـ 7 إنش اللي بتركب على جميع أنواع السيارات، مع كاميرا الريفرس بس بعشرين دينار شامل التركيب.\n- **00:34** (المذيع): فرجينا الشاشة.. شوف لي جمالية هالـ شاشة مع الكاميرا الريفرس اللي بتركب معك على السيارة، بتركب عندك 600% على أي نوع سيارة بدك إياه، وهذه العروض متوفرة لدى معارض غازي الزعبي لزينة واكسسوارات السيارات بالفرعين، سلام.\n\n---"
+      }
     },
     {
       "ad_id": "1452887989618905",
@@ -1391,7 +1647,15 @@
       "cta": "زيارة الملف الشخصي على Instagram",
       "ad_url": "https://www.facebook.com/ads/library/?id=1452887989618905",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQOCIUzq0sfoskI47RboTQXYUKAouUL7XwRNWvaCJL9ypjlzx2ljExByXoUhND3O-X1Sv-pY3_1PMHLQ7Z8wjsBdgVPuhdENIgu9kNXVwl_mIg.mp4?_nc_cat=109&_nc_oc=AdozziamqcDkBqMXLnh1LIhdVfP5zdOlwvinAk0oK9VEf_R0uRI4yxOjZP4qiLTINyg&_nc_sid=b66105&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=GKeHKgEC6qkQ7kNvwHPGEsO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjM0MzM4NjUyNDY3NzQ4NTMsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e897676f1a29d95c&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zMjhGMDY4REJDMTA0MTA1OUE5Q0MzQ0I3NThGMkVEMV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzRDQzE2NTE3N0EyQzRBMjU4RUQ0MTk2MEIwRjg2ODhBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaK2ezjocWZDBUCKAJDMywXQEru2RaHKwIYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=TBhqLK6LfLf9fblom-PKyQ&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UkFDiTOUdbMLhjAbWZqZ4mFjSZUTOIgPl3tyWa3f79Cm9H08sdSBuSmPsaYwQX_NgW34GJ2qgZJMi-eNarVUt1Npa31GQn29jEa4W83KgQcDnE7UlwgRbnIFNH0&oh=00_AQSOJSN5b-Chl_IoOTo9W_QzKydHYpGgPEJ2UYYtmVp91A&oe=6B04B703",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "confidence": "normal",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "summary": "### 2. ملخص استراتيجي:\n\n* **هوية العلامة التجارية:** يعتمد المحتوى على \"البيع السريع\" (Flash Sales) مع تركيز قوي على توفر الكميات (بصرياً من خلال لقطات الأرفف) لتعزيز موثوقية العميل.\n* **الاستراتيجية السعرية:** استخدام \"التسعير النفسي\" بتحديد أرقام بسيطة ومستديرة (10، 15، 20 دينار) مع التأكيد المتكرر على أنها \"شاملة التركيب\" لإزالة أي عوائق شرائية إضافية.\n* **أسلوب العرض:** أداء حماسي وطاقة عالية تناسب طبيعة \"العروض النارية\"، مع استخدام أسلوب \"النداء المباشر\" (Call to Action) وتوجيه العميل إلى الفروع لضمان زيارة المتجر.\n* **إدارة التوقعات:** الشفافية في ذكر الاستثناءات (مثل \"ما عدا تسحيل الطبون\") تبني ثقة لدى العميل وتمنع حدوث صدامات أثناء تقديم الخدمة الفعلية.\n* **التوسع الجغرافي:** التذكير بوجود فرعين يؤكد حجم انتشار العلامة التجارية وسهولة الوصول إليها، مما يعزز من قوة وجودها في السوق المحلي.",
+        "transcript": "إليك تحليل المحتوى المطلوب:\n\n التفريغ النصي للفيديو:\n\n\"واليوم بما إنه الجو ناري وسفاح بالصلاة على سيدنا محمد، جايب لكم عروض برضه نارية وسفاحة.. يلا معانا.\n\nشوف ما أكبر الكمية يا محمد، اليوم وفرت لك لمبات (إم 10) اللي بتدعم لك أكثر من 90 واط فعلي، وصار سعرها بس بـ 10 دنانير ما عدا قياس الـ H4.. زي ما إنت شايف مراوح تبريد ورأسية نحاس وأكثر من 90 واط فعلي، العرض اللي بعده.\n\nاليوم الشاشة الـ 7 إنش مع الكاميرا الريفيرس بس بـ 20 دينار شامل التركيب، روح.\n\nوبس بـ 15 دينار شامل التركيب.. الفرش القصة التركي اللي متوفر منه ألوان تناسب داخلية سيارتك مع طارة خياطة من الجلد، صارت بـ 15 دينار شامل التركيب، يا أهلا وسهلا.\n\nوأنا اليوم بدي أخلي كل عمان تركب زوامير وتجدد زواميرها، لأن زمور الشان صار عندنا فقط بـ 3 دنانير شامل التركيب ما عدا تسحيل الطبون وتمديد الأسلاك.\n\nوكل هاي العروض وأكثر بتلاقوها طبعاً بمعارض غازي الزعبي بالفرعين، شارع الحرية وشارع الجامعة.. سلام.\"\n\n---"
+      }
     }
   ]
 }
