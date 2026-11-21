@@ -2,7 +2,7 @@
   "scan_date": "2026-11-21",
   "total_ads": 44,
   "total_video_ads": 43,
-  "analyzed_video_ads": 30,
+  "analyzed_video_ads": 31,
   "failed_video_ads": 0,
   "competitors": [
     {
@@ -776,11 +776,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "- \"أرخص سعر نزل عليهم\"\n- \"ول شو هذا؟\"\n- \"الصوت من وين جاي؟\"\n- \"هات السماعة\"\n- \"وطيلي صوت الأغاني شوي عشان أحكيلك هذا الصوت من وين جاي. اليوم جايب لكم سماعات بتدعم 1000 واط فعليات دائرية بالكامل بتركب على جميع أنواع السيارات، بس بعشر دنانير شامل التركيب، بس بدي أنبهك على شغلة إني بدي أخلي المونتاج يرجع يعلي لك صوت السماعة، واسمع من أول وجديد.\"",
-        "summary": "### 2.\n*   **هوية الفيديو:** إعلان ترويجي لمنتج (سماعات سيارة) في متجر مستلزمات سيارات.\n*   **الأسلوب التسويقي:** \n    *   **الجذب:** استخدم \"التلاعب الصوتي\" لجذب الانتباه في بداية الفيديو.\n    *   **العرض:** عرض المنتج بشكل مباشر مع ذكر المواصفات التقنية (1000 واط).\n    *   **التنافسية:** التركيز على \"أرخص سعر\" كعنصر دفع أساسي للشراء.\n    *   **التحفيز:** تقديم قيمة مضافة \"شامل التركيب\" لتقليل حواجز الشراء لدى العميل.\n*   **الفعالية:** الفيديو قصير، سريع الإيقاع، ويركز على عرض \"العرض الساخن\" بشكل مباشر وعفوي.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n*   **هوية الفيديو:** إعلان ترويجي لمنتج (سماعات سيارة) في متجر مستلزمات سيارات.\n*   **الأسلوب التسويقي:** \n    *   **الجذب:** استخدم \"التلاعب الصوتي\" لجذب الانتباه في بداية الفيديو.\n    *   **العرض:** عرض المنتج بشكل مباشر مع ذكر المواصفات التقنية (1000 واط).\n    *   **التنافسية:** التركيز على \"أرخص سعر\" كعنصر دفع أساسي للشراء.\n    *   **التحفيز:** تقديم قيمة مضافة \"شامل التركيب\" لتقليل حواجز الشراء لدى العميل.\n*   **الفعالية:** الفيديو قصير، سريع الإيقاع، ويركز على عرض \"العرض الساخن\" بشكل مباشر وعفوي.",
+        "transcript": "- \"أرخص سعر نزل عليهم\"\n- \"ول شو هذا؟\"\n- \"الصوت من وين جاي؟\"\n- \"هات السماعة\"\n- \"وطيلي صوت الأغاني شوي عشان أحكيلك هذا الصوت من وين جاي. اليوم جايب لكم سماعات بتدعم 1000 واط فعليات دائرية بالكامل بتركب على جميع أنواع السيارات، بس بعشر دنانير شامل التركيب، بس بدي أنبهك على شغلة إني بدي أخلي المونتاج يرجع يعلي لك صوت السماعة، واسمع من أول وجديد.\""
       }
     },
     {
@@ -813,7 +813,15 @@
       "cta": "زيارة الملف الشخصي على Instagram",
       "ad_url": "https://www.facebook.com/ads/library/?id=1151547867594537",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNyHL9YDzDi0EVyOHkmOjGHeg_uX7GkFkR8Jw3IdY4_pU-knDS_0OxmRAn2Beou8IWGmj40cmfXvW1OwsYbRPXw8--1pe6dKxjdYcjP1ou1Xw.mp4?_nc_cat=105&_nc_oc=AdowjtHnth6_NopBiHTvDH1N_X0nFUf6z4wxqw45KXGBcHcJmUICAprnsiT58uF4Cxc&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=N0AUp2tnyqgQ7kNvwEZDdgJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE5NTIxNjM4ODI4MTQwNTgsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8a76342ed0980170&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85QzRCNUVDRjc3NDY0NzU0OTZENEE4NTIxQjhFMTA0Q19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA2NTU2MjExRjZGQzRFMDU4OTFBRTZCQzA4M0E0QzFEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbUqbqs8t73BhUCKAJDMywXQDfmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=QxvQe6VlRlJ_fIcpmWiWRQ&_nc_ss=7b289&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSz-ZuQY4v4doVq2IfmzDz7Sxl-fT-FNEHGApU7tRcpGw&oe=6B078A33",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بصفتي محللاً للمحتوى، إليك تحليل الفيديو المطلوب:\n\n التفريغ النصي:\n- (موسيقى صاخبة)\n- \"ول شو هاد الصوت؟ من وين جاي؟\"\n- (المتحدث يمسك بكرتونة سماعات ويقول): \"هات السماعة، ووطي لي صوت الأغاني شوي عشان أحكيلك هذا الصوت من وين جاي.\"\n- \"اليوم جايب لكم سماعات بتدعم 1000 واط فعليات، دائرية بالكامل، بتركب على جميع أنواع السيارات، بس بعشر دنانير شامل التركيب.\"\n- \"بس بنبهك على شغلة، إني بدخل المونتاج يرجع يعلي لك صوت السماعة، واسمع من أول وجديد.\"\n- (موسيقى صاخبة جداً مع صوت بيس قوي).\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n* **عنصر الجذب (Hook):** نجح المتحدث في استغلال \"الفضول السمعي\" (صوت عالٍ مفاجئ في البداية) لإيقاف المتصفح وجذب انتباهه فوراً.\n* **الوضوح والتركيز:** عرض المنتج بوضوح (سماعات MusicFire) مع ذكر المواصفات التقنية (1000 واط) بشكل مباشر ومختصر.\n* **إستراتيجية السعر والقيمة:** ربط السعر (10 دنانير) بـ \"القيمة المضافة\" (شامل التركيب) وهو ما يعتبر محفزاً قوياً جداً لاتخاذ قرار الشراء.\n* **الشفافية التكتيكية:** استخدام أسلوب \"المصارحة\" بخصوص المونتاج يعزز الثقة بينه وبين المشاهد ويبرر الفرق بين الصوت الحقيقي والأداء الفعلي.\n* **دعوة لاتخاذ إجراء (CTA):** الفيديو يعتمد على الإثارة كحافز للبيع، مع التركيز على سهولة الخدمة (شامل التركيب)، مما يقلل من التردد الشرائي لدى العميل.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1566678681882855",
