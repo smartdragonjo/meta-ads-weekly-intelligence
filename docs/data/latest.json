@@ -3,7 +3,7 @@
   "total_ads": 37,
   "total_video_ads": 36,
   "analyzed_video_ads": 16,
-  "failed_video_ads": 1,
+  "failed_video_ads": 2,
   "competitors": [
     {
       "name": "2x for car accessories",
@@ -80,7 +80,8 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1160007400012165",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMLbHdFI-cr3-LOE64J_tpypccRvmdBnF2XKJV9pqNY81zrzr82CjxInJmOD38ZeVRJFervV3uOI-Ls27CdoXvrMcIBK9aFJ8xc4JiTy_K6gw.mp4?_nc_cat=106&_nc_oc=AdqH3Z5yQXGLoZa_TBAx_VgmQ0pabwfoxmAbtqaMUm2NEiGyUEGAwGVecehXnKe5qsg&_nc_sid=b66105&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=Xq-DqXIKjGQQ7kNvwHRtHNb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI2MzIwODMzMzcyNjEwNTUsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=812d4b1ffe6a2d73&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83RDJFOTVDMzBDM0Q0N0Q3QjQyRjY4RkM4Q0VEMkYwRF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA5MDQyOTA0N0I3OTQwQzlBNkM3NTU2OTRBQTVFQTlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACb-v7GFtfesCRUCKAJDMywXQEemZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQm4F_uVmTNYorFMk1GBSzxAKnAKguCVCMCcReh8XYQlw&oe=6B0B5272",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "failed"
     },
     {
       "ad_id": "2224125048515838",
