@@ -3,7 +3,7 @@
   "total_ads": 37,
   "total_video_ads": 36,
   "analyzed_video_ads": 18,
-  "failed_video_ads": 2,
+  "failed_video_ads": 3,
   "competitors": [
     {
       "name": "2x for car accessories",
@@ -124,11 +124,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "هاي احلى هديه ممكن توصلني بعيد ميلادي او اي مناسبه ثانيه سطل الاتش زيرو من معرض دابل ام وفر لك سطل العنايه بالسياره كامله شريطه المايكروفايبر عندك فوم متعدد الاستخدامات وعندك الليفه من اتسيرو عشان ما تشخض السياره عندك المنتج المميز الشامبو والعنايه بالسياره اللي بيعطيك لمعه مميزه بالسياره كمان ملمع الاطارات الفوم لمع التابلو اللي بيجي بمعطر مدعوم بمعطر الفراوله ليفه لملمع التابلوه وعندك هاي الفرشاي لتنظيف الداخلي شايفين السطل المميز بتقدر تبعثه هديه لجميع أنحاء المملكه عن طريق الكول سنتر والأرقام اللي ظاهرة أمامك أو لاقوه موجود داخل معارض دبل ام فرع الحويان دوار الحويان وفرع الحورية مول والسلام عليكم.",
-        "summary": "### 2.\n* **الحدث الرئيسي:** استعراض صندوق هدايا للعناية بالسيارات من علامة \"اتش زيرو\" (H-Zero) مقدم من معارض \"دابل إم\".\n* **أبرز منتجات الصندوق:** مناشف مايكروفايبر، رغوة تنظيف متعددة الاستخدامات، إسفنجة آمنة للسيارات، شامبو سيارات، ملمع إطارات، معطر تابلوه برائحة الفراولة، أدوات تنظيف دقيقة (فرشاة وليفة).\n* **معلومات الشراء/التوصيل:** متوفر في معارض دابل إم (فرع الحويان، الحورية مول) مع خدمة التوصيل لمختلف أنحاء المملكة عبر الرقم المرفق (0792575559).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n* **الحدث الرئيسي:** استعراض صندوق هدايا للعناية بالسيارات من علامة \"اتش زيرو\" (H-Zero) مقدم من معارض \"دابل إم\".\n* **أبرز منتجات الصندوق:** مناشف مايكروفايبر، رغوة تنظيف متعددة الاستخدامات، إسفنجة آمنة للسيارات، شامبو سيارات، ملمع إطارات، معطر تابلوه برائحة الفراولة، أدوات تنظيف دقيقة (فرشاة وليفة).\n* **معلومات الشراء/التوصيل:** متوفر في معارض دابل إم (فرع الحويان، الحورية مول) مع خدمة التوصيل لمختلف أنحاء المملكة عبر الرقم المرفق (0792575559).",
+        "transcript": "هاي احلى هديه ممكن توصلني بعيد ميلادي او اي مناسبه ثانيه سطل الاتش زيرو من معرض دابل ام وفر لك سطل العنايه بالسياره كامله شريطه المايكروفايبر عندك فوم متعدد الاستخدامات وعندك الليفه من اتسيرو عشان ما تشخض السياره عندك المنتج المميز الشامبو والعنايه بالسياره اللي بيعطيك لمعه مميزه بالسياره كمان ملمع الاطارات الفوم لمع التابلو اللي بيجي بمعطر مدعوم بمعطر الفراوله ليفه لملمع التابلوه وعندك هاي الفرشاي لتنظيف الداخلي شايفين السطل المميز بتقدر تبعثه هديه لجميع أنحاء المملكه عن طريق الكول سنتر والأرقام اللي ظاهرة أمامك أو لاقوه موجود داخل معارض دبل ام فرع الحويان دوار الحويان وفرع الحورية مول والسلام عليكم."
       }
     },
     {
@@ -145,7 +145,8 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1132995052678064",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQNajItxdJZxIpgf34LR7kupH2ZK--Y9ajhD6qzRl5cMYSEVs-kiXs2aXBLhv2k8zfLghoFStUKUVP6cmwfHEEdgaMk6aRJh4x3AUcPE56zRwg.mp4?_nc_cat=108&_nc_oc=Adq5BfAzVmZLBLqBL6YHewrzaB3xV9xmRIfMQGGd1x5bLwexjg4EMK0lSmF5yAs_V-4&_nc_sid=b66105&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=hMvpNHSK5g0Q7kNvwFYvcOx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjI5NzIxMjQ3NDkwODI3MDcyLCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzMsImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=91f8b3a6af3e70a2&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC83MThEMTFCRkQ5MUY0Q0ZGQjg3M0U1RUNENjk5NDI3Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzM5NzQ3NENCOUNBNjQxNUY4NENGQzg5QjA1QTVEMEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaAjcfvpdTLaRUCKAJDMywXQElAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=Uo70KuM25mbaZuHkrLSXV0NXGe2cTNreEaUuDDFGp_KUDGLjqI6MkFUsXQfSvNDJzhAG19SdlnHLOhjk5TL4CHrh2IWMORG-ZFzMsu5FcnODhmj_Q59Bnzl0tkY&oh=00_AQTADtSoa0rKdWJr2cFdlge7wft1H9jtBTr72uI1KOZ6uA&oe=6B0B6554",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "failed"
     },
     {
       "ad_id": "1158277369915413",
