@@ -2,7 +2,7 @@
   "scan_date": "2026-11-24",
   "total_ads": 37,
   "total_video_ads": 36,
-  "analyzed_video_ads": 23,
+  "analyzed_video_ads": 24,
   "failed_video_ads": 9,
   "competitors": [
     {
@@ -576,7 +576,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1865376814471933",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQO0Lfu5iEJdeby7kPcnyVEvFc3ldhmoakQinn1NYfHGti2RpGRX3xjzOp7YPQ2RfMc9wUkWRHBb7I8QT_LOqidtytSfQgF2EBJBnQwMbRyStw.mp4?_nc_cat=103&_nc_oc=AdrkPnBlnJ_7xhu9EyrvSPAJRqRQG0ZxTohNWOj9tLd1JUGqxpEwdXBV61TKtxQf8MI&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=mmVUTz8IPg0Q7kNvwEE9HRl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEwNTIyNjQ0Njc0NzY5NTksImFzc2V0X2FnZV9kYXlzIjoyMjcsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo3NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=79cb82619b6ed162&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC82MTQ4NTk1MjE4RTk5QkUwMkMzRTQ0RjQ2MzU2NzQ4MV9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzYxNDFFQTYyRTk2RDZFODQxRjVGQjUyMTNGMTAzRDkyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa-x9mc7cHeAxUCKAJDMywXQFLxBiTdLxsYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=iqEa0itt0_MHSSp5m_wdoQ&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRYV6xaXhAqM6bzvob5TfzSVtfhBdka1onQM5OBqDDvNA&oe=6B0B778D",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "تفضل تفريغ الفيديو مع ملخصه الاستراتيجي:\n\n\n00:00 - 00:01: دول المثلثات.\n00:01 - 00:07: اللي بركبوا إيش؟ لجميع أنواع السيارات موجود.\n00:07 - 00:09: اسألني إيش مكان نوع سيارتك.\n00:09 - 00:14: اقرب علي. عن المثلثات، عن الشفر، عن.\n00:14 - 00:18: طبعا اسمع عشان يكون الكلام عبيّن.\n00:18 - 00:23: الدبل فيس تبعي الـ 3M قرب علي.\n00:23 - 00:27: أصلاً دي أجيمهم بس أنا أفرجيك كل إشي أصلي 100%.\n00:27 - 00:33: حتى الكرت تبع الفتحة ماشي موجود لها وقرب علي يا معلم.\n00:33 - 00:37: هاي الشفر المخصص الثلاث قطع المخصص.\n00:37 - 00:43: قرب علي. يلا تعالى يا سند. امسك معي. طلع علي.\n00:43 - 00:47: هاي الديستروير الأصلية إلها. طبعا عامل عليها عرض سعر.\n00:47 - 00:54: طبعا. ولا تنسى موضوع التظليل. قرب علي. طبعا التظليل عنا.\n00:54 - 01:02: العيادي ما شاء الله شباب محترمين إيديهم بتلف بحرير. تظليل 100% معلم.\n01:02 - 01:15: وأهم إشي العزل 100% ومكفول 100%. ظلّك تابعني بكل إجديد. أهلاً وسهلاً فيكم. واسألني على إيش ما بدك.",
+        "summary": "### 2.\n- **عرض المنتجات:** تم عرض مجموعة من إكسسوارات السيارات، مثل المثلثات ومشتت الهواء (ديستروير) للشفرات ومرايا السيارات.\n- **ترويج وتفاعل:** ركز المضيف على جودة المنتجات (أصلية 100% ومكفولة) وتوفيرها لجميع أنواع السيارات.\n- **خدمات إضافية:** تم تسليط الضوء على خدمة تظليل السيارات ذات العزل المضمون بنسبة 100%.\n- **دعوة لاتخاذ إجراء:** تحفيز المتابعين على التعليق بنوع السيارة للاستفسار عن الأسعار والعروض المتاحة.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1449860780076423",
