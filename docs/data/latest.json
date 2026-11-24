@@ -2,7 +2,7 @@
   "scan_date": "2026-11-24",
   "total_ads": 37,
   "total_video_ads": 36,
-  "analyzed_video_ads": 21,
+  "analyzed_video_ads": 22,
   "failed_video_ads": 5,
   "competitors": [
     {
@@ -268,7 +268,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=2124795444845308",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m367/AQMqhi3QFGXkNmcZPN1yIQSTWpEDq0dBHxGwHWsG4LJrwxeKHc4o8u6kJXIlzJm9hvrsD3_jldFSWYoOQeQv5prcuGozy8w-r9_FiNRwvg.mp4?_nc_cat=104&_nc_oc=AdoRcWU5v6bGM89c5vNIMrrCUNlD_-Aol3goytFVjV1R3b5j9wtDUeuAG-UjZz2zEBw&_nc_sid=ef5aa3&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=7FIghVs7dhsQ7kNvwFFTRb0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNjYwOTY0Njk5MDk0MTQ2LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSxUjdxViiRUuHotajAchi0VbEAPNU5QMAGnQuQxHKKUA&oe=6B0B698E",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "بتلاقي احلى من هيك طارة طلع كيف بسم الله ما شاء الله تعظيلات الجلد والكربون تعال قرب هان شوف لي الطارات المعدلة داخل معارض دبل إم. طيب واللي بيقولك اي طارة معدلة حسب نوع سيارتك وبتركب مخصصة خصم 50 بالمية شو بدك احلى من هيك وبالفرعين إقبال دوار الحويان وقبال الحرية مول. تيجي عندي كل طارة في عليها سعرها تخسم 50 بالمية وبتأخذ طارة المخصصة بنوع سيارتك وبتضلك مروح. بسم الله ما شاء الله شوف لي طارة التويوتا هاي ما أحلاها ما شاء الله لا قوة إلا بالله. معلم نوع سيارتك بالتعليقات عشان أحكيلك إذا في إلها ولا لا. والعرض لساته مستمر لفترة محدودة بالفرعين إقبال دوار الحويان وقبال الحرية مول. سلام.",
+        "summary": "### 2.\n- **عرض ترويجي جذاب**: يقدم المعرض خصماً بنسبة 50% على الطارات المعدلة والمخصصة لمختلف أنواع السيارات.\n- **التنوع والتميز**: استعرض الفيديو أنواعاً مختلفة من الطارات (مثل طارات مصممة للسيارات بلمسات من الجلد والكربون).\n- **التفاعل المباشر**: طلب مقدم الفيديو من المتابعين ذكر نوع سيارتهم في تعليقات الفيديو لمعرفة توفر الطارة المناسبة.\n- **معلومات الفروع**: تم الإعلان عن العرض المتوفر في فرعين يسهل الوصول إليهما (إقبال دوار الحويان وقبال الحرية مول).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2348525895995319",
