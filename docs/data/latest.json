@@ -2,7 +2,7 @@
   "scan_date": "2026-11-24",
   "total_ads": 37,
   "total_video_ads": 36,
-  "analyzed_video_ads": 18,
+  "analyzed_video_ads": 19,
   "failed_video_ads": 3,
   "competitors": [
     {
@@ -162,7 +162,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1158277369915413",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQM-p7clL7IKPb-S8lrGB1y6nosu0ZmETeRFvhWcsvasjOPLUGlRzTRhDIpMxwDgcppf4SFYS9W1EMnMbmqCIX9PsQiJrtjxPxFOPbtCFgszoA.mp4?_nc_cat=102&_nc_oc=AdqcX7aV1HySZSeXG7g_M5UwLJF_df2d8OT-TsggBzSFGXl0aDEdQOS40yCNlttZjDc&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=ZbrFQ6c_6XoQ7kNvwEIoNl2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTk5NDY3NjIxMjg4OTksImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=728318fdf19601dc&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GRUFBNkY3NkVCNjE0QUNGQjgyMTlCNDFERTFGQTgyNF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNBN0VCMjVCMjRDODQ5ODRCRTUzRDMzMTNGRUU3OERBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaGuK6Ci_SXBRUCKAJDMywXQEJzMzMzMzMYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRA-QTqAi8SBGTfu-V6z-x12_1WCk2qSiu1sGqrdNZwgQ&oe=6B0B7916",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "أهلاً بك. إليك تحليل محتوى الفيديو وفق الهيكل المطلوب:\n\n\nهذا هو الشكل اللي احنا متعودين عليه وهذا الشكل الجديد وبرضو هذا الشكل القديم متعودين عليه وهذا الشكل الجديد ركبنا عليها طارة مع دالي تويوتا تنسوش نوع سيارتكم بالتعليقات عشان أجوبك إذا في إلها مصاطر مخصصة أو لا",
+        "summary": "### 2.\n- **عرض تعديلات داخلية:** استعراض تعديلات جديدة لطارة سيارة تويوتا مقارنة بالشكل القديم.\n- **تفاعل ومشاركة:** دعوة المشاهدين لكتابة نوع سيارتهم في التعليقات لمعرفة توفر مصاطر مخصصة لها.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1443342957959674",
