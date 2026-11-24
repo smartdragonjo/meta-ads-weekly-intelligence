@@ -2,7 +2,7 @@
   "scan_date": "2026-11-24",
   "total_ads": 37,
   "total_video_ads": 36,
-  "analyzed_video_ads": 17,
+  "analyzed_video_ads": 18,
   "failed_video_ads": 2,
   "competitors": [
     {
@@ -100,11 +100,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "تفضل النتيجة:\n\n\nالزاز مبين أنه مظلل لا ليش أني مظبب لك عليه الترانو كريفة طبعا هذا مش بس الصيف حاب أقول لك أنه بالشتاء بيضبط معك وكيف راح يضبط معك بالشتاء مش بس عزل حرارة عزل أشعة فوق بنفسجية البلاستيك ما بيصير لونه على بياض لأنه بيعزلك الأشعة فوق البنفسجية التابلو بيحمي لك إياه من البياض الحرارة مش كل شيء في أشعة فوق بنفسجية ما بتتحس فيها ولكن بيضر البلاستيك عندك بيضر جسمك هذا راح يحمي لك إياه وهو بالإضافة بضل عندك خمس سنين لأنه هيك هيك برضو بيعزلك حرارة صيف شتاء ضابط معك إذا حاب تظلله اسألني عنه بالتعليقات وحاب برضو أذكرك الترانو كريفة مش موجود إلا في الدبل إم اطمن بنستناكم بالفرعين.",
-        "summary": "### 2.\n- **المنتج المعروض:** فيلم تظليل زجاج سيارات \"Ultra Nano Cariva\".\n- **المميزات المذكورة:**\n  - عزل حراري وعزل أشعة فوق بنفسجية (UV).\n  - حماية الأجزاء البلاستيكية والتابلوه من تغير اللون (الاصفرار/البياض).\n  - فعالية طوال العام (صيفاً وشتاءً).\n  - ضمان لمدة 5 سنوات.\n- **معلومات إضافية:** متوفر حصرياً لدى فروع \"دبل إم\" (Double M).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **المنتج المعروض:** فيلم تظليل زجاج سيارات \"Ultra Nano Cariva\".\n- **المميزات المذكورة:**\n  - عزل حراري وعزل أشعة فوق بنفسجية (UV).\n  - حماية الأجزاء البلاستيكية والتابلوه من تغير اللون (الاصفرار/البياض).\n  - فعالية طوال العام (صيفاً وشتاءً).\n  - ضمان لمدة 5 سنوات.\n- **معلومات إضافية:** متوفر حصرياً لدى فروع \"دبل إم\" (Double M).",
+        "transcript": "تفضل النتيجة:\n\n\nالزاز مبين أنه مظلل لا ليش أني مظبب لك عليه الترانو كريفة طبعا هذا مش بس الصيف حاب أقول لك أنه بالشتاء بيضبط معك وكيف راح يضبط معك بالشتاء مش بس عزل حرارة عزل أشعة فوق بنفسجية البلاستيك ما بيصير لونه على بياض لأنه بيعزلك الأشعة فوق البنفسجية التابلو بيحمي لك إياه من البياض الحرارة مش كل شيء في أشعة فوق بنفسجية ما بتتحس فيها ولكن بيضر البلاستيك عندك بيضر جسمك هذا راح يحمي لك إياه وهو بالإضافة بضل عندك خمس سنين لأنه هيك هيك برضو بيعزلك حرارة صيف شتاء ضابط معك إذا حاب تظلله اسألني عنه بالتعليقات وحاب برضو أذكرك الترانو كريفة مش موجود إلا في الدبل إم اطمن بنستناكم بالفرعين."
       }
     },
     {
@@ -121,7 +121,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1140005545682082",
       "video_url": "https://video.fadj1-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQPK9o7ORQH_4L4YYpgAiYzU8VT1MxSMpaZF8o9R98JChwvZAOeNkG3beZ4jZntjkJrGViSbNw9ualtdeOLS4rf-7wC0QWF9usSAQ4mvdjlAcA.mp4?_nc_cat=107&_nc_oc=AdpD5gEVa0_PuBuTUuDZvlJWMytvuQA1Ziku0uSzel8s3z0SH-FAXOktUCkkK0LmQX4&_nc_sid=b66105&_nc_ht=video.fadj1-1.fna.fbcdn.net&_nc_ohc=GypLxl5MkN4Q7kNvwEAX62r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE3OTE3MTEwMjIxMDE0MzMsImFzc2V0X2FnZV9kYXlzIjozLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9fba219466b1b687&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85RTQ2MzMxQTVDRDc0OEI3OUM1NkI1REIwNEYxRjI0OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzNFODJFRTczOTlBODRCQjM5NTNGQjNBNEQ0MjUzNThDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbyzpmwp-OuBhUCKAJDMywXQEmqn752yLQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQQ6uPCRZtsHDitn0we4aPUuUbLHckjj0b6YPVEYZWsMIg&oe=6B0B69BD",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "هاي احلى هديه ممكن توصلني بعيد ميلادي او اي مناسبه ثانيه سطل الاتش زيرو من معرض دابل ام وفر لك سطل العنايه بالسياره كامله شريطه المايكروفايبر عندك فوم متعدد الاستخدامات وعندك الليفه من اتسيرو عشان ما تشخض السياره عندك المنتج المميز الشامبو والعنايه بالسياره اللي بيعطيك لمعه مميزه بالسياره كمان ملمع الاطارات الفوم لمع التابلو اللي بيجي بمعطر مدعوم بمعطر الفراوله ليفه لملمع التابلوه وعندك هاي الفرشاي لتنظيف الداخلي شايفين السطل المميز بتقدر تبعثه هديه لجميع أنحاء المملكه عن طريق الكول سنتر والأرقام اللي ظاهرة أمامك أو لاقوه موجود داخل معارض دبل ام فرع الحويان دوار الحويان وفرع الحورية مول والسلام عليكم.",
+        "summary": "### 2.\n* **الحدث الرئيسي:** استعراض صندوق هدايا للعناية بالسيارات من علامة \"اتش زيرو\" (H-Zero) مقدم من معارض \"دابل إم\".\n* **أبرز منتجات الصندوق:** مناشف مايكروفايبر، رغوة تنظيف متعددة الاستخدامات، إسفنجة آمنة للسيارات، شامبو سيارات، ملمع إطارات، معطر تابلوه برائحة الفراولة، أدوات تنظيف دقيقة (فرشاة وليفة).\n* **معلومات الشراء/التوصيل:** متوفر في معارض دابل إم (فرع الحويان، الحورية مول) مع خدمة التوصيل لمختلف أنحاء المملكة عبر الرقم المرفق (0792575559).",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1132995052678064",
