@@ -3,7 +3,7 @@
   "total_ads": 37,
   "total_video_ads": 36,
   "analyzed_video_ads": 19,
-  "failed_video_ads": 3,
+  "failed_video_ads": 4,
   "competitors": [
     {
       "name": "2x for car accessories",
@@ -165,11 +165,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "أهلاً بك. إليك تحليل محتوى الفيديو وفق الهيكل المطلوب:\n\n\nهذا هو الشكل اللي احنا متعودين عليه وهذا الشكل الجديد وبرضو هذا الشكل القديم متعودين عليه وهذا الشكل الجديد ركبنا عليها طارة مع دالي تويوتا تنسوش نوع سيارتكم بالتعليقات عشان أجوبك إذا في إلها مصاطر مخصصة أو لا",
-        "summary": "### 2.\n- **عرض تعديلات داخلية:** استعراض تعديلات جديدة لطارة سيارة تويوتا مقارنة بالشكل القديم.\n- **تفاعل ومشاركة:** دعوة المشاهدين لكتابة نوع سيارتهم في التعليقات لمعرفة توفر مصاطر مخصصة لها.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض تعديلات داخلية:** استعراض تعديلات جديدة لطارة سيارة تويوتا مقارنة بالشكل القديم.\n- **تفاعل ومشاركة:** دعوة المشاهدين لكتابة نوع سيارتهم في التعليقات لمعرفة توفر مصاطر مخصصة لها.",
+        "transcript": "أهلاً بك. إليك تحليل محتوى الفيديو وفق الهيكل المطلوب:\n\n\nهذا هو الشكل اللي احنا متعودين عليه وهذا الشكل الجديد وبرضو هذا الشكل القديم متعودين عليه وهذا الشكل الجديد ركبنا عليها طارة مع دالي تويوتا تنسوش نوع سيارتكم بالتعليقات عشان أجوبك إذا في إلها مصاطر مخصصة أو لا"
       }
     },
     {
@@ -186,7 +186,8 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1443342957959674",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQNyZ_ljAipr7V0pvAg4SosrrXGy_KlnghhyKCXP4lC86LxhYaOFeMfJwXWhoMH1hS1qqpulgQsErGuKvVTJeEiAgHnIrp2qv8UyHAn0hcz-4w.mp4?_nc_cat=107&_nc_oc=AdpkWL7hTm7pemlHRRsa-gQ_cdoLG4EZxQDOCYO8AFonitiQJE3TP85XEhi-g9jG4wU&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=amfTTch3R10Q7kNvwGN9nPJ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExNzA0ODUxODg2NjE2MzcsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3bf5caf92638c035&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8zRDE3NjFCNjBEMzE0QTk0OTVERTM5NTY4ODBERjhBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzA1NTMyNzIxNjk0RjQwMjRCOUIzNUY4Q0M3RUVCOUI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaKxpSemqOUBBUCKAJDMywXQEqmZmZmZmYYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UmNqf0WCLF4FABQ1t8cmiDubV3LXYI1cF3XUXFaC7qrZyj5olyJD3W6BuvQFolW7zNSWdlpTeALYqpJp4COzDAPwJJrLXELPOcQXqKbJK6ctESMxslTb2EiRXGM&oh=00_AQQLrBzxDxbpOPCFqiGCJ26FIXBgH0zCxhw5g1FQyYZSFQ&oe=6B0B62DD",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "failed"
     },
     {
       "ad_id": "1139644358817078",
