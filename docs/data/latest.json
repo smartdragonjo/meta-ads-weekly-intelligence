@@ -3,7 +3,7 @@
   "total_ads": 37,
   "total_video_ads": 36,
   "analyzed_video_ads": 21,
-  "failed_video_ads": 4,
+  "failed_video_ads": 5,
   "competitors": [
     {
       "name": "2x for car accessories",
@@ -230,11 +230,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n\nرح أغير لك رؤيتك بالليل وأخلي لك اياها واضحة عن طريق الليزر اللي وفرت لك عليه عرض من معارض إم إم بيجي مزود برصيد تبريد ومزود بمروحة التبريد عشان يحافظ لك على حرارته في حال إنها ارتفعت تخيل إنه هذا الضوء بيعطيك 65 واط النسبة القانونية وعليهم عرض سعر مميز من معارض إم إم هذول اللمبتين أقل من ثمان دنانير حاب تمتلك وتغير إنارتك عالطريق استنى عن نوع سيارتك بالتعليقات لازودك باقي التفاصيل",
-        "summary": "### 2.\n- **عرض المنتج:** يقدم الفيديو مصابيح ليد للسيارات بقوة 65 واط.\n- **المميزات:** تتميز بنظام تبريد مزدوج (رصيد ومروحة) لضمان الأمان والفعالية عند ارتفاع الحرارة.\n- **العرض السعر والتسويق:** تُعرض اللمبتان بسعر تنافسي أقل من 8 دنانير من خلال معارض إم إم.\n- **دعوة للتفاعل (CTA):** يطلب مقدم الفيديو من المتابعين كتابة نوع سيارتهم في التعليقات للحصول على التفاصيل المتبقية.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض المنتج:** يقدم الفيديو مصابيح ليد للسيارات بقوة 65 واط.\n- **المميزات:** تتميز بنظام تبريد مزدوج (رصيد ومروحة) لضمان الأمان والفعالية عند ارتفاع الحرارة.\n- **العرض السعر والتسويق:** تُعرض اللمبتان بسعر تنافسي أقل من 8 دنانير من خلال معارض إم إم.\n- **دعوة للتفاعل (CTA):** يطلب مقدم الفيديو من المتابعين كتابة نوع سيارتهم في التعليقات للحصول على التفاصيل المتبقية.",
+        "transcript": "إليك تحليل محتوى الفيديو بناءً على طلبك:\n\n\nرح أغير لك رؤيتك بالليل وأخلي لك اياها واضحة عن طريق الليزر اللي وفرت لك عليه عرض من معارض إم إم بيجي مزود برصيد تبريد ومزود بمروحة التبريد عشان يحافظ لك على حرارته في حال إنها ارتفعت تخيل إنه هذا الضوء بيعطيك 65 واط النسبة القانونية وعليهم عرض سعر مميز من معارض إم إم هذول اللمبتين أقل من ثمان دنانير حاب تمتلك وتغير إنارتك عالطريق استنى عن نوع سيارتك بالتعليقات لازودك باقي التفاصيل"
       }
     },
     {
@@ -251,7 +251,8 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1491320519730125",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m367/AQNrl9gpz6U-PP0bDU0e0e0kXkmnU56gzAOveOu-rqHeGD4noBZJoWYmF5FC2EnYIffJZ_pFF0IUBbvBADgL_MV4YgrIrLmHlBp8FbZB3w.mp4?_nc_cat=106&_nc_oc=AdrtVyWSkmn-pfrfLRAM7187jsdqE89KTB01TJoxBAKqeDZnnBB4-4QQ72zK-UaQBDg&_nc_sid=ef5aa3&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=5D0XmztioN0Q7kNvwHTYtdX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxMTgwNDgxMTgxNTg5NDc1LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTIzNzQsImR1cmF0aW9uX3MiOjMzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=wKzJnCh3fl3OhLRp5R6fVw&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQTJx0fqbAGOL5jCv-BzohVUeN8b6RYr9Hr6lrlme7mgIw&oe=6B0B576C",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "failed"
     },
     {
       "ad_id": "2124795444845308",
