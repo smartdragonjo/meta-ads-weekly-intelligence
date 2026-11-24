@@ -3,7 +3,7 @@
   "total_ads": 37,
   "total_video_ads": 36,
   "analyzed_video_ads": 22,
-  "failed_video_ads": 5,
+  "failed_video_ads": 6,
   "competitors": [
     {
       "name": "2x for car accessories",
@@ -271,11 +271,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بتلاقي احلى من هيك طارة طلع كيف بسم الله ما شاء الله تعظيلات الجلد والكربون تعال قرب هان شوف لي الطارات المعدلة داخل معارض دبل إم. طيب واللي بيقولك اي طارة معدلة حسب نوع سيارتك وبتركب مخصصة خصم 50 بالمية شو بدك احلى من هيك وبالفرعين إقبال دوار الحويان وقبال الحرية مول. تيجي عندي كل طارة في عليها سعرها تخسم 50 بالمية وبتأخذ طارة المخصصة بنوع سيارتك وبتضلك مروح. بسم الله ما شاء الله شوف لي طارة التويوتا هاي ما أحلاها ما شاء الله لا قوة إلا بالله. معلم نوع سيارتك بالتعليقات عشان أحكيلك إذا في إلها ولا لا. والعرض لساته مستمر لفترة محدودة بالفرعين إقبال دوار الحويان وقبال الحرية مول. سلام.",
-        "summary": "### 2.\n- **عرض ترويجي جذاب**: يقدم المعرض خصماً بنسبة 50% على الطارات المعدلة والمخصصة لمختلف أنواع السيارات.\n- **التنوع والتميز**: استعرض الفيديو أنواعاً مختلفة من الطارات (مثل طارات مصممة للسيارات بلمسات من الجلد والكربون).\n- **التفاعل المباشر**: طلب مقدم الفيديو من المتابعين ذكر نوع سيارتهم في تعليقات الفيديو لمعرفة توفر الطارة المناسبة.\n- **معلومات الفروع**: تم الإعلان عن العرض المتوفر في فرعين يسهل الوصول إليهما (إقبال دوار الحويان وقبال الحرية مول).",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **عرض ترويجي جذاب**: يقدم المعرض خصماً بنسبة 50% على الطارات المعدلة والمخصصة لمختلف أنواع السيارات.\n- **التنوع والتميز**: استعرض الفيديو أنواعاً مختلفة من الطارات (مثل طارات مصممة للسيارات بلمسات من الجلد والكربون).\n- **التفاعل المباشر**: طلب مقدم الفيديو من المتابعين ذكر نوع سيارتهم في تعليقات الفيديو لمعرفة توفر الطارة المناسبة.\n- **معلومات الفروع**: تم الإعلان عن العرض المتوفر في فرعين يسهل الوصول إليهما (إقبال دوار الحويان وقبال الحرية مول).",
+        "transcript": "بتلاقي احلى من هيك طارة طلع كيف بسم الله ما شاء الله تعظيلات الجلد والكربون تعال قرب هان شوف لي الطارات المعدلة داخل معارض دبل إم. طيب واللي بيقولك اي طارة معدلة حسب نوع سيارتك وبتركب مخصصة خصم 50 بالمية شو بدك احلى من هيك وبالفرعين إقبال دوار الحويان وقبال الحرية مول. تيجي عندي كل طارة في عليها سعرها تخسم 50 بالمية وبتأخذ طارة المخصصة بنوع سيارتك وبتضلك مروح. بسم الله ما شاء الله شوف لي طارة التويوتا هاي ما أحلاها ما شاء الله لا قوة إلا بالله. معلم نوع سيارتك بالتعليقات عشان أحكيلك إذا في إلها ولا لا. والعرض لساته مستمر لفترة محدودة بالفرعين إقبال دوار الحويان وقبال الحرية مول. سلام."
       }
     },
     {
@@ -316,7 +316,8 @@
       "cta": "زيارة الملف الشخصي",
       "ad_url": "https://www.facebook.com/ads/library/?id=1874575396869292",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMG7cbNA-D-KfoqBQ8XhMdbqWpI2tsZtgaCU1t5CZjw-fER2Kpl4WVX0aen5Nk2xlgfHM3lb6w_D7zkN5lSthx8dCpoP_EEZl96Enu8f2TO6A.mp4?_nc_cat=102&_nc_oc=Adrb_FlOIY6a0Aqa0bZoeIh7J3Y2MULEFDmUuIC-_viUHtn3gTHhxUqc1xGRllTQ42g&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=1C1R85S2IAIQ7kNvwFcOC7U&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjIwNjEzNTQ5MjQ1MjM2MzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=393db4b323b7ab04&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC84MTkxQ0I4QzM3RTM0REVEOUVFOTlDMjBFODM1RkY1Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0ZEMDc3NzNCMEY0MzQ0RDc5OTQ2RDY4RUI1NTcyNTIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACbcgcKA07KpBxUCKAJDMywXQEu9kWhysCEYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=MrNpa-SGF76V_gyCZrr0dA&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQSzOH_hTAQSF_pXw1odAm3FTFb8_542NivF2LKcMlJrfw&oe=6B0B5DB2",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "failed"
     },
     {
       "ad_id": "1844208720067297",
