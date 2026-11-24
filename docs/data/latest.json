@@ -3,7 +3,7 @@
   "total_ads": 37,
   "total_video_ads": 36,
   "analyzed_video_ads": 26,
-  "failed_video_ads": 9,
+  "failed_video_ads": 10,
   "competitors": [
     {
       "name": "2x for car accessories",
@@ -643,11 +643,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "بكل سرور، هذا هو تحليل محتوى الفيديو:\n\n\nجيب عليه شوف السيارة كيف بتكون. بالله قيمها شوي. ارجع شوي. طلعها قدام.  هذول مناظر تجميلية حلوة. الكاسحة وأيش؟ والشفة. هسه أغلب أنواع السيارات موجود هذول القطع. اسألني على التعليقات. قولي ايش موجود لأيش السيارة؟ الكاسحة أو الشفة. راح أجاوبك. طبعا هاي الشفة معلم. أنا ما بحب أحط عليها ايش؟ سيليكون. زي أغلب المحلات. طبعا هي بتثبت. بس بحب أحط عليها هذا الدبل فيس. هذا الدبل فيس معلم. طبعا حديد. وإذا بدك تقيمها. ماشي. ما بترك أثر. معلم. موضوعنا الأساسي. اسألني على التعليقات. إذا بدك كاسحة أو شفة خلفية. أعظم. اسألني على التعليقات ايش نوع سيارتك؟ راح أجاوبك بأحلى سيارة في كملة المملكة. ضلك متابعني بكل جديد. أهلا وسهلا فيكم. سلام.",
-        "summary": "### 2.\n- **الهدف من الفيديو:** الترويج لقطع تزيينية للسيارات (الكاسحات والشفات الخلفية) والتفاعل مع المتابعين من خلال التعليقات.\n- **العناصر الجذابة:** استعراض عملي لتركيب وتثبيت إحدى قطع السيارات (الشفة الخلفية) على سيارة مرسيدس، وطريقة إزالتها بدون ترك آثار.\n- **دعوة لاتخاذ إجراء (CTA):** طلب التفاعل من المشاهدين في قسم التعليقات بسؤالهم عن موديل سياراتهم لمعرفة القطع المناسبة لها.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **الهدف من الفيديو:** الترويج لقطع تزيينية للسيارات (الكاسحات والشفات الخلفية) والتفاعل مع المتابعين من خلال التعليقات.\n- **العناصر الجذابة:** استعراض عملي لتركيب وتثبيت إحدى قطع السيارات (الشفة الخلفية) على سيارة مرسيدس، وطريقة إزالتها بدون ترك آثار.\n- **دعوة لاتخاذ إجراء (CTA):** طلب التفاعل من المشاهدين في قسم التعليقات بسؤالهم عن موديل سياراتهم لمعرفة القطع المناسبة لها.",
+        "transcript": "بكل سرور، هذا هو تحليل محتوى الفيديو:\n\n\nجيب عليه شوف السيارة كيف بتكون. بالله قيمها شوي. ارجع شوي. طلعها قدام.  هذول مناظر تجميلية حلوة. الكاسحة وأيش؟ والشفة. هسه أغلب أنواع السيارات موجود هذول القطع. اسألني على التعليقات. قولي ايش موجود لأيش السيارة؟ الكاسحة أو الشفة. راح أجاوبك. طبعا هاي الشفة معلم. أنا ما بحب أحط عليها ايش؟ سيليكون. زي أغلب المحلات. طبعا هي بتثبت. بس بحب أحط عليها هذا الدبل فيس. هذا الدبل فيس معلم. طبعا حديد. وإذا بدك تقيمها. ماشي. ما بترك أثر. معلم. موضوعنا الأساسي. اسألني على التعليقات. إذا بدك كاسحة أو شفة خلفية. أعظم. اسألني على التعليقات ايش نوع سيارتك؟ راح أجاوبك بأحلى سيارة في كملة المملكة. ضلك متابعني بكل جديد. أهلا وسهلا فيكم. سلام."
       }
     },
     {
@@ -664,7 +664,8 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1716437243239534",
       "video_url": "https://video.famm2-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMilEnthqIyodZ0FHxj4MdV56Syw5A7ID6r-4ZLOMQZ2LceJvxjZJXlxJB_N8NaYBfuCHOvSQMmwR5n-mqkSmACRBpLPa_6QFGl-cfqVv9DcA.mp4?_nc_cat=104&_nc_oc=Adq7hksiyXipKY0tDjIqGshaOAPRqMUmAFZEzkGVHuC1op-caUsai63Cm_9FOAejrFc&_nc_sid=b66105&_nc_ht=video.famm2-3.fna.fbcdn.net&_nc_ohc=aBGea1IvKKgQ7kNvwEYXKRQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjEyNTAwODE4NjcyMDYxNzAsImFzc2V0X2FnZV9kYXlzIjoyMDgsInZpX3VzZWNhc2VfaWQiOjEyMzczLCJkdXJhdGlvbl9zIjo5MCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=e2e46eb5cb00da9d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8xRTRDNEU1OEI5NjZCRTE3NTdEOUU4RDE5OUFDODBBQ19tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0YwNDQzNDk1RUE2RkY5RDUxOUIzMDZDQjE1RDM2MEJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACa0uJTaq7y4BBUCKAJDMywXQFaIgxJul40YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=iqEa0itt0_MHSSp5m_wdoQ&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&oh=00_AQRQXpdnR9Kpz4YnNdc9PRhtVntPmHkPiinbqFa2HQoZ8Q&oe=6B0B6464",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "failed"
     },
     {
       "ad_id": "1800455167925270",
