@@ -2,7 +2,7 @@
   "scan_date": "2026-11-26",
   "total_ads": 49,
   "total_video_ads": 46,
-  "analyzed_video_ads": 29,
+  "analyzed_video_ads": 30,
   "failed_video_ads": 5,
   "competitors": [
     {
@@ -296,11 +296,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "- \"رح تكون أقوى جمعة بيضاء على مستوى المملكة؛ لأنه نهاية السنة، وهي هاي آخر جمعة على مستوى المملكة بأقوى العروض على مستوى المملكة، لا تتأخروا عن الخميس والجمعة والسبت الساعة 8 صباحاً.\"\n- \"وغير هيك يا عقيد لا تنسى إنه في جوائز بقيمة 100 دينار رح تلاقيها معلم على الرفوف، وين ما تلف وجهك رح تلاقي كوبون عليه جائزة إلك، بكرة بنستناك على الساعة 8، لا تتأخر عشان تاخد الجائزة.\"\n- \"واللي جرب الدبل إم (Double M) بالجمعة السابقة بيعرف شو بنحكي، سلام.\"",
-        "summary": "### 2.\n- **استراتيجية جذب العملاء:** اعتمد الإعلان على أسلوب \"الحصرية\" و\"الاستعجال\" لزيادة حركة الإقبال (FOMO)، مع التركيز على توقيت \"نهاية السنة\" لتعزيز أهمية العروض.\n- **أسلوب التلعيب (Gamification):** إضافة عنصر الجوائز المخبأة (\"كوبونات على الرفوف\") يحفز العملاء على قضاء وقت أطول داخل المتجر واستكشاف المنتجات، مما يرفع احتمالية زيادة المبيعات.\n- **بناء الثقة (Social Proof):** استخدام عبارة \"اللي جرب الدبل إم بيعرف شو بنحكي\" يعتمد على تجارب العملاء السابقين لترسيخ مصداقية وجودة العروض.\n- **التواصل المباشر:** اختيار شخصيتين للظهور يخلق حيوية في الإعلان ويجعله يبدو كحوار عفوي بدلًا من الإعلان التقليدي الجامد، مما يعزز التفاعل مع المشاهد.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2.\n- **استراتيجية جذب العملاء:** اعتمد الإعلان على أسلوب \"الحصرية\" و\"الاستعجال\" لزيادة حركة الإقبال (FOMO)، مع التركيز على توقيت \"نهاية السنة\" لتعزيز أهمية العروض.\n- **أسلوب التلعيب (Gamification):** إضافة عنصر الجوائز المخبأة (\"كوبونات على الرفوف\") يحفز العملاء على قضاء وقت أطول داخل المتجر واستكشاف المنتجات، مما يرفع احتمالية زيادة المبيعات.\n- **بناء الثقة (Social Proof):** استخدام عبارة \"اللي جرب الدبل إم بيعرف شو بنحكي\" يعتمد على تجارب العملاء السابقين لترسيخ مصداقية وجودة العروض.\n- **التواصل المباشر:** اختيار شخصيتين للظهور يخلق حيوية في الإعلان ويجعله يبدو كحوار عفوي بدلًا من الإعلان التقليدي الجامد، مما يعزز التفاعل مع المشاهد.",
+        "transcript": "- \"رح تكون أقوى جمعة بيضاء على مستوى المملكة؛ لأنه نهاية السنة، وهي هاي آخر جمعة على مستوى المملكة بأقوى العروض على مستوى المملكة، لا تتأخروا عن الخميس والجمعة والسبت الساعة 8 صباحاً.\"\n- \"وغير هيك يا عقيد لا تنسى إنه في جوائز بقيمة 100 دينار رح تلاقيها معلم على الرفوف، وين ما تلف وجهك رح تلاقي كوبون عليه جائزة إلك، بكرة بنستناك على الساعة 8، لا تتأخر عشان تاخد الجائزة.\"\n- \"واللي جرب الدبل إم (Double M) بالجمعة السابقة بيعرف شو بنحكي، سلام.\""
       }
     },
     {
@@ -317,7 +317,15 @@
       "cta": "إرسال رسالة",
       "ad_url": "https://www.facebook.com/ads/library/?id=1684762603348977",
       "video_url": "https://video.famm9-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMndNT55o1LkmT4c0jJPe0MrUXPgyZDi38Lhs_Bnx65HROz54euizh5pR-E7DYwaAvi8cC0ZF0ZIq6V7EEypA7ZOKXzoxVCO5txTAAZl6ml5Q.mp4?_nc_cat=109&_nc_oc=AdqEH6cz5dicUjR9-zK9RLNYCulejjGEw96GlLn5XRFbObwehNOl0GUD490-AupMLns&_nc_sid=b66105&_nc_ht=video.famm9-1.fna.fbcdn.net&_nc_ohc=U9E5DxenKrcQ7kNvwFWmChP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MDI0Mjg1MTUzNjgxMzMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMjM3MywiZHVyYXRpb25fcyI6MjksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c49685fca19a198d&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9BMjU5QzgzN0VBRTk0RUZCOTlEMjZCMkVGMDEyMkM0OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzcwQ0IyNEY1QzgyRTREOTA5QzBGNkIyRDhGRkNCRTI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaK86vf7JyrBRUCKAJDMywXQD1dsi0OVgQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZarBAQA&_nc_gid=OTTzb4c5CkPMqrOZLcY2aQ&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UtZgooige2rYFiXBvzDaRgheJXkjUG-Sm8b6XmiijbXjzlsSJWbA6dGgtljHOGH-3CbtLCeJJVLUIFUtxsaKFTK-_EEdIHk9ieagppimYAOB6QhQofKQK1G5EZ8&oh=00_AQTZI_O2qIo0kWps61G5hJrnuAs9mobgMAnPymZqBRP7Ww&oe=6B0E15C7",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "التفريغ النصي للفيديو:\n\n\"جوائز بـ 100 دينار إذا أنت بتكون موجود الساعة 8، يوم الخميس والجمعة والسبت. وراح يكونوا بشكل عشوائي محطوطات أمام عينك، يعني ما في داعي تغلب حالك ولا تقعد تدور. راح تلاقي هاي الجوائز بقيمة 100 دينار موجودة بالدبل إم بالفرعين. كل اللي عليك أنك تيجي الساعة 8 صباحاً لتربح مساطر ضوئية، أو تربح داش كام، أو تربح كثير من الهدايا. ممكن تكون منفاخ، ممكن يكون فرش للسيارات. لا تتأخروا عن الساعة 8، خميس وجمعة وسبت في الدبل إم.\"\n\n---",
+        "summary": "### 2. الملخص الاستراتيجي:\n\n*   **الهدف التسويقي:** زيادة حركة المرور (Foot Traffic) إلى فروع \"دبل إم\" خلال عطلة نهاية الأسبوع (الخميس، الجمعة، والسبت).\n*   **عنصر الجذب:** تقديم جوائز فورية بقيمة 100 دينار للعملاء المتواجدين في وقت محدد (الساعة 8 صباحاً).\n*   **استراتيجية التنفيذ:** استخدام \"التسويق بالتجربة والصدفة\"؛ حيث تُوضع الجوائز بشكل عشوائي داخل المتجر لتشجيع العميل على التجول واستكشاف المنتجات أثناء البحث عن الجوائز.\n*   **رسالة القيمة:** سهولة الفوز بالجوائز (موجودة أمام عينك) وتنوعها (إكسسوارات سيارات، داش كام، مستلزمات عملية)، مما يخلق حافزاً قوياً للزيارة المبكرة.\n*   **نقطة القوة:** خلق حالة من \"الاستعجال\" (Urgency) عبر تحديد موعد دقيق، مما يحفز العملاء على الالتزام بالوقت والتوجه للمتجر فوراً.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "2499888613870601",
