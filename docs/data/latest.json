@@ -2,7 +2,7 @@
   "scan_date": "2026-11-26",
   "total_ads": 49,
   "total_video_ads": 46,
-  "analyzed_video_ads": 39,
+  "analyzed_video_ads": 40,
   "failed_video_ads": 3,
   "competitors": [
     {
@@ -656,11 +656,11 @@
       "image_url": "",
       "analysis_status": "success",
       "video_analysis": {
-        "transcript": "التفريغ النصي:\n\"كانت بس بـ 50 دينار، وصارت بس بـ 10 دنانير شامل التركيب، شو بتحكي؟ بقول لك كانت بس بـ 50 وصارت بس بـ 10 شامل التركيب. تعال اشرحلك عن هذا المنتج. من هذا الباكجينج المرتب بتعرف إنه سعرها قبل ما كان مزحة. بدي إياك تركز على ضخامة مراوح التبريد اللي بهذا المنتج، يعني مستحيل تحمى معك السيارة وغير هيك راسياً حاس وبتدعم لك أكثر من 70 واط فعلي، بسعر 10 دنانير شامل التركيب ما عدا قياس H4 والـ H13. هاي اللمبات متوفرة لدى معرض غازي زعرور لزينة واكسسوارات السيارات بالفرعين، وإذا بدك تعرف كم سعر الـ H4 أو الـ H13، اكتبلي كم سعرهم بالتعليقات وأنا بجاوبك.\"\n\n---",
-        "summary": "### 2. الملخص الاستراتيجي:\n*   **استغلال عامل الصدمة (Hook):** التركيز على التخفيض الكبير في السعر (من 50 إلى 10 دنانير) لجذب انتباه المشاهد فوراً.\n*   **بناء الثقة (Social Proof & Quality):** التركيز على جودة التصنيع (التغليف المرتب) والمواصفات التقنية (ضخامة مراوح التبريد، قوة 70 واط فعلي) لتبديد الشكوك حول سبب رخص السعر.\n*   **قيمة مضافة (Value Proposition):** العرض لا يقتصر على المنتج فقط، بل يشمل \"خدمة التركيب\" كعنصر حاسم في قرار الشراء.\n*   **سياسة الاستثناء (Scarcity/Exclusion):** توضيح استثناء مقاسات معينة (H4, H13) من العرض يضيف طابع المصداقية ويجعل العرض يبدو حقيقياً وليس مجرد إعلان تجاري عام.\n*   **تحفيز التفاعل (Call to Action):** استخدام التعليقات كأداة لزيادة الانتشار (Engagement)، مع توجيه الجمهور للفرعين لزيادة المبيعات المباشرة.",
+        "confidence": "normal",
         "processing_method": "gemini_video",
         "result_type": "video_understanding",
-        "confidence": "normal"
+        "summary": "### 2. الملخص الاستراتيجي:\n*   **استغلال عامل الصدمة (Hook):** التركيز على التخفيض الكبير في السعر (من 50 إلى 10 دنانير) لجذب انتباه المشاهد فوراً.\n*   **بناء الثقة (Social Proof & Quality):** التركيز على جودة التصنيع (التغليف المرتب) والمواصفات التقنية (ضخامة مراوح التبريد، قوة 70 واط فعلي) لتبديد الشكوك حول سبب رخص السعر.\n*   **قيمة مضافة (Value Proposition):** العرض لا يقتصر على المنتج فقط، بل يشمل \"خدمة التركيب\" كعنصر حاسم في قرار الشراء.\n*   **سياسة الاستثناء (Scarcity/Exclusion):** توضيح استثناء مقاسات معينة (H4, H13) من العرض يضيف طابع المصداقية ويجعل العرض يبدو حقيقياً وليس مجرد إعلان تجاري عام.\n*   **تحفيز التفاعل (Call to Action):** استخدام التعليقات كأداة لزيادة الانتشار (Engagement)، مع توجيه الجمهور للفرعين لزيادة المبيعات المباشرة.",
+        "transcript": "التفريغ النصي:\n\"كانت بس بـ 50 دينار، وصارت بس بـ 10 دنانير شامل التركيب، شو بتحكي؟ بقول لك كانت بس بـ 50 وصارت بس بـ 10 شامل التركيب. تعال اشرحلك عن هذا المنتج. من هذا الباكجينج المرتب بتعرف إنه سعرها قبل ما كان مزحة. بدي إياك تركز على ضخامة مراوح التبريد اللي بهذا المنتج، يعني مستحيل تحمى معك السيارة وغير هيك راسياً حاس وبتدعم لك أكثر من 70 واط فعلي، بسعر 10 دنانير شامل التركيب ما عدا قياس H4 والـ H13. هاي اللمبات متوفرة لدى معرض غازي زعرور لزينة واكسسوارات السيارات بالفرعين، وإذا بدك تعرف كم سعر الـ H4 أو الـ H13، اكتبلي كم سعرهم بالتعليقات وأنا بجاوبك.\"\n\n---"
       }
     },
     {
@@ -693,7 +693,15 @@
       "cta": "زيارة الملف الشخصي على Instagram",
       "ad_url": "https://www.facebook.com/ads/library/?id=1398548695508847",
       "video_url": "https://video.famm12-1.fna.fbcdn.net/o1/v/t2/f2/m366/AQMB3IF-Af3aMoJ1apDjetXhiRpvTiNCK8YhzjRWlkhj67XTDtFUO8F2yQVQwDiEIQzIuLyb1xn6aBZ80W2comNcaRYjFBSQfgiCpn7hVZyIkg.mp4?_nc_cat=110&_nc_oc=AdoFbh-dJrfKj83N3UKw81vfg96TYW5lPboHNK_cIvutZrlFDItU0ssNLRIpOaJDxQQ&_nc_sid=b66105&_nc_ht=video.famm12-1.fna.fbcdn.net&_nc_ohc=JMkCh64FHL8Q7kNvwGojRNf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5WSV9VU0VDQVNFX1BST0RVQ1RfVFlQRS4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjExMTc2MjE3Njc5NDMzMDIsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDEzOSwiZHVyYXRpb25fcyI6MTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=bc51bfcbff47a46b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC85NUYzN0ZFREE0Q0M0OTBDOEE0NkQ5NkM0QUU3NjY3Ql9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50L0Q5MzQ1NkIxN0VDRDQwM0M5QUQwOUQ3QjgzQ0ZGRTQ1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwOIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRJjb3B5X3NhbXBsZV9ncm91cHMBMRUAACaM0sWHk578AxUCKAJDMywXQCuZmZmZmZoYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUAZbaeAQA&_nc_gid=gonPLNTP8YK10IygrmZ4Sg&_nc_ss=7b389&_nc_map=urlgen_bucketless&_nc_zt=28&_nc_enc=UrSfVs_Svrz6jxK8Cv5VXVaYmms7oYtVWPAHirjkFNSH4qckbgBE-KL6ojMj_FKOICnxdG-_BvJ8_WwXQ0vn-MPDChGYmsePFZCZlDn0idOBPcXXfgh_QBdhMgY&oh=00_AQQ34xz9zElx_cB-qM3_WbFrYTm8BpB2I45pVqxUTR7W7A&oe=6B0E3042",
-      "image_url": ""
+      "image_url": "",
+      "analysis_status": "success",
+      "video_analysis": {
+        "transcript": "- \"15 دينار شامل تركيب\"\n- \"غازي الزعبي لزينة السيارات وكهرباء السيارات بالفروع\"",
+        "summary": "### 2.\n- **استراتيجية \"الصدمة والحل\":** بدأ الفيديو بمقطع حادث سيارة لجذب الانتباه فوراً، ثم انتقل سريعاً لعرض حلول لتجميل وتجديد مقاعد السيارات، مما يخلق رابطاً ذهنياً بين سوء حالة السيارة وخدماتهم.\n- **التركيز على القيمة مقابل السعر:** استخدام عبارة \"15 دينار شامل تركيب\" كعامل جذب رئيسي (Trigger) يقلل من حاجز التردد لدى العميل عبر تقديم عرض واضح واقتصادي.\n- **التنوع البصري:** عرض نماذج مختلفة من أغطية المقاعد بألوان وتصاميم متنوعة يساعد في استهداف شرائح مختلفة من أذواق العملاء.\n- **تعزيز الثقة:** اختتام الفيديو بلقطات حقيقية لمركز الخدمة (\"غازي الزعبي\") يعطي انطباعاً بالمصداقية ووجود مكان مادي موثوق، مما يشجع العميل على زيارة الفرع.",
+        "processing_method": "gemini_video",
+        "result_type": "video_understanding",
+        "confidence": "normal"
+      }
     },
     {
       "ad_id": "1721141722761174",
